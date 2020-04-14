@@ -1,5 +1,7 @@
+import argparse
 from keras.optimizers import Adam
-
+import sys
+sys.path.append("..")
 from model.bert import DataGenerator, build_bert_model
 from train_model.load_data import get_data
 
@@ -36,14 +38,18 @@ def structure_main(data_file_name, save_model_root, model, tokenizer, structure_
 if __name__ == '__main__':
     import keras
 
-    root = "../output"
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output_root', type=str, help='The output root of model.')
+    parser.add_argument('--data_file_path', type=str, help='The dataset root.')
+    args = parser.parse_args()  # 返回一个命名空间
+    root = args.output_root
     create_dir(root)
-    data_file_name = ""
+    data_file_path = args.data_file_path
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
     structure_dict = ParsingIndex.structure_dict
     for save_model_root in [
-        root + "/bert"
+        root + "/bert_structure"
     ]:
         keras.backend.clear_session()
         bert_model = build_bert_model(config_path, checkpoint_path, num_classes=len(structure_dict.items()))
-        structure_main(data_file_name, save_model_root, bert_model, tokenizer, structure_dict)
+        structure_main(data_file_path, save_model_root, bert_model, tokenizer, structure_dict)
