@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62571cc4-7eb8-4d67-aeab-26fbe6cdade5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baselines/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baselines/run_bert_baseline.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parsing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pretrain_model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shift_reduce_algorithm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baselines/bert_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert_baseline_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert_baseline_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline_r.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/run_bert_baseline.sh" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/run_bert_baseline.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/bert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/tm_bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/tm_bert.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586849775653</updated>
-      <workItem from="1586849777103" duration="6090000" />
+      <workItem from="1586849777103" duration="8354000" />
     </task>
     <servers />
   </component>

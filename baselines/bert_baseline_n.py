@@ -1,5 +1,8 @@
-from keras.optimizers import Adam
+import argparse
 
+from keras.optimizers import Adam
+import sys
+sys.path.append("..")
 from model.bert import build_bert_model
 from train_model.load_data import get_data, del_none_data, get_test_golden_label
 
@@ -54,14 +57,18 @@ def test_model(data_file_name, load_model_root, model, tokenizer, nuclearity_dic
 if __name__ == '__main__':
     import keras
 
-    root = "./output"
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output_root', type=str, help='The output root of model.')
+    parser.add_argument('--data_file_path', type=str, help='The dataset root.')
+    args = parser.parse_args()  # 返回一个命名空间
+    root = args.output_root
     create_dir(root)
-    data_file_name = ""
-    model_root = ""
+    data_file_path = args.data_file_path
+    model_root = root+"/bert_nuclearity"
     keras.backend.clear_session()
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
     nuclearity_dict = ParsingIndex.nuclearity_dict
     bert_model = build_bert_model(config_path, checkpoint_path, num_classes=len(nuclearity_dict.items()))
-    nuclearity_main(data_file_name, model_root, bert_model, tokenizer, nuclearity_dict)
+    nuclearity_main(data_file_path, model_root, bert_model, tokenizer, nuclearity_dict)
     for i in range(0, 5):
-        test_model(data_file_name, model_root, bert_model, tokenizer, nuclearity_dict, index=i)
+        test_model(data_file_path, model_root, bert_model, tokenizer, nuclearity_dict, index=i)

@@ -62,7 +62,7 @@ class DataGenerator:
                     X1_seg = seq_padding(X1_seg)
                     Y = to_categorical(np.array(Y), num_classes=self.num_classes)
                     yield [X1_token, X1_seg], Y
-                    [X1_token, X1_seg, Y] = [], [], [], [], [], [], []
+                    [X1_token, X1_seg, Y] = [], [], []
 
 
 def build_bert_model(config_path="", checkpoint_path="", num_classes=2):

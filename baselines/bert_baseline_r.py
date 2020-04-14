@@ -1,5 +1,8 @@
-from keras.optimizers import Adam
+import argparse
 
+from keras.optimizers import Adam
+import sys
+sys.path.append("..")
 from model.bert import build_bert_model
 from train_model.load_data import get_data, del_none_data, get_test_golden_label
 
@@ -42,8 +45,8 @@ def test_model(data_file_name, load_model_root, model, tokenizer, relation_dict,
     maxlen = 512
     train_data, test_data = get_data(data_file_name)
     test_data = del_none_data(test_data, datatype="relation")
-    test_d = data_generator(test_data, batch_size=2, relation_dict=relation_dict, tokenizer=tokenizer, maxlen=maxlen,
-                            datatype="relation", shuffle=False)
+    test_d = DataGenerator(test_data, batch_size=2, relation_dict=relation_dict, tokenizer=tokenizer, maxlen=maxlen,
+                           data_type="relation")
     model_name = load_model_root + "/save_model" + str(index) + "epoch.model"
     model.load_weights(model_name)
     temp_result = model.predict_generator(test_d.__iter__(), steps=len(test_d)).argmax(axis=-1)
@@ -71,15 +74,19 @@ def test_model(data_file_name, load_model_root, model, tokenizer, relation_dict,
 
 if __name__ == '__main__':
     import keras
-    root = "./output"
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--output_root', type=str, help='The output root of model.')
+    parser.add_argument('--data_file_path', type=str, help='The dataset root.')
+    args = parser.parse_args()  # 返回一个命名空间
+    root = args.output_root
     create_dir(root)
-    data_file_name = ""
-    model_root = ""
+    data_file_path = args.data_file_path
+    model_root = root + "/bert_relation"
     keras.backend.clear_session()
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
     relation_dict = ParsingIndex.relation_dict
     bert_model = build_bert_model(config_path, checkpoint_path, num_classes=len(relation_dict.items()))
-    relation_main(data_file_name, model_root, bert_model, tokenizer, relation_dict)
+    relation_main(data_file_path, model_root, bert_model, tokenizer, relation_dict)
     for i in range(0, 5):
-        test_model(data_file_name, model_root, bert_model, tokenizer, relation_dict, index=i)
-
+        test_model(data_file_path, model_root, bert_model, tokenizer, relation_dict, index=i)
