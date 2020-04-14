@@ -1,6 +1,4 @@
-import os
-
-from baselines.bert.bert_data import BertData
+from baselines.bert_data import BertData
 from model.bert import build_bert_model
 from model.model_util import get_tokenizer
 from parsing.parsing_index import ParsingIndex

@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62571cc4-7eb8-4d67-aeab-26fbe6cdade5" name="Default Changelist" comment="" />
+    <list default="true" id="62571cc4-7eb8-4d67-aeab-26fbe6cdade5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_baseline_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_baseline_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline_r.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_parsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretrain_model/bert_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/pretrain_model/bert_config.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aWSIKXdnx9fe6hBbu9ImuAeKZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,10 +28,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\baselines" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation" />
     </key>
@@ -33,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586849775653</updated>
-      <workItem from="1586849777103" duration="120000" />
+      <workItem from="1586849777103" duration="1199000" />
     </task>
     <servers />
   </component>

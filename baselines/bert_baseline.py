@@ -36,7 +36,7 @@ def structure_main(data_file_name, save_model_root, model, tokenizer, structure_
 if __name__ == '__main__':
     import keras
 
-    root = "./output"
+    root = "../output"
     create_dir(root)
     data_file_name = ""
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
