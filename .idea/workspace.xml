@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62571cc4-7eb8-4d67-aeab-26fbe6cdade5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baselines/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baselines/run_bert_baseline.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parsing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretrain_model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shift_reduce_algorithm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_baseline_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline_n.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_baseline_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline_r.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baselines/bert/bert_parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pretrain_model/bert_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/pretrain_model/bert_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baselines/bert_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/baselines/bert_baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/bert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/tm_bert.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/tm_bert.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +48,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\baselines" />
+      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\utils2" />
+      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\train_model2" />
+      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\test2" />
+      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\shift_reduce_algorithm2" />
+      <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation\pretrain_model2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\临时工作文件夹\话题分割实验\discourse_parsing_by_topic_segmentation" />
@@ -50,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586849775653</updated>
-      <workItem from="1586849777103" duration="1199000" />
+      <workItem from="1586849777103" duration="6090000" />
     </task>
     <servers />
   </component>
@@ -62,6 +80,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1586849896482" />
+    <state x="552" y="178" key="#Options" timestamp="1586851968181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1586851968181" />
     <state x="770" y="250" key="ftp.server.browser" timestamp="1586849895476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

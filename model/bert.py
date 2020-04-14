@@ -6,6 +6,10 @@ from keras.optimizers import Adam
 from keras.utils import to_categorical
 from keras_bert import load_trained_model_from_checkpoint
 from keras.models import Model
+import numpy as np
+
+from model.model_util import seq_padding
+
 
 class DataGenerator:
     """

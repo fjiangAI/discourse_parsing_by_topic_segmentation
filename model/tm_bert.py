@@ -1,8 +1,5 @@
-import os
-import sys
 from keras import Input
-from keras.layers import Lambda, Dense, concatenate, Embedding
-from keras.optimizers import Adam
+from keras.layers import Lambda, Dense, concatenate
 from keras.utils import to_categorical
 from keras_bert import load_trained_model_from_checkpoint
 from keras.models import Model
