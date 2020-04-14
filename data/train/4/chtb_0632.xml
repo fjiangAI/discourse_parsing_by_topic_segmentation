@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京五月二十四日电（记者李凯）" DiscourseTopic="“一国两制”与香港经济高级论坛在京举行">
+    <LEAD>“一国两制”与香港经济高级论坛今天在北京人民大会堂举行。</LEAD>
+    <ABSTRACT>“一国两制”与香港经济高级论坛今天在北京人民大会堂举行。交通部副部长刘金松、对外贸易经济合作部部长助理安民、国务院港澳办经济司司长张良栋、中国银行副行长蒋祖祺及香港知名人士黄保欣、邵友保等发表了专题演讲。十位内地和香港、澳门、台湾的企业代表还就进一步加强合作，共同繁荣民族经济畅谈了自己的感受。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="“一国两制”与香港经济高级论坛今天在北京人民大会堂举行。">“一国两制”与香港经济高级论坛今天在北京人民大会堂举行。来自内地和香港、澳门、台湾的近百名知名企业界代表与国家有关部门负责人、专家，围绕“加强合作、促进发展、共创繁荣”这一主题，进行了内容丰富的研讨和交流。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="交通部副部长刘金松、对外贸易经济合作部部长助理安民、国务院港澳办经济司司长张良栋、中国银行副行长蒋祖祺及香港知名人士黄保欣、邵友保等发表了专题演讲。">交通部副部长刘金松、对外贸易经济合作部部长助理安民、国务院港澳办经济司司长张良栋、中国银行副行长蒋祖祺及香港知名人士黄保欣、邵友保等发表了专题演讲，展望内地与香港在经贸、金融、航运等经济领域合作前景，评估下一世纪香港经济发展的地位和对内地、台湾、澳门经济发展的影响，探讨全球经济发展趋势及中国企业投资的新策略。他们指出，香港回归后，内地与香港的经贸合作必将上升到新的水平，拓展到新的领域，也必将为中国明天的富强、统一和文明缔造坚实的基础。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="十位内地和香港、澳门、台湾的企业代表还就进一步加强合作，共同繁荣民族经济畅谈了自己的感受。">十位内地和香港、澳门、台湾的企业代表还就进一步加强合作，共同繁荣民族经济畅谈了自己的感受。他们认为，这么多的海内外华人企业家们面对面的交流与对话，有利于企业界的共同发展，有利于香港的繁荣稳定，有利于共创中华民族美好未来。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="全国人大常委会副委员长王光英出席了论坛。程思远、雷洁琼副委员长专为论坛发来了贺词。本次论坛由中国企业投资协会、经济日报、香港一国两制经济研究中心共同主办。">全国人大常委会副委员长王光英出席了论坛。程思远、雷洁琼副委员长专为论坛发来了贺词。本次论坛由中国企业投资协会、经济日报、香港一国两制经济研究中心共同主办。（完）</P>
+  </TEXT>
+</DOC>

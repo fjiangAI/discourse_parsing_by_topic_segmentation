@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京三月十九日电（记者李建民）" DiscourseTopic="中国建材工业对外合作发展迅速">
+    <LEAD>中国建材工业把加强对外合作作为加快发展的重要措施，利用外资领域迅速扩大。</LEAD>
+    <ABSTRACT>中国建材工业把加强对外合作作为加快发展的重要措施，利用外资领域迅速扩大。中国建材工业利用世界银行和亚洲银行贷款建设的一大批水泥工程项目已相继投产。外商投资领域正迅速向新型建材、高新技术和建材深加工等方面发展。中国建材工业对外合作伙伴有了大幅度增加。中国近年来还从国外引进了预分解窑生产线。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国建材工业把加强对外合作作为加快发展的重要措施，利用外资领域迅速扩大。">中国建材工业把加强对外合作作为加快发展的重要措施，利用外资领域迅速扩大，目前全行业吸引外资总额已达五十亿美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国建材工业利用世界银行和亚洲银行贷款建设的一大批水泥工程项目已相继投产。外商投资领域正迅速向新型建材、高新技术和建材深加工等方面发展。">国家建材局一位主管官员今天在接受记者采访时透露，目前中国建材工业利用世界银行和亚洲银行贷款建设的安徽铜陵、湖南湘乡等一大批水泥工程项目已相继投产。外商投资领域正迅速向新型建材、高新技术和建材深加工等方面发展。利用意大利一亿美元优惠出口信贷建设的高档卫生陶瓷技术改造项目正在陕西、山东、广东、吉林和湖南等地取得积极进展。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国建材工业对外合作伙伴有了大幅度增加。">最近，中国建材工业与荷兰、德国、泰国、希腊、澳大利亚、日本、法国、丹麦等国政府部门和跨国公司签署的双边合作协议，对外合作伙伴有了大幅度增加。去年中国建材产品出口创汇金额超过二十一亿美元，出口水泥一千二百万吨，比上年增长百分之四十六，创历史最好水平。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国近年来还从国外引进了预分解窑生产线。">此外，中国近年来还从国外引进了预分解窑生产线，建成了冀东、宁国、淮海、柳州等大型现代化水泥企业，新增加二千二百万吨水泥的年生产能力。（完）</P>
+  </TEXT>
+</DOC>

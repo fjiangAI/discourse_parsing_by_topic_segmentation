@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十月二十九日电（记者朱白桦、俞铮）" DiscourseTopic="全国人大常委会审议《森林法修正案》草案">
+    <LEAD>全国人大常委会第二十八次会议今天开始审议《中华人民共和国森林法修正案（草案）》，以完善十二年前开始实施的《森林法》，全面保护、合理利用全国的森林资源。</LEAD>
+    <ABSTRACT>全国人大常委会第二十八次会议今天开始审议《中华人民共和国森林法修正案（草案）》，以完善十二年前开始实施的《森林法》，全面保护、合理利用全国的森林资源。该草案对林地使用权和林木的流转作了新的规定。地方政府无权确认国有重点林区的所有权和使用权，这些重点林区的确权发证工作要由林业部负责实施。草案还建议设立防护林和特种用途林生态效益的补偿制度。草案也提出国家要禁止、限制出口珍贵木材。草案还增加了在林区设立森林公安机关的条款。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4|5...5|6...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="全国人大常委会第二十八次会议今天开始审议《中华人民共和国森林法修正案（草案）》，以完善十二年前开始实施的《森林法》，全面保护、合理利用全国的森林资源。">全国人大常委会第二十八次会议今天开始审议《中华人民共和国森林法修正案（草案）》，以完善十二年前开始实施的《森林法》，全面保护、合理利用全国的森林资源。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="该草案对林地使用权和林木的流转作了新的规定。">该草案对林地使用权和林木的流转作了新的规定：“森林、林木可以转让；林地使用权和林木可以作为合资、合作造林、营林的出资或者合作条件。”</P>
+    <P Function="Situation" ID="3" ParagraphTopic="地方政府无权确认国有重点林区的所有权和使用权，这些重点林区的确权发证工作要由林业部负责实施。">草案说，地方政府无权确认国有重点林区的所有权和使用权，这些重点林区的确权发证工作要由林业部负责实施。现行的《森林法》规定，林地的所有权和使用权证书由县级以上地方人民政府核发。近年来由于一些地方从局部利益出发，通过确权发证蚕食重点林区，导致了中央投资形成的国有森林资源的流失和破坏。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="草案还建议设立防护林和特种用途林生态效益的补偿制度。">草案还建议设立防护林和特种用途林生态效益的补偿制度。防护林和特种用途林可以保持水土、调节气候，但造林、营林的投入无法通过市场交换得到回收和补偿，新增的条款可以保证对防护林和特种用途林的再生产。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="草案也提出国家要禁止、限制出口珍贵木材。">草案也提出国家要禁止、限制出口珍贵木材。这些珍贵木材名录及年度限制出口总量，由林业部会同有关部门制定，并报国务院批准。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="草案还增加了在林区设立森林公安机关的条款。">为了确保各项法律规定能得以实施，草案还增加了在林区设立森林公安机关的条款。森林公安机关负责辖区社会治安、保护森林资源。武装森林警察部队执行预防和扑救森林火灾的任务。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="中国是一个少林国家，森林面积仅占世界森林总面积的百分之三点三。">中国是一个少林国家，森林面积仅占世界森林总面积的百分之三点三。中国的第一部《森林法》自一九八五年开始实施。（完）</P>
+  </TEXT>
+</DOC>

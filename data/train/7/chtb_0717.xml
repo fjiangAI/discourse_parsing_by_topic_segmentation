@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电" DiscourseTopic="深圳嫁港姑娘逐年减少">
+    <LEAD>深圳嫁往香港的姑娘正逐年减少。</LEAD>
+    <ABSTRACT>深圳嫁往香港的姑娘正逐年减少。深圳姑娘嫁往香港最多的一九八八年是一千零六十九人，而今年一至十一月份仅有二百九十九人。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...6" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="5" Function="Cause" ID="4" Layer="4" ParagraphPosition="4...5|6...6" ParentId="3" RelationType="Summary" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="6" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="深圳嫁往香港的姑娘正逐年减少。">深圳嫁往香港的姑娘正逐年减少。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="深圳姑娘嫁往香港最多的一九八八年是一千零六十九人，而今年一至十一月份仅有二百九十九人。">据《中国青年报》报道，深圳姑娘嫁往香港最多的一九八八年是一千零六十九人，而今年一至十一月份仅有二百九十九人。</P>
+    <P Function="Result" ID="3" ParagraphTopic="深圳经济特区建立十八年间，前九年深圳嫁港的姑娘逐年递增，后九年则逐年递减。">统计数字表明，深圳经济特区建立十八年间，前九年深圳嫁港的姑娘逐年递增，后九年则逐年递减。一九八０年深圳嫁港姑娘五百六十二人，一九八五年是六百八十二人，一九八八年达到了历史的最高峰为一千零六十九人。一九九０年是八百九十九人，开始呈下降趋势，一九九五年为五百五十五人，一九九七年降为四百一十五人。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="在前些年涉港婚姻中，经济因素在其中起了相当重要的作用。">在前些年涉港婚姻中，经济因素在其中起了相当重要的作用。那时，一个香港的普通工人月收入也在万元以上，这对当时平均月收入几百元的深圳老百姓来说很有吸引力。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="近几年来，深圳的经济、社会、文化等各方面快速发展，生存环境、生活质量等综合水平与发达国家和地区差距大为缩小。">近几年来，深圳的经济、社会、文化等各方面快速发展，生存环境、生活质量等综合水平与发达国家和地区差距大为缩小，老百姓腰包里的钱也在不断增多，深圳还有很多优越条件是香港无法比拟的，如生态环境好、住房大、发展机会多等。所以深圳姑娘用不着只为物质生活而外嫁。</P>
+    <P Function="Sumup" ID="6" ParagraphTopic="深港原来倾斜度很大的经济天平渐渐平衡，婚姻中的经济因素逐渐淡化了，感情和精神因素逐渐加大。">深港原来倾斜度很大的经济天平渐渐平衡，婚姻中的经济因素逐渐淡化了，感情和精神因素逐渐加大。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="内地湖南、四川等地注册的涉港婚姻却呈逐年上升的趋势。">从内地反馈的信息看，在深圳姑娘嫁入香港大幅减少的同时，内地湖南、四川等地注册的涉港婚姻却呈逐年上升的趋势。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京一月五日电（实习生徐仁杰）" DiscourseTopic="颐和园清淤热气腾腾两万大学生挥镐流汗">
+    <LEAD>北京颐和园义务清淤活动在首都高校引起很大反响。</LEAD>
+    <ABSTRACT>北京颐和园义务清淤活动在首都高校引起很大反响。颐和园昆明湖成湖二百四十年来首次大规模清淤工程，去年年底拉开序幕。二万多名大学生汇集万寿山下，挥镐清除湖面上厚达十厘米的冰层。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="北京颐和园义务清淤活动在首都高校引起很大反响。">北京颐和园义务清淤活动在首都高校引起很大反响。劳动归来的大学生们在昨天的座谈会上畅谈体会，认为义务劳动使爱国之心得以化为报国之力，很有意义。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="颐和园昆明湖成湖二百四十年来首次大规模清淤工程，去年年底拉开序幕。二万多名大学生汇集万寿山下，挥镐清除湖面上厚达十厘米的冰层。">颐和园昆明湖成湖二百四十年来首次大规模清淤工程，去年年底拉开序幕。为便于机械化清淤作业，首都二十二所高校的二万多名大学生汇集万寿山下，挥镐清除湖面上厚达十厘米的冰层。在连续八天的劳动中，大学生们共清理六十六万平方米的冰层，占整个清冰工程的百分之七十。</P>
+  </TEXT>
+</DOC>

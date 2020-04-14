@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="香江组曲大汇演庆祝香港特别行政区成立">
+    <LEAD>多位作曲家编写了一首采用中国古代编钟演奏的交响乐曲和一首庆祝香港回归的歌曲。</LEAD>
+    <ABSTRACT>多位作曲家编写了一首采用中国古代编钟演奏的交响乐曲和一首庆祝香港回归的歌曲。名为１９９７《天地人》的交响曲和《回归颂》的歌曲今日（星期二）在香港会议展览中心的特区成立庆典上首演。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...8" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="5" ParagraphPosition="3...3|4...5" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="6" ParagraphPosition="4...4|5...5" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="3...5|6...6" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4|7" Function="Story" ID="3" Layer="3" ParagraphPosition="3...6|7...8" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="7" Layer="4" ParagraphPosition="7...7|8...8" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="多位作曲家编写了一首采用中国古代编钟演奏的交响乐曲和一首庆祝香港回归的歌曲。">为庆祝香港特别行政区成立，多位作曲家编写了一首采用中国古代编钟演奏的交响乐曲和一首庆祝香港回归的歌曲。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="名为１９９７《天地人》的交响曲和《回归颂》的歌曲今日（星期二）在香港会议展览中心的特区成立庆典上首演。">名为１９９７《天地人》的交响曲和《回归颂》的歌曲今日（星期二）在香港会议展览中心的特区成立庆典上首演。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="交响曲１９９７《天地人》由湖南著名音乐家谭盾作曲及指挥，香港各界庆祝回归委员会特别委托创作。">交响曲１９９７《天地人》由湖南著名音乐家谭盾作曲及指挥，香港各界庆祝回归委员会特别委托创作。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="该首大型交响曲及合唱作品由中国古代编钟、交响乐团、大提琴独奏和儿童的纯美歌声交织而成。">该首大型交响曲及合唱作品由中国古代编钟、交响乐团、大提琴独奏和儿童的纯美歌声交织而成。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="交响曲全曲分三个乐章。">交响曲全曲分三个乐章：「天」追溯中国人源远流长的历史；「地」探讨大自然与五行的平衡；「人」怀念勇战沙场和饱受战乱之苦的人。原曲长五十分钟，今天演出的是长约二十分钟的精华版本。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="原曲在内地、香港和美国灌录。">原曲在内地、香港和美国灌录，镭射唱片在一九九七年七月五日推出。</P>
+    <P Function="Sub-Summary" ID="7" ParagraphTopic="《回归颂》特别为庆祝香港回归而创作，创作意念来自作曲家吴敬文医生与香港特别行政区行政长官夫人董赵洪娉的一次偶遇。">《回归颂》特别为庆祝香港回归而创作，创作意念来自作曲家吴敬文医生与香港特别行政区行政长官夫人董赵洪娉的一次偶遇。倾谈间，二人觉得如果能为回归谱写一首新曲实在很有意义。於是，吴医生初步构思了曲调，再与董太研究後谱成《回归颂》。董太并随即与翁月华为歌曲填上歌词。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="三位创作人藉着《回归颂》表达自己的内心感受，在这个历史时刻那份喜悦和自豪，在乐章和曲词中表露无遗。">三位创作人藉着《回归颂》表达自己的内心感受，在这个历史时刻那份喜悦和自豪，在乐章和曲词中表露无遗。</P>
+  </TEXT>
+</DOC>

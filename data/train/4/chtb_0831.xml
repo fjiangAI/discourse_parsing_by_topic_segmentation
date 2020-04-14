@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社伦敦１２月３０日电（记者毛磊）" DiscourseTopic="英航试验“智能”行李标签">
+    <LEAD>英国航空公司正在进行为期两个月的“智能”行李标签试验。</LEAD>
+    <ABSTRACT>英国航空公司正在进行为期两个月的“智能”行李标签试验。新型“智能”标签为纸质，其中包含有一块超微型芯片以及一个微型无线电天线。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="英国航空公司正在进行为期两个月的“智能”行李标签试验。">英国航空公司近日披露，该公司正在进行为期两个月的“智能”行李标签试验。据称，新型标签有望较好解决托运行李丢失的问题。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="新型“智能”标签为纸质，其中包含有一块超微型芯片以及一个微型无线电天线。">英国《每日电讯报》今天报道说，新型“智能”标签为纸质，其中包含有一块超微型芯片以及一个微型无线电天线。芯片中可储存行李的目的地、飞行航线等详细信息，机场内的中央电脑接收到这些信息后，可将行李送到正确的航班或行李传送带上。</P>
+    <P Function="Background" ID="3" ParagraphTopic="目前采用条形码方法对托运行李进行管理，但有时会出现因条形码丢失或损坏的情况而导致信息无法读出。">英国航空公司有关人士说，目前采用条形码方法对托运行李进行管理，但有时会出现因条形码丢失或损坏的情况而导致信息无法读出。英航希望通过使用新型“智能”标签帮助机场行李管理系统更精确地对行李位置进行识别和控制。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="，“智能”标签主要在由德国慕尼黑和英国曼彻斯特飞往伦敦希斯罗机场的英航航班上进行试验。">据介绍，“智能”标签主要在由德国慕尼黑和英国曼彻斯特飞往伦敦希斯罗机场的英航航班上进行试验，试验期间预计有２２．５万件托运行李将使用“智能”标签来管理。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社联合国１２月１６日电（记者丁宝忠）" DiscourseTopic="联合国预测明年世界经济增长率">
+    <LEAD>联合国经社事务部发表世界经济年度报告，估计了１９９７年世界经济情况，并预测１９９８年世界经济增长率。</LEAD>
+    <ABSTRACT>联合国经社事务部发表世界经济年度报告，预测了人均产值增长的国家数。并且分别对发达国家、发展中国家、经济转轨国家、世界贸易，估计了１９９７年经济增长情况，预测了１９９８年经济增长情况。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...5|6...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="联合国报告估计１９９７年世界经济情况，并预测１９９８年世界经济增长率。">联合国经社事务部１６日发表世界经济年度报告说，尽管亚洲一些国家的金融动荡会使这些国家的经济增长受到严重影响，但就整个世界经济而言，其他国家的强劲增长势头会弥补这一损失。报告估计１９９７年世界经济增长百分之三点二，预计１９９８年将增长百分之三，与１９９６年的增长率持平。</P>
+    <P Function="Story-Situation" ID="2" ParagraphTopic="报告预测人均产值增长的国家数。">报告说，在联合国自１９９３年以来所监测的１４３个国家中，１９９８年将有１３１个国家的人均产值会有增长，超过１９９７年的１２０个和１９９３年的６７个国家。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="报告预测发达国家经济增长情况。">根据这份报告，１９９７年发达国家的经济增长率估计为百分之二点六，超过去年百分之二点四，预计１９９８年将降为百分之二点五。１９９７年发达国家经济形势的特点是美国增长强劲而日本经济疲软，美国经济增长率估计为百分之三点七，日本仅为百分之零点八。预计，１９９８年美国经济增长百分之二点五，日本经济增长百分之一点二五。此外，发达国家的通货膨胀率１９９８年预计将维持在百分之二的低位上，但许多国家仍将受到高失业的困扰，其中最突出的是欧盟。１９９７年是欧盟失业率连续保持两位数的第六个年头，达百分之十点五，略低于１９９６年的百分之十点八。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="报告预测发展中国家经济增长情况。">发展中国家１９９７年将维持１９９６年的百分之五点七的经济增长率，１９９８年预计将增长百分之五。非洲经济１９９７年估计增长百分之三，低于去年的百分之四点四，１９９８年预计增长百分之四。拉美１９９７年估计增长百分之五点二，高于去年的百分之三点七，１９９８年预计增长百分之三点五。不包括中国在内，东亚和东南亚地区１９９７年将增长百分之六点五，低于去年的百分之七点四，１９９８年预计增长百分之六点二五。中国经济１９９７年可望增长百分之九点三，略低于去年的百分之九点七，１９９８年预计增长百分之十。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="报告预测经济转轨国家经济增长情况。">报告说，１９９７年是经济转轨国家自停止实行中央计划经济以来的第一个经济增长年份，增长率达百分之一点七，１９９８年预计增长百分之三点二五。俄罗斯１９９７年估计增长百分之零点五，１９９８年预计增长百分之一点五。</P>
+    <P Function="Story-Situation" ID="6" ParagraphTopic="报告预测世界贸易的增长情况。">此外，报告还估计１９９７年世界贸易增长百分之九点四，扭转１９９６年百分之五点三的低增长状态，１９９８年预计将增长百分之七。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京九月一日电（记者高建新）" DiscourseTopic="中国将于十二月举办“华夏艺术节”">
+    <LEAD>中国将于今年十二月八日到十八日在北京和深圳两地同时举办“华夏艺术节”。</LEAD>
+    <ABSTRACT>中国将于今年十二月八日到十八日在北京和深圳两地同时举办“华夏艺术节”。这是一次由人民团体、政府文化部门和企业联手举办的艺术盛会。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国将于今年十二月八日到十八日在北京和深圳两地同时举办“华夏艺术节”。">为加强海内外炎黄子孙的文化交流和联系，中国将于今年十二月八日到十八日在北京和深圳两地同时举办“华夏艺术节”。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这是一次由人民团体、政府文化部门和企业联手举办的艺术盛会。">这是一次由人民团体、政府文化部门和企业联手举办的艺术盛会。其宗旨是，以中华民族传统文化为纽带，联系和团结海内外同胞，弘扬民族文化，展示祖国优秀艺术的魅力，展示华侨、华人艺术家在艺术领域和世界文化交流中的成就和风采。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="艺术节的内容主要包括隆重的开幕式和闭幕式，各具特色的大型文艺表演以及美术、摄影展览。">艺术节的内容主要包括隆重的开幕式和闭幕式，各具特色的大型文艺表演以及美术、摄影展览。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="十二月八日在深圳体育馆开幕的艺术节，将集中展示二十世纪广为流传的中华民族艺术精品。">据介绍，十二月八日在深圳体育馆开幕的艺术节，将集中展示二十世纪广为流传的中华民族艺术精品。从十二月九日开始，每晚都将在深圳大剧院或深圳体育馆演出一台高水平的节目，分别上演芭蕾舞、相声小品、京剧折子戏和海外华人艺术家、艺术团表演的节目等。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="艺术节期间，将在北京举办传统绘画临摹大奖赛及作品展览和《华夏之光》世界华侨华人摄影艺术展览。">艺术节期间，将在北京举办传统绘画临摹大奖赛及作品展览和《华夏之光》世界华侨华人摄影艺术展览。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="这次艺术节由中华全国归国华侨联合会与文化部、中央电视台、深圳市文化局及中国华侨国际文化交流促进会等单位联合主办。">这次艺术节由中华全国归国华侨联合会与文化部、中央电视台、深圳市文化局及中国华侨国际文化交流促进会等单位联合主办。（完）</P>
+  </TEXT>
+</DOC>

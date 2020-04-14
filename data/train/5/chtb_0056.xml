@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月十七日电（记者秦杰）" DiscourseTopic="中国高新技术开发区发展迅速成果显著">
+    <LEAD>中国高新技术开发区发展迅速，已形成一大批机制灵活、适应市场经济要求、技术创新能力强的高新技术企业。</LEAD>
+    <ABSTRACT>中国高新技术开发区发展迅速，已形成一大批机制灵活、适应市场经济要求、技术创新能力强的高新技术企业，技术工贸年总收入、利税总额、年出口创汇，均比创办初增长数十倍。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="2" Layer="2" ParagraphPosition="3...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国高新技术开发区发展迅速成果显著。">中国五十三个国家高新技术开发区发展迅速，已形成一大批机制灵活、适应市场经济要求、技术创新能力强的高新技术企业。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国高新技术开发区发展情况。">中国高新技术开发区酝酿于八十年代初。到去年为止，中国高新技术开发区技术工贸年总收入达二千三百亿元，利税总额达二百三十八亿元，年出口创汇达四十三亿美元，均比创办初增长数十倍。其中，形成了一批具有一定规模的高新技术支柱产业，产值超亿元的企业达四百零五家，产值超十亿元的大企业四十二家。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国高新技术开发区企业研究开发投入情况。">一九九六年，中国高新技术开发区企业研究开发投入达六十二点三五亿元，占企业产品销售收入的百分之三点五，开发、生产高新技术产品一万三千多种。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国高新技术开发区初步形成较为完善的支撑服务体系。">近年来，中国高新技术开发区初步建立了适应社会主义市场经济体制和高新技术产业发展需要，与国际惯例接轨的管理体制和运行机制，建立并不断完善了包括信息、金融、法律、资产评估、产权交易等中介和服务机构，初步形成了适于高新技术产业发展的较为完善的支撑服务体系。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="中国中央和地方颁布高新区管理办法。">为规范高新区的管理，依法治区，中国颁布了《国家高新技术产业开发区管理暂行办法》，同时长春、苏州、沈阳、长沙、石家庄、昆明等高新区也先后完成了高新区的人大立法工作或以政府令形式发布了高新区管理办法。（完）</P>
+  </TEXT>
+</DOC>

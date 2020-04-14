@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社巴黎１２月３０日电（记者马芳云）" DiscourseTopic="法国大量出版“欧元书”">
+    <LEAD>法国许多书店、书市、书摊和报摊纷纷摆出以欧元为主题的书籍，再次掀起了一股来势不小的“欧元热”。</LEAD>
+    <ABSTRACT>法国许多书店、书市、书摊和报摊纷纷摆出以欧元为主题的书籍，再次掀起了一股来势不小的“欧元热”。从１９９８年１月到１９９９年３月期间，法国出版商已出版和列入出版计划的“欧元书”达６９种之多，平均每月出版４．６种。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="法国许多书店、书市、书摊和报摊纷纷摆出以欧元为主题的书籍，再次掀起了一股来势不小的“欧元热”。">欧元诞生在即，法国许多书店、书市、书摊和报摊纷纷摆出以欧元为主题的书籍，再次掀起了一股来势不小的“欧元热”。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="从１９９８年１月到１９９９年３月期间，法国出版商已出版和列入出版计划的“欧元书”达６９种之多，平均每月出版４．６种。">此外，一些关于欧元与管理、欧元与信息技术、欧元与法律等内容的书籍也已列在新书预告的宣传单上。据法国出版界专业刊物《图书周刊》最近的一项调查显示，从１９９８年１月到１９９９年３月期间，法国出版商已出版和列入出版计划的“欧元书”达６９种之多，平均每月出版４．６种。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="既有实用性指南，也有评论性著作，还有幽默作品和儿童读物，可谓五花八门，应有尽有。反对建立欧元区和发行欧元的人也不甘寂寞，及时表达自己的意见，">既有实用性指南，也有评论性著作，还有幽默作品和儿童读物，可谓五花八门，应有尽有。在这林林总总的书籍中，记者也注意到，反对建立欧元区和发行欧元的人也不甘寂寞，及时表达自己的意见，出版发行了《欧洲的误区》和《各国自有其币：抵制欧元》等书籍。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="赞成也好，反对也罢，欧元都将按时“出炉”。">赞成也好，反对也罢，欧元都将按时“出炉”。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="而出版商们不失时机的行动则表明他们是欧元启动中的第一批获益者。">而出版商们不失时机的行动则表明他们是欧元启动中的第一批获益者。（完）</P>
+  </TEXT>
+</DOC>

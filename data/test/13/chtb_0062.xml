@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海十二月二十一日电（记者张建松）" DiscourseTopic="上海外商争相追加投资">
+    <LEAD>越来越多的外商看好上海的投资环境和市场潜力，纷纷追加投资扩大再生产。</LEAD>
+    <ABSTRACT>越来越多的外商看好上海的投资环境和市场潜力，纷纷追加投资扩大再生产。良好的投资环境和高投资回报率是吸引外商不断追加投资的原因。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="8|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...13" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5|3" Function="Cause" ID="2" Layer="2" ParagraphPosition="7...10|11...13" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="11...11|12...13" ParentId="2" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Illustration" ID="4" Layer="4" ParagraphPosition="12...12|13...13" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="7|6" Function="Story" ID="5" Layer="3" ParagraphPosition="7...8|9...10" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="9...9|10...10" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Sub-Summary" ID="7" Layer="4" ParagraphPosition="7...7|8...8" ParentId="5" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="10|9" Function="Result" ID="8" Layer="2" ParagraphPosition="1...4|5...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="9" Layer="3" ParagraphPosition="5...5|6...6" ParentId="8" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="11" Function="Summary" ID="10" Layer="3" ParagraphPosition="1...3|4...4" ParentId="8" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="12" Function="Illustration" ID="11" Layer="4" ParagraphPosition="1...2|3...3" ParentId="10" RelationType="Summary" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Sub-Summary" ID="12" Layer="5" ParagraphPosition="1...1|2...2" ParentId="11" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="几年前美国百时美施贵宝公司在上海设立其在中国的第一家合资企业。">几年前，美国百时美施贵宝公司在上海设立其在中国的第一家合资企业，投资仅五百万美元。美方仅将此作为一个观察中国市场的小小窗口。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="如今这家跨国集团已追加大量投资。">如今，这家跨国集团已陆续在上海追加投资二千多万美元，并将上海施贵宝制药有限公司发展成为其亚太地区的生产、出口中心。上海施贵宝今年销售总额将达到十亿元人民币。</P>
+    <P Function="Sumup" ID="3" ParagraphTopic="该集团在中国的总投资已超过一亿美元。">公司董事长周德孚说，通过上海施贵宝，美国百时美施贵宝公司尝到在中国投资的甜头，现在该集团在中国的总投资已超过一亿美元。</P>
+    <P Function="Statement" ID="4" ParagraphTopic="越来越多的外商追加投资。">经过一段时期的“投石问路”，越来越多的外商象美国百时美施贵宝公司一样，看好上海的投资环境和市场潜力，纷纷追加投资扩大再生产，并逐步把上海建成其在中国甚至亚太地区的经营、销售中心。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="不少跨国公司进一步看好中国乃至上海的政治经济形势，并开始全面调整对华经营战略。">经济专家分析说，这表明不少跨国公司进一步看好中国乃至上海的政治经济形势，并开始全面调整对华经营战略，由早期分散的、缺乏系统性的单个投资逐步转向较大规模的、系统化的投资，由建立生产基地转向进行上、中、下游各阶段产品的综合开发，同时投资范围也从工业制造扩大到银行、保险、咨询、贸易等众多领域。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="上海外商投资企业追加投资的情况。">来自上海外国投资工作委员会的统计显示，截至今年十一月底，上海外商投资企业追加的投资高达四十八点九亿美元，占全市吸引外资总额的百分之十七。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="上海政府表示将完善投资环境，为外商提供更加规范的运营空间。">面对各国外商追加投资的热潮，上海政府表示，将更加努力地完善投资环境，为外商提供更加规范的运营空间，力争本世纪末外商追加投资占外资总额的四分之一。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="上海投资环境具有优势。">此间最新一项投资环境调查显示，美国、日本、欧共体等投资者普遍认为，上海投资环境的综合条件已具有明显优势。进入后工业化中等发达状态的上海，为各国外商提供了广阔的投资天地。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="上海的发展优势。">上海是中国最大的现代化工业城市，工业门类齐全，基础设施发达，城市功能完善。这里还是中国内地的金融中心、商业中心和航运中心。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="上海的政策优势。">中央政府实施的浦东开发和以上海为龙头的长江流域开发战略，更使这个城市如虎添翼。</P>
+    <P Function="Statement" ID="11" ParagraphTopic="良好的投资环境和高投资回报率是吸引外商不断追加投资的原因。">良好的投资环境使外商在沪投资的成功率达到百分之八十。而投资回报率始终高居全国之首，则是吸引外商不断追加投资的另一个重要原因。</P>
+    <P Function="Situation" ID="12" ParagraphTopic="高投资回报率吸引外商的例子。">去年投资回报率高达百分之三十二的上海闵行开发区，今年一至三季度，已有十多家外商投资企业增资。在浦东新区，三菱、住友、松下电工、夏普等十余家跨国公司已追加投资五亿美元，超过这些公司原有投资额的一倍以上。</P>
+    <P Function="Situation" ID="13" ParagraphTopic="法国罗纳普朗克集团追加在上海的投资。">法国罗纳普朗克集团最近在上海追加投资二千四百万美元，新建一座占地二十公顷的科技园区，并在此组建亚太地区的技术中心。集团副总裁浦乐先生称：“罗纳普郎克将不断拓展在中国的业务，这次仅仅是个开始。”（完）</P>
+  </TEXT>
+</DOC>

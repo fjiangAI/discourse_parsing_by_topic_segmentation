@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电" DiscourseTopic="中国部署军队武警部队政法机关企业交接工作">
+    <LEAD>全国军队武警部队政法机关企业交接工作办公室接收企业工作会议今天在京召开。</LEAD>
+    <ABSTRACT>全国军队武警部队政法机关企业交接工作办公室接收企业工作会议今天在京召开。盛华仁在会上传达了中央经济工作会议和全国经贸工作会议精神。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="全国军队武警部队政法机关企业交接工作办公室接收企业工作会议今天在京召开。">全国军队武警部队政法机关企业交接工作办公室接收企业工作会议今天在京召开。会议对接收的军队武警部队企业在过渡期间的管理和清理、处理、规范工作进行了部署，要求确保接收企业平稳过渡，生产经营正常进行，经济效益稳步增长。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="盛华仁在会上传达了中央经济工作会议和全国经贸工作会议精神。">全国交接工作办公室主任、国家经贸委主任盛华仁在会上传达了中央经济工作会议和全国经贸工作会议精神。他要求进一步提高对军队、武警部队不再经商这一重大决策的认识，引导广大职工从政治上、大局上看问题，坚定不移、毫不含糊地把中央的这一重大决策落到实处。各企业要正确认识当前经济形势，企业领导要切实负起责任，抓好过渡期间的工作，扎实细致地做好企业清理、处理和规范工作。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="全国军队武警部队所办经营性企业已于十二月十五日与原主管部门脱钩，正式移交给全国军队武警部队政法机关企业交接工作办公室和各省区市交接工作办公室。">据悉，全国军队武警部队所办经营性企业已于十二月十五日与原主管部门脱钩，正式移交给全国军队武警部队政法机关企业交接工作办公室和各省区市交接工作办公室。（完）</P>
+  </TEXT>
+</DOC>

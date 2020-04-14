@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社成都十二月二十七日电（记者冯昌勇）" DiscourseTopic="中国科学家首次为野生大熊猫建立户籍管理档案">
+    <LEAD>中国大熊猫专家为四川省唐家河保护区的三十七只大熊猫建立了“遗传身份证”和种群“户籍管理档案”。</LEAD>
+    <ABSTRACT>中国大熊猫专家为四川省唐家河保护区的三十七只大熊猫建立了“遗传身份证”和种群“户籍管理档案”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Background" ID="2" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="中国大熊猫专家为四川省唐家河保护区的三十七只大熊猫建立了“遗传身份证”和种群“户籍管理档案”。">日前，中国大熊猫专家为四川省唐家河保护区的三十七只大熊猫建立了“遗传身份证”和种群“户籍管理档案”。据有关人士称，这是世界上首次对野生大熊猫数量进行“户口化”管理，将有助于确定中国野生大熊猫的真实数量。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="七十年代中期，中国野外调查队用单一的路线调查法推算出来的数字已不能确切地表明大熊猫野生种群的现存数量。">中国目前野生大熊猫究竟有多少？几乎所有的海内外学者及有关部门引用的都是“一千只左右”这一数据。据大熊猫专家冯文和教授介绍，这一数字仅仅是七十年代中期，中国野外调查队用单一的路线调查法推算出来的。他认为，二十多年过去了，这一数字已不能确切地表明大熊猫野生种群的现存数量。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="唐家河分属六个系的三十七只大熊猫建立的户籍管理档案，不仅确定了野外大熊猫种群的真实数量、性别、家系、和个体之间的亲缘关系，而且可为这个保护区掌握和监测野外大熊猫种群的动态变化提供科学依据，也为中国大熊猫物种的户籍管理档案的建立奠定了基础。">专家们认为，为唐家河分属六个系的三十七只大熊猫建立的户籍管理档案，不仅确定了野外大熊猫种群的真实数量、性别、家系、和个体之间的亲缘关系，而且可为这个保护区掌握和监测野外大熊猫种群的动态变化提供科学依据，也为中国大熊猫物种的户籍管理档案的建立奠定了基础。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="唐家河自然保护区位于四川省北部与甘肃省交界的龙门山区，是四川省大熊猫分布最东的保护区。">中国唐家河自然保护区位于四川省北部与甘肃省交界的龙门山区，与其西面的九寨沟、王朗自然保护区相连，是四川省大熊猫分布最东的保护区。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="大熊猫是世界上最珍贵的濒危动物之一，百分之八十左右的大熊猫生活在四川省境内。">大熊猫是世界上最珍贵的濒危动物之一，被称为活化石，仅存的一千只左右野生大熊猫主要分布在中国四川、甘肃及陕西省。其中百分之八十左右的大熊猫生活在四川省境内。（完）</P>
+  </TEXT>
+</DOC>

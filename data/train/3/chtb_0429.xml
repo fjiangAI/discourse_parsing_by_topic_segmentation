@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州十月二十日电（记者车晓蕙）" DiscourseTopic="“中国投资”网页在国际互联网上开通">
+    <LEAD>“中国投资信息网”已正式在国际互联网上开通并运作。</LEAD>
+    <ABSTRACT>“中国投资信息网”已正式在国际互联网上开通并运作。ＣＥＣ已将所收集的中国经贸合作投资项目信息，通过互联网向用户提供项目信息查询服务，介绍中国各地投资政策、投资环境，开展国际网上招商。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="“中国投资信息网”已正式在国际互联网上开通并运作。">第三届中国部分地区经贸合作交流会日前在九七秋季广交会上举行，宣布“中国投资信息网”已正式在国际互联网上开通并运作。</P>
+    <P Function="Background" ID="2" ParagraphTopic="中国经贸合作信息网络中心（ＣＥＣ）于去年十月成立，此后在每届广交会上举办一次地区性的经贸合作交流活动。">作为全国性对外招商引资信息网络机构，中国经贸合作信息网络中心（ＣＥＣ）于去年十月成立，此后在每届广交会上举办一次地区性的经贸合作交流活动。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="ＣＥＣ已将所收集的中国经贸合作投资项目信息，通过互联网向用户提供项目信息查询服务，介绍中国各地投资政策、投资环境，开展国际网上招商。">据介绍，ＣＥＣ已将所收集的中国经贸合作投资项目信息，通过互联网向用户提供项目信息查询服务，介绍中国各地投资政策、投资环境，开展国际网上招商。据悉，ＣＥＣ目前在世界一百六十个国家和地区发展了八千多万个用户。（完）</P>
+  </TEXT>
+</DOC>

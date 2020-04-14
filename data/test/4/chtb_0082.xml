@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社三峡工地十二月二日电（记者皮曙初通讯员廖仲祥）" DiscourseTopic="中保财险公司承保三峡二期工程最大标段">
+    <LEAD>长江三峡工程二期工程最大标段泄洪大坝及相关工程保险合同今天签定，由中保财险公司承保。</LEAD>
+    <ABSTRACT>长江三峡工程二期工程最大标段泄洪大坝及相关工程保险合同，今天由中国长江三峡工程开发总公司与中保财产保险公司在三峡工程工地签定。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Background" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="三峡二期工程最大标段保险合同今天签定。">长江三峡工程二期工程最大标段泄洪大坝及相关工程保险合同，今天由中国长江三峡工程开发总公司与中保财产保险公司在三峡工程工地签定，保险金额达四十点二亿元，是中国保险史上最大的一份水利水电建筑安装工程保险合同。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="中保财险公司采取多种形式为三峡工程服务。">作为三峡工程主承保商，中保财产保险公司把自身发展与三峡风险管理需要结合起来，组建了服务三峡工程的专业机构，采取多种形式为三峡工程服务。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="目前中保财险公司为三峡工程承保情况。">截止到目前，中保财产保险公司已为三峡工程一百三十四个工程项目、近百亿元工程投资提供保险服务，承保了西陵长江大桥、永久性船闸、一期土石围堰及导流明渠、对外专用公路、二期围堰、二期工程泄洪大坝和挡水大坝等大型项目，对发生的灾害事故及时进行补偿。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="三峡二期工程参保的内容。">据介绍，三峡工程二期工程主要包括泄洪大坝、厂房大坝及厂房等标段。三峡开发总公司在积极作好风险防范的同时，也十分注重向保险公司分散风险。根据今天签定的泄洪大坝及相关工程保险协议，若工程发生保险责任范围内的自然灾害或意外事故造成的经济损失，中保财产保险公司将按规定进行赔偿。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社金边１２月３１日电" DiscourseTopic="柬国民议会通过新年度国家预算">
+    <LEAD>柬埔寨国民议会３１日以超过三分之二多数票通过了１９９９年国家预算。</LEAD>
+    <ABSTRACT>柬埔寨国民议会３１日以超过三分之二多数票通过了１９９９年国家预算。柬在新一年的财政收入和支出均为１４９５０亿瑞尔（１美元约合３７００瑞尔），略高于１９９８年。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...3|4...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="柬埔寨国民议会３１日以超过三分之二多数票通过了１９９９年国家预算。">经过两天的审议，柬埔寨国民议会３１日以超过三分之二多数票通过了１９９９年国家预算。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="柬在新一年的财政收入和支出均为１４９５０亿瑞尔（１美元约合３７００瑞尔），略高于１９９８年。">根据预算，柬在新一年的财政收入和支出均为１４９５０亿瑞尔（１美元约合３７００瑞尔），略高于１９９８年。其中国防部开支为３３００亿瑞尔，内政部开支为１３２０亿瑞尔，两项相加约占预算支出总额的百分之四十二左右，略低于１９９８年。此外，教育和卫生开支比１９９８年有所增加，分别占支出总额的百分之十一点三和百分之七点三。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="柬国家财政收入近一半依赖外援和贷款，其他主要来源于各种税收。">柬国家财政收入近一半依赖外援和贷款，其他主要来源于各种税收。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="国防和安全支出所占比例较高是因为国家和平的需要。">财政大臣吉春说，国防和安全支出所占比例较高是因为国家和平的需要。他解释说，除正常开支外，还需要一大笔钱用于收编红色高棉武装、发军饷和安排他们的家属。（完）</P>
+  </TEXT>
+</DOC>

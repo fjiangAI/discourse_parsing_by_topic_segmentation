@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社威海三月六日电（记者侯严峰）" DiscourseTopic="韩国成为威海最大投资贸易伙伴">
+    <LEAD>韩国已成为威海市最大的投资贸易伙伴。</LEAD>
+    <ABSTRACT>韩国已成为威海市最大的投资贸易伙伴。一九九六年，威海市批准韩国直接投资项目一百一十三项，合同利用外资额三亿美元。全市韩国投资企业累计达五百六十六家，去年对韩国进出口总额十二点三亿美元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...6" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="4...4|5...5|6...6" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="韩国已成为威海市最大的投资贸易伙伴。">与韩国隔海相望的山东省威海市，在对外经贸合作中，韩国已成为该市最大的投资贸易伙伴。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="一九九六年，威海市批准韩国直接投资项目一百一十三项，合同利用外资额三亿美元。全市韩国投资企业累计达五百六十六家，去年对韩国进出口总额十二点三亿美元。">据威海市副市长张璞介绍，一九九六年，威海市批准韩国直接投资项目一百一十三项，合同利用外资额三亿美元，分别占当年全市引进外资项目和合同利用外资额百分之五十八和百分之六十九。全市韩国投资企业累计达五百六十六家，去年对韩国进出口总额十二点三亿美元，占当年全市进出口总额的近六成。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="近年来，一批规模较大的韩国投资工业项目纷纷落户威海。">威海是中国大陆最早与韩国进行经贸合作的地区之一。近年来，一批规模较大的韩国投资工业项目纷纷落户威海。一九九六年，威海经济技术开发区投资总额逾二千万美元的四个工业项目，有三项为韩国投资。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="韩国大宇集团参与投资山东大宇汽车零部件有限公司项目。">韩国大宇集团参与投资的山东大宇汽车零部件有限公司项目，总投资逾二十亿元人民币，年产汽车零部件可为二十万到三十万辆轿车配套。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="韩国世运工业株式会社与威海经济技术开发区共同出资兴办“黑豹”农用车项目。">韩国世运工业株式会社与威海经济技术开发区共同出资二千九百八十万美元兴办的“黑豹”农用车项目，总设计能力达年产六十万辆，目前年产十万辆农用车的一期工程已建成投产。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="威海经济技术开发区还与韩国有关地区合作，设立了迄今山东省最大的韩商投资专用工业园地。">此外，威海经济技术开发区还与韩国有关地区合作，设立了迄今山东省最大的韩商投资专用工业园地－－庆南工团，目前，庆南工团已确定入驻项目十二项，项目总投资七千三百一十万美元，初步形成了以汽车及汽车零部件加工为主导的三大产业。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="一九九七年，威海市实际利用韩资可望突破一亿美元，对韩国进出口贸易额十五亿美元，对韩国加工贸易额十四亿美元。">张璞预计，一九九七年，威海市实际利用韩资可望突破一亿美元，对韩国进出口贸易额十五亿美元，对韩国加工贸易额十四亿美元。威海市将成为韩国境外重要的加工装配基地。（完）</P>
+  </TEXT>
+</DOC>

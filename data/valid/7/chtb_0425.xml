@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十一月四日电（记者卢劲）" DiscourseTopic="中国经贸代表团赴南非访问">
+    <LEAD>由外经贸部副部长石广生率领的中国经贸代表团今天离开北京，开始对南非进行为期十一天的访问。</LEAD>
+    <ABSTRACT>由外经贸部副部长石广生率领的中国经贸代表团今天离开北京，开始对南非进行为期十一天的访问。石广生说，希望在这次访问期间，两国经贸主管部门就双边经贸合作充分交换意见，双方企业界广泛接触，深入洽谈。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|5" Function="Behavior" ID="4" Layer="4" ParagraphPosition="1...2|3...4" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="6" Layer="5" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...6" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...4|5...5" ParentId="2" RelationType="Behavior-Purpose" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="3...3|4...4" ParentId="4" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="由外经贸部副部长石广生率领的中国经贸代表团今天离开北京，开始对南非进行为期十一天的访问。">应南非贸工部部长亚历克·欧文的邀请，由外经贸部副部长石广生率领的中国经贸代表团今天离开北京，开始对南非进行为期十一天的访问。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="代表团主要成员。">代表团主要成员除来自外经贸部外，还包括国家计委和冶金部等有关部门的高级官员。随同访问的还有来自中国五十家实力雄厚的大型企业的负责人。这是迄今为止中国向南非派出的最大的经贸代表团。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="石广生说，希望在这次访问期间，两国经贸主管部门就双边经贸合作充分交换意见，双方企业界广泛接触，深入洽谈。">石广生临行前在接受记者采访时说，希望在这次访问期间，两国经贸主管部门就双边经贸合作充分交换意见，双方企业界广泛接触，深入洽谈，共同努力，掀开两国经贸合作新的一页，为今后的长期发展打下基础。</P>
+    <P Function="Background" ID="4" ParagraphTopic="南非目前是中国在非洲最大的贸易伙伴。">据介绍，南非目前是中国在非洲最大的贸易伙伴，近年来中国与南非贸易发展较快，贸易额已从一九九一年的一千四百六十五万美元发展到一九九六年的十三点五亿美元，今年前九个月，双边贸易额达十一亿美元，比去年同期增加百分之十五。双方的劳务合作也有了很好的起步。此外，中国企业迄今已在南非设立各类机构四十多个，投资总额逾亿美元，涉及工业、农业、种植、贸易、服务及资源开发等领域。</P>
+    <P Function="Purpose" ID="5" ParagraphTopic="石广生此行的目的就是向南非政府和工商界表明中国发展与南非经贸合作的决心和信心。">石广生说，中国愿意在“平等互利、讲求实效、形式多样、共同发展”的原则上开展同包括南非在内的世界各国的贸易往来和多种形式的互利合作，他此行的目的就是向南非政府和工商界表明中国发展与南非经贸合作的决心和信心。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="两国的经济有很强的互补性。">他说，两国的经济有很强的互补性，南非矿产资源丰富，中国可以从南非进口国内建设所需的大量矿产品，南非的采矿设备和技术、钻石、宝石等产品也很适合中国市场的需要，同时，中国可以向南非提供机电产品、技术、轻工产品、纺织品和化工产品等，中国成熟的工业机械设备和技术对南非现有工业结构是重要的补充。两国开展经贸合作的前景广阔。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="访问期间，代表团除与南非贸工部举行对口会谈外，还将同南非方面签订一批进出口商品合同并参加当地企业界举办的招商会、洽谈会、研讨会等各种经贸活动。">据悉，访问期间，代表团除与南非贸工部举行对口会谈外，还将同南非方面签订一批进出口商品合同并参加当地企业界举办的招商会、洽谈会、研讨会等各种经贸活动。（完）</P>
+  </TEXT>
+</DOC>

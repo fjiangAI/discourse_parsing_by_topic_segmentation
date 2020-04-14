@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社布拉柴维尔１２月２９日电（记者张克千）" DiscourseTopic="刚果（布）和刚果（金）签署互不侵犯条约">
+    <LEAD>刚果（布）总统萨苏与到访的刚果（金）总统卡比拉签署了互不侵犯条约，决定成立一支混合部队，负责维护两国间边界的安全。</LEAD>
+    <ABSTRACT>刚果（布）总统萨苏与到访的刚果（金）总统卡比拉签署了互不侵犯条约，决定成立一支混合部队，负责维护两国间边界的安全。该条约还规定，任何一方的领土均不得用于从事旨在侵略对方领土的颠覆活动。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="刚果（布）总统萨苏与到访的刚果（金）总统卡比拉签署了互不侵犯条约，决定成立一支混合部队，负责维护两国间边界的安全。">刚果（布）总统萨苏与到访的刚果（金）总统卡比拉２９日在此间举行单独会晤。会谈后双方签署了互不侵犯条约，决定成立一支混合部队，负责维护两国间边界的安全。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="该条约还规定，任何一方的领土均不得用于从事旨在侵略对方领土的颠覆活动。">该条约还规定，任何一方的领土均不得用于从事旨在侵略对方领土的颠覆活动。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="两位领导人讨论了中部非洲地区的和平与稳定以及双边合作等问题。">双方发表一项联合公报说，两位领导人讨论了中部非洲地区的和平与稳定以及双边合作等问题。他们对非洲大陆、特别是大湖地区的武装冲突表示忧虑，呼吁国际社会支持非洲为解决内部冲突所作的努力。双方重申支持旨在恢复本地区和平的一切努力。</P>
+    <P Function="Background" ID="4" ParagraphTopic="本月１８日以来，刚果（布）反政府武装对首都布拉柴维尔南部地区进行了数天的袭扰。">本月１８日以来，刚果（布）反政府武装对首都布拉柴维尔南部地区进行了数天的袭扰。事发后，刚果（布）政府指责某国为之提供了基地。目前，该地区的约２０万居民大部分已弃家北迁，政府军正在对反政府武装的残余进行最后清剿，不时还可以听到零星的枪声。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="卡比拉是应萨苏的邀请于２９日对刚果（布）进行短暂工作访问的。">卡比拉是应萨苏的邀请于２９日对刚果（布）进行短暂工作访问的。他已于当天傍晚乘船离开布拉柴维尔回国。（完）</P>
+  </TEXT>
+</DOC>

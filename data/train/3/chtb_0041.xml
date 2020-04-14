@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京十二月四日电" DiscourseTopic="中国最大氨纶丝生产基地在连云港建成">
+    <LEAD>中国最大的氨伦丝生产基地在连云港建成并投产。</LEAD>
+    <ABSTRACT>中国最大的氨伦丝生产基地在连云港建成并投产，项目总投资七千万元，累计年产氨纶丝一千五百吨。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国最大的氨伦丝生产基地在连云港建成并投产。">中国最大的氨伦丝生产基地－－钟山氨伦有限公司，日前在连云港开发区建成并投产。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="项目总体介绍。">这个采用差别化氨伦丝生产技术改造的项目，总投资七千万元，累计年产氨纶丝一千五百吨。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="连云港钟山氨纶丝有限公司介绍和生产线建设细节。">连云港钟山氨纶丝有限公司是九十年代初引进日本东洋纺织技术和设备的一家苏港合资企业，前两期工程建成并投产以来，已累计实现利润一点四七亿元，跻身于国家二类大型企业行列。这次新投产的生产线，由该公司自行设计，自行开发，自行调试。设备从安装到投产只用了三个月时间，开发了企业自己的专利技术，为公司下一步对外输出氨伦丝生产技术奠定了基础。（完）</P>
+  </TEXT>
+</DOC>

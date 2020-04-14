@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十四日电（记者宗焕平）" DiscourseTopic="北京电信事业获得长足发展">
+    <LEAD>今年是北京电信事业大发展的一年。</LEAD>
+    <ABSTRACT>今年是北京电信事业大发展的一年。截止到目前，北京市内电话用户已达二百五十万户，移动电话用户达六十万户。今年北京电信的网络规模、技术水平和业务门类也获得长足发展。北京的中国公众多媒体通信网建设步伐不断加快。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="今年是北京电信事业大发展的一年。">今年是北京电信事业大发展的一年：市内电话用户新增五十五万户；移动电话用户新增三十万户。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="截止到目前，北京市内电话用户已达二百五十万户，移动电话用户达六十万户。">截止到目前，北京市内电话用户已达二百五十万户，移动电话用户达六十万户。全市电话普及率达百分之三十八，其中市区电话普及率达百分之五十五。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="今年北京电信的网络规模、技术水平和业务门类也获得长足发展。">除市内电话、移动电话用户大量增加外，今年北京电信的网络规模、技术水平和业务门类也获得长足发展。据统计，北京电信部门全年共投资五十亿元用于城市电信基础设施建设，新铺设光缆一千六百多条，光缆总长度达六千二百多公里；新开通各类电话交换机一百一十万门，使市内电话交换机总容量达到三百八十万门，移动电话总容量达七十六万门。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="北京的中国公众多媒体通信网建设步伐不断加快。">北京的中国公众多媒体通信网建设步伐不断加快。今年先后完成了北京图书馆、新华社、国家信息中心等十几家数据库的上网。此外，数字数据专线新增用户一千多户，因特网新增用户二点六万户。分组交换、电子信箱、电信综合业务数字网、ＡＴＭ宽带实验网等新的电信业务也得到较快发展。（完）</P>
+  </TEXT>
+</DOC>

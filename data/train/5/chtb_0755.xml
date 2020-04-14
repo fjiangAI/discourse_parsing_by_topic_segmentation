@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社联合国１２月２９日电（记者顾震球）" DiscourseTopic="安理会呼吁安哥拉冲突双方协助寻找空难幸存者">
+    <LEAD>联合国安理会２９日发表主席声明，“紧急呼吁安哥拉政府和争取安哥拉独立解放全国联盟（安盟）立即和联合国驻安哥拉观察团（联安观察团）进行全面合作”，以便使联合国工作人员能够到达联合国运输机的失事地点，寻找可能生还的幸存者。</LEAD>
+    <ABSTRACT>联合国安理会２９日发表主席声明，“紧急呼吁安哥拉政府和争取安哥拉独立解放全国联盟（安盟）立即和联合国驻安哥拉观察团（联安观察团）进行全面合作”，以便使联合国工作人员能够到达联合国运输机的失事地点，寻找可能生还的幸存者。安理会１５个成员国对安哥拉冲突双方至今仍未采取有关的援救措施表示担忧。安理会的声明重申，安哥拉政府和安盟应对联安观察团成员在安哥拉境内的人身安全和行动自由负责。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Background" ID="3" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="联合国安理会２９日发表主席声明，“紧急呼吁安哥拉政府和争取安哥拉独立解放全国联盟（安盟）立即和联合国驻安哥拉观察团（联安观察团）进行全面合作”，以便使联合国工作人员能够到达联合国运输机的失事地点，寻找可能生还的幸存者。">联合国安理会２９日发表主席声明，“紧急呼吁安哥拉政府和争取安哥拉独立解放全国联盟（安盟）立即和联合国驻安哥拉观察团（联安观察团）进行全面合作”，以便使联合国工作人员能够到达联合国运输机的失事地点，寻找可能生还的幸存者。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="安理会１５个成员国对安哥拉冲突双方至今仍未采取有关的援救措施表示担忧。">声明表示，安理会１５个成员国对这架失事飞机上的１０名联安观察团成员和４名机组人员的命运非常关注，并对安哥拉冲突双方至今仍未采取有关的援救措施表示担忧。声明说：“任何拖延都可能危及幸存者的生命。”</P>
+    <P Function="Situation" ID="3" ParagraphTopic="安理会的声明重申，安哥拉政府和安盟应对联安观察团成员在安哥拉境内的人身安全和行动自由负责。">安理会的声明重申，安哥拉政府和安盟应对联安观察团成员在安哥拉境内的人身安全和行动自由负责。声明还希望安南“采取其他措施”，为目前在安哥拉的联合国工作人员“提供适当的安全保护”。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="飞机出事地点位于安哥拉首都罗安达东南大约４８０公里的地方。目前，由于安哥拉政府军和安盟正在该国中部地区进行激战，联安观察团的成员难以到达失事地点进行搜寻和抢救工作。">据报道，这架Ｃ－１３０型运输机２６日在从安哥拉中部的万博省起飞１０分钟后坠毁。飞机出事地点位于安哥拉首都罗安达东南大约４８０公里的地方。目前，由于安哥拉政府军和安盟正在该国中部地区进行激战，联安观察团的成员难以到达失事地点进行搜寻和抢救工作。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="事发当天，联合国秘书长安南曾发表声明，呼吁安哥拉冲突双方实现停火，使联安观察团能够前往事发现场进行搜索，以抢救幸存者。">事发当天，联合国秘书长安南曾发表声明，呼吁安哥拉冲突双方实现停火，使联安观察团能够前往事发现场进行搜索，以抢救幸存者。（完）</P>
+  </TEXT>
+</DOC>

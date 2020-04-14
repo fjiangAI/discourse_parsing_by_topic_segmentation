@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社开罗１２月３０日电（记者安江）" DiscourseTopic="马吉德赞赏中国关于解决伊危机的立场">
+    <LEAD>马吉德对中国政府在解决伊拉克危机问题上所采取的立场和所付出的努力表示赞赏和感谢。</LEAD>
+    <ABSTRACT>马吉德对中国政府在解决伊拉克危机问题上所采取的立场和所付出的努力表示赞赏和感谢。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="马吉德对中国政府在解决伊拉克危机问题上所采取的立场和所付出的努力表示赞赏和感谢。">阿拉伯国家联盟（阿盟）秘书长马吉德３０日在此间会见中国新任驻埃及大使安惠侯时，对中国政府在解决伊拉克危机问题上所采取的立场和所付出的努力表示赞赏和感谢。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="马吉德期待与中国外长唐家璇会晤，就共同关心的地区和国际问题以及如何加强阿盟秘书处与中国外交部之间的合作交换看法。">马吉德还表示，他期待着在中国外长唐家璇访埃期间与之会晤，就共同关心的地区和国际问题以及如何加强阿盟秘书处与中国外交部之间的合作交换看法。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="唐家璇将于１９９９年元月３日对埃及进行为期三天的正式访问。">唐家璇将于１９９９年元月３日对埃及进行为期三天的正式访问。（完）</P>
+  </TEXT>
+</DOC>

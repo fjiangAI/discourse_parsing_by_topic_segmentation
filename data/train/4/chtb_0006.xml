@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月十三日电" DiscourseTopic="中国三资企业人民币贷款余额近一千亿元">
+    <LEAD>中国金融机构对三资企业的人民币贷款余额已达九百九十五点六亿元。</LEAD>
+    <ABSTRACT>中国金融机构对三资企业的人民币贷款余额已达九百九十五点六亿元。中国银行在支持外商投资企业方面发挥主渠道作用。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国金融机构对三资企业的人民币贷款情况。">据中国人民银行统计，截至去年底，中国金融机构对三资企业的人民币贷款余额已达九百九十五点六亿元，这一数字比上年末增加二百零三点三亿元，增长百分之二十七点六。</P>
+    <P Function="Background" ID="2" ParagraphTopic="外商投资项目和金额增长迅速。">据了解，近几年，随着中国经济的不断发展和对外开放的不断深入，外商来华投资热情很高，投资项目和金额增长十分迅速。据统计，迄今中国已累计批准外商投资项目近二十五点九万个，实际使用外资金额一千三百五十四亿美元。目前，已有十二万多家外商投资企业在中国开业，而且这些已开业的外商投资企业绝大部分生产经营状况较好。据国家税务总局统计，去年全国外商投资企业和外国企业缴纳的所得税达七十五点六七亿元，比上年增长百分之五十七点一。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="贷款中有近一半是中国银行提供的。">据了解，目前，在外商投资企业获得的人民币贷款中，有近一半是中国银行提供的。仅去年中国银行就累计向外商投资企业提供了六百九十多亿元的人民币贷款，另外还向外商投资企业发放外汇现汇贷款四十多亿美元，这些贷款重点支持基础原材料、化工、机械等行业。据统计，到去年底，中国银行向外商投资企业累计发放的外汇现汇贷款和人民币贷款达到二百一十亿美元和二千五百九十三亿元，人民币贷款余额已近四百五十四亿元。目前，约有十五万家外商投资企业在中国银行开立帐户，其中二万多家获得中国银行的贷款支持。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国银行将继续发挥其在支持外商投资企业方面的主渠道作用。">据中国银行有关负责人透露，今年中国银行仍将继续发挥其在支持外商投资企业方面的主渠道作用，对投资企业的贷款规模将保持适度增长。贷款将向能源、交通、电力等基础设施产业倾斜，尤其以国外大公司在华设立的大中型企业为重点；此外，高技术、高科技、高出口、高利税的企业也将获得中国银行的贷款支持。（完）</P>
+  </TEXT>
+</DOC>

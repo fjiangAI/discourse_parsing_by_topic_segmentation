@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海五月三十一日电（记者夏儒阁、实习生陈茜）" DiscourseTopic="法国电力公司积极拓展在华业务">
+    <LEAD>法国电力公司继广西来宾火电厂（Ｂ）的ＢＯＴ国际招标中获胜后，将成为湖南长沙第二个ＢＯＴ项目的候选人。法国电力公司还正在与山东电力部门就总装机容量为三千二百兆瓦的项目和湖北电力部门就黄岗项目的合作事宜作准备。</LEAD>
+    <ABSTRACT>法国电力公司继广西来宾火电厂（Ｂ）的ＢＯＴ国际招标中获胜后，将成为湖南长沙第二个ＢＯＴ项目的候选人。法国电力公司还正在与山东电力部门就总装机容量为三千二百兆瓦的项目和湖北电力部门就黄岗项目的合作事宜作准备。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="法国电力公司继广西来宾火电厂（Ｂ）的ＢＯＴ国际招标中获胜后，将成为湖南长沙第二个ＢＯＴ项目的候选人。">法国电力公司一位负责人日前在此间透露，继去年十一月在广西来宾火电厂（Ｂ）的ＢＯＴ国际招标中获胜后，该公司将成为湖南长沙第二个ＢＯＴ项目的候选人。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="六亿美元的广西来宾火电厂（Ｂ）项目的协议，是外方第一次以ＢＯＴ的形式独立拥有电厂。湖南长沙的项目，投资总额亦为六亿美元，法国电力公司希望成为它的独立投资经营者。">这位负责人说，他们和通用阿尔斯通公司联合体与广西政府签署的金额为六亿美元的广西来宾火电厂（Ｂ）项目的协议，是外方第一次以ＢＯＴ的形式独立拥有电厂。电厂建设工期三年，法国电力联合体将运行十五年，然后移交广西政府。湖南长沙的项目，投资总额亦为六亿美元，法国电力公司希望成为它的独立投资经营者。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="法国电力公司还正在与山东电力部门就总装机容量为三千二百兆瓦的项目和湖北电力部门就黄岗项目的合作事宜作准备。">据悉，法国电力公司还正在与山东电力部门就总装机容量为三千二百兆瓦的项目和湖北电力部门就黄岗项目（两台六百兆瓦火电机组）的合作事宜作准备。</P>
+    <P Function="Background" ID="4" ParagraphTopic="最近十五年来，中国一直是法国电力公司完成咨询合作项目最多的国家。">最近十五年来，中国一直是法国电力公司完成咨询合作项目最多的国家。合作成果包括装机容量为２Ｘ９８５ＭＷ的大亚湾核电站，以及同样规模的广东岭澳项目等。技术转让涉及压水核反应堆、最新洁净煤电厂以及世界最先进的核电操作技术等。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="法国电力公司是世界上最大的电力生产企业之一，同时也是世界上最大的电力出口商之一。">法国电力公司是世界上最大的电力生产企业之一，同时也是世界上最大的电力出口商之一。去年，该公司在国外项目中投入的资本金额达十四亿美元，预计在今后的四年中将增加两倍。（完）</P>
+  </TEXT>
+</DOC>

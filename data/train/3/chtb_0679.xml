@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电（记者李佳路）" DiscourseTopic="中国棉花收购量已超过去年全年">
+    <LEAD>截止到十二月二十日，中国累计收购皮棉六千三百六十三万担，已超过去年全年棉花收购量。</LEAD>
+    <ABSTRACT>截止到十二月二十日，中国累计收购皮棉六千三百六十三万担，已超过去年全年棉花收购量。收购进度快、量大集中是今年棉花收购的主要特点。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="截止到十二月二十日，中国累计收购皮棉六千三百六十三万担，已超过去年全年棉花收购量。">截止到十二月二十日，中国累计收购皮棉六千三百六十三万担，已超过去年全年棉花收购量。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="收购进度快、量大集中是今年棉花收购的主要特点。">记者从中华全国供销合作总社获得的最新数据表明，收购进度快、量大集中是今年棉花收购的主要特点。虽然长江流域棉区遭受特大水灾，棉花有所减产，但新疆棉区和黄河流域棉花喜获丰收。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="目前新疆棉花收购量已超过二千六百万担，再创历史最高水平。黄河流域的河北、山东、河南等省目前棉花收购量已超过去年全年收购量。">据了解，目前新疆棉花收购量已超过二千六百万担，再创历史最高水平。黄河流域的河北、山东、河南等省目前棉花收购量已超过去年全年收购量。多数主产区供销合作社棉花收购部门认真执行了敞开收购、按质论价、不打“白条”的政策，棉花收购进度较快。（完）</P>
+  </TEXT>
+</DOC>

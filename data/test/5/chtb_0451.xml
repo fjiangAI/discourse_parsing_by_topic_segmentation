@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社大连十一月五日电（记者阎平）" DiscourseTopic="大连农渔业成为外商投资新热点">
+    <LEAD>大连的农渔业已经成为外商投资的新热点。</LEAD>
+    <ABSTRACT>大连的农渔业已经成为外商投资的新热点。近几年来，外商对大连市农渔业的投资逐年增加。大连市现有外商投资企业六千多家，外商直接投资额一百零六亿美元。大连“三资”企业正由初期的二、三产业向种植业、养殖业延伸。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="大连的农渔业已经成为外商投资的新热点。">大连的农渔业已经成为外商投资的新热点。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="近几年来，外商对大连市农渔业的投资逐年增加。">据大连市政府官员介绍，近几年来，外商对大连市农渔业的投资逐年增加，到一九九六年，全市农村有外商投资的合资、合作、独资企业达一千六百多家，累计吸引外资额十五点一亿美元，年实现出口供货额一百二十多亿元人民币。在全市农业年出口创汇额中，百分之六十是由农业外向型企业提供的。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="大连市现有外商投资企业六千多家，外商直接投资额一百零六亿美元。">大连市现有外商投资企业六千多家，外商直接投资额一百零六亿美元。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="大连“三资”企业正由初期的二、三产业向种植业、养殖业延伸。">目前，大连“三资”企业正由初期的二、三产业向种植业、养殖业延伸，其中瓦房店市肉鸡生产基地、俄罗斯鲟鱼养殖基地，旅顺口区的工厂化养鲍基地，都具有相当的规模和水平。</P>
+    <P Function="Background" ID="5" ParagraphTopic="大连地处中国辽东半岛的南端，交通、通讯便捷，工业门类齐全，科教事业发达，农业资源较好开发。">大连地处中国辽东半岛的南端，交通、通讯便捷，工业门类齐全，科教事业发达，农业资源较好开发。目前，全市初步形成了四大农业经济区，即北部的林果牧经济区、中部的粮牧经济区、黄渤海沿岸的渔区、南部郊区的副食品经济区。（完）</P>
+  </TEXT>
+</DOC>

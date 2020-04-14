@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电" DiscourseTopic="《达尔文进化论全集》中译本全部出齐">
+    <LEAD>《达尔文进化论全集》已由北京科学出版社近日全部出齐。</LEAD>
+    <ABSTRACT>《达尔文进化论全集》已由北京科学出版社近日全部出齐。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="《达尔文进化论全集》已由北京科学出版社近日全部出齐。">由中国农业科学院研究员、原中国翻译工作者协会副会长叶笃庄主译的《达尔文进化论全集》已由北京科学出版社近日全部出齐。全集共十三卷，约五百万字。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="达尔文学说是现代生物学的基础，同时对自然科学的各学科、社会科学各学科都发生过深远影响。">达尔文学说是现代生物学的基础，同时对自然科学的各学科、社会科学各学科都发生过深远影响。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="《达尔文进化论全集》包括的内容。">叶笃庄主译的《达尔文进化论全集》包括：《达尔文自传与书信集》（两卷集）、《贝格尔舰环球航行记》、《物种起源》、《兰科植物的受精》、《动物和植物在家养下的变异》（两卷集）、《人类的由来及性选择》、《人类和动物的感情表达》、《攀缘植物的运动和习性》、《食虫植物》、《植物界的异花受精与自花受精的效果》、《同种植物的不同花型》、《植物的运动本领》、《蚯蚓和腐植土》。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="《全集》中的三卷已由台湾商务印书馆重印，在台北、香港、新加坡、吉隆坡、洛杉矶发行。">《全集》中的三卷已由台湾商务印书馆重印，在台北、香港、新加坡、吉隆坡、洛杉矶发行。</P>
+  </TEXT>
+</DOC>

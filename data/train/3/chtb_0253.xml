@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月二十三日电" DiscourseTopic="中印边界问题专家小组第二次会议在京举行">
+    <LEAD>中印外交和军事专家小组第二次会议在京举行。双方继续就贯彻实施两国政府于去年签署的保持边境实际控制线地区和平与安宁的协定进行了磋商。</LEAD>
+    <ABSTRACT>中印外交和军事专家小组第二次会议在京举行。双方继续就贯彻实施两国政府于去年签署的保持边境实际控制线地区和平与安宁的协定进行了磋商。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中印外交和军事专家小组第二次会议在京举行。双方继续就贯彻实施两国政府于去年签署的保持边境实际控制线地区和平与安宁的协定进行了磋商。">四月二十一日至二十三日，中印外交和军事专家小组第二次会议在京举行。双方继续就贯彻实施两国政府于去年签署的保持边境实际控制线地区和平与安宁的协定进行了磋商，并签署了《中印外交和军事专家小组工作条例》。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="双方原则同意下次会议于一九九四年底前后在新德里举行。">双方原则同意下次会议于一九九四年底前后在新德里举行。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="唐家璇副外长于二十二日会见了印方专家小组组长、外交部东北亚司联秘希夫香卡尔·梅农一行。">唐家璇副外长于二十二日会见了印方专家小组组长、外交部东北亚司联秘希夫香卡尔·梅农一行。（完）</P>
+  </TEXT>
+</DOC>

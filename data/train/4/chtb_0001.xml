@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海二月十日电（记者谢金虎、张持坚）" DiscourseTopic="上海浦东开发与法制建设同步">
+    <LEAD>浦东近年来颁布实行了涉及经济、建筑等多个领域的法规性文件，确保了浦东开发的有序进行。</LEAD>
+    <ABSTRACT>浦东颁布实行了涉及经济、建筑等多个领域的法规文件，规范了浦东的开发，受到了国内外投资者的好评。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="上海浦东颁布实行涉及多个领域的法规性文件，确保了浦东开发的有序进行。">上海浦东近年来颁布实行了涉及经济、贸易、建设、规划、科技、文教等领域的七十一件法规性文件，确保了浦东开发的有序进行。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="浦东制定和推出法规性文件使经济活动纳入法制轨道。">浦东开发开放是一项振兴上海，建设现代化经济、贸易、金融中心的跨世纪工程，因此大量出现的是以前不曾遇到过的新情况、新问题。对此，浦东不是简单的采取“干一段时间，等积累了经验以后再制定法规条例”的做法，而是借鉴发达国家和深圳等特区的经验教训，聘请国内外有关专家学者，积极、及时地制定和推出法规性文件，使这些经济活动一出现就被纳入法制轨道。去年初浦东新区诞生的中国第一家医疗机构药品采购服务中心，正因为一开始就比较规范，运转至今，成交药品一亿多元，没有发现一例回扣。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="浦东出台了一系列规范建设市场的文件。">建筑是开发浦东的一项主要经济活动，这些年有数百家建筑公司、四千余个建筑工地遍布在这片热土上。为规范建筑行为，防止出现无序现象，新区管委会根据国家和上海市的有关规定，结合浦东开发实际，及时出台了一系列规范建设市场的文件，其中包括工程施工招投标管理办法、拆迁工作若干规定、整治违章建筑实施办法、通信设施及管线配套建设意见、建设工地施工环境管理暂行办法等，基本做到了每个环节都有明确而又具体的规定。建筑公司进区，有关部门先送上这些法规性文件，然后有专门队伍进行监督检查。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="浦东这种法制紧跟经济和社会活动的做法，受到了国内外投资者的好评。">尽管浦东新区制定的法规性文件有些比较“粗”，有些还只是暂行规定，有待在实践中逐步完善，但这种法制紧跟经济和社会活动的做法，受到了国内外投资者的好评，他们认为，到浦东新区投资办事有章法，讲规矩，利益能得到保障。（完）</P>
+  </TEXT>
+</DOC>

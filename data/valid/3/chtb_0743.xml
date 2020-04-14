@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社晋江十二月二十九日电（记者余瑛瑞通讯员夏萱）" DiscourseTopic="晋江至香港临时包机航线开通">
+    <LEAD>厦门航空有限公司执行晋江至香港临时包机航线的航班今天正式开通。</LEAD>
+    <ABSTRACT>厦门航空有限公司执行晋江至香港临时包机航线的航班今天正式开通。今天下午，随着一架编号为二九九八的波音七三七━七００型飞机在福建晋江机场起飞，厦航以自己代码经营晋江往返香港临时包机航线的历史从此开始。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="厦门航空有限公司执行晋江至香港临时包机航线的航班今天正式开通。">经国家民航总局和香港民航处批准，厦门航空有限公司执行晋江至香港临时包机航线的航班今天正式开通。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="今天下午，随着一架编号为二九九八的波音七三七━七００型飞机在福建晋江机场起飞，厦航以自己代码经营晋江往返香港临时包机航线的历史从此开始。">今天下午，随着一架编号为二九九八的波音七三七━七００型飞机在福建晋江机场起飞，厦航以自己代码经营晋江往返香港临时包机航线的历史从此开始。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="晋江至香港航线的开通，对海外侨胞、港澳台胞回乡探亲访友、观光旅游或从事商贸活动，都将提供极大的便利。">泉州晋江机场位于闽南金三角经济发达地区，是中国著名侨乡。晋江至香港航线的开通，对海外侨胞、港澳台胞回乡探亲访友、观光旅游或从事商贸活动，都将提供极大的便利。（完）</P>
+  </TEXT>
+</DOC>

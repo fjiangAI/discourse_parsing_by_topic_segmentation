@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社深圳十二月二十八日电（记者李南玲）" DiscourseTopic="深圳经济持续高速增长">
+  <LEAD>今年一至十一月，深圳国内生产总值达一千一百四十一点三八亿元人民币。</LEAD>
+  <ABSTRACT>今年一至十一月，深圳国内生产总值达一千一百四十一点三八亿元人民币。深圳八十年代以来的平均经济增长率和九十年代以来的人均国内生产总值，均居中国大中城市之首。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4|5...5" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Summary" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="">今年一至十一月，深圳国内生产总值达一千一百四十一点三八亿元人民币，稳居中国大中城市前列；进出口总额连续五年名列全国第一。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="">统计还显示，深圳八十年代以来的平均经济增长率和九十年代以来的人均国内生产总值，均居中国大中城市之首。</P>
+    <P Function="Sumup" ID="3" ParagraphTopic="">高速增长，是深圳经济发展的重要特征。从一九七九年算起，深圳的国内生产总值由一点九六亿元人民币发展到一九九七年的一千一百三十点一亿元，平均每年增长百分之三十二点二五。国际上连续五年增长速度超过百分之五即为“经济奇迹”。深圳的确创造了一个罕见的奇迹。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="">经济高速发展的同时，深圳的经济结构也在不断优化。一九七九年，深圳的第一、第二、第三产业构成比例为三十七比二十点五比四十二点五，属于以农业为主的不发达经济。十八年后，深圳的产业结构已调整为一点三九比四十八点七九比四十九点八二，工业和第三产业成为拉动经济增长的主要力量。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="">深圳经济运行质量也名列中国前列。一至十月，深圳进出口总额为三百二十三点二八亿美元，其中出口总额一百八十七点零三亿美元，位居中国大中城市之首。今年按截止十一月的统计数字，深圳人均国内生产总值约两万九千元人民币，预计全年可达三万三千元，连续多年蝉联“全国冠军”。（完）</P>
+  </TEXT>
+</DOC>

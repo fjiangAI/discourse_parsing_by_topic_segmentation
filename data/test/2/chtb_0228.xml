@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月二十三日电" DiscourseTopic="穆巴拉克总统结束访华">
+    <LEAD>埃及总统结束对中国为时三天的国事访问，离开北京回国。</LEAD>
+    <ABSTRACT>埃及总统结束对中国为时三天的国事访问，离开北京回国。中国政府陪同团团长、司法部部长肖扬，中国驻埃及大使杨福昌，外交部部长助理王昌义，埃及驻华大使沙米尔·伯罕以及其他阿拉伯和非洲国家的驻华使节到机场送行。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="埃及总统结束对中国为时三天的国事访问，离开北京回国。">埃及总统穆罕默德·胡斯尼·穆巴拉克今天上午结束对中国为时三天的国事访问，离开北京回国。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国政府陪同团团长、司法部部长肖扬，中国驻埃及大使杨福昌，外交部部长助理王昌义，埃及驻华大使沙米尔·伯罕以及其他阿拉伯和非洲国家的驻华使节到机场送行。">中国政府陪同团团长、司法部部长肖扬，中国驻埃及大使杨福昌，外交部部长助理王昌义，埃及驻华大使沙米尔·伯罕以及其他阿拉伯和非洲国家的驻华使节到机场送行。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电（记者李煦）" DiscourseTopic="北京为投保人设立定点医院">
+    <LEAD>从明年起，中保人寿保险公司北京市分公司将在全市设立八家定点医院，以确保被保险人能得到及时、有效的治疗。</LEAD>
+    <ABSTRACT>从明年起，中保人寿保险公司北京市分公司将在全市设立八家定点医院，以确保被保险人能得到及时、有效的治疗。从明年起，公司将为被保险人发放“医疗急救卡”。医院也将根据急救卡上的有关内容及时通知当地区县保险公司前往急救医院提供保险服务。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="从明年起，中保人寿保险公司北京市分公司将在全市设立八家定点医院，以确保被保险人能得到及时、有效的治疗。">从明年起，中保人寿保险公司北京市分公司将在全市设立八家定点医院，以确保被保险人能得到及时、有效的治疗。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="从明年起，公司将为被保险人发放“医疗急救卡”。">据介绍，从明年起，公司将为被保险人发放“医疗急救卡”，在该被保险人遭受意外伤害或罹患突发性心肌梗塞，突发性脑溢血需急救时，可凭急救卡在保险金限额内免交相应押金，在八家定点医院的急诊室或观察室得到治疗。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="医院也将根据急救卡上的有关内容及时通知当地区县保险公司前往急救医院提供保险服务。">医院也将根据急救卡上的有关内容及时通知当地区县保险公司前往急救医院提供保险服务；保险公司对保险责任范围的医疗费用在保险金限额内将予以支持，并将在审核医院有关文件后，在十个工作日内，把应付款项划入医院帐户，医院需开出收据以作证明。（完）</P>
+  </TEXT>
+</DOC>

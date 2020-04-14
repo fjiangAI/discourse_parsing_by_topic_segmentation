@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月２８日电" DiscourseTopic="杜阿拉发电机队赢得喀麦隆足协杯赛冠军">
+    <LEAD>杜阿拉发电机队赢得喀麦隆足协杯赛冠军。</LEAD>
+    <ABSTRACT>杜阿拉发电机队赢得喀麦隆足协杯赛冠军。这个制胜的球是替补上场的让－雅克·埃迪莫在第七十六分钟攻进的。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="杜阿拉发电机队赢得喀麦隆足协杯赛冠军。">喀麦隆杜阿拉发电机队２７日在首都雅温得举行的喀麦隆足协杯赛决赛中，以１：０战胜东道主雅温得炮队，第三次赢得喀麦隆足协杯赛冠军。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这个制胜的球是替补上场的让－雅克·埃迪莫在第七十六分钟攻进的。">据外电报道，这个制胜的球是替补上场的让－雅克·埃迪莫在第七十六分钟攻进的。６万观众观看了这场决赛。（完）</P>
+  </TEXT>
+</DOC>

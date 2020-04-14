@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="专访：国家女足教练谈近期“三步曲”">
+    <LEAD>国家女子足球队元老教练之一李必，在全国女足联赛芜湖赛区向记者透露了国家女足近期“三部曲”。</LEAD>
+    <ABSTRACT>国家女子足球队元老教练之一李必，在全国女足联赛芜湖赛区向记者透露了国家女足近期“三部曲”。中国女足在亚运会上的目标是“力争冠军，确保第二”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...5" ParentId="1" RelationType="Purpose-Behavior" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Behavior" ID="3" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="国家女子足球队元老教练之一李必，在全国女足联赛芜湖赛区向记者透露了国家女足近期“三部曲”。">国家女子足球队元老教练之一李必，日前在全国女足联赛芜湖赛区向记者透露了国家女足近期“三部曲”。</P>
+    <P Function="Purpose" ID="2" ParagraphTopic="中国女足在亚运会上的目标是“力争冠军，确保第二”。">李必说，中国女足在亚运会上的目标是“力争冠军，确保第二”。他说，近年来国家女足一些老队员相继退役，有些主力队员也到国外去踢球，因此需要较多地补充新队员。由于新组建的国家队新队员将占一半，而她们的技术水平尚待提高，因此面临的任务是艰巨的。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="现在正在进行的第一步是挑选队员。">现在正在进行的第一步是挑选队员。通过冬训和本次联赛，国家队将确定第一批参加集训的２６名队员。名单将在本次联赛结束后公布。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="第二步是高原集训。">第二步是高原集训。联赛之后立即将集训队员拉到昆明，进行为期一个月的训练。通过集训确定阵容和打法。一些新队员个人技术不错，集训的目的是提高她们的战术配合意识和实战经验。国家队还将请国家田径队教练和科研人员，专门对女队员进行体能训练，以提高队员的心肺功能和身体素质。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="第三步是７月份赴美国参加世界四强赛。">第三步是７月份赴美国参加世界四强赛。以期在与美国、瑞典、挪威这些世界强队交锋中更好地锻炼队伍，同时了解世界女子足球强队的实力，为明年的第二届世界锦标赛作准备。</P>
+  </TEXT>
+</DOC>

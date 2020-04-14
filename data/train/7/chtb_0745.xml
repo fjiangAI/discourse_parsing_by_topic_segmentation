@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海十二月二十九日电（记者汪洪洋）" DiscourseTopic="上海茉织华Ｂ股发行成功">
+    <LEAD>上海茉织华股份有限公司一点一亿股Ｂ股发行成功。</LEAD>
+    <ABSTRACT>上海茉织华股份有限公司一点一亿股Ｂ股发行成功。从本月二十四日开始的茉织华Ｂ股发行，每股发行价格零点二八美元。野村国际（香港）公司介绍，这次茉织华Ｂ股发行并没有吸纳Ｂ股市场的资金，绝大部分的资金都是战略投资者和基金经理公司新投入的。茉织华公司在完成此次筹资后计划投资新项目。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|5" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="3" ParagraphPosition="4...4|5...5|6...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="上海茉织华股份有限公司一点一亿股Ｂ股发行成功。">申银万国证券公司总裁王玉春今天在这里宣布，上海茉织华股份有限公司一点一亿股Ｂ股发行成功。</P>
+    <P Function="Comment" ID="2" ParagraphTopic="在中国Ｂ股市场新股发行已停顿半年的沉寂气氛中，这不啻是一个吉兆。">这是这家中国最大证券公司成功发行的第三十八只Ｂ股。在中国Ｂ股市场新股发行已停顿半年的沉寂气氛中，这不啻是一个吉兆。</P>
+    <P Function="Background" ID="3" ParagraphTopic="上海茉织华股份有限公司，是目前中国最大的中外合资服装出口企业。">注册于浦东新区的上海茉织华股份有限公司，是目前中国最大的中外合资服装出口企业，主业从事外销工作服的加工生产，目前生产规模已达年产一千五百万件套，产值超过八亿元。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="从本月二十四日开始的茉织华Ｂ股发行，每股发行价格零点二八美元。">从本月二十四日开始的茉织华Ｂ股发行，每股发行价格零点二八美元，按完全摊薄法计算发行市盈率为五点五四倍，加权平均为三点八一倍；一九九八年每股税后利润预测为零点六零八元，完全摊薄后为零点四一九元。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="野村国际（香港）公司介绍，这次茉织华Ｂ股发行并没有吸纳Ｂ股市场的资金，绝大部分的资金都是战略投资者和基金经理公司新投入的。">据担任主承销的申银万国公司和担任国际协调人的野村国际（香港）公司介绍，这次茉织华Ｂ股发行并没有吸纳Ｂ股市场的资金，绝大部分的资金都是战略投资者和基金经理公司新投入的。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="茉织华公司在完成此次筹资后计划投资新项目。">茉织华公司在完成此次筹资后，计划投资的新项目包括：新建年产五百万件套的新厂；在浦东组建大创储物流中心、收购茉织华印刷公司其余百分之六十股权；在浦东新建一万多平方米的总部销售和产品展示中心。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="茉织华Ｂ股将于明天结束发售，预计在明年一月二十一日或以前上市。">茉织华Ｂ股将于明天结束发售，经上海证券交易所确认，预计在明年一月二十一日或以前上市。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="驻波苏军今年五月起撤出">
+    <LEAD>苏联准备从今年五月开始撤出驻波兰的苏军。</LEAD>
+    <ABSTRACT>苏联准备从今年五月开始撤出驻波兰的苏军。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="苏联准备从今年五月开始撤出驻波兰的苏军。">苏联准备从今年五月开始撤出驻波兰的苏军，一九九四年中以前全部撤完。</P>
+    <P Function="Background" ID="2" ParagraphTopic="这是正在华沙举行的波苏关于苏联从波兰撤军和苏军过境问题谈判中苏联方面提出的建议。">这是正在华沙举行的波苏关于苏联从波兰撤军和苏军过境问题谈判中苏联方面提出的建议。目前苏联在波兰的驻军约为五万人。</P>
+  </TEXT>
+</DOC>

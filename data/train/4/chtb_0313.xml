@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社雅加达４月２３日电（记者赵新考刘瑞平" DiscourseTopic="印尼国际象棋邀请赛进入第十轮">
+    <LEAD>韩多哥在国际象棋国际特级大师邀请赛的第十轮比赛中战胜了阿迪安多，积６分居参赛队员之首。</LEAD>
+    <ABSTRACT>韩多哥在国际象棋国际特级大师邀请赛的第十轮比赛中战胜了阿迪安多，积６分居参赛队员之首。中国国际大师徐俊迎战队友、国际特级大师叶荣光。中国的叶江川与捷克的让切克弈成平局；乌兹别克的萨波和印尼的西唐刚也握手言和；哈萨克斯坦的塔卡切夫战胜了捷克的布兰特尼；菲律宾的安东尼奥胜了印尼的德德。中国谢军今天轮空。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2|3...3|4...4" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="韩多哥在国际象棋国际特级大师邀请赛的第十轮比赛中战胜了阿迪安多，积６分居参赛队员之首。">印尼的国际大师韩多哥今天在国际象棋国际特级大师邀请赛的第十轮比赛中，战胜了同胞阿迪安多，积６分居参赛队员之首。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国国际大师徐俊迎战队友、国际特级大师叶荣光。">在今天的比赛中，中国国际大师徐俊迎战队友、国际特级大师叶荣光。徐俊先手挺后前兵展开攻势；叶荣光摆开斯拉夫防御，经过５个多小时的交锋，徐俊以一兵的优势获胜。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国的叶江川与捷克的让切克弈成平局；乌兹别克的萨波和印尼的西唐刚也握手言和；哈萨克斯坦的塔卡切夫战胜了捷克的布兰特尼；菲律宾的安东尼奥胜了印尼的德德。">中国的叶江川与捷克的让切克弈成平局；乌兹别克的萨波和印尼的西唐刚也握手言和；哈萨克斯坦的塔卡切夫战胜了捷克的布兰特尼；菲律宾的安东尼奥胜了印尼的德德。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国谢军今天轮空。">中国谢军今天轮空。（完）</P>
+  </TEXT>
+</DOC>

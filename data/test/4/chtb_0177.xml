@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="据新华社华盛顿２月１３日电" DiscourseTopic="美承认空袭使数百伊平民死亡英一记者说所炸绝非军事目标">
+    <LEAD>美国承认空袭造成数百名伊拉克平民死亡。英国广播公司记者证实说，没有任何迹象表明，美国轰炸机在巴格达炸毁的一个防空洞是伊拉克的一个军事掩体。</LEAD>
+    <ABSTRACT>美国承认空袭伊拉克首都巴格达时，造成数百名伊拉克平民死亡。但坚持认为多国部队击中的是军事目标。英国广播公司记者证实说，没有任何迹象表明，美国轰炸机在巴格达炸毁的一个防空洞是伊拉克的一个军事掩体。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Contrast" ID="2" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="美国承认空袭伊拉克首都巴格达时，造成数百名伊拉克平民死亡。但坚持认为多国部队击中的是军事目标。">美国白宫１３日承认多国部队空军在空袭伊拉克首都巴格达时，造成数百名伊拉克平民死亡，但坚持认为多国部队击中的是军事目标。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="美国政府认为这“确实是一次悲剧性的结局”。但他谴责伊拉克总统萨达姆将平民安排在军事设施内，置他们于险地。">白宫发言人菲茨沃特说，美国政府认为这“确实是一次悲剧性的结局”。但他谴责伊拉克总统萨达姆将平民安排在军事设施内，置他们于险地。他说，美国认为击中的目标是伊军的一个指挥和控制中心。这所设施“经过涂盖和伪装，以躲避侦察，但证据表明这是一个军事目标。”</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="英国广播公司记者证实说，没有任何迹象表明，美国轰炸机在巴格达炸毁的一个防空洞是伊拉克的一个军事掩体。">据新华社伦敦２月１３日电英国广播公司驻伊拉克首都巴格达记者鲍恩１３日证实说，没有任何迹象表明，美国轰炸机在巴格达炸毁的一个防空洞是伊拉克的一个军事掩体。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="鲍恩反驳了美国官方所声称的这个防空洞是一个被伪装的军事掩体。">鲍恩在英国广播公司电视新闻发表的这番讲话，反驳了美国官方所声称的这个防空洞是一个被伪装的军事掩体。鲍恩曾到现场采访了这个被炸毁的防空洞，大约有４００名平民丧生。</P>
+  </TEXT>
+</DOC>

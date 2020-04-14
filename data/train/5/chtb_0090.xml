@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社香港十二月三十日电台北：" DiscourseTopic="台湾一经济学家指出“戒急用忍”将产生诸多弊端">
+    <LEAD>台湾经济学家侯家驹发表文章，指出台湾当局对台商投资祖国大陆采取“戒急用忍”的限制政策将产生诸多弊端。</LEAD>
+    <ABSTRACT>台湾经济学家侯家驹指出台湾当局对台商投资祖国大陆采取“戒急用忍”的限制政策将产生诸多弊端：损失在祖国大陆的很多商机、影响对祖国大陆的出口贸易、阻碍外商投资台湾。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="台湾经济学家指出“戒急用忍”将产生诸多弊端。">台湾经济学家侯家驹周一在台湾《经济日报》上发表了题为《三谈戒急用忍》的文章，指出台湾当局对台商投资祖国大陆采取“戒急用忍”的限制政策将产生诸多弊端。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="实行“戒急用忍”的政策会损失在祖国大陆的很多商机。">侯家驹指出，台湾当局说“戒急用忍”是限制大型企业赴祖国大陆投资，对中小企业并无影响，实则非然。目前，台湾当局把资本额在六千万元台币以下作为中小企业，而事实上台湾目前的中小企业大都具有相当的规模，仅以去年排名前十位的中小企业为例，其营业净收入最少的为三十三点六五亿元台币，最高者达一百亿元台币。显然，实行“戒急用忍”的政策，结果是平白地损失在祖国大陆的很多商机。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="“戒急用忍”的政策会影响对祖国大陆的出口贸易。">侯家驹认为，“戒急用忍”的政策对于对祖国大陆的出口贸易也有影响。因为台湾对祖国大陆的出口中，有很大部分是由于台商在祖国大陆投资设厂而必须运去机器设备零组件及中间原材料的缘故。近年来，台湾从祖国大陆获得的贸易顺差累计已达八百亿美元，与台湾的外汇储备相差无几。在金融风暴未见缓和的今天，愈来愈凸显这一顺差的重要性。台湾岂能为了“戒急用忍”而降低对祖国大陆的出口？因为这将减少来自祖国大陆的贸易顺差。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="“戒急用忍”政策阻碍外商投资台湾。">侯家驹指出，“戒急用忍”政策也阻碍了外商投资台湾。因为投资台湾的多数外商想借此方便与台资共同投资祖国大陆。因此，这一政策在阻碍本地企业发展的同时，也限制了外商投资台湾的意愿。</P>
+    <P Function="Background" ID="5" ParagraphTopic="经济学家已发表了三篇文章希望能对台湾当局“晓以利害”。">据悉，侯家驹针对“戒急用忍”政策已先后在台湾报纸上发表了三篇文章，指出台湾当局这一错误的大陆经贸政策是违反“自由经济基本哲学”，希望能对台湾当局“晓以利害”。（完）</P>
+  </TEXT>
+</DOC>

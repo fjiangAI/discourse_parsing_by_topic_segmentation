@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="临时区议会选举主席">
+    <LEAD>屯门、沙田、离岛、大埔、湾仔及南区临时区议会分别举行会议选出主席。</LEAD>
+    <ABSTRACT>屯门、沙田、离岛、大埔、湾仔及南区临时区议会分别举行会议选出主席。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="屯门、沙田、离岛、大埔、湾仔及南区临时区议会分别举行会议选出主席。">屯门、沙田、离岛、大埔、湾仔及南区临时区议会今日（星期四）分别举行会议选出主席。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="他们是屯门临时区议会主席刘皇发、沙田临时区议会主席蔡根培、离岛临时区议会主席林伟强、大埔临时区议会主席张学明、湾仔临时区议会主席林贝聿嘉及南区临时区议会主席马月霞。">他们是屯门临时区议会主席刘皇发、沙田临时区议会主席蔡根培、离岛临时区议会主席林伟强、大埔临时区议会主席张学明、湾仔临时区议会主席林贝聿嘉及南区临时区议会主席马月霞。</P>
+  </TEXT>
+</DOC>

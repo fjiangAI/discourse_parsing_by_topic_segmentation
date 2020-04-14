@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社伦敦８月３１日电（记者刘浩）" DiscourseTopic="英宣布参加入侵海地的多国部队">
+    <LEAD>英国将参加以美国为首的入侵海地的多国部队。</LEAD>
+    <ABSTRACT>英国将参加以美国为首的入侵海地的多国部队。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="英国将参加以美国为首的入侵海地的多国部队。">英国外交部３１日宣布，英国将派遣一艘护卫舰、一艘补给舰和军事训练人员参加以美国为首的入侵海地的多国部队。</P>
+    <P Function="Background" ID="2" ParagraphTopic="加勒比共同体５个国家已同意向海地派遣部队。">据报道，在此之前，加勒比共同体５个国家３０日已同意向海地派遣一支共２６６人的部队，加入总共约１万人的多国部队。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="联合国劝说海地军人政府下台所进行的和平努力已告失败。">另据报道，联合国秘书长加利３０日表示，由于海地军人统治者拒绝会见他的特使，联合国劝说海地军人政府下台所进行的和平努力已告失败。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="美国副国防部长说多国部队即将入侵海地。">同一天，美国副国防部长多伊彻说，多国部队即将入侵海地，“这个时刻已经到来”。联合国安理会７月底作出决定，采取“一切必要手段”恢复被军人推翻的海地总统阿里斯蒂德的权力。（完）</P>
+  </TEXT>
+</DOC>

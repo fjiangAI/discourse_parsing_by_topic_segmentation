@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京十二月二十七日电" DiscourseTopic="江苏盐城连续发生毒杀丹顶鹤事件">
+    <LEAD>江苏盐城连续发生数起毒杀丹顶鹤事件。</LEAD>
+    <ABSTRACT>江苏盐城连续发生数起毒杀丹顶鹤事件。十一月三十射阳盐场小农场发现三只死亡的丹顶鹤。十二月十二日大丰川东闸北麦田发现了三只中毒丹顶鹤。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="江苏盐城连续发生数起毒杀丹顶鹤事件。">入冬以来，已有四百余只丹顶鹤陆续飞抵江苏盐城沿海滩涂越冬。然而由于少数人法制观念淡薄，当地已连续发生数起毒杀丹顶鹤事件。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这次毒鹤事件是近年来罕见的。目前，毒鹤案件正在侦查中。">据悉，这次毒鹤事件是近年来罕见的。目前，毒鹤案件正在侦查中。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="十一月三十射阳盐场小农场发现三只死亡的丹顶鹤。十二月十二日大丰川东闸北麦田发现了三只中毒丹顶鹤。">十一月三十，一居民在射阳盐场小农场处，发现三只死亡的丹顶鹤。十二月十二日，群众在大丰川东闸北麦田里，又发现了三只中毒丹顶鹤。有关部门调查诊断后发现，上述六只丹顶鹤都是吃了拌有毒药的谷物中毒死亡或受伤的。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="丹顶鹤系国家一级保护珍禽，每年来盐城滩涂越冬的丹顶鹤多达六百余只。">丹顶鹤系国家一级保护珍禽，现全球仅存一千多只，每年来盐城滩涂越冬的丹顶鹤多达六百余只。</P>
+    <P Function="Background" ID="5" ParagraphTopic="为保护丹顶鹤，中国建立了盐城珍禽自然保护区。">为保护丹顶鹤，一九八三年中国在盐城滩涂建立了全国最大的沿海自然保护区－－盐城珍禽自然保护区。保护区建立后来此越冬的丹顶鹤逐年增多，最多时高达七百四十只。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社伦敦１２月２８日电" DiscourseTopic="西欧股市节后继续走高">
+    <LEAD>西欧股市圣诞节后开市第一天交易清淡，主要股票价格指数继续保持了节前走高的势头，但交易量极小。</LEAD>
+    <ABSTRACT>西欧股市圣诞节后开市第一天交易清淡，主要股票价格指数继续保持了节前走高的势头，但交易量极小。法兰克福ＤＡＸ３０种蓝筹股平均价格指数比节前最后一个交易日上升了６１．５３点，以５０４０．１５点报收，增幅为百分之一点二四。巴黎ＣＡＣ４０种蓝筹股平均价格指数比前一交易日仅微升了０．６８点，以３８７３．１０点收盘。伦敦股市因适逢银行节，故没有开市。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Result" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="西欧股市圣诞节后开市第一天交易清淡，主要股票价格指数继续保持了节前走高的势头，但交易量极小。">西欧股市圣诞节后开市第一天交易清淡，主要股票价格指数继续保持了节前走高的势头，但交易量极小。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="法兰克福ＤＡＸ３０种蓝筹股平均价格指数比节前最后一个交易日上升了６１．５３点，以５０４０．１５点报收，增幅为百分之一点二四。">当日，法兰克福ＤＡＸ３０种蓝筹股平均价格指数比节前最后一个交易日上升了６１．５３点，以５０４０．１５点报收，增幅为百分之一点二四，从而使该种股票指数本月首次突破５０００点。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="巴黎ＣＡＣ４０种蓝筹股平均价格指数比前一交易日仅微升了０．６８点，以３８７３．１０点收盘。">巴黎ＣＡＣ４０种蓝筹股平均价格指数比前一交易日仅微升了０．６８点，以３８７３．１０点收盘。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="伦敦股市因适逢银行节，故没有开市。">伦敦股市因适逢银行节，故没有开市。</P>
+    <P Function="Cause" ID="5" ParagraphTopic="西欧股市节后开市第一天交易不活跃的原因。">业内人士分析说，西欧股市节后开市第一天交易不活跃有以下几个原因：首先，许多银行和基金管理公司奉命不准在欧元启动前或新年前再做股市交易。其次，相当数量从事股市交易的人还在休假。此外，有些投资者正忙于为行将启动的欧元做电子交易设备的测试工作。（完）</P>
+  </TEXT>
+</DOC>

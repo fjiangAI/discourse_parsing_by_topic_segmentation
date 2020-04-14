@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海八月三十一日电（记者周解蓉）" DiscourseTopic="马来西亚副总理结束访华">
+    <LEAD>马来西亚副总理安瓦尔今天下午结束了对中国的访问。</LEAD>
+    <ABSTRACT>马来西亚副总理安瓦尔今天下午结束了对中国的访问。安瓦尔于昨天下午自南京抵达上海。昨晚，上海市副市长赵启正代表黄菊市长会见并宴请了安瓦尔一行。今天上午，安瓦尔出席了闵行中马合资企业奠基仪式，随后参观了浦东金桥出口加工区。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="马来西亚副总理安瓦尔今天下午结束了对中国的访问。">马来西亚副总理安瓦尔今天下午结束了对中国的访问，离开上海前往东京。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="安瓦尔于昨天下午自南京抵达上海。昨晚，上海市副市长赵启正代表黄菊市长会见并宴请了安瓦尔一行。">安瓦尔于昨天下午自南京抵达上海。昨晚，上海市副市长赵启正代表黄菊市长会见并宴请了安瓦尔一行。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="今天上午，安瓦尔出席了闵行中马合资企业奠基仪式，随后参观了浦东金桥出口加工区。">今天上午，安瓦尔出席了闵行中马合资企业奠基仪式，随后参观了浦东金桥出口加工区。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京八月三十一日电" DiscourseTopic="钱其琛分别会见法国、乌拉圭客人">
+    <LEAD>钱其琛今天下午分别会见了法国前总理雷蒙·巴尔和乌拉圭东岸共和国副外长何塞·马利亚·加米奥。</LEAD>
+    <ABSTRACT>钱其琛今天下午分别会见了法国前总理雷蒙·巴尔和乌拉圭东岸共和国副外长何塞·马利亚·加米奥。钱其琛对法国客人说，中法建交三十年来，双边关系的发展是令人满意的。双方还就亚洲的安全形势和经济发展以及欧洲的一体化等有关问题交换了看法。巴尔希望法中关系能够得到进一步发展和加强。在会见乌拉圭客人时，钱其琛说，中乌建交六年多来，两国友好合作关系持续稳步发展。钱其琛对乌拉圭在国际事务中给予中国的支持表示感谢，对乌拉圭政府坚持一个中国的立场表示赞赏。中国重视加强同南方共同市场国家和其他拉美国家的友好合作关系。乌拉圭重视同中国发展经济贸易、科学技术和文化等各个领域的关系。乌拉圭高度赞赏中国在国际事务中发挥越来越重要的作用，坚决支持恢复中国在关贸总协定中的缔约国地位。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...12" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="6...10|11...11" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="6...11|12...12" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="5" Layer="5" ParagraphPosition="6...9|10...10" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="6|3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...5|6...12" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="8" Function="Story" ID="6" Layer="3" ParagraphPosition="2...4|5...5" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="7" Layer="6" ParagraphPosition="6...6|7...7|8...8|9...9" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="8" Layer="4" ParagraphPosition="2...2|3...3|4...4" ParentId="6" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="钱其琛今天下午分别会见了法国前总理雷蒙·巴尔和乌拉圭东岸共和国副外长何塞·马利亚·加米奥。">国务院副总理兼外长钱其琛今天下午在这里分别会见了法国前总理雷蒙·巴尔和乌拉圭东岸共和国副外长何塞·马利亚·加米奥。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="钱其琛对法国客人说，中法建交三十年来，双边关系的发展是令人满意的。">钱其琛对法国客人说，法国是第一个同中国建交的西方大国，中法建交三十年来，尽管有一些曲折，但总的来说，双边关系的发展是令人满意的。他指出，不管国际形势发生什么大的变化，中法两国保持友好关系对世界的和平、稳定与发展始终是重要的。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="双方还就亚洲的安全形势和经济发展以及欧洲的一体化等有关问题交换了看法。">双方还就亚洲的安全形势和经济发展以及欧洲的一体化等有关问题交换了看法。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="巴尔希望法中关系能够得到进一步发展和加强。">巴尔希望法中关系能够得到进一步发展和加强，并表示法国愿以自己的优势更加积极地参与中国的经济建设。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="巴尔一行应外交学会邀请于三十日抵京，他们还将前往上海访问。">外交学会会长刘述卿会见时在座。巴尔一行应外交学会邀请于三十日抵京，他们还将前往上海访问。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="在会见乌拉圭客人时，钱其琛说，中乌建交六年多来，两国友好合作关系持续稳步发展。">在会见乌拉圭客人时，钱其琛对加米奥副外长来访和进行政治磋商表示欢迎。他说，中乌建交六年多来，两国友好合作关系持续稳步发展。乌拉圭是拉美地区同中国开展贸易最早的国家之一，双边贸易发展较快。目前，中国是乌拉圭羊毛的最大买主。他希望今后两国的经贸科技合作与交流进一步扩大和发展。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="钱其琛对乌拉圭在国际事务中给予中国的支持表示感谢，对乌拉圭政府坚持一个中国的立场表示赞赏。">钱其琛对乌拉圭在国际事务中给予中国的支持表示感谢，对乌拉圭政府坚持一个中国的立场表示赞赏。他说，拉美是一个充满希望的大陆，具有巨大的发展潜力。近几年来，拉美经济稳定增长，这为进一步加强中拉经贸合作提供了良好的条件。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="中国重视加强同南方共同市场国家和其他拉美国家的友好合作关系。">他说，中国重视加强同包括乌拉圭在内的南方共同市场国家和其他拉美国家的友好合作关系。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="乌拉圭重视同中国发展经济贸易、科学技术和文化等各个领域的关系。乌拉圭高度赞赏中国在国际事务中发挥越来越重要的作用，坚决支持恢复中国在关贸总协定中的缔约国地位。">加米奥表示，乌拉圭重视同中国发展经济贸易、科学技术和文化等各个领域的关系。他说，七十年代初中国恢复了在联合国的合法席位，这是联合国事务中的一个重大进展。乌拉圭高度赞赏中国在国际事务中发挥越来越重要的作用，特别是在建立国际政治经济新秩序中所起的积极作用。乌拉圭坚决支持恢复中国在关贸总协定中的缔约国地位，并相信它在未来的世界贸易组织中作出积极的贡献。</P>
+    <P Function="Supplement" ID="10" ParagraphTopic="加米奥代表乌拉圭政府向中国纺织总会赠送了十七吨羊毛。">今天上午，加米奥代表乌拉圭政府向中国纺织总会赠送了十七吨羊毛，供中国有关部门、科研机构和高等院校作为科研所用。</P>
+    <P Function="Supplement" ID="11" ParagraphTopic="外交部副部长刘华秋二十九日在这里同加米奥举行了工作会谈。">外交部副部长刘华秋二十九日在这里同加米奥举行了工作会谈，双方就进一步发展双边关系和共同关心的国际、地区问题深入地交换了意见，取得了广泛的一致。</P>
+    <P Function="Supplement" ID="12" ParagraphTopic="米奥一行是应外交部邀请于八月二十九日来华访问和进行两国外交部间政治磋商的。他们还将赴杭州访问。">加米奥一行是应外交部邀请于八月二十九日来华访问和进行两国外交部间政治磋商的。他们还将赴杭州访问。（完）</P>
+  </TEXT>
+</DOC>

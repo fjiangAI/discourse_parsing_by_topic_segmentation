@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="据新华社联合国２月１３日电" DiscourseTopic="德奎利亚尔对伊平民死亡表示悲痛一些国家谴责多国部队屠杀无辜">
+    <LEAD>联合国秘书长对多国部队空袭巴格达造成平民伤亡表示悲痛。多国部队１３日对巴格达进行空袭时炸死数百平民，世界舆论对此反应强烈。</LEAD>
+    <ABSTRACT>联合国秘书长对多国部队空袭巴格达造成平民伤亡表示悲痛。多国部队１３日对巴格达进行空袭时炸死数百平民，世界舆论对此反应强烈。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="4|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...6" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...5|6...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="联合国秘书长对多国部队空袭巴格达造成平民伤亡表示悲痛。">联合国秘书长佩雷斯·德奎利亚尔今天对多国部队空袭巴格达造成平民伤亡表示悲痛。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="秘书长发言人朱利亚尼在一份声明中说，佩雷斯·德奎利亚尔对如此多的伊拉克平民死于空袭深感悲痛。">秘书长发言人朱利亚尼在一份声明中说，佩雷斯·德奎利亚尔对如此多的伊拉克平民死于空袭深感悲痛。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="多国部队１３日对巴格达进行空袭时炸死数百平民，世界舆论对此反应强烈。">据新华社北京２月１４日电多国部队１３日对巴格达进行空袭时炸死数百平民，世界舆论对此反应强烈。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="伊拉克国防部官员说，多国部队的飞机投下的两枚导弹或炸弹，击中一座大型地下防空掩体，至少５００名平民被炸死，其中多半是妇女和儿童。">伊拉克国防部官员说，多国部队的飞机１３日当地时间凌晨４点投下的两枚导弹或炸弹，击中一座大型地下防空掩体，躲在里面的至少５００名平民被炸死，其中多半是妇女和儿童。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="突尼斯呼吁结束毁灭性战争，并为和平解决冲突创造条件。也门驻联合国代表阿什塔尔强烈谴责这起事件。">突尼斯政府认为，这些轰炸再次表明，多国部队的行动已超出了联合国安理会决议授权的范围。突尼斯再次呼吁国际良知采取行动，停止流血，结束毁灭性战争，并为和平解决冲突创造条件。也门驻联合国代表阿什塔尔强烈谴责这起事件，要求联合国安理会对被通过的对伊拉克动武的６７８号决议负责。他说，没人认为这起“凶恶和不可饶恕的”轰炸是正义的。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="在约旦首都安曼，上千名愤怒的群众在美国使馆门前游行示威，抗议多国部队的轰炸杀害巴格达无辜平民。">在约旦首都安曼，上千名愤怒的群众在美国使馆门前游行示威，抗议多国部队的轰炸杀害巴格达无辜平民。</P>
+  </TEXT>
+</DOC>

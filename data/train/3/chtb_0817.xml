@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社华盛顿１２月３０日电" DiscourseTopic="美国内华达州３１匹野马遭枪杀">
+    <LEAD>美国内华达州西部最近有３１匹野马遭偷猎者枪杀。</LEAD>
+    <ABSTRACT>美国内华达州西部最近有３１匹野马遭偷猎者枪杀。野马的尸体是２７日和２９日被发现的。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="美国内华达州西部最近有３１匹野马遭偷猎者枪杀。">据《华盛顿邮报》３０日报道，美国内华达州西部最近有３１匹野马遭偷猎者枪杀，这是该州１０年来最严重的一次枪杀野马事件。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="野马的尸体是２７日和２９日被发现的。">一位当地官员说，野马的尸体是２７日和２９日被发现的，其中包括小马和怀孕的母马。调查人员将从野马的尸体中取出子弹，以帮助缉拿凶手。</P>
+    <P Function="Background" ID="3" ParagraphTopic="美国枪杀野生动物的事件屡屡发生。">尽管美国政府制定了保护野生动物和严厉打击偷猎者的法律，然而枪杀野生动物的事件却屡屡发生。在８０年代中期，内华达州中部就曾有无数野牛被杀，但没有一个凶手被绳之以法。（完）</P>
+  </TEXT>
+</DOC>

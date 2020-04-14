@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电（记者俞铮）" DiscourseTopic="中国歌迷翘首盼望世界流行乐超级巨星演唱会">
+    <LEAD>世界流行乐巨星理查德·马克斯将于元月十五日和十六日首次在北京举行两场个人演唱会。</LEAD>
+    <ABSTRACT>世界流行乐巨星理查德·马克斯将于元月十五日和十六日首次在北京举行两场个人演唱会。地铁车站和路边广告牌上已经换上了印刷精美的演唱会大幅海报。演唱会的消息带来新一轮流行乐热潮。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="4" Layer="4" ParagraphPosition="1...1|2...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...6" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|5" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...5" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Background" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="世界流行乐巨星理查德·马克斯将于元月十五日和十六日首次在北京举行两场个人演唱会。">北京正在热热闹闹迎新年，贺岁电影、商场购物打折都吸引着人们的注意力。但是，近几天年轻人谈论最多的却是世界流行乐巨星理查德·马克斯将于元月十五日和十六日首次在北京举行的两场个人演唱会。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="地铁车站和路边广告牌上已经换上了印刷精美的演唱会大幅海报。">地铁车站和路边广告牌上已经换上了印刷精美的演唱会大幅海报。正在北京广播学院攻读硕士学位的宋菁说：“到时候我一定要去现场看看这位世界顶级歌手的风采。不过我不知道有没有运气得到他的签名。”</P>
+    <P Function="Situation" ID="3" ParagraphTopic="演唱会的消息带来新一轮流行乐热潮。">演唱会的消息带来新一轮流行乐热潮。马克斯的最新精选专辑《有情岁月》近日在北京市场异常火爆。演唱会的组织者中国对外演出公司文化娱乐公司的有关人士透露，计划在工人体育馆举行的演唱会出票情况十分理想。尽管演唱会的最高票价高达五百元，但前来定票的歌迷还是络绎不绝。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="马克斯是当代流行乐坛最响当当的歌手之一，在中国内地拥有数量惊人的歌迷。">出生在美国芝加哥的马克斯是当代流行乐坛最响当当的歌手之一，也是世界上最著名的词曲作者之一。他的前四张专辑在全世界卖掉了至少两千万张。作为最早被介绍到中国的为数不多的几名欧美歌星之一，马克斯在中国内地拥有数量惊人的歌迷。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="马克斯是当代商业流行音乐的代表人物，他的作品非常符合中国歌迷的口味。">绝大多数听过英文流行歌的人都知道欧美流行音乐史上的超级经典《在此等候》。九十年代初，这首歌的作者兼演唱者马克斯随着内地第一批欧美歌迷群体的形成而在中国迅速走红。爱穿牛仔裤的马克斯是当代商业流行音乐的代表人物，他的作品非常符合中国歌迷的口味。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="北京歌迷王贝贝说：“流行乐坛好久没有令人砰然心动的东西了。我希望这次能跟着理查德狂欢一下。”">北京歌迷王贝贝说：“流行乐坛好久没有令人砰然心动的东西了。我希望这次能跟着理查德狂欢一下。”</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="这位摇滚歌手还将于元月二十日在上海亮相。">这位摇滚歌手还将于元月二十日在上海亮相。（完）</P>
+  </TEXT>
+</DOC>

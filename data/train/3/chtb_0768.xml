@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州十二月三十日电" DiscourseTopic="广州亲子鉴定“升温”">
+    <LEAD>亲子鉴定服务今年在广州“升温”。</LEAD>
+    <ABSTRACT>亲子鉴定服务今年在广州“升温”。亲子鉴定是通过对ＤＮＡ的分析，来得出个人身份的鉴定。八十年代初以认亲为主，现在则五花八门。其中移民认亲为多数。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="亲子鉴定服务今年在广州“升温”。">亲子鉴定服务今年在广州“升温”。据中国最早几间采用ＤＮＡ亲子鉴定的中山医科大学鉴定中心透露，今年该中心已做了五百多宗亲子鉴定，比去年多了二百多宗，比一九八四年整整多了十倍。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="亲子鉴定是通过对ＤＮＡ的分析，来得出个人身份的鉴定。八十年代初以认亲为主，现在则五花八门。其中移民认亲为多数。">亲子鉴定是通过对ＤＮＡ的分析，来得出个人身份的鉴定。据了解，前来做亲子鉴定的类型，八十年代初以认亲为主，现在则五花八门。其中移民认亲为多数。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="一位八十一岁高 龄的老人由别人搀扶来到中山医科大学鉴定中心要求做亲子鉴定，最后鉴定结果显示，其父子关系的概率达百分之九十七，排除了所有人的疑虑。也有相当一部分人是抱着一种心病去做亲子鉴定的。">一位八十一岁高龄的老人由别人搀扶来到中山医科大学鉴定中心要求做亲子鉴定，和他一起来的是他那四十二岁的妻子。这对合法的老夫少妻于两年前生下一个儿子。但这两年来，很多人以怀疑的眼光看他们，不相信这位年近八十的老阿公还有生育能力。最后鉴定结果显示，其父子关系的概率达百分之九十七，排除了所有人的疑虑。然而，也有相当一部分人是抱着一种心病去做亲子鉴定的。因为猜疑和莫明的不信任，一些年轻夫妻无端怀疑自己的配偶，他们当中不少人是背着对方偷偷去做亲子鉴定的。其结果表明，非婚生子女仅是已婚夫妻中极个别的现象。（完）</P>
+  </TEXT>
+</DOC>

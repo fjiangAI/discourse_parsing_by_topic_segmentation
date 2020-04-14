@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京三月十八日电" DiscourseTopic="通用电气在华成立第十四家合资企业">
+    <LEAD>通用电气在成都成立合资企业。</LEAD>
+    <ABSTRACT>通用电气在成都成立合资企业，将主要从事开发、生产、制造、组装销售医用诊断用Ｘ光设备，以及进出口贸易、咨询和技术合作等。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="通用电气在成都成立合资企业。">美国通用电气与中国医疗器械工业公司西南医用设备厂近日签定合同，共同投资六百万美元，在成都成立合资企业。</P>
+    <P Function="Background" ID="2" ParagraphTopic="通用公司在华投资情况。">据悉，这是通用公司在华投资成立的第十四家合资企业。目前，通用在华投资总额已达一亿五千万美元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="新企业从事业务。">这家名叫成都通用医疗设备（西南）有限公司的新企业将主要从事开发、生产、制造、组装销售医用诊断用Ｘ光设备，以及进出口贸易、咨询和技术合作等。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="除建立合资企业外，通用公司在华的其他投资情况。">除建立合资企业外，通用还通过飞机和集装箱租赁向中国投入十亿多美元。通用现在华职工超过八千名。另外，一九九四年，通用在中国购买了四千多万美元的产品，并计划在今后两年增加对中国产品的购买量。（完）</P>
+  </TEXT>
+</DOC>

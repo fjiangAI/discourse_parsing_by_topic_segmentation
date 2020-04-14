@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="784896e7-10ab-483b-b078-1e0f8a4c8439" name="10.10.49.180" url="http://10.10.49.180">
+        <fileTransfer host="10.10.49.180" port="22" rootFolder="/home/fjiang/discourse_parsing_by_topic_segmentation" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

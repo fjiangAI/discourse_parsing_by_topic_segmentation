@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电（记者李术峰）" DiscourseTopic="“携手筑长城”赈灾义演晚会认捐款物绝大部分已经到位">
+    <LEAD>由民政部、文化部举办的“携手筑长城”赈灾义演晚会认捐款物绝大部分已经到位。</LEAD>
+    <ABSTRACT>由民政部、文化部举办的“携手筑长城”赈灾义演晚会认捐款物绝大部分已经到位。晚会认捐救灾捐赠款物达十点九三亿元，其中认捐资金五点二亿元，捐物折款五点七三亿元。在“晚会”期间正式认捐且经核实准确无误的单位和个人，其认捐款物已全部到位。个别单位在按捐赠数额到位了其中大部分物资和资金后，因生产不景气，效益下降而难于兑现剩余部分。少部分单位和个人当时没有留下联系电话、联系地址、联系人或联系电话、联系地址有误，无法核查。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="由民政部、文化部举办的“携手筑长城”赈灾义演晚会认捐款物绝大部分已经到位。">记者今天从民政部获悉，由民政部、文化部举办的“携手筑长城”赈灾义演晚会认捐款物绝大部分已经到位。截至目前，捐款到位五点一四八四亿元，捐物到位五点六八亿元，款物共到位十点八二八四亿元，占当初认捐数的百分之九十九。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="晚会认捐救灾捐赠款物达十点九三亿元，其中认捐资金五点二亿元，捐物折款五点七三亿元。">今年抗洪救灾期间，为进一步唤起社会各界对灾区的支持，民政部与文化部于八月二十一日在人民大会堂成功举办了“携手筑长城”大型赈灾义演晚会。晚会认捐救灾捐赠款物达十点九三亿元，其中认捐资金五点二亿元，捐物折款五点七三亿元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在“晚会”期间正式认捐且经核实准确无误的单位和个人，其认捐款物已全部到位。个别单位在按捐赠数额到位了其中大部分物资和资金后，因生产不景气，效益下降而难于兑现剩余部分。少部分单位和个人当时没有留下联系电话、联系地址、联系人或联系电话、联系地址有误，无法核查。">民政部有关负责人表示，在“晚会”期间正式认捐且经核实准确无误的单位和个人，其认捐款物已全部到位。向民政部提供了认捐书的单位中，个别单位在按捐赠数额到位了其中大部分物资和资金后，因生产不景气，效益下降而难于兑现剩余部分，对此民政部已予表示理解。另有通过晚会现场热线电话认捐的少部分单位和个人当时没有留下联系电话、联系地址、联系人或联系电话、联系地址有误，无法核查。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="今年救灾捐赠的热情之高，规模之大，成效之显著在中国救灾史上都是空前的。">这位负责人说，今年救灾捐赠的热情之高，规模之大，成效之显著在中国救灾史上都是空前的。（完）</P>
+  </TEXT>
+</DOC>

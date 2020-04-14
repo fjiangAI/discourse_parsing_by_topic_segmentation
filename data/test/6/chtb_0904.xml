@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社武汉五月二十一日电（记者周晓梅杨希伟" DiscourseTopic="武汉成为国际资本投资的热点">
+    <LEAD>武汉市正日益成为国际投资者瞩目的焦点。</LEAD>
+    <ABSTRACT>武汉市正日益成为国际投资者瞩目的焦点。至今年三月底，武汉市共吸引世界上五十多个国家和地区的投资。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="武汉市正日益成为国际投资者瞩目的焦点。">湖北武汉市正日益成为国际投资者瞩目的焦点，在引进外资的速度与规模上，这个市连年居中国内地开放城市之首。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="至今年三月底，武汉市共吸引世界上五十多个国家和地区的投资。">至今年三月底，武汉市共吸引世界上五十多个国家和地区的投资，累计审批利用外资项目近五千个，协议外资额七十一亿美元，实际利用外资四十八亿美元；全市兴办“三资”企业三千七百四十家，协议外资额四十四亿美元，实际进资二十二亿美元，进资率达百分之五十，高于全国平均水平十七个百分点。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="自一九九二年武汉被确认为沿江对外开放城市以来，其外资利用水平逐年提高。">自一九九二年武汉被确认为沿江对外开放城市以来，其外资利用水平逐年提高。据武汉外商投资办公室主任孙怀玉介绍，近年来，来自发达国家，特别是欧、美、日对武汉的投资比重迅速提高。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="在近年新的投资项目中，欧、美、日投资的项目协议外资额占了总额的百分之五十左右。">据了解，在近年新的投资项目中，欧、美、日投资的项目协议外资额占了总额的百分之五十左右。今年一季度，则达到百分之八十一。另外，来汉考察投资的一千多个外国代表团中，百分之七十来自欧、美、日等发达国家。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="越来越多的大财团、大公司也看好武汉。">越来越多的大财团、大公司也看好武汉。世界上最大的五百家公司中，有一百二十多家到武汉考察投资，其中，三十家投资办了企业，三十家设立了代表处或办事机构。</P>
+    <P Function="Comment" ID="6" ParagraphTopic="国际资本的大量涌入，为武汉经济连续多年保持两位数增长速度提供了有利条件。">孙怀玉称，国际资本的大量涌入，为武汉经济连续多年保持两位数增长速度提供了有利条件。武汉固定资产投资中，外资占百分之三十五以上，在开发区则达到百分之六十左右，“三资”企业税收、出口创汇、提供就业等，在全市国民经济中都占了相当大的比重，外资已逐渐成为武汉经济发展的新的增长点。（完）</P>
+  </TEXT>
+</DOC>

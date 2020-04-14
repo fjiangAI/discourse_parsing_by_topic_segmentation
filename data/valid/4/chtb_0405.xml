@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京九月二十八日电" DiscourseTopic="外资金融机构已成为中国金融体系重要组成部分">
+    <LEAD>外资金融机构已成为中国金融体系的重要组成部分。</LEAD>
+    <ABSTRACT>外资金融机构已成为中国金融体系的重要组成部分。外资银行在华资产总额占全国金融机构外汇总资产的比例已达百分之十四以上。迄今，可经营人民币业务的外资银行已扩展到九家。允许外资银行从事人民币业务并促进其业务全面发展，是中国活跃国内金融市场、提高对外开放水平战略的重要组成部分。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="外资金融机构已成为中国金融体系的重要组成部分。">最新一期《了望》周刊报道说，外资金融机构已成为中国金融体系的重要组成部分。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="外资银行在华资产总额占全国金融机构外汇总资产的比例已达百分之十四以上。">报道说，截至一九九七年上半年，在华外资金融机构代表处五百三十多家，其中，外资银行分行一百三十多家，来自英、法、美、日等三十六个国家和地区。国家已批准可以设立营业性外资金融机构的经济特区和城市已有二十六个。外资银行在华资产总额占全国金融机构外汇总资产的比例已达百分之十四以上。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="迄今，可经营人民币业务的外资银行已扩展到九家。">报道说，迄今，可经营人民币业务的外资银行已扩展到九家，其中通过有关检验于一九九七年三月正式营业的六家外资银行，到六月底人民币存款逾二亿，贷款逾一亿。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="允许外资银行从事人民币业务并促进其业务全面发展，是中国活跃国内金融市场、提高对外开放水平战略的重要组成部分。">报道还说，虽然目前对外资银行进入中国市场在审批过程中仍采取谨慎和有步骤开放的方式，但允许外资银行从事人民币业务并促进其业务全面发展，是中国活跃国内金融市场、提高对外开放水平战略的重要组成部分。“九五”（一九九六至二０００年）期间，中国将吸收外资二千三百至二千七百亿美元。（完）</P>
+  </TEXT>
+</DOC>

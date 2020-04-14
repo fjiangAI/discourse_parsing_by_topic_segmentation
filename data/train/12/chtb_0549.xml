@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="联合国制裁条例草案今刊宪">
+    <LEAD>政府今日（星期二）在宪报刊登联合国制裁条例草案。</LEAD>
+    <ABSTRACT>政府今日（星期二）在宪报刊登联合国制裁条例草案。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...9|10...12" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Supplement" ID="4" Layer="3" ParagraphPosition="6...6|7...9" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="7...7|8...8|9...9" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="6" Function="Supplement" ID="2" Layer="2" ParagraphPosition="10...11|12...12" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="10" Layer="6" ParagraphPosition="1...1|2...2" ParentId="9" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7|4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...5|6...9" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="3" ParagraphPosition="10...10|11...11" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="8" Function="Story" ID="7" Layer="3" ParagraphPosition="1...4|5...5" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="9" Function="Story" ID="8" Layer="4" ParagraphPosition="1...3|4...4" ParentId="7" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="10" Function="Story" ID="9" Layer="5" ParagraphPosition="1...2|3...3" ParentId="8" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="政府今日（星期二）在宪报刊登联合国制裁条例草案。">政府今日（星期二）在宪报刊登联合国制裁条例草案。该草案旨在赋权行政长官，在收到中央人民政府的指令後，制定规例以执行联合国安全理事会所实施的制裁。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="在香港特别行政区（香港特区）施行联合国的制裁是与外交事务有关，所以是属於中央人民政府的决定。">工商局局长俞宗怡解释，在香港特别行政区（香港特区）施行联合国的制裁是与外交事务有关，所以是属於中央人民政府的决定。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="最近行政长官接到中央人民政府的指令，要执行联合国安全理事会的决定，向几个地方实施制裁。">最近行政长官接到中央人民政府的指令，要执行联合国安全理事会的决定，向几个地方实施制裁。因此要制定本地的法律，以使这些指令得以生效。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="执行联合国的制裁亦会为特区带来好处。">俞宗怡说∶「执行联合国的制裁亦会为特区带来好处。这会维持香港特区作为一个负责任的贸易夥伴的声誉，而不是一个规避联合国制裁的渠道。」</P>
+    <P Function="Background" ID="5" ParagraphTopic="过往，由联合国实施的经济制裁是依靠英国的枢密院颁令在香港执行。">「过往，由联合国实施的经济制裁是依靠英国的枢密院颁令在香港执行。这些颁令已在一九九七年六月三十日後失效。」</P>
+    <P Function="Sub-Summary" ID="6" ParagraphTopic="联合国的制裁通常会包括下列一项或多项∶。">联合国的制裁会因个别情况而有所不同，但通常会包括下列一项或多项∶</P>
+    <P Function="Situation" ID="7" ParagraphTopic="限制出口到一指定目的地和从该地方来的进口。">＊限制出口到一指定目的地和从该地方来的进口。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="限制与一指定地方或国家的政府从事财经交易。">＊限制与一指定地方或国家的政府从事财经交易。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="限制与一指定地方或国家有航空上联系。">＊限制与一指定地方或国家有航空上联系。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="政府将於明日（星期三）把联合国制裁条例草案提交临时立法会。">为了将旧措施失效和新措施尚未实施的间断时间减至最少，政府将於明日（星期三）把联合国制裁条例草案提交临时立法会。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="我们需要用这特快程序以尽量减少任何尝试利用香港作为规避联合国有关制裁的可能。">俞宗怡解释∶「我们需要用这特快程序以尽量减少任何尝试利用香港作为规避联合国有关制裁的可能。」</P>
+    <P Function="Supplement" ID="12" ParagraphTopic="临立会的成员会谅解并合作确保草案得以迅速通过。">「鉴於这草案提供立法工具使中央人民政府权力范围内发出的指引得以有效，我们相信临立会的成员会谅解并合作确保草案得以迅速通过。」</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社济南十二月二十七日电（记者李红梅）" DiscourseTopic="山东蔬菜产业继续向纵深发展">
+    <LEAD>山东省寿光市的一位菜农承包了八百平方米的蔬菜大棚，种植丝瓜。像齐家这样承包蔬菜大棚的农民在当地并不在少数。在寿光市蔬菜批发市场上新鲜的蔬菜全年可见，蔬菜品种达一百二十多个。</LEAD>
+    <ABSTRACT>山东省寿光市的一位菜农承包了八百平方米的蔬菜大棚，种植丝瓜。像齐家这样承包蔬菜大棚的农民在当地并不在少数。在寿光市蔬菜批发市场上新鲜的蔬菜全年可见，蔬菜品种达一百二十多个。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="7" Layer="5" ParagraphPosition="3...3|4...4" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="5...5|6...6" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Summary" ID="8" Layer="5" ParagraphPosition="1...1|2...2" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...8" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5|6" Function="Story" ID="3" Layer="3" ParagraphPosition="1...4|5...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Background" ID="4" Layer="3" ParagraphPosition="7...7|8...8" ParentId="2" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8|7" Function="Story" ID="5" Layer="4" ParagraphPosition="1...2|3...4" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="山东省寿光市的一位菜农承包了八百平方米的蔬菜大棚，种植丝瓜。">“我不怕菜卖不出去，就怕它长不出来。”齐宝芳，山东省寿光市的一位菜农，对前来视察的人大代表这样说。齐今年二十八岁，家中四口人，承包了八百平方米的蔬菜大棚，种植丝瓜，个人投资共计二点六万元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="像齐家这样承包蔬菜大棚的农民在当地并不在少数。">像齐家这样承包蔬菜大棚的农民在当地并不在少数。赫风英承包了六百平方米的蔬菜大棚，种植葫芦，每年可以种三季，年收入可达三万元；王德莲承包了一个大棚，种植以色列番茄，这种番茄年产量可达四万公斤，主要供应给各大宾馆，年盈利三万五千元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="经营大棚蔬菜比较辛苦。">经营大棚蔬菜比较辛苦。王德英告诉记者，她每天早上七点就要到大棚来，一直要忙到晚上六点。但看得出来，她很开心。自今年中共十五届三中全会决定将土地承包期再延长三十年后，农民更加积极地投入大笔资金，用于农副业生产。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="每个蔬菜大棚投入大约都要两、三万元，每年各项费用约三千到五千元。">每个蔬菜大棚投入大约都要两、三万元，每年各项费用约三千到五千元。菜农们说所有这些投入在当年即可收回。每到蔬菜成熟时节，都会有蔬菜批发商前来收购，菜农也可以自己到市里的批发市场进行交易。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="在寿光市蔬菜批发市场上新鲜的蔬菜全年可见，蔬菜品种达一百二十多个。">在寿光市蔬菜批发市场上新鲜的蔬菜全年可见，蔬菜品种达一百二十多个，前来交易的除当地菜农外，还有来自海南、广东、广西、江苏、四川、陕西、东北三省的批发商。去年这个市场的蔬菜成交量二十三亿公斤，交易额二十五亿元。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="该市场始建于一九八四年，占地三十六点六公顷，累计投资近二亿元，并建成了直通北京的绿色通道。">该市场始建于一九八四年，占地三十六点六公顷，累计投资近二亿元，并建成了直通北京的绿色通道，每天有二百辆卡车向首都运输新鲜蔬菜。</P>
+    <P Function="Statement" ID="7" ParagraphTopic="山东省从去年开始大力开发绿色蔬菜种植业。">山东省，作为中国的农业大省，在农业产业化方面起步较早，取得了很好的经济效益。该省从去年开始大力开发绿色蔬菜种植业，许多菜农都投入了绿色蔬菜的生产，当地政府也在这方面给予了财政和技术上的支持。</P>
+    <P Function="Illustration" ID="8" ParagraphTopic="寿光市洛城镇绿色食品蔬菜示范基地目前共有高标准蔬菜大棚二百五十个，引进推广了海内外近百个蔬菜品种。">以寿光市洛城镇绿色食品蔬菜示范基地为例，该基地目前共有高标准蔬菜大棚二百五十个，引进推广了海内外近百个蔬菜品种。建棚费用由政府资助一万元，个人出资二万至三万元。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="绿色食品是指那些无污染的安全、优质、营养的食品。山东的绿色蔬菜将会有很好的发展前景。">绿色食品是指那些无污染的安全、优质、营养的食品。人大代表，中国农业大学教授毛达如、北京市农林科学院蔬菜研究中心室主任高丽朴在视察之后认为，随着中国人生活水平的提高，人们更注意食用健康食品，山东的绿色蔬菜将会有很好的发展前景。（完）</P>
+  </TEXT>
+</DOC>

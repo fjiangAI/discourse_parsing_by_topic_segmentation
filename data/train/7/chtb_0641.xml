@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社呼和浩特五月三十一日电（记者顾明、阿斯钢）" DiscourseTopic="包头建成中国最大的稀土科研生产基地">
+    <LEAD>内蒙古包头市建成中国最大的稀土科研生产基地。</LEAD>
+    <ABSTRACT>内蒙古包头市建成中国最大的稀土科研生产基地。稀土在各行各业均有广泛运用。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Sub-Summary" ID="5" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="6" Layer="5" ParagraphPosition="1...1|2...2" ParentId="5" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="内蒙古包头市建成中国最大的稀土科研生产基地。">内蒙古包头市依托雄厚的稀土资源，靠着以包钢稀土研究院为主的世界一流科研力量和几十年的开发利用，已经建成中国最大的稀土科研生产基地。</P>
+    <P Function="Background" ID="2" ParagraphTopic="包头稀土储量居世界首位，以其品位高、开采条件好为世界瞩目。">包头稀土储量居世界首位，以其品位高、开采条件好为世界瞩目。举世闻名的白云鄂博矿已探明的稀土保存储量占世界的百分之七十，占中国的百分之九十以上。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="稀土在各行各业均有广泛运用。">稀土被誉为“工业味精”，在石化机械、电子、、汽车、建材、纺织、军工、农业等各行各业均有广泛运用。随着高新技术的发展，稀土应用的前景将越来越广阔。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="包头已经取得稀土科研成果近八百项。">目前，包头已经取得稀土科研成果近八百项，其中有二百多项重大成果获国家、部、省级奖励，有二十多项稀土选冶流程和工艺技术领先于国际水平，特别是包钢稀土研究院为丁肇中教授探测反物质国际合作项目提供高性能钕铁硼钢，在国际上引起强烈反响。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="科技攻关带动了包头稀土工业生产的迅速发展。">科技攻关带动了包头稀土工业生产的迅速发展。现已建成包钢稀土一、二、三厂等稀土生产厂家，其中有世界最大的稀土精矿、稀土合金生产厂。目前包头可以生产八十多种稀土产品，这些产品以其独特的优良性能畅销全国，并出口十几个国家和地区，年产值和利税达二十多亿元和三亿多元，出口值达五千多万美元。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="包头稀土高新技术产业开发区是中国唯一以稀土开发为重点的开发区。">包头稀土高新技术产业开发区是中国唯一以稀土开发为重点的开发区。据开发区管理委员会副主任贺海钧介绍，一九九六年该区完成工业产值九点二亿元，其中稀土产业产值占百分之三十。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="包头鹿西罗纳稀土有限公司由稀土初加工向深加工发展；目前开发区正与韩国双龙集团洽谈生产钕铁硼，意向书已经签订。">他说，包头鹿西罗纳稀土有限公司原为中美合资企业，一九九六年又吸收了法国罗纳普郎克公司的股份，由稀土初加工向深加工发展。目前开发区正与韩国双龙集团洽谈生产钕铁硼，意向书已经签订，这一项目投资近一亿元。（完）</P>
+  </TEXT>
+</DOC>

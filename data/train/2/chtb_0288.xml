@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月二十三日电" DiscourseTopic="国际红十字会专家结束访华">
+    <LEAD>红十字国际委员会处长格丁纳格一行四人访问中国。</LEAD>
+    <ABSTRACT>红十字国际委员会处长格丁纳格一行四人访问中国。双方就进一步开展交流与合作问题举行了专家级工作会谈。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="红十字国际委员会处长格丁纳格一行四人访问中国。">外交部发言人今天说，应中国红十字会邀请，红十字国际委员会处长格丁纳格一行四人，于四月十八日至二十三日访问中国。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="双方就进一步开展交流与合作问题举行了专家级工作会谈。">发言人说，双方就进一步开展交流与合作问题举行了友好、坦诚、求实的专家级工作会谈。会谈就一些原则和具体问题进行了深入讨论，达成了一些谅解。双方一致认为会谈具有积极成果。双方将继续以务实的精神共同努力，加强合作。（完）</P>
+  </TEXT>
+</DOC>

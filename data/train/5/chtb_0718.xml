@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社拉各斯１２月２８日电（记者王金余）" DiscourseTopic="尼日利亚石油出口收入锐减，财政状况恶化">
+    <LEAD>１９９８年尼石油出口收入锐减，财政状况恶化，财政赤字可能超过２３亿美元。</LEAD>
+    <ABSTRACT>１９９８年尼石油出口收入锐减，财政状况恶化，财政赤字可能超过２３亿美元。今年制订财政预算时是按每桶原油出口收入１７美元计算的。但预算公布不久，国际市场上油价就开始一路下滑，使尼原油收入大幅度减少。由于今年石油收入锐减，尼政府财政入不敷出，１０月份不得不动用外汇储备１８．７亿美元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...3|4...4" ParentId="2" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Cause" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="１９９８年尼石油出口收入锐减，财政状况恶化，财政赤字可能超过２３亿美元。">尼日利亚国家元首阿布巴卡尔最近指出，１９９８年尼石油出口收入锐减，财政状况恶化，财政赤字可能超过２３亿美元。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="今年制订财政预算时是按每桶原油出口收入１７美元计算的。但预算公布不久，国际市场上油价就开始一路下滑，使尼原油收入大幅度减少。">阿布巴卡尔在尼首都阿布贾对尼《今日报》发表讲话说，今年制订财政预算时是按每桶原油出口收入１７美元计算的。但预算公布不久，国际市场上油价就开始一路下滑，使尼原油收入大幅度减少。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="今年头１０个月石油总收入仅为６９．９亿美元。今年全年石油收入可能只有７４．５亿美元。">尼１月份石油收入为１４．５亿美元，但到１０月份则锐减到３．６８亿美元。今年头１０个月石油总收入仅为６９．９亿美元。据业内人士估计，今年全年石油收入可能只有７４．５亿美元，而１９９６年和１９９７年则分别为１０８．９亿美元和１１９．９亿美元。</P>
+    <P Function="Result" ID="4" ParagraphTopic="由于今年石油收入锐减，尼政府财政入不敷出，１０月份不得不动用外汇储备１８．７亿美元。">石油工业是尼日利亚经济的支柱产业，其收入约占政府预算收入的百分之七十。由于今年石油收入锐减，尼政府财政入不敷出，１０月份不得不动用外汇储备１８．７亿美元。据悉，尼目前有外汇储备６２亿美元，仅够支付３个月进口费用和偿还欠债。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="即将公布的１９９９年财政预算将是一个赤字预算。">阿布巴卡尔说，国际原油市场目前仍无好转迹象，尼石油收入不大可能大幅增加，而明年军政府将还政于民，这将增加政府开支。加上政府决定为低工资公务员加薪等因素，即将公布的１９９９年财政预算将是一个赤字预算。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社罗马８月３１日电（记者黄昌瑞周宗欣" DiscourseTopic="第七届世界游泳锦标赛在罗马开幕">
+    <LEAD>第七届世界游泳锦标赛今晚在罗马开幕。本届锦标赛的规模将超过历届。</LEAD>
+    <ABSTRACT>第七届世界游泳锦标赛今晚在罗马开幕。本届锦标赛的规模将超过历届。历时两个多小时的开幕式，充满了新、奇、特。参加本届锦标赛的有来自１０２个国家和地区的１３５０名运动员。已经报名采访的记者有１３２０名。本届锦标赛共设游泳、跳水、花样游泳、水球和长距离游泳５个大项。比赛将于９月１日开始至１１日结束。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...4|5...5" ParentId="2" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Statement" ID="4" Layer="4" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="第七届世界游泳锦标赛今晚在罗马开幕。本届锦标赛的规模将超过历届。">第七届世界游泳锦标赛今晚在罗马开幕。锦标赛组委会宣布，本届锦标赛的规模将超过历届。</P>
+    <P Function="Story-Situation" ID="2" ParagraphTopic="历时两个多小时的开幕式，充满了新、奇、特。">历时两个多小时的开幕式，充满了新、奇、特。意大利著名音乐家克·巴廖尼演唱了由他自己作词谱曲、慷慨激昂的会歌《水中水》，罗马交响乐团４０多名演奏家的表演，令听众如痴如醉，而音乐喷泉、高保真音响效果、喷水屏幕和立体投影更把大家带进了一个声、光、色交融奇妙无比的境界。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="参加本届锦标赛的有来自１０２个国家和地区的１３５０名运动员。已经报名采访的记者有１３２０名。">据组委会提供的数据，参加本届锦标赛的有来自１０２个国家和地区的１３５０名运动员（游泳６６１名、跳水１３７名、水球３３４名、花样游泳２１８名）。已经报名采访的记者有１３２０名（文字６０１名、摄影１７１名、电台、电视台４００名等）。组委会发言人说，“总共有近３０００人将为锦标赛的成功而努力。”</P>
+    <P Function="Situation" ID="4" ParagraphTopic="本届锦标赛共设游泳、跳水、花样游泳、水球和长距离游泳５个大项。比赛将于９月１日开始至１１日结束。">本届锦标赛共设游泳、跳水、花样游泳、水球和长距离游泳５个大项。比赛将于９月１日开始至１１日结束。</P>
+    <P Function="Illustration" ID="5" ParagraphTopic="中国将派３４名选手参加３个大项的比赛。">中国将派３４名选手参加３个大项的比赛，其中游泳选手１５名、跳水选手１０名、花样游泳选手９名。跳水选手已全部抵达罗马，并开始赛前训练。其他选手将在９月２日前分两批到达。（完）</P>
+  </TEXT>
+</DOC>

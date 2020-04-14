@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社杭州十二月二十七日电（记者方益波）" DiscourseTopic="浙江提出下世纪提前基本实现现代化">
+    <LEAD>浙江省提出要比全国计划提前三十年基本实现现代化。</LEAD>
+    <ABSTRACT>浙江省提出要比全国计划提前三十年基本实现现代化。浙江省到二００五年争取有近三分之一的市县基本实现现代化，到二０一０年争取有近三分之二的市县基本实现现代化，到二０二０全省基本实现现代化。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Statement" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="浙江省提出要比全国计划提前三十年基本实现现代化。">周五结束的中共浙江省第十次代表大会提出，浙江省要比全国计划提前三十年基本实现现代化。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="浙江省到二００五年争取有近三分之一的市县基本实现现代化，到二０一０年争取有近三分之二的市县基本实现现代化，到二０二０全省基本实现现代化。">会议确定，浙江省到二００五年争取有近三分之一的市县基本实现现代化，到二０一０年争取有近三分之二的市县基本实现现代化，到二０二０全省基本实现现代化。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="“现代化”的概念包括十二个指标。">按照浙江有关部门的测算，“现代化”的概念包括人均国内生产总值三千至五千美元，农业占国内生产总值比重百分之五至十五，非农业从业人员占全社会从业人员比重达到百分之六十至七十，第三产业占国内生产总值比重百分之四十五至五十，城市化水平百分之五十至六十，大学生入学率百分之十至十五等十二个指标。</P>
+    <P Function="Background" ID="4" ParagraphTopic="浙江省是中国较早开始改革开放的省份，浙江省今年国内生产总值五千余亿元，经济总量已跃升到中国第四位。">地处东南沿海的浙江省是中国较早开始改革开放的省份，尤其是“温州模式”更成为社会主义市场经济发展初期的重要现象，广受关注。浙江省国内生产总值从一九七八年的二百三十二点九亿元上升到今年的五千余亿元，经济总量已跃升到中国第四位。</P>
+    <P Function="Illustration" ID="5" ParagraphTopic="宁波市将加大招商引资力度，温州市将大力推进人的现代化。">致力于发展成为现代化国际港口城市的宁波市表示，将加大招商引资力度，把宁波经济技术开发区、宁波保税区和大榭岛建成二十一世纪新的经济增长点。走在全国改革之先的温州市说，将大力推进人的现代化，给全国闻名的“温州人精神”注入更多的知识含量。此外，浙江还提出开拓海洋经济，使其成为全省经济跨世纪发展新的增长点。（完）</P>
+  </TEXT>
+</DOC>

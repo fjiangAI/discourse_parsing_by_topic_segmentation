@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="据新华社哈博罗内２月１３日电" DiscourseTopic="就非国大停止武装斗争问题非国大和南非政府会谈有突破">
+    <LEAD>南非非洲人国民大会和南非政府１２日就解决双方在非国大停止武装斗争问题上的分歧取得重大突破。</LEAD>
+    <ABSTRACT>南非非洲人国民大会和南非政府１２日就解决双方在非国大停止武装斗争问题上的分歧取得重大突破。南非总统德克勒克和非国大副主席曼德拉发表一项联合声明说，双方关于这一问题的大部分观点取得了一致，并达成协议。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="南非非洲人国民大会和南非政府１２日就解决双方在非国大停止武装斗争问题上的分歧取得重大突破。">据南非《星报》报道，南非非洲人国民大会和南非政府１２日就解决双方在非国大停止武装斗争问题上的分歧取得重大突破。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="南非总统德克勒克和非国大副主席曼德拉发表一项联合声明说，双方关于这一问题的大部分观点取得了一致，并达成协议。">南非总统德克勒克和非国大副主席曼德拉１２日在开普敦举行了长达１１个小时的会谈后，发表一项联合声明说，这一问题得到了解决，双方关于这一问题的大部分观点取得了一致，并达成协议。这项协议在得到南非内阁和非国大全国执行委员会的批准后，就将予以公布。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="非国大将停止绝大部分军事活动，包括征召和武装干部。">据消息灵通人士透露，非国大将停止绝大部分军事活动，包括征召和武装干部。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="这一重大突破为释放政治犯和允许流亡国外的人回国铺平了道路。">这一重大突破为释放政治犯和允许流亡国外的人回国铺平了道路。</P>
+  </TEXT>
+</DOC>

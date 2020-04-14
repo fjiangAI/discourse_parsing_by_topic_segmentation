@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电（记者倪四义、李努尔）" DiscourseTopic="中国颁布第一部证券法">
+    <LEAD>全国人大常委会，通过中国证券市场开办八年来的第一部证券法。</LEAD>
+    <ABSTRACT>全国人大常委会，通过中国证券市场开办八年来的第一部证券法。证券法对中国证券市场的运作，从股票发行、交易，到上市公司收购、证券交易所、证券公司、登记结算机构、交易服务机构、证券业协会、证券监督管理机构和违法的法律责任都作了详细规定。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...15|16...16" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|4" Function="Story" ID="3" Layer="3" ParagraphPosition="7...13|14...15" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="6" Layer="4" ParagraphPosition="7...7|8...13" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="7" Layer="5" ParagraphPosition="8...8|9...9|10...10|11...11|12...12|13...13" ParentId="6" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="11" Layer="5" ParagraphPosition="5...5|6...6" ParentId="8" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Comment" ID="4" Layer="4" ParagraphPosition="14...14|15...15" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...15" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="9|8" Function="Summary" ID="5" Layer="3" ParagraphPosition="1...2|3...6" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="10|11" Function="Comment" ID="8" Layer="4" ParagraphPosition="3...4|5...6" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="9" Layer="4" ParagraphPosition="1...1|2...2" ParentId="5" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="10" Layer="5" ParagraphPosition="3...3|4...4" ParentId="8" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="全国人大常委会，通过中国证券市场开办八年来的第一部证券法。">最高立法机关全国人大常委会今天以一百三十五票赞成、三票弃权的表决结果，通过中国证券市场开办八年来的第一部证券法。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="国家主席江泽民签发主席令，公布这部法律。">国家主席江泽民签发主席令，公布这部法律。法律自一九九九年七月一日起施行。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="证券法确定了中国证券市场的基本规则，将起到重要作用。">李鹏委员长在法律通过后发表讲话说，证券法确定了中国证券市场的基本规则，对于筹集建设资金，保护投资者的合法权益，防范和化解金融风险，保障证券市场的健康发展，将起到重要作用。</P>
+    <P Function="Background" ID="4" ParagraphTopic="证券立法认真总结这些年中国证券市场发展的实践经验，汲取金融危机的教训。">他说，证券立法认真总结这些年中国证券市场发展的实践经验，汲取此次从东南亚开始、波及全球的金融危机的教训，“使这部法律更有针对性，更加切实可行”。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="证券法主要起草人厉以宁教授说，草案从初审到通过，历时五年之久，“很不容易。”。">全国人大常委会委员、全国人大财经委员会副主任委员、同时也是证券法主要起草人厉以宁教授说，草案从初审到通过，历时五年之久，“很不容易。”</P>
+    <P Function="Situation" ID="6" ParagraphTopic="“证券法带来的是规范、有序的证券市场，对股民来说是最大的‘利好’消息。”。">对于证券法出台而中国股市持续五周震荡下泻的情况，厉以宁说，“证券法带来的是规范、有序的证券市场，对股民来说是最大的‘利好’消息。”</P>
+    <P Function="Sub-Summary" ID="7" ParagraphTopic="证券法对中国证券市场的运作，从股票发行、交易，到上市公司收购、证券交易所、证券公司、登记结算机构、交易服务机构、证券业协会、证券监督管理机构和违法的法律责任都作了详细规定。">证券法对中国证券市场的运作，从股票发行、交易，到上市公司收购、证券交易所、证券公司、登记结算机构、交易服务机构、证券业协会、证券监督管理机构和违法的法律责任都作了详细规定。法律共有十二章二百一十四条。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="法律规定证券发行必须遵循“公开、公平、公正”原则，禁止欺诈、内幕交易和操纵证券交易市场行为。">法律规定证券发行必须遵循“公开、公平、公正”原则，禁止欺诈、内幕交易和操纵证券交易市场行为。法律要求证券业与银行、信托、保险分业经营，证券公司必须将自营和代理业务分开，防范当前存在的代理商挪用客户保证金等违规行为。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="法律规定，国务院证券监督管理机构依法对全国证券市场实行集中统一监督管理。">法律规定，国务院证券监督管理机构依法对全国证券市场实行集中统一监督管理，公开发行证券必须报经国务院证券监督管理机构或者国务院授权的部门核准或者审批。法律详细规定了证券发行的核准、审批程序，旨在提高政府行为的透明度，防止腐败和不公。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="证券法特别规定，国有企业和国有资产控股企业不得炒作上市交易股票，禁止银行资金流入股市。">证券法特别规定，国有企业和国有资产控股企业不得炒作上市交易股票，禁止银行资金流入股市。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="法律禁止外国资本流入Ａ股市场，规定“客户开立帐户，必须持有中国公民身份或者中国法人资格的合法证件。”。">为防止中国尚处在发育阶段的股市受到外国投机资本冲击，法律禁止外国资本流入Ａ股市场，规定“客户开立帐户，必须持有中国公民身份或者中国法人资格的合法证件。”</P>
+    <P Function="Situation" ID="12" ParagraphTopic="境内公司股票供境外人士、机构以外币认购和交易的，具体办法由国务院另行规定。">境内公司股票供境外人士、机构以外币认购和交易的，具体办法由国务院另行规定。</P>
+    <P Function="Situation" ID="13" ParagraphTopic="法律对交易所、证券公司、证券监督机构、上市公司、发行商、服务机构及其内部职员及其他有关单位和个人的违反法律规定的行为，规定了详细的法律责任。">法律对交易所、证券公司、证券监督机构、上市公司、发行商、服务机构及其内部职员及其他有关单位和个人的违反法律规定的行为，规定了详细的法律责任，其中有罚款、停业整顿、行政处罚和刑事处分等。</P>
+    <P Function="Situation" ID="14" ParagraphTopic="立法人员表示这些严格的规范措施必将促进中国股市的健康发展，同时促进中国经济的持续健康发展，股民对股市应该更有信心。">立法人员在接受记者采访时表示，这些严格的规范措施必将促进中国股市的健康发展，同时促进中国经济的持续健康发展，股民对股市应该更有信心。</P>
+    <P Function="Situation" ID="15" ParagraphTopic="制定证券法的过程是逐步把握证券市场规律的过程。">李鹏说，制定证券法的过程是逐步把握证券市场规律的过程。随着中国证券市场的发展，各项证券市场规范还将不断得到完善。</P>
+    <P Function="Supplement" ID="16" ParagraphTopic="自一九九０年上海和深圳证交所成立到今年六月底，中国沪、深两市股票市值达到二万一千四百一十二亿元，上市公司八百一十一家，股民发展到三千七百万户。">统计数字表明，自一九九０年上海和深圳证交所成立到今年六月底，中国沪、深两市股票市值达到二万一千四百一十二亿元，上市公司八百一十一家，股民发展到三千七百万户。（完）</P>
+  </TEXT>
+</DOC>

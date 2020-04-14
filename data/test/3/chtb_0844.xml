@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社科伦坡１２月３１日电" DiscourseTopic="斯茶叶出口收入增加">
+    <LEAD>今年头１０个月，斯里兰卡的茶叶出口额为４３０亿卢比（１美元约合６８卢比），比去年同期增长百分之二十五。</LEAD>
+    <ABSTRACT>今年头１０个月，斯里兰卡的茶叶出口额为４３０亿卢比（１美元约合６８卢比），比去年同期增长百分之二十五。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="今年头１０个月，斯里兰卡的茶叶出口额为４３０亿卢比（１美元约合６８卢比），比去年同期增长百分之二十五。">据此间媒体今天报道，今年头１０个月，斯里兰卡的茶叶出口额为４３０亿卢比（１美元约合６８卢比），比去年同期增长百分之二十五，比去年全年增加５亿卢比。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="今年头１０个月，斯茶叶产量为２．３３亿公斤，比去年同期增加９００万公斤。">报道说，今年头１０个月，斯茶叶产量为２．３３亿公斤，比去年同期增加９００万公斤，增产的主要原因是今年气候条件适宜茶叶的生长。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="茶叶出口是斯里兰卡的主要外汇来源之一。">茶叶出口是斯里兰卡的主要外汇来源之一。斯里兰卡茶叶的主要买主俄罗斯今年发生金融危机对斯茶叶出口造成影响。为使茶叶出口市场多元化，斯里兰卡今年努力在中东和拉美地区开拓新市场。</P>
+  </TEXT>
+</DOC>

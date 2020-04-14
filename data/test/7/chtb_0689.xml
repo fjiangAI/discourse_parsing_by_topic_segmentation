@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电" DiscourseTopic="中央农村工作会议在京召开">
+    <LEAD>中央农村工作会议今天在北京开幕。</LEAD>
+    <ABSTRACT>中央农村工作会议今天在北京开幕。这次中央农村工作会议的主要任务是，贯彻落实十五届三中全会和中央经济工作会议的精神，分析农村形势，统一思想认识，着重研究解决当前存在的突出问题，部署明年农村工作。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...6" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="5" ParagraphPosition="4...4|5...6" ParentId="4" RelationType="Purpose-Behavior" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...6" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Behavior" ID="6" Layer="6" ParagraphPosition="5...5|6...6" ParentId="5" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中央农村工作会议今天在北京开幕。">中央农村工作会议今天在北京开幕。中共中央政治局委员、书记处书记、国务院副总理温家宝对明年的农业和农村工作作了具体部署，他指出，认真贯彻落实十五届三中全会精神，是明年和今后一个时期农村工作的基本任务。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="这次中央农村工作会议的主要任务是，贯彻落实十五届三中全会和中央经济工作会议的精神，分析农村形势，统一思想认识，着重研究解决当前存在的突出问题，部署明年农村工作。">这次中央农村工作会议的主要任务是，贯彻落实十五届三中全会和中央经济工作会议的精神，分析农村形势，统一思想认识，着重研究解决当前存在的突出问题，部署明年农村工作。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="今年中国农业在大灾之年夺得了好收成，粮食产量与去年基本持平，副食品产品稳定增长，乡镇企业在困难的情况下继续发展，农村民主法制建设、精神文明建设和基层组织建设都取得了新的进展。">温家宝说，今年中国农业在大灾之年夺得了好收成，粮食产量与去年基本持平，副食品产品稳定增长，乡镇企业在困难的情况下继续发展，农村民主法制建设、精神文明建设和基层组织建设都取得了新的进展。</P>
+    <P Function="Purpose" ID="4" ParagraphTopic="中共十五届三中全会通过的《关于农业和农村工作若干重大问题的决定》是指导中国建设社会主义新农村的行动纲领。">温家宝说，中共十五届三中全会通过的《关于农业和农村工作若干重大问题的决定》是指导中国建设社会主义新农村的行动纲领。《决定》总结了二十年农村改革的基本经验；确定了从现在起到二０一０年中国农村经济、政治、文化建设的目标和任务；阐述了社会主义初级阶段农村尤其不发达的主要特征；对中国农村基本经营制度作了更科学、更准确的新概括；提出坚持以公有制为主体、多种所有制经济共同发展的基本经济制度；提出坚持以市场为取向的改革，进一步明确了深化农村改革的方向和目标；把水利建设和科教兴农提到了突出位置；指出增加农民收入，减轻农民负担是农村实现小康的基本条件；系统地提出了农村基层民主建设的具体任务和指导原则；把党对农村工作的领导提到了一个新的高度。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="贯彻落实十五届三中全会精神和战略部署，要坚持党的农村基本政策不动摇，坚持把发展农村经济、提高农业生产力水平作为整个农村工作的中心不动摇，坚持党对农村工作的领导不动摇。">温家宝指出，贯彻落实十五届三中全会精神和战略部署，要坚持党的农村基本政策不动摇，坚持把发展农村经济、提高农业生产力水平作为整个农村工作的中心不动摇，坚持党对农村工作的领导不动摇。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="中国共产党在农村改革中形成了一整套基本政策，实践证明是正确的，必须保持稳定性和连续性。">他指出，中国共产党在农村改革中形成了一整套基本政策，实践证明是正确的，必须保持稳定性和连续性。稳定农村基本政策，核心是长期稳定家庭承包经营，稳定土地承包关系。在家庭承包经营的基础上，引导农业走专业化、市场化和现代化道路。提高农业综合生产能力，要加强以水利为重点的农业基本建设，改善生产条件和生态环境，增强抗御自然灾害的能力，同时要大力推进科教兴农。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="中共中央政治局委员、书记处书记、国务委员罗干，中共中央政治局候补委员、书记处书记曾庆红出席今天的会议。">中共中央政治局委员、书记处书记、国务委员罗干，中共中央政治局候补委员、书记处书记曾庆红出席今天的会议。今天的会议由国务委员兼国务院秘书长王忠禹主持。（完）</P>
+  </TEXT>
+</DOC>

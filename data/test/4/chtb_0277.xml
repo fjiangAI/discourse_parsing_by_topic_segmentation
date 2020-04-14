@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社堪培拉８月３１日电" DiscourseTopic="澳向中国提供一笔贷款">
+    <LEAD>澳方将向中国提供１．５亿澳元优惠财政贷款。</LEAD>
+    <ABSTRACT>澳方将向中国提供１．５亿澳元优惠财政贷款。这笔贷款将主要用于电信、城市供水、污水处理等基础设施项目。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="澳方将向中国提供１．５亿澳元优惠财政贷款。">中国政府和澳大利亚政府今天签署了一项协议，澳方将向中国提供１．５亿澳元优惠财政贷款。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这笔贷款将主要用于电信、城市供水、污水处理等基础设施项目。">根据协议，这笔贷款将主要用于电信、城市供水、污水处理等基础设施项目。</P>
+    <P Function="Background" ID="3" ParagraphTopic="为期两天的中国政府同澳大利亚政府１９９４年发展援助合作年会今天在墨尔本结束。">为期两天的中国政府同澳大利亚政府１９９４年发展援助合作年会今天在墨尔本结束。以外经贸部部长助理龙永图为团长的中国代表团与以澳大利亚国际发展局援助局总局长弗拉德为团长的澳大利亚代表团出席了年会。会谈结束后，双方签署了会谈纪要。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="澳方还将向中国提供２０００万澳元的技术合作赠款。">与此同时，澳方还将向中国提供２０００万澳元的技术合作赠款，主要用于人员培训、扶贫及医疗卫生等项目。（完）</P>
+  </TEXT>
+</DOC>

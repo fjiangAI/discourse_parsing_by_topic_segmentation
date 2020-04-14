@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社郑州十二月二十七日电（记者刘雅鸣、周效政）" DiscourseTopic="中国人告别过去的政治烙印——家庭出身">
+    <LEAD>在中国，“家庭出身”曾经足以决定一个人的命运。如果不幸成为“黑五类”子女，那么无论你怎样努力也难以摆脱处于社会最底层的命运。“家庭出身”在中国逐渐为人淡忘始于中共十一届三中全会召开后不久的一九七九年一月。</LEAD>
+    <ABSTRACT>在中国，“家庭出身”曾经足以决定一个人的命运。如果不幸成为“黑五类”子女，那么无论你怎样努力也难以摆脱处于社会最底层的命运。由于父亲四九年去了台湾，清华大学的高材生查瑞传空有一腔报效祖国的热血。每当政治运动来临，出身不好的人不管平时表现多好，总免不了受到冲击。“家庭出身”在中国逐渐为人淡忘始于中共十一届三中全会召开后不久的一九七九年一月。就在那一年，查瑞传被派往英、美、法等国进行学术交流。张如渠抓住了十一届三中全会启动的农村改革的历史机遇，通过发展养殖业成为目前拥有几十万元资产的农民企业家。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...11|12...12" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="9" Layer="5" ParagraphPosition="5...5|6...6" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="6" Layer="3" ParagraphPosition="8...10|11...11" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8" Function="Story" ID="7" Layer="4" ParagraphPosition="8...8|9...10" ParentId="6" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Statement" ID="10" Layer="6" ParagraphPosition="3...3|4...4" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="8" Layer="5" ParagraphPosition="9...9|10...10" ParentId="7" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="3|6" Function="Story" ID="2" Layer="2" ParagraphPosition="1...7|8...11" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...6|7...7" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="11|10" Function="Summary" ID="5" Layer="5" ParagraphPosition="1...2|3...4" ParentId="4" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|9" Function="Story" ID="4" Layer="4" ParagraphPosition="1...4|5...6" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Illustration" ID="11" Layer="6" ParagraphPosition="1...1|2...2" ParentId="5" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="捧着小女儿的大学录取通知书，五十一岁的河南农民张如渠对家人说：没有三中全会，就不会有我们家的今天。">“没有三中全会，就不会有我们家的今天，”捧着小女儿的大学录取通知书，五十一岁的河南农民张如渠对家人说。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="在他与女儿相仿年纪的时候，张如渠是村里的“末等公民”。">在他与女儿相仿年纪的时候，张如渠是村里的“末等公民”。干相同的活，别人记十个工分，他却只能得七分；集体分东西，他分到的一份肯定最差；到了结婚年龄却没有姑娘愿意嫁给他。这一切都是因为他从父母那里继承的“地主出身”。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在中国，“家庭出身”曾经足以决定一个人的命运。">在中国，“家庭出身”曾经足以决定一个人的命运。不要说升学、招工、当兵、提干这些人生大事，就连去医院看病也要先说明出身。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="如果不幸成为“黑五类”子女，那么无论你怎样努力也难以摆脱处于社会最底层的命运。">“黑五类”，是地主、富农、反革命、坏分子和右派这五类人的简称，曾是一个令每个中国人心惊肉跳、生怕沾边的词汇。如果不幸成为“黑五类”子女，那么无论你怎样努力也难以摆脱处于社会最底层的命运。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="由于父亲四九年去了台湾，清华大学的高材生查瑞传空有一腔报效祖国的热血。">由于父亲四九年去了台湾，清华大学的高材生查瑞传空有一腔报效祖国的热血。他始终不能获得信任，虚度了青春年华。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="每当政治运动来临，出身不好的人不管平时表现多好，总免不了受到冲击。">“不仅如此，每当政治运动来临，象我们这样出身不好的人不管平时表现多好，总免不了受到冲击，轻则停职反省，重则受审查、挨批判，”现已七十三岁的北京中国人民大学人口研究所教授查瑞传回忆说。</P>
+    <P Function="Comment" ID="7" ParagraphTopic="根据一个人出身于哪个阶级和阶层来判断其本质的好坏是把阶级斗争无限扩大的极左思想的产物。">他说，根据一个人出身于哪个阶级和阶层来判断其本质的好坏是把阶级斗争无限扩大的极左思想的产物。过分强调家庭出身造成的紧张压抑的社会政治环境，又直接影响到社会经济文化的发展。</P>
+    <P Function="Sub-Summary" ID="8" ParagraphTopic="“家庭出身”在中国逐渐为人淡忘始于中共十一届三中全会召开后不久的一九七九年一月。">“家庭出身”在中国逐渐为人淡忘始于中共十一届三中全会召开后不久的一九七九年一月，当时中共中央做出决定，所谓“黑五类”的子女今后在入学、招工、参军、分配工作等方面主要看其本人表现，不得歧视。“黑五类”本身也被“摘了帽子”。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="就在那一年，查瑞传被派往英、美、法等国进行学术交流。">就在那一年，查瑞传被派往英、美、法等国进行学术交流。他说：“从那时起，我感到自己被当作一个专家学者来尊重对待，不再有低人一等的感觉了。”如今查瑞传担任着研究所副所长职务，还曾连任两届北京市人大常委。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="张如渠抓住了十一届三中全会启动的农村改革的历史机遇，通过发展养殖业成为目前拥有几十万元资产的农民企业家。">满怀“翻身”喜悦的张如渠则抓住了十一届三中全会启动的农村改革的历史机遇，通过发展养殖业成为目前拥有几十万元资产的农民企业家。他说：“现在我的子女再也不用顶着出身不好这顶沉重的帽子了。”</P>
+    <P Function="Comment" ID="11" ParagraphTopic="废除‘出身论’给中国人以安全感，解放了一大批生产力，还创造了一个和谐平等的竞争环境。">“废除‘出身论’给中国人以安全感，解放了一大批生产力，还创造了一个和谐平等的竞争环境，”知名历史小说家二月河如是说。</P>
+    <P Function="Supplement" ID="12" ParagraphTopic="在强调“家庭出身”的年代，仅仅因为姑姑家是地主成分，二月河就受到株连。一直到一九八二年，他才有机会发表第一部长篇小说。">在强调“家庭出身”的年代，仅仅因为姑姑家是地主成分，二月河就受到株连。一直到一九八二年，他才有机会发表第一部长篇小说《康熙大帝》，目前他的创作已达四百多万字。（完）</P>
+  </TEXT>
+</DOC>

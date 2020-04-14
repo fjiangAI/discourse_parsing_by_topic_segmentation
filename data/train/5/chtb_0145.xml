@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京三月六日电（记者路海宽）" DiscourseTopic="中国国家开发银行努力拓展国际金融业务">
+    <LEAD>截止去年底，中国国家开发银行共为二十四个国家重点项目进行外汇融资。</LEAD>
+    <ABSTRACT>截止去年底，中国国家开发银行共为二十四个国家重点项目进行外汇融资。开发银行去年二月在日本成功发行了三百亿日元的武士债，并于今年初在美国市场发行了三点三亿美元的扬基债。目前，国家开发银行已经和境内外资信较高的金融机构开展了同业拆借、境外短期投资、国际清算与结算等业务。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4|5...5" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Cause" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="截止去年底，中国国家开发银行共为二十四个国家重点项目进行外汇融资。">据中国国家开发银行的官员透露，截止去年底，该银行共为二十四个国家重点项目进行外汇融资，其中已经完成签约的项目有十八个，对外签约总额约三十四亿美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这家成立仅三年的政策性银行通过亚洲产业银行协会组织为山东齐鲁乙烯改造扩建工程筹措到一亿美元银团贷款，并承接了长江三峡水电站工程首批大坝左岸十四台水轮机组、秦山核电站扩建工程、岭澳核电站、黄河小浪底水利枢纽、二滩水电站等项目的对外融资。">这家成立仅三年的政策性银行通过亚洲产业银行协会组织为山东齐鲁乙烯改造扩建工程筹措到一亿美元银团贷款，并承接了长江三峡水电站工程首批大坝左岸十四台水轮机组、秦山核电站扩建工程、岭澳核电站、黄河小浪底水利枢纽、二滩水电站等项目的对外融资。</P>
+    <P Function="Result" ID="3" ParagraphTopic="在此基础上，开发银行的信贷质量得到保障，取得较好的经济效益。">在此基础上，开发银行的信贷质量得到保障，取得较好的经济效益。到去年末，贷款的本息回收达到百分之百，累计实现利润一千万美元。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="开发银行去年二月在日本成功发行了三百亿日元的武士债，并于今年初在美国市场发行了三点三亿美元的扬基债。">开发银行于去年二月在日本首次以国家主权级筹资者的身份成功发行了三百亿日元的武士债，并于今年初在美国市场发行了三点三亿美元的扬基债，在国际金融市场树立了良好的形象。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="目前，国家开发银行已经和境内外资信较高的金融机构开展了同业拆借、境外短期投资、国际清算与结算等业务。">目前，国家开发银行已经和境内外资信较高的金融机构开展了同业拆借、境外短期投资、国际清算与结算等业务。美国穆迪公司和日本投资家服务公司对开发银行的业绩给予较高的评价。（完）</P>
+  </TEXT>
+</DOC>

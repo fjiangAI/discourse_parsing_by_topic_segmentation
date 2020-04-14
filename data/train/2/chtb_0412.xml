@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十月七日电" DiscourseTopic="中国首家合资连锁商业企业成立">
+    <LEAD>中国首家合资连锁商业企业－－中日合资华糖洋华堂商业有限公司近日在京成立。</LEAD>
+    <ABSTRACT>中国首家合资连锁商业企业－－中日合资华糖洋华堂商业有限公司近日在京成立。这家企业由国内贸易部所属中国糖业酒类集团公司和日本株式会社伊藤洋华堂、伊藤忠商事株式会社、伊藤忠（中国）集团有限公司共同投资组建。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国首家合资连锁商业企业－－中日合资华糖洋华堂商业有限公司近日在京成立。">经国务院批准，中国首家合资连锁商业企业－－中日合资华糖洋华堂商业有限公司近日在京成立。这标志着中国零售行业的对外开放和改革进入一个新的阶段。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这家企业由国内贸易部所属中国糖业酒类集团公司和日本株式会社伊藤洋华堂、伊藤忠商事株式会社、伊藤忠（中国）集团有限公司共同投资组建。">这家企业由国内贸易部所属中国糖业酒类集团公司和日本株式会社伊藤洋华堂、伊藤忠商事株式会社、伊藤忠（中国）集团有限公司共同投资组建，投资比例分别为百分之五十一、百分之三十六点七五、百分之十点五八、百分之一点六七，首期投资一点三亿美元。公司以大型综合超市的连锁经营为主业，计划三年内在北京开设三家营业面积在一万平方米以上的综合超市，逐步发展规范化、现代化的连锁经营。（完）</P>
+  </TEXT>
+</DOC>

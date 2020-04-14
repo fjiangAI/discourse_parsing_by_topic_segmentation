@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社福州十二月二十九日电（记者许霆）" DiscourseTopic="（两岸交流话“第一”）台湾班：从“地下求学”到网络招生">
+    <LEAD>从地下求学到网络招生，反映了海峡两岸关系从紧张到缓和的历程。</LEAD>
+    <ABSTRACT>从地下求学到网络招生，反映了海峡两岸关系从紧张到缓和的历程。最早招收台湾学生的福建中医学院如今已发展为海峡两岸中医理论教学和学术交流的一个重要基地。如今，福建中医学院已成为招收港澳台学生的八所中医院校之一和招收台湾硕士研究生的三所中医院校之一，在海内外有着广泛的影响。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...12|13...14" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|5" Function="Progression" ID="4" Layer="3" ParagraphPosition="9...10|11...12" ParentId="3" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="9" Layer="5" ParagraphPosition="7...7|8...8" ParentId="8" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Illustration" ID="5" Layer="4" ParagraphPosition="11...11|12...12" ParentId="4" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Statement" ID="6" Layer="4" ParagraphPosition="9...9|10...10" ParentId="4" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Sub-Summary" ID="10" Layer="5" ParagraphPosition="5...5|6...6" ParentId="8" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="13...13|14...14" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="7|4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...8|9...12" ParentId="1" RelationType="Progression" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="11|8" Function="Story" ID="7" Layer="3" ParagraphPosition="1...4|5...8" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="10|9" Function="Story" ID="8" Layer="4" ParagraphPosition="5...6|7...8" ParentId="7" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="13|12" Function="Summary" ID="11" Layer="4" ParagraphPosition="1...2|3...4" ParentId="7" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Statement" ID="12" Layer="5" ParagraphPosition="3...3|4...4" ParentId="11" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Illustration" ID="13" Layer="5" ParagraphPosition="1...1|2...2" ParentId="11" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="福建中医学院最近在因特网上发布信息，向台湾公开招收本科和硕士研究生。">祖国大陆第一所招收台湾学生的大学——福建中医学院最近在因特网上发布信息，向台湾公开招收本科和硕士研究生。</P>
+    <P Function="Contrast" ID="2" ParagraphTopic="这和十年前第一位台湾学生庄继志悄无声息的“地下求学”形成了鲜明的对照。">这和十年前第一位台湾学生庄继志悄无声息的“地下求学”形成了鲜明的对照。当时，他从日本转道来中医学院就读，回台后也只能说去日本留学。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="从地下求学到网络招生，反映了海峡两岸关系从紧张到缓和的历程。">在福建中医学院海外教育学院工作的陈莘女士说：“‘不汇细流无以成江河’。从地下求学到网络招生，反映了海峡两岸关系从紧张到缓和的历程。”</P>
+    <P Function="Situation" ID="4" ParagraphTopic="十年前来祖国大陆就读的台湾学生屈指可数。到今年夏天，祖国大陆共有一百所大专院校招收台湾学生，在校台湾学生超过一千五百人。">陈女士回忆道，十年前来祖国大陆就读的台湾学生屈指可数。而根据国家教育部的统计，到今年夏天，祖国大陆共有一百所大专院校招收台湾学生，在校台湾学生超过一千五百人。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="最早招收台湾学生的福建中医学院如今已发展为海峡两岸中医理论教学和学术交流的一个重要基地。">最早招收台湾学生的福建中医学院如今已发展为海峡两岸中医理论教学和学术交流的一个重要基地。学院形成了多层次、多规格的对台教育局面，先后接受二百二十多名台湾中医师进修培训，现有在校台湾学生三百多人，占全校全日制学生的百分之十八，名列祖国大陆高校的前列。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="如今，福建中医学院已成为招收港澳台学生的八所中医院校之一和招收台湾硕士研究生的三所中医院校之一，在海内外有着广泛的影响。">如今，福建中医学院已成为招收港澳台学生的八所中医院校之一和招收台湾硕士研究生的三所中医院校之一，在海内外有着广泛的影响。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="记者在福建中医学院的“台湾班”看到，一群来自台湾的学生悉心研读中医理论课程，学习传统医术。">记者最近在福建中医学院的“台湾班”看到，一群来自台湾的学生正在老师的指导下，悉心研读中医理论课程－－《本草纲目》。他们在这里还要学习针灸、推拿和“闻问望切”等传统医术。中华民族共同拥有的文化瑰宝正在海峡两岸的学子手中传承。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="福建中医学院还专门为台湾学生开设了《医宗金鉴》、《四诊心法》等课程。">据中医学院院长杜建介绍，为适应台湾学生返台后参加检考、特考的需要，福建中医学院还专门为台湾学生开设了《医宗金鉴》、《四诊心法》等课程，以解除台湾学生的后顾之忧。</P>
+    <P Function="Statement" ID="9" ParagraphTopic="如今，来祖国大陆求学的台湾学生已从福建扩展到北京、上海以及内地的各大院校，所学的科目也涉及经济、法律、物理、计算机等各门类和学科。">如今，来祖国大陆求学的台湾学生已从福建扩展到北京、上海以及内地的各大院校，所学的科目也涉及经济、法律、物理、计算机等各门类和学科。</P>
+    <P Function="Illustration" ID="10" ParagraphTopic="学习民族舞蹈的台湾学生小青说，学成以后只想回到台北当一名民族舞蹈教师。">学习民族舞蹈的台湾学生小青说，现在终于明白，维吾尔族、朝鲜族、蒙古族等民族的舞蹈“原来是会说话的”。小青说，学成以后只想回到台北当一名民族舞蹈教师，把在北京学到的传给那些热爱民族舞蹈又无法前来学习的孩子们。</P>
+    <P Function="Statement" ID="11" ParagraphTopic="在中国的最高学府北京大学，前来求学的台湾学生以攻读硕士和博士学位的居多。领域集中在社会科学，其中读法律的最多。">在中国的最高学府北京大学，前来求学的台湾学生以攻读硕士和博士学位的居多。领域集中在社会科学，其中读法律的最多。</P>
+    <P Function="Illustration" ID="12" ParagraphTopic="北大法律系的台湾学生杨惟婷告诉记者，一九九二年她随父亲在上海读书时，全校只有她一个台湾学生。现在，仅在法律系就有几十位台湾同学。">北大法律系的台湾学生杨惟婷告诉记者，一九九二年她随父亲在上海读书时，全校只有她一个台湾学生。现在，仅在法律系就有几十位台湾同学。</P>
+    <P Function="Situation" ID="13" ParagraphTopic="杜建院长说：“`三通＇呼声逐年增高。”">福建中医学院的杜建院长说：“台湾学生来祖国大陆就学后，学生、学生家长及亲朋好友来往海峡两岸十分频繁，他们经香港、澳门转机，旅途劳顿，相当麻烦，`三通＇呼声逐年增高。”</P>
+    <P Function="Situation" ID="14" ParagraphTopic="北京的教育学家说，台湾当局应尽快开放采认祖国大陆学历，维护广大学子的利益。">北京的教育学家说，目前来祖国大陆求学的台湾学生日渐增多，同时，前来投资办厂的台商也希望其子女能来祖国大陆读书。台湾当局应尽快开放采认祖国大陆学历，维护广大学子的利益。（完）</P>
+  </TEXT>
+</DOC>

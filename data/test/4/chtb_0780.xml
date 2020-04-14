@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州１２月３０日电（记者林阳）" DiscourseTopic="九运会主会场明日动工兴建">
+    <LEAD>广东奥林匹克体育场的设计方案最终由美国ＮＥＢ设计集团的飘带型屋顶方案中标，将于明日在广州黄村体育训练基地动工兴建。</LEAD>
+    <ABSTRACT>广东奥林匹克体育场的设计方案最终由美国ＮＥＢ设计集团的飘带型屋顶方案中标，将于明日在广州黄村体育训练基地动工兴建。美国ＮＥＢ设计集团是国际著名体育建筑设计商，本次中标设计方案是其构思最为新颖独特的方案。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="广东奥林匹克体育场的设计方案最终由美国ＮＥＢ设计集团的飘带型屋顶方案中标，将于明日在广州黄村体育训练基地动工兴建。">第九届全国运动会主会场——广东奥林匹克体育场的设计方案最终由美国ＮＥＢ设计集团的飘带型屋顶方案中标，将于明日在广州黄村体育训练基地动工兴建。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="广东奥林匹克体育场是作为２００１年第九届全运会主会场，并为将来承办重要国际体育比赛而建设的。">广东奥林匹克体育场是作为２００１年第九届全运会主会场，并为将来承办重要国际体育比赛而建设的。其设计方案实行了国际招标，８家国内外著名设计商参加了竞赛，９月底评出３个优胜方案，经专家组对３个方案进行了近两个月的审议和谈判，最终选定美国ＮＥＢ设计集团方案。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="美国ＮＥＢ设计集团是国际著名体育建筑设计商，本次中标设计方案是其构思最为新颖独特的方案。">美国ＮＥＢ设计集团是国际著名体育建筑设计商，其代表作有１９９６年亚特兰大奥运会主会场和２００２年世界杯足球赛韩国主赛场。本次中标设计方案是其构思最为新颖独特的方案。飘带型屋顶飘逸、浪漫，象征广东的母亲河——珠江，并首创屋顶上下面均采取蒙皮技术，改变了过去屋顶纵横交错的网架给观众留下的繁杂视觉效果，堪称世界先进的体育建筑设计潮流与我国传统建筑文化背景较圆满结合。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="广东奥林匹克体育场可容纳８万观众，造价在１０亿元人民币以内，预计于２００１年６月建成。">广东奥林匹克体育场可容纳８万观众，造价在１０亿元人民币以内，预计于２００１年６月建成。（完）</P>
+  </TEXT>
+</DOC>

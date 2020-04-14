@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海十二月三十一日电（记者汪洪洋）" DiscourseTopic="花旗银行加入上海ＡＴＭ系统">
+    <LEAD>花旗银行今天与上海银行卡网络签约，正式加入上海ＡＴＭ／ＰＯＳ网络，并直接与上海ＡＴＭ自动取款机连接。</LEAD>
+    <ABSTRACT>花旗银行今天与上海银行卡网络签约，正式加入上海ＡＴＭ／ＰＯＳ网络，并直接与上海ＡＴＭ自动取款机连接。花旗银行遍布全球的客户可以在上海现有一千五百多台自动取款机上，很方便地用各自所在国帐户提取人民币或进行消费。花旗银行中国区行行长江毅文说，通过加入上海ＡＴＭ／ＰＯＳ网络，可以吸引更多花旗银行客户前往中国和上海。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="花旗银行今天与上海银行卡网络签约，正式加入上海ＡＴＭ／ＰＯＳ网络，并直接与上海ＡＴＭ自动取款机连接。">花旗银行今天与上海银行卡网络签约，作为第一家外资银行正式加入上海ＡＴＭ／ＰＯＳ网络，并直接与上海ＡＴＭ自动取款机连接。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="花旗银行遍布全球的客户可以在上海现有一千五百多台自动取款机上，很方便地用各自所在国帐户提取人民币或进行消费。">这意味着，花旗银行遍布全球的客户可以在上海现有一千五百多台自动取款机上，很方便地用各自所在国帐户提取人民币或进行消费。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="花旗银行中国区行行长江毅文说，通过加入上海ＡＴＭ／ＰＯＳ网络，可以吸引更多花旗银行客户前往中国和上海。">花旗银行中国区行行长江毅文说，通过加入上海ＡＴＭ／ＰＯＳ网络，可以吸引更多花旗银行客户前往中国和上海。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="陈昌奎称，首家外资银行加入上海ＡＴＭ系统，标志着上海金融业对外开放迈出新的一步。这对于改善上海投资环境，扩大对外交往，将起积极影响。">上海银行卡网络服务中心副总经理陈昌奎称，首家外资银行加入上海ＡＴＭ系统，标志着上海金融业对外开放迈出新的一步。这对于改善上海投资环境，扩大对外交往，将起积极影响。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="上海ＡＴＭ／ＰＯＳ网络将在一九九九年第一季度与花旗银行全球ＡＴＭ／ＰＯＳ联网。">据介绍，上海ＡＴＭ／ＰＯＳ网络将在一九九九年第一季度与花旗银行全球ＡＴＭ／ＰＯＳ联网。（完）</P>
+  </TEXT>
+</DOC>

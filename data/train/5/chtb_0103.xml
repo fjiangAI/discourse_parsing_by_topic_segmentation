@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京一月十一日电（记者钱宇红）" DiscourseTopic="中国银行去年实现利润超过六十亿元">
+    <LEAD>中国银行一九九七年经营业绩良好，实现利润六十点三三亿元。</LEAD>
+    <ABSTRACT>中国银行一九九七年经营业绩良好，实现利润六十点三三亿元。中行一九九七年积极稳妥地推进了信贷管理体制，稽核体制、人事管理体制等各项经营体制改革，在建立市场营销机制方面也进行了探索。中行还注意发挥整体优势，积极开展市场营销工作。</ABSTRACT>
+    <LEAD>中国银行一九九七年经营业绩良好，实现利润六十点三三亿元。</LEAD>
+    <ABSTRACT>中国银行一九九七年经营业绩良好，实现利润六十点三三亿元。中行一九九七年积极稳妥地推进了信贷管理体制，稽核体制、人事管理体制等各项经营体制改革，在建立市场营销机制方面也进行了探索。中行还注意发挥整体优势，积极开展市场营销工作。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...3|4...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国银行一九九七年经营业绩良好，实现利润六十点三三亿元。">中国最大的外汇银行中国银行一九九七年经营业绩良好，全年实现利润六十点三三亿元，其中国内行实现利润二十四点二八亿元。利润总额继续在国内各金融机构中居首位。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="中行一九九七年积极稳妥地推进了信贷管理体制，稽核体制、人事管理体制等各项经营体制改革，在建立市场营销机制方面也进行了探索。">中行一九九七年积极稳妥地推进了信贷管理体制，稽核体制、人事管理体制等各项经营体制改革，在建立市场营销机制方面也进行了探索。在经营方面，该行加强了存款工作，使人民币存款的增幅回升，同时通过签订银企合作协议和加强对大客户服务等方式，发展有潜力的优质客户。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中行去年人民币存款余额、贷款余额、各项外币存款余额、各项现汇贷款余额。">据统计，中行去年人民币存款余额达到五千九百一十二点三九亿元，各项人民币贷款余额达五千六百四十四点五二亿元；各项外币存款余额为三百五十五点零八亿美元，各项现汇贷款余额为三百九十七点八七亿美元。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="中行还注意发挥整体优势，积极开展市场营销工作。">同时，中行还注意发挥整体优势，积极开展市场营销工作，使传统的国际结算业务在激烈的市场竞争中，继续保持了优势地位；结售汇、信用卡、代理、代收费等中间业务也有新的发展。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="去年结售汇业务、国际贸易结算业务、长城信用卡的发行量、信用卡的直接消费额情况。">据悉，该行去年结售汇业务分别达到了九百一十点七亿美元和四百七十一亿美元；全年共办理国际贸易结算业务一千三百九十八点五七亿美元。长城信用卡的发行量达到七百八十万张，当年信用卡的直接消费额为一百二十亿元，分别比上年增长百分之六十六和百分之十七点六。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="本报斯德哥尔摩２月１３日电记者顾耀铭报道：" DiscourseTopic="瑞典">
+    <LEAD>中国驻瑞典大使唐龙彬为当地华人举办春节冷餐会，近８０名侨胞、华裔朋友同使馆人员欢聚一堂。</LEAD>
+    <ABSTRACT>中国驻瑞典大使唐龙彬为当地华人举办春节冷餐会，近８０名侨胞、华裔朋友同使馆人员欢聚一堂。回顾去年中国稳定发展的政治经济形势，感谢侨胞和华裔朋友对中国建设事业的热情支持和为发展中瑞两国人民之间的友谊作出的贡献。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国驻瑞典大使唐龙彬为当地华人举办春节冷餐会，近８０名侨胞、华裔朋友同使馆人员欢聚一堂。">２月１２日晚，中国驻瑞典大使唐龙彬为当地华人举办春节冷餐会，近８０名侨胞、华裔朋友同使馆人员欢聚一堂。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="回顾去年中国稳定发展的政治经济形势，感谢侨胞和华裔朋友对中国建设事业的热情支持和为发展中瑞两国人民之间的友谊作出的贡献。">在张灯结彩的使馆客厅内，宾主在一起举杯互祝新春愉快，万事如意。唐龙彬大使在祝酒辞中，回顾去年中国稳定发展的政治经济形势，感谢侨胞和华裔朋友对中国建设事业的热情支持和为发展中瑞两国人民之间的友谊作出的贡献。春节期间，中国大使馆还将为当地华人举办电影招待会。</P>
+  </TEXT>
+</DOC>

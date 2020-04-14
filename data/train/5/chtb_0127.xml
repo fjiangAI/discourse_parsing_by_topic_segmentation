@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社天津一月十七日电（记者栗建昌实习生葛素红）" DiscourseTopic="天津依法保障外企合法权益">
+    <LEAD>天津将加强依法行政，保障外商投资企业正常开展生产经营活动。</LEAD>
+    <ABSTRACT>天津将加强依法行政，保障外商投资企业正常开展生产经营活动。天津市外经贸委要求各有关部门坚持依法协调企业纠纷，提高服务质量。天津将继续建立健全有关外商投资企业的地方法规和规章，使外资企业生产经营有法可依。对外资企业的管理也将更多地通过法规进行。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="天津将加强依法行政，保障外商投资企业正常开展生产经营活动。">天津市外经贸委主任王述祖日前说，天津将加强依法行政，保障外商投资企业正常开展生产经营活动。</P>
+    <P Function="Background" ID="2" ParagraphTopic="天津利用外资居北方各大城市之首。">天津是中国北方最大的沿海城市，利用外资居北方各大城市之首。目前有一万一千多家外资企业，其中有经营业务的三千多家。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="天津市外经贸委要求各有关部门坚持依法协调企业纠纷，提高服务质量。">随着外资企业的增加，各类经济纠纷也不断出现。对此，天津市外经贸委要求各有关部门坚持依法协调企业纠纷，提高服务质量。去年，天津市受理外商投资企业纠纷案件比上年下降近四成，当年结案率达百分之九十七，比上年提高三个百分点，纠纷当事人对协调结果满意程度达百分之九十六。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="天津将继续建立健全有关外商投资企业的地方法规和规章，使外资企业生产经营有法可依。">今年，天津将继续建立健全有关外商投资企业的地方法规和规章，使外资企业生产经营有法可依。截至目前，天津市人大和政府已颁布有关外商投资地方法规和规章三十多件，引导外商投资，加强对外商投资企业的管理与服务，保护中外投资者及员工合法权益。外商投资管理部门及公检法机关，坚持依法行政，依法办案，有效地维护了各方的权益。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="对外资企业的管理也将更多地通过法规进行。">王述祖说，对外资企业的管理也将更多地通过法规进行。在过去的一年内，各级外商投资管理部门，依法行政，多次听取外商的意见，对一些行政部门的乱收费现象进行了清理。同时，加强了对外商投资企业合同履约的监管工作，督促企业自觉履行合同规定的权力、义务，对违约的进行批评教育，限期改正；对违法经营的依法查处。去年，天津市对近八千家三资企业进行了联合年检。（完）</P>
+  </TEXT>
+</DOC>

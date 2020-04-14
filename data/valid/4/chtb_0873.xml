@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京十月二十五日电（记者包永辉）" DiscourseTopic="南通市外向型经济发展迅速">
+    <LEAD>江苏省南通市近年来不断扩大对外开放，加快经济国际化进程，外向型经济迅速发展。</LEAD>
+    <ABSTRACT>江苏省南通市近年来不断扩大对外开放，加快经济国际化进程，外向型经济迅速发展。近年来，南通市不断加大招商引资力度。在扩大对外招商的同时，南通市还积极实施把当地“拳头”产品打出去的战略，提高了这些产品的国际市场竞争力。此外，南通市还多渠道扩大劳务输出。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="江苏省南通市近年来不断扩大对外开放，加快经济国际化进程，外向型经济迅速发展。">江苏省南通市近年来不断扩大对外开放，加快经济国际化进程，外向型经济迅速发展。今年上半年，南通市共完成自营出口总额十点七三亿美元，在江苏仅次于苏南的苏州和无锡。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="近年来，南通市不断加大招商引资力度。">南通市东临黄海，南濒长江，是中国首批十四个沿海开放城市之一。近年来，南通市不断加大招商引资力度。前不久，这个市编制了四十四个投资规模大、科技含量高、能推进区域经济发展的大中型项目，在美国洛杉矶、芝加哥举办中国南通贸易与投资介绍会广泛招商。目前，有二十多个超千万元的大项目和一批中小项目正在洽谈之中。据介绍，今年上半年，这个市新批三资企业七十七家，总投资二点五亿美元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在扩大对外招商的同时，南通市还积极实施把当地“拳头”产品打出去的战略，提高了这些产品的国际市场竞争力。">在扩大对外招商的同时，南通市还积极实施把当地“拳头”产品打出去的战略，提高了这些产品的国际市场竞争力。他们着力开发了一批品质优良、科技含量高、创汇率高的出口产品，受到国外客商的欢迎。其中，当家的机电产品和深加工农副产品的出口总量不断扩大，在巩固和发展日本、美国、韩国和香港四大主体市场的同时，又开拓了东西欧、东南亚、非洲、南美洲等一批新市场。目前，这个市已形成十七家年出口超五百万美元的创汇大户，其中一千万美元以上的有八家。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="此外，南通市还多渠道扩大劳务输出。">此外，南通市还多渠道扩大劳务输出。目前，南通向四十二个国家和地区输出劳务两千人，实施外经项目一百六十个。今年上半年，这个市对外劳务输出营业额达四千九百一十三万美元，居江苏省首位。（完）</P>
+  </TEXT>
+</DOC>

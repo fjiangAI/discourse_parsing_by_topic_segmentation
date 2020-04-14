@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="九七年第一季建造工程完成量统计数字公布">
+    <LEAD>政府统计处今日（星期四）公布建造工程完成量按季统计调查的初步结果显示，主要承建商於九七年第一季所完成的工程名义总值为三百一十五亿元。主要承建商於九七年第一季所完成工程总值的临时估计，较九六年同季上升百分之五点九。</LEAD>
+    <ABSTRACT>政府统计处今日（星期四）公布建造工程完成量按季统计调查的初步结果显示，主要承建商於九七年第一季所完成的工程名义总值为三百一十五亿元。主要承建商於九七年第一季所完成工程总值的临时估计，较九六年同季上升百分之五点九。公营地盘完成工程名义总值为一百二十亿元，较九六年同季上升百分之八点三。以固定（一九九零年）市价计算，其升幅为百分之一点九。私人地盘完成工程名义总值为一百一十七亿元，较九六年同季上升百分之二十八。以固定（一九九零年）市价计算，其升幅为百分之十六。承建商所完成的非地盘工程名义总值为七十八亿元，较九六年第一季上升百分之七点二。以固定（一九九零年）市价计算的工程总值，则轻微下跌百分之一点三。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|6" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...11|12...13" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="8" Layer="4" ParagraphPosition="6...6|7...7|8...8" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="7" Layer="3" ParagraphPosition="9...9|10...10|11...11" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="9" Layer="5" ParagraphPosition="3...3|4...4|5...5" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Sub-Summary" ID="5" Layer="5" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3|7" Function="Story" ID="2" Layer="2" ParagraphPosition="1...8|9...11" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|8" Function="Story" ID="3" Layer="3" ParagraphPosition="1...5|6...8" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|9" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...2|3...5" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="6" Layer="2" ParagraphPosition="12...12|13...13" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="政府统计处今日（星期四）公布建造工程完成量按季统计调查的初步结果显示，主要承建商於九七年第一季所完成的工程名义总值为三百一十五亿元。">政府统计处今日（星期四）公布建造工程完成量按季统计调查的初步结果显示，主要承建商於九七年第一季所完成的工程名义总值为三百一十五亿元，与九六年同季比较，上升百分之十四点五。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="主要承建商於九七年第一季所完成工程总值的临时估计，较九六年同季上升百分之五点九。">以固定（一九九零年）市价计算，主要承建商於九七年第一季所完成工程总值的临时估计，较九六年同季上升百分之五点九。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="公营地盘完成工程名义总值为一百二十亿元，较九六年同季上升百分之八点三。以固定（一九九零年）市价计算，其升幅为百分之一点九。">公营地盘完成工程名义总值为一百二十亿元，较九六年同季上升百分之八点三。以固定（一九九零年）市价计算，其升幅为百分之一点九。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="私人地盘完成工程名义总值为一百一十七亿元，较九六年同季上升百分之二十八。以固定（一九九零年）市价计算，其升幅为百分之十六。">私人地盘完成工程名义总值为一百一十七亿元，较九六年同季上升百分之二十八。以固定（一九九零年）市价计算，其升幅为百分之十六。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="承建商所完成的非地盘工程名义总值为七十八亿元，较九六年第一季上升百分之七点二。以固定（一九九零年）市价计算的工程总值，则轻微下跌百分之一点三。">承建商所完成的非地盘工程名义总值为七十八亿元，较九六年第一季上升百分之七点二。以固定（一九九零年）市价计算的工程总值，则轻微下跌百分之一点三。此类工程包括小规模新建工程及在现有楼宇及建筑物内进行的装修及保养工程，和电器及机械装设工程。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="住宅楼宇（包括商住两用楼宇）工程，占地盘完成工程名义总值最大比例。">按建筑物落成後用途分析，住宅楼宇（包括商住两用楼宇）工程，占地盘完成工程名义总值最大比例，其完成工程总值为七十七亿元，与九六年第一季比较，上升百分之二十九。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="包括机场建造工程在内的运输设施工程类别为第二大类地盘工程。">包括机场建造工程在内的运输设施工程类别为第二大类地盘工程，其完成工程总值为六十八亿元，较九六年第一季，上升百分之二点九。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="商业楼宇工程为第三大类地盘工程。">商业楼宇工程为第三大类地盘工程，其完成工程总值达三十九亿元，较九六年第一季，大幅上升百分之五十四。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="与九六年第四季比较，主要承建商於九七年第一季所完成工程名义总值下跌百分之二点三。">与九六年第四季比较，主要承建商於九七年第一季所完成工程名义总值下跌百分之二点三。</P>
+    <P Function="Situation" ID="10" ParagraphTopic=")以固定（一九九零年）市价计算的工程总值，是透过适当的物价指数去平减工程名义价值至一九九零年价格水平计算而成。">以固定（一九九零年）市价计算的工程总值，是透过适当的物价指数去平减工程名义价值至一九九零年价格水平计算而成。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="主要承建商所完成的工程总值，只包括该等建造机构作为主要承建商合约中所完成的工程，而不包括其作为分判承建商所完成的工程。">由於分判工程在建造业内十分普遍，一间建筑机构可以是某一合约的主要承建商，同时亦可以是另一合约的分判承建商，主要承建商所完成的工程总值，只包括该等建造机构作为主要承建商合约中所完成的工程，而不包括其作为分判承建商所完成的工程。不过，分判承建商所完成的工程总值应已包括在其受聘的主要承建商所完成的工程总值之内。</P>
+    <P Function="Situation" ID="12" ParagraphTopic="有关建造工程完成量的详细资料刊载於政府统计处出版的「一九九七年第一季建造工程完成量统计调查报告」内。">有关建造工程完成量的详细资料刊载於政府统计处出版的「一九九七年第一季建造工程完成量统计调查报告」内，每本定价为十四元，现已在金钟道政府合署低座地下政府刊物销售处发售，亦可向湾仔港湾道十二号湾仔政府大楼十九楼政府统计处刊物出版组购买，或按期订购。</P>
+    <P Function="Situation" ID="13" ParagraphTopic="有关以上统计的查询，可与政府统计处屋宇建筑、建造及地产业统计组联络。">有关以上统计的查询，可与政府统计处屋宇建筑、建造及地产业统计组联络，电话：二八零五六四二六。</P>
+  </TEXT>
+</DOC>

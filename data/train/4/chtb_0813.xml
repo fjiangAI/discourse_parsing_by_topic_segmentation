@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社新德里１２月３０日电（记者李家声）" DiscourseTopic="印度海军参谋长被解职">
+    <LEAD>印度政府解除了海军参谋长巴格瓦特海军上将的职务。</LEAD>
+    <ABSTRACT>印度政府解除了海军参谋长巴格瓦特海军上将的职务。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="印度政府解除了海军参谋长巴格瓦特海军上将的职务。">印度官方３０日晚在此间宣布，印度政府当天解除了海军参谋长巴格瓦特海军上将的职务，该职位由海军中将库马尔接替。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="巴格瓦特被解职的主要原因是他在海军副参谋长人选问题上坚持己见，与政府发生严重分歧。">据了解，巴格瓦特被解职的主要原因是他在海军副参谋长人选问题上坚持己见，与政府发生严重分歧。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="政府这一决定是经过认真考虑后作出的。政府还对巴格瓦特把海军与国防部之间的分歧公诸于众深表关注。">印度官方称，政府这一决定是经过认真考虑后作出的。政府还对巴格瓦特把海军与国防部之间的分歧公诸于众深表关注。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="巴格瓦特是１９９６年９月被任命为印度海军参谋长的。">巴格瓦特是１９９６年９月被任命为印度海军参谋长的。（完）</P>
+  </TEXT>
+</DOC>

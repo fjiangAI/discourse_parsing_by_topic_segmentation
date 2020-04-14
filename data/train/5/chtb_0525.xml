@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="就业选配服务展览">
+    <LEAD>劳工处将由明日（星期五）起一连两日举办一项展览，介绍该处所提供的就业选配服务。</LEAD>
+    <ABSTRACT>劳工处将由明日（星期五）起一连两日举办一项展览，介绍该处所提供的就业选配服务。该项展览旨在向雇主及求职者推广劳工处的免费就业选配服务，将於葵涌新都会广场三楼天晶馆举行，开放时间为每日上午十时至下午六时。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="劳工处将由明日（星期五）起一连两日举办一项展览，介绍该处所提供的就业选配服务。">劳工处将由明日（星期五）起一连两日举办一项展览，介绍该处所提供的就业选配服务，欢迎市民前往参观。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="该项展览旨在向雇主及求职者推广劳工处的免费就业选配服务，将於葵涌新都会广场三楼天晶馆举行，开放时间为每日上午十时至下午六时。">该项展览旨在向雇主及求职者推广劳工处的免费就业选配服务，将於葵涌新都会广场三楼天晶馆举行，开放时间为每日上午十时至下午六时。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="展览内容包括展板介绍就业选配计划及就业选配中心的就业选配服务范围。">展览内容包括展板介绍就业选配计划及就业选配中心的就业选配服务范围。有关这些服务的宣传单张亦会在现场派发给参观者。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="希望利用就业选配计划所提供的免费招聘服务的雇主，或希望参加就业选配计划的求职者可在即场进行登记。">同时，希望利用就业选配计划所提供的免费招聘服务的雇主，或希望参加就业选配计划的求职者可在即场进行登记。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="在补充劳工计划下登记的职位空缺亦会展出，求职者可即场登记，申请这些空缺。">在补充劳工计划下登记的职位空缺亦会展出，求职者可即场登记，申请这些空缺。</P>
+  </TEXT>
+</DOC>

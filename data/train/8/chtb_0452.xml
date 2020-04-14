@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十一月四日电（记者容安才）" DiscourseTopic="北京市外国企业总公司成为对外交流的桥梁">
+    <LEAD>北京市外国企业服务总公司已发展成为以人力资源服务为主、带动旅游、航空、仓储、办公自动化设备销售、电子信息、房地产开发等成龙配套等大型专业化的国际服务贸易公司。</LEAD>
+    <ABSTRACT>北京市外国企业服务总公司已发展成为以人力资源服务为主、带动旅游、航空、仓储、办公自动化设备销售、电子信息、房地产开发等成龙配套等大型专业化的国际服务贸易公司。目前总公司提供的雇员包括厨师、女工、司机、保姆、电工，以及法津、投资项目咨询、公证服务、首席代表、代表、文秘、高级工程师等。凡在北京设有代表机构的国外大公司及台港澳公司，都有该公司提供的雇员。这家外企服务总公司的人才资源服务已跨入海外市场。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="6" Function="Summary" ID="5" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="1...1|2...2" ParentId="5" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...7" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...6" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5|6...6" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="比利时苏德新比中贸易公司董事长说，中国雇员的素质好、工作效率高。">比利时苏德新比中贸易公司董事长亨利李德汉先生说，中国雇员的素质好、工作效率高，他感到很满意。</P>
+    <P Function="Background" ID="2" ParagraphTopic="这是他今天上午在“庆祝北京外国企业服务总公司成立十八周年暨欢迎李德汉先生第六十次访华新闻介绍会”上所表示的。">这是他今天上午在“庆祝北京外国企业服务总公司成立十八周年暨欢迎李德汉先生第六十次访华新闻介绍会”上所表示的。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="北京市外国企业服务总公司已发展成为以人力资源服务为主、带动旅游、航空、仓储、办公自动化设备销售、电子信息、房地产开发等成龙配套等大型专业化的国际服务贸易公司。">北京市外国企业服务总公司副总经理刘天健介绍说，成立于一九七九年的这家公司，目前已由初期提供介绍、招聘雇员等简易服务，发展成为以人力资源服务为主、带动旅游、航空、仓储、办公自动化设备销售、电子信息、房地产开发等成龙配套等大型专业化的国际服务贸易公司。现在公司已派出雇员二万人，服务于四十八个国家和地区的近五千家外商驻京机构和三资企业。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="目前总公司提供的雇员包括厨师、女工、司机、保姆、电工，以及法津、投资项目咨询、公证服务、首席代表、代表、文秘、高级工程师等。">他说，目前总公司提供的雇员包括厨师、女工、司机、保姆、电工，以及法津、投资项目咨询、公证服务、首席代表、代表、文秘、高级工程师等。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="凡在北京设有代表机构的国外大公司及台港澳公司，都有该公司提供的雇员。">刘天健介绍说，现在凡在北京设有代表机构的国外大公司及台港澳公司，都有该公司提供的雇员，其中包括ＩＢＭ、西门子、ＡＴ＆Ｔ、ＧＥ、加拿大北方电讯等世界知名的企业。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="这家外企服务总公司的人才资源服务已跨入海外市场。">目前，这家外企服务总公司的人才资源服务已跨入海外市场。公司已向日本、新加坡、泰国、印尼等国家输出了各种专业技术、管理及劳务人员。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="苏德新比中贸易公司与中国十八年来始终保持着友好合作关系。">刘天健介绍说，主要从事比利时与中国贸易的苏德新比中贸易公司，自一九七九年在京成立办事处、并从总公司雇用了第一位中国雇员以来，十八年来始终保持着友好合作关系。在李德汉的努力下，促成了比利时作为世界上第一个向中国政府贷款的国家，以及数百个欧洲的投资、贸易及文化交流代表团访华和更多的比利时财团、公司来华投资。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="今后为外商机构和中方雇员提供最优质的服务，是公司始终如一遵循的宗旨。">刘天健表示，今后为外商机构和中方雇员提供最优质的服务，是公司始终如一遵循的宗旨。（完）</P>
+  </TEXT>
+</DOC>

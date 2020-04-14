@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="九八至九九学年尤德爵士纪念海外研究生奖学金和海外奖学金">
+    <LEAD>尤德爵士纪念基金理事会宣布，该基金一九九八至九九学年海外研究生奖学金及海外奖学金，由明日（星期五）起接受申请。</LEAD>
+    <ABSTRACT>尤德爵士纪念基金理事会宣布，该基金一九九八至九九学年海外研究生奖学金及海外奖学金，由明日（星期五）起接受申请。该等奖学金旨在鼓励优秀学生前赴海外著名院校继续升学。获奖者应对香港有强烈的承担，并愿意在学成返港後，为社会作出贡献。他们於毕业後须在香港至少工作三年。研究生奖学金为以专题研究或专题研读形式修读研究生学位课程的人士而设，奖学金则为修读学士学位课程的人士而设。申请人必须自行负责办理入读所选院校的一切申请手续，并符合该校的入学条件。海外研究生奖学金金额约每年二十二万八千元；海外奖学金金额约每年二十一万元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="5|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...11" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Supplement" ID="2" Layer="2" ParagraphPosition="7...9|10...10|11...11" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="7...7|8...9" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="8...8|9...9" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="2" ParagraphPosition="1...1|2...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="3" ParagraphPosition="2...2|3...3|4...4|5...5|6...6" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="尤德爵士纪念基金理事会宣布，该基金一九九八至九九学年海外研究生奖学金及海外奖学金，由明日（星期五）起接受申请。">尤德爵士纪念基金理事会今日（星期四）宣布，该基金一九九八至九九学年海外研究生奖学金及海外奖学金（包括伤残学生奖学金），由明日（星期五）起接受申请。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="该等奖学金旨在鼓励优秀学生前赴海外著名院校继续升学。">该等奖学金旨在鼓励优秀学生前赴海外著名院校继续升学。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="获奖者应对香港有强烈的承担，并愿意在学成返港後，为社会作出贡献。他们於毕业後须在香港至少工作三年。">获奖者应对香港有强烈的承担，并愿意在学成返港後，为社会作出贡献。他们於毕业後须在香港至少工作三年。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="研究生奖学金为以专题研究或专题研读形式修读研究生学位课程的人士而设，奖学金则为修读学士学位课程的人士而设。">研究生奖学金为以专题研究或专题研读形式修读研究生学位课程的人士而设，奖学金则为修读学士学位课程的人士而设。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="申请人必须自行负责办理入读所选院校的一切申请手续，并符合该校的入学条件。">申请人必须自行负责办理入读所选院校的一切申请手续，并符合该校的入学条件。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="海外研究生奖学金金额约每年二十二万八千元；海外奖学金金额约每年二十一万元。">海外研究生奖学金金额约每年二十二万八千元，最长为期三年（博士学位）或两年（硕士学位）；海外奖学金金额约每年二十一万元，最长为期三年。</P>
+    <P Function="Sub-Summary" ID="7" ParagraphTopic="申请表格及资料文件可在下列地点索取：。">申请表格及资料文件可在下列地点索取：</P>
+    <P Function="Situation" ID="8" ParagraphTopic="学生资助办事处。">（一）学生资助办事处－－香港湾仔告士打道一百五十一号国卫中心九字楼。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="教育署升学及辅导服务组。">（二）教育署升学及辅导服务组－－九龙旺角联运街三十号旺角政府合署二零六室。</P>
+    <P Function="Story-Situation" ID="10" ParagraphTopic="查询详情，请致电二八零二一六三八或二八零二一六三九。">查询详情，请致电二八零二一六三八或二八零二一六三九。</P>
+    <P Function="Story-Situation" ID="11" ParagraphTopic="截止申请日期为今年九月三十日。">截止申请日期为今年九月三十日。经挑选的申请人须参加初次面试，面试於明年一月在香港举行。合适的申请人将获邀参加於明年二月或三月举行的最後面试。</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社大连三月十六日电（记者赵华）" DiscourseTopic="大连外贸出口额一半以上来自“三资”企业">
+    <LEAD>一九九五年“三资”企业出口额占大连市出口额的一半还多。</LEAD>
+    <ABSTRACT>三资企业出口稳步增长，并且使大连市出口商品结构向精加工制成品方向优化，在大连市去年外贸出口增长中起到了主力军的作用，其出口额占大连市出口额的一半还多。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="一九九五年“三资”企业出口额占大连市出口额的一半还多。">记者从日前在此间召开的大连市对外开放工作会议上获悉，一九九五年，大连市“三资”企业出口额达十四点四亿美元，占这个市出口额的一半还多。</P>
+    <P Function="Background" ID="2" ParagraphTopic="大连外商投资情况。">大连是中国常驻外商最集中的城市之一，目前已有外商投资企业五千二百二十六家，合同金额一百五十八点一亿美元，协议外资金额八十二点七亿美元，实际利用外资三十一点六亿美元。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="一九九五年大连市去年外贸出口保持增长，其中三资企业起到了主力军的作用。">据介绍，大连市去年外贸出口在种种不利条件下仍保持了持续增长的势头，全年出口额达二十五点二四亿美元，比前年增长了两成半以上，高于大连市国内生产总值增长幅度，也高于全国外贸出口的平均增长水平，在中国各城市出口排名中列第七位。这其中，三资企业出口的稳步增长起到了主力军的作用。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="一九九五年三资企业出口比前年同期增长。">去年，三资企业出口比前年同期增长了百分之十五点七，达十四点四亿美元。佳能大连办公室设备有限公司、万宝至马达大连有限公司出口额均超过一亿美元，东芝大连有限公司、大连斯大精密有限公司和欧姆龙大连有限公司出口额也达到六千万美元以上。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="三资企业使大连市出口商品结构向精加工制成品方向优化。">这些三资企业以其出口商品技术密集、质量先进提高了大连出口商品的档次，使大连市出口商品结构向精加工制成品方向优化。目前，大连市出口商品结构中，初级产品只占据不到三成，而工业制成品比重达七成以上。其中，机电产品大幅增长，占出口总额的四成多。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="大连与韩国之间的经贸情况。">统计资料表明，去年，大连对韩出口已达一亿多美元。越来越多的韩国企业正在看好大连，韩国对大连投资已连续三年保持持续增长，去年，大连批准的韩国投资企业达一百六十六家，协议外资金额达三点二亿美元，分别比前年增长了三成多和一倍半。（完）</P>
+  </TEXT>
+</DOC>

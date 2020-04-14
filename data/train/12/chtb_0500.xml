@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="庄严仪式标志回归">
+    <LEAD>一项仪式标志中华人民共和国对香港恢复行使主权。</LEAD>
+    <ABSTRACT>一项仪式标志中华人民共和国对香港恢复行使主权。昨日（星期一）午夜前，英国国歌奏起、英国国旗和香港旗徐徐降下，英国对香港超过一百五十年的管治亦从此结束。踏入星期二零时，会场内便奏起中国国歌，中国国旗及香港特别行政区区旗亦冉冉升起。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...11|12...12" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="10" Layer="7" ParagraphPosition="5...5|6...6" ParentId="9" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="8...9|10...11" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="8...8|9...9" ParentId="3" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="10" Function="Story" ID="9" Layer="6" ParagraphPosition="4...4|5...6" ParentId="8" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="4" Layer="4" ParagraphPosition="10...10|11...11" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="6|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...7|8...11" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="11|7" Function="Summary" ID="6" Layer="3" ParagraphPosition="1...2|3...7" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8" Function="Supplement" ID="7" Layer="4" ParagraphPosition="3...3|4...7" ParentId="6" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="9" Function="Story" ID="8" Layer="5" ParagraphPosition="4...6|7...7" ParentId="7" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="11" Layer="4" ParagraphPosition="1...1|2...2" ParentId="6" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="一项仪式标志中华人民共和国对香港恢复行使主权。">一项庄严肃穆富历史意义的仪式标志中华人民共和国对香港恢复行使主权。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="英国皇储威尔斯亲王与中华人民共和国国家主席江泽民均在仪式上致辞，仪式于六月三十日午夜至七月一日凌晨举行。">英国皇储威尔斯亲王与中华人民共和国国家主席江泽民均在仪式上致辞，仪式於六月三十日午夜至七月一日凌晨举行，并向全世界直播。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="仪式在香港会议展览中心新翼大厅举行，约四千名嘉宾出席，包括来自四十多个国家和国际性组织的外交部长和知名人士，以及约四百名各国传媒代表。">仪式在香港会议展览中心新翼大厅举行，约四千名嘉宾出席，包括来自四十多个国家和国际性组织的外交部长和知名人士，以及约四百名各国传媒代表。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="中英两国的主要代表在中央高台就座。">中英两国的主要代表在中央高台就座。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="中方代表为国家主席江泽民、国务院总理李鹏、国务院副总理钱其琛、中央军事委员会副主席张万年和香港特别行政区行政长官董建华。">中方代表为国家主席江泽民、国务院总理李鹏、国务院副总理钱其琛、中央军事委员会副主席张万年和香港特别行政区行政长官董建华。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="英方代表为皇储威尔斯亲王、首相贝理雅、外相郭伟邦、港督彭定康和国防部总参谋ＧｅｎｅｒａｌＳｉｒＣｈａｒｌｅｓＧｕｔｈｒｉｅ。">英方代表为皇储威尔斯亲王、首相贝理雅、外相郭伟邦、港督彭定康和国防部总参谋ＧｅｎｅｒａｌＳｉｒＣｈａｒｌｅｓＧｕｔｈｒｉｅ。</P>
+    <P Function="Story-Situation" ID="7" ParagraphTopic="一百八十多名重要嘉宾则就座于中英双方代表后面的三行座位。">一百八十多名重要嘉宾，包括中英两国政要和香港及特区政府主要官员，则就座於中英双方代表後面的三行座位。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="昨日（星期一）午夜前，英国国歌奏起、英国国旗和香港旗徐徐降下，英国对香港超过一百五十年的管治亦从此结束。">昨日（星期一）午夜前，英国国歌奏起、英国国旗和香港旗徐徐降下，英国对香港超过一百五十年的管治亦从此结束。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="踏入星期二零时，会场内便奏起中国国歌，中国国旗及香港特别行政区区旗亦冉冉升起。">踏入星期二零时，会场内便奏起中国国歌，中国国旗及香港特别行政区区旗亦冉冉升起。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="中英两国各派出三十六人的仪仗队及军乐团参加典礼，仪式约于晚上十一时四十分开始，凌晨十二时十分结束。">中英两国各派出三十六人的仪仗队及军乐团参加典礼，仪式约於晚上十一时四十分开始，凌晨十二时十分结束。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="三名皇家香港警务处人员将香港旗降下，而三名香港警务处人员则负责升起特区区旗。">三名皇家香港警务处人员将香港旗降下，而三名香港警务处人员则负责升起特区区旗。</P>
+    <P Function="Supplement" ID="12" ParagraphTopic="典礼完成后，钱其琛在香港会议展览中心新翼向威尔斯亲王和彭定康道别。">典礼完成後，钱其琛在香港会议展览中心新翼向威尔斯亲王和彭定康道别，其後两人登上皇家游艇「不列颠尼亚号」，离开香港。</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="政府处理入境身份要求的立场">
+    <LEAD>入境事务处会依照一贯的做法处理有关入境身分的要求，包括取得居留权的资格。</LEAD>
+    <ABSTRACT>入境事务处会依照一贯的做法处理有关入境身分的要求，包括取得居留权的资格。由于核对提出要求人士的身分需时，我们会让提出要求者先行担保回家。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="入境事务处会依照一贯的做法处理有关入境身分的要求，包括取得居留权的资格。">政府发言人今日（星期四）回应新闻界查询，有关一批儿童前往入境事务处，根据基本法第二十四条第（二）（三）项要求取得居留权时表示，入境事务处会依照一贯的做法处理有关入境身分的要求，包括取得居留权的资格。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="由于核对提出要求人士的身分需时，我们会让提出要求者先行担保回家。">发言人说∶「由於核对提出要求人士的身分需时，我们会让提出要求者先行担保回家。」</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="政府对非法入境者不会有特别安排或特赦。">发言人强调，政府对非法入境者不会有特别安排或特赦。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="所有未能依法确立他们在港的居留权利的人士均会被遣返。">他说∶「所有未能依法确立他们在港的居留权利的人士均会被遣返。」</P>
+  </TEXT>
+</DOC>

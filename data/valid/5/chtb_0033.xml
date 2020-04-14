@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州三月四日电（记者顾万明）" DiscourseTopic="广东“八五”期间电子工业产值居全国首位">
+    <LEAD>广东“八五”期间电子工业发展速度快、效益好，电子工业产值居中国第一。</LEAD>
+    <ABSTRACT>“八五”期间，广东电子工业发展速度快、效益好，产值居中国第一。电子工业进行企业改造和发展，优化地区布局形成区域集中发展优势，实现“从内销为主转为外销为主”的战略转移。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="广东“八五”期间电子工业发展速度快、效益好，电子工业产值居中国第一。">广东“八五”期间（一九九一至一九九五年）电子工业新兴产业发展速度快、效益好。一九九五年，全省电子工业产值达到五百一十五亿元，比一九九０年增长三点八倍，年均增长速度为百分之三十六点九，电子工业产值居中国第一。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="“八五”期间广东电子工业进行企业改造和发展。">“八五”期间，广东电子工业投资七十亿元进行企业改造和发展，目前已有二十个重点项目竣工投产，使四大类产品形成了规模经济，其中程控交换机、微机已上规模，成为电子工业新的支柱产品。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="“八五”期间广东电子工业电子产品发展速度快。">去年，电话机生产一千六百一十一万部，程控交换机生产三百三十四万线，微机生产十二万台，产量分别成倍增长。长期发展慢的投资类电子产品发展速度加快，一九九五年完成产值一百三十八点七亿元，比一九九０年增长十倍，发展速度超过了消费类电子产品。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="“八五”期间广东电子工业优化地区布局形成区域集中发展优势。">“八五”期间，广东电子工业优化地区布局，形成区域集中发展优势。珠江三角洲成为电子工业的集中地，电子工业产值前七名的市均在三角洲内，一九九五年这七个市的电子工业产值四百八十亿元，占全省电子工业总产值的百分之九十。深圳、惠州成为电子工业的出口基地，两市生产的电脑元器件大量销往世界各地。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="广东电子工业实现了“从内销为主转为外销为主”的战略转移，产品出口量增长迅猛。">广东电子工业实现了“从内销为主转为外销为主”的战略转移，产品出口量迅猛增多，一九九五年出口电话机七百三十二点五万台，彩电三百一十九万台，收录放机一千零六十五万台，组合音响近三百万台，出口量分别占总产量的百分之五十至百分之九十，出口交货值连续多年居中国第一。（完）</P>
+  </TEXT>
+</DOC>

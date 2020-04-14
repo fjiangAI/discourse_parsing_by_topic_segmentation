@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电" DiscourseTopic="中国明年计划更新汽车四十万辆">
+    <LEAD>明年中国计划更新汽车四十万辆。</LEAD>
+    <ABSTRACT>明年中国计划更新汽车四十万辆。中国一九九九年更新实施方案。明年计划更新汽车最多的是北京市，其次是河北省。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="明年中国计划更新汽车四十万辆。">据《人民日报》报道，明年中国计划更新汽车四十万辆，比今年增加五万辆，更新数量为历年之最。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国一九九九年更新实施方案。">据了解，中国一九九九年四十万辆汽车更新实施方案为：载货车二十一万一千零六十六辆，吉普车（轻型越野车）四万一千四百零九辆，小轿车八万一千零二十五辆，旅行车（轻型客车）三万六千二百一十四辆，其他车三万零二百八十六辆。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="明年计划更新汽车最多的是北京市，其次是河北省。">在省、自治区、市中，明年计划更新汽车最多的是北京市，为二万八千辆，其次是河北省，为二万五千辆；山东、上海、山西、浙江、江苏、黑龙江、湖北、广东、湖南等九个省市更新汽车数量均超过万辆。（完）</P>
+  </TEXT>
+</DOC>

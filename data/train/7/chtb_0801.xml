@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社沈阳十二月三十日电（记者郭大岳）" DiscourseTopic="中国首例自然妊娠六胞胎存活婴儿健康状况良好">
+    <LEAD>中国医科大学附属第二医院新生儿科副主任、医学博士毛健公布中国首例自然妊娠六胞胎存活婴儿健康状况。</LEAD>
+    <ABSTRACT>中国医科大学附属第二医院新生儿科副主任、医学博士毛健公布中国首例自然妊娠六胞胎存活婴儿健康状况。两个体重最轻的婴儿不幸夭折，目前存活婴儿的健康状况令医生们满意。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...6" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...6" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="4...4|5...5|6...6" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国医科大学附属第二医院新生儿科副主任、医学博士毛健公布中国首例自然妊娠六胞胎存活婴儿健康状况。">“六胞胎中剩余四兄妹的状况比预想好得多，特别是第二个出生的女婴的状况，超出了我们的想象。”中国医科大学附属第二医院新生儿科副主任、医学博士毛健今天在此间公布中国首例自然妊娠六胞胎存活婴儿健康状况。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="两个体重最轻的婴儿不幸夭折，目前存活婴儿的健康状况令医生们满意。">到今天，中国首例自然妊娠六胞胎降生刚好一周。其间，有两个体重最轻的婴儿不幸夭折，目前存活婴儿的健康状况令医生们满意。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="目前第二个婴儿的循环状态、进奶情况和肺部状况都有所改善，其他孩子已经没有呼吸暂停现象。这四名婴儿从昨天开始体重开始明显增加。">院方公布的报告表明，目前第二个婴儿的循环状态、进奶情况和肺部状况都有所改善，其他孩子已经没有呼吸暂停现象。这四名婴儿在出生后，因水份散失，体重曾一度下降，从昨天开始，他们的体重开始明显增加。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="第二个出生的女婴通过降低输液量来减少心脏血管负担，使她的病情向好的方向发展。">第二个出生的女婴不断给医生们出难题，她是存活下来的孩子中唯一的单卵单胎。“这个孩子的情况在二十八日非常危险，我们通过降低输液量来减少心脏血管负担。现在的情况表明，这一措施使她的病情向好的方向发展。”毛健博士看上去相当疲惫，他是六胞胎抢救组的负责人之一。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="目前这四名婴儿体重增长十五克至四十克不等；前两日出现的轻度黄疸现象都有所减轻。">目前这四名婴儿体重增长十五克至四十克不等；前两日出现的轻度黄疸现象都有所减轻。三个单卵三胎发育的男婴的总体状况比单卵单胎的女婴要好，只是第一个出生的男婴在二十八日出现频发呼吸暂停，伴心率减慢，用强刺激后得以缓解。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="意外出生的第六个男婴状态良好，心音有力，肢体无硬肿，体重八百八十克，较前日增长三十克。">意外出生的第六个男婴让医生们最为放心，他状态良好，心音有力，肢体无硬肿，体重八百八十克，较前日增长三十克。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="目前这些婴儿仍处于严密监护及积极抢救中，因为他们仍然随时可能出现危险。">毛健博士最后说，目前这些婴儿仍处于严密监护及积极抢救中，因为他们仍然随时可能出现危险。（完）</P>
+  </TEXT>
+</DOC>

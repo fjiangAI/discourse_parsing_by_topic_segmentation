@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="香港获赠「永远盛开的紫荆花」">
+    <LEAD>香港特别行政区获「永远盛开的紫荆花」雕塑作为回归的贺礼。</LEAD>
+    <ABSTRACT>香港特别行政区获「永远盛开的紫荆花」雕塑作为回归的贺礼。香港特别行政区行政长官董建华与中国副总理兼外长钱其琛新翼香港特别行政区成立庆典后为「永远盛开的紫荆花」雕塑揭幕。雕塑端立于暖红色的「四川红」花岗岩基座上，底部文字阴刻贴金。。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="7" Layer="5" ParagraphPosition="3...3|4...4" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7|5" Function="Story" ID="4" Layer="4" ParagraphPosition="3...4|5...6" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="5...5|6...6" ParentId="4" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4|6" Function="Story" ID="3" Layer="3" ParagraphPosition="3...6|7...8" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="7...7|8...8" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="8" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="香港特别行政区获「永远盛开的紫荆花」雕塑作为回归的贺礼。">香港特别行政区今日（星期二）获中华人民共和国中央人民政府送赠一份金碧辉煌的礼物－－「永远盛开的紫荆花」雕塑－－作为回归的贺礼。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="中国三十一个省、自治区和直辖市亦赠予香港多件特别的礼物。">中国三十一个省、自治区和直辖市亦赠予香港多件特别的礼物，包括雕塑、挂毯、雕刻、剌绣、陶瓷、漆制品等，庆贺特区成立。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="香港特别行政区行政长官董建华与中国副总理兼外长钱其琛新翼香港特别行政区成立庆典后为「永远盛开的紫荆花」雕塑揭幕。">香港特别行政区行政长官董建华与中国副总理兼外长钱其琛今天早上在香港会议展览中心新翼香港特别行政区成立庆典後为「永远盛开的紫荆花」雕塑揭幕。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="由于礼物数量多、体积大，部分重达一千至三千公斤，未能在典礼上逐一致送，只能播映贺礼的录映带。">由於礼物数量多、体积大，部分重达一千至三千公斤，未能在典礼上逐一致送，只能播映贺礼的录映带；嘉宾则在典礼後前往会展中心五楼观赏。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="董建华与约一百名主要嘉宾观看钱其琛为「永远盛开的紫荆花」雕塑主持象征式的送赠仪式。">此时，董建华与约一百名主要嘉宾前往会展中心新翼大堂，观看钱其琛为「永远盛开的紫荆花」雕塑主持象徵式的送赠仪式。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="雕塑放置在新翼前的海傍。">雕塑放置在新翼前的海傍，但由於天气恶劣，故未能如期在现场为这个六米高、表面「晋金」喷涂、并贴上金箔的铜铸雕塑举行揭幕仪式。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="雕塑端立于暖红色的「四川红」花岗岩基座上，底部文字阴刻贴金。。">雕塑端立於暖红色的「四川红」花岗岩基座上，底部文字阴刻贴金。基座由方圆构成，象徵九州方圆，环衬的长城图案，象徵伟大的祖国。「永远盛开的紫荆花」昭示香港未来繁荣昌盛。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="其他贺礼均反映各省、自治区或直辖市的特色。">其他贺礼均反映各省、自治区或直辖市的特色。例如内蒙古自治区重视马术，致送的礼物是一尊骏马奔腾的雕塑，而海南省致送的是一件贝雕。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="三十一件贺礼于七月三日及四日上午十时至下午五时在香港会展中心五楼展览厅展出，供市民参观。">三十一件贺礼於七月三日及四日上午十时至下午五时在香港会展中心五楼展览厅展出，供市民参观。贺礼日後摆放博物馆。</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电（记者钱彤）" DiscourseTopic="李岚清会见加拿大客人">
+    <LEAD>国务院副总理李岚清今天下午在中南海会见了加拿大蒙特利尔市市长皮埃尔·布尔克。</LEAD>
+    <ABSTRACT>国务院副总理李岚清今天下午在中南海会见了加拿大蒙特利尔市市长皮埃尔·布尔克。李岚清表示，中国政府对办好明年在昆明举行的世界园艺博览会充满信心。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="国务院副总理李岚清今天下午在中南海会见了加拿大蒙特利尔市市长皮埃尔·布尔克。">国务院副总理李岚清今天下午在中南海会见了加拿大蒙特利尔市市长皮埃尔·布尔克。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="李岚清表示，中国政府对办好明年在昆明举行的世界园艺博览会充满信心。">李岚清表示，中国政府对办好明年在昆明举行的世界园艺博览会充满信心，并对布尔克作为世博会顾问支持并参与世博会的筹备表示感谢。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="布尔克是应云南省政府和世博会组委会的邀请来华访问的。">布尔克是应云南省政府和世博会组委会的邀请来华访问的。（完）</P>
+  </TEXT>
+</DOC>

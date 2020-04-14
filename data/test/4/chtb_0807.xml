@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社巴黎１２月３０日电" DiscourseTopic="法国停止对伊拉克南部的空中监视行动">
+    <LEAD>参加在伊拉克南部“禁飞区”巡逻任务的法国空军已停止了其空中监视行动。</LEAD>
+    <ABSTRACT>参加在伊拉克南部“禁飞区”巡逻任务的法国空军已停止了其空中监视行动。法国空军是在１２月１６日开始停止参加由美、英、法三国共同执行的对伊南部的空中监视行动的。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="参加在伊拉克南部“禁飞区”巡逻任务的法国空军已停止了其空中监视行动。">法国外交部发言人２９日宣布，参加在伊拉克南部“禁飞区”巡逻任务的法国空军已停止了其空中监视行动。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="法国空军是在１２月１６日开始停止参加由美、英、法三国共同执行的对伊南部的空中监视行动的。">这位发言人说，法国空军是在１２月１６日开始停止参加由美、英、法三国共同执行的对伊南部的空中监视行动的。那一天，美、英两国突然对伊采取了军事打击行动。在１９９３年和１９９６年对伊进行轰炸期间，法国空军也同样停止了空中监视行动。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="法国方面停止监视行动并不意味着对伊“禁飞区”实行巡逻行动的结束，也不意味着法国退出这一行动计划。">这位发言人同时指出，法国方面停止监视行动并不意味着对伊“禁飞区”实行巡逻行动的结束，也不意味着法国退出这一行动计划。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="目前法国空军驻扎在沙特阿拉伯的军事基地。">目前参加对伊南部“禁飞区”执行监视行动的法国空军驻扎在沙特阿拉伯的军事基地，其中包括１架Ｃ－１３０给养运输机、５架幻影２０００战斗机和３架幻影Ｆ１－ＣＲ侦察机。１２月１６日之前，法国空军与美、英空军一起每天对伊南部进行空中监视。（完）</P>
+  </TEXT>
+</DOC>

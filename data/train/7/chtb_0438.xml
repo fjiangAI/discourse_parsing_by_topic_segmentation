@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十月十三日电（记者刘激扬）" DiscourseTopic="美国埃克森石油公司总裁说，亚太地区将成为世界石油消费重心所在">
+    <LEAD>美国埃克森公司总裁指出，亚太地区将成为全球石油消费新的重心所在。</LEAD>
+    <ABSTRACT>美国埃克森公司总裁指出，亚太地区将成为全球石油消费新的重心所在。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|4" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="3" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="4" Layer="2" ParagraphPosition="6...6|7...7" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="美国埃克森公司总裁指出，亚太地区将成为全球石油消费新的重心所在。">全球最大石油供应商之一的美国埃克森公司总裁兼首席执行官李·雷蒙德今天在第十五届世界石油大会上指出，亚太地区的交通和工业用油到二０一０年每天将比现在增加近一千万桶，成为全球石油消费新的重心所在。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="这一石油消费数量相当于同期新建大约四十个炼油厂，平均每年建三个厂。">雷蒙德说，这一石油消费数量相当于同期新建大约四十个炼油厂，平均每年建三个厂。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="目前在整个亚太地区，经济迅速增长的迹象处处可见。">他说，目前在整个亚太地区，从曼谷到北京，雅加达到上海，新加坡到汉城，经济迅速增长的迹象处处可见。在未来十五年内，这一地区的经济差不多会翻一番，世界经济的重心也将移向东方。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="亚太地区的人口占全世界的百分之四十以上，越来越多亚太国家和地区的政府开始实行市场原则。">他说，亚太地区的人口占全世界的百分之四十以上，随着越来越多亚太国家和地区的政府开始实行市场原则，贸易壁垒被消除，有力推动了这一地区方兴未艾的国际投资和商务热潮。这也使得世界上能源投资开放的地区增加了三分之一以上。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="矿物燃料在可预见的将来仍将是这一地区的主要能源。">雷蒙德认为，亚太地区经济的强劲增长使得石油需求急剧上升，在寻找现成的、经济性的替代能源尚无眉目的情况下，矿物燃料在可预见的将来仍将是这一地区的主要能源。目前，亚洲仍然有众多的地区具有油气开采潜力，但开采工程的难度和费用很高，经常需要在地质构造复杂的深水或地势崎岖不平的地区进行，比如在俄罗斯的萨哈林岛和中国塔里木盆地。因此，亚太地区有必要加强国际能源合作，引进当今最好的技术和方法。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="亚太地区必须找到自己的发展方式。">他反驳了国际经济界一些人士认为亚洲的经济繁荣必须遵循西方模式的观点，提出亚太地区必须找到自己的发展方式。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="世界石油工业应与亚太地区的政府、国际社会通力合作。">雷蒙德说，世界石油工业应与亚太地区的政府、国际社会通力合作，为该地区的持续繁荣和生活水平的提高奠定坚实的基础。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="伪造旅行证件和身分证被判入狱">
+    <LEAD>入境处发言人今天（七月八日）称三名带家因协助两名中国人士以伪造旅行证件和身分证离开香港，分别被判入狱二十个月。</LEAD>
+    <ABSTRACT>入境处发言人今天（七月八日）称三名带家因协助两名中国人士以伪造旅行证件和身分证离开香港，分别被判入狱二十个月。三名被告中，二十三岁无业男子因管有伪造英国国民（海外）护照和伪造身分证两罪，分别被判入狱二十个月，同期执行。第二被告，二十九岁资料输入员，被告协助和教唆他人使用虚假英国国民（海外）护照及香港身分证明书两罪，分别判入狱二十个月，同期执行。第三被告，三十岁工人被判管有伪造香港身分证明书和误导警务人员罪名成立，第一项控罪被判入狱二十个月，而第二项控罪被判入狱两个月，同期执行。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...9|10...11" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Cause" ID="5" Layer="4" ParagraphPosition="6...8|9...9" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="6...6|7...7|8...8" ParentId="5" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Result" ID="7" Layer="4" ParagraphPosition="3...3|4...4|5...5" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="10...10|11...11" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="8|4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...2|3...9" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7|5" Function="Story" ID="4" Layer="3" ParagraphPosition="3...5|6...9" ParentId="3" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="8" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="入境处发言人今天（七月八日）称三名带家因协助两名中国人士以伪造旅行证件和身分证离开香港，分别被判入狱二十个月。">入境处发言人今天（七月八日）称三名带家因协助两名中国人士以伪造旅行证件和身分证离开香港，分别被判入狱二十个月。</P>
+    <P Function="Background" ID="2" ParagraphTopic="该三名被告及两名中国人士於二月二十四日在机场离境大堂被一直在监视他们的入境处职员所拘捕。">该三名被告及两名中国人士於二月二十四日在机场离境大堂被一直在监视他们的入境处职员所拘捕。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="三名被告中，二十三岁无业男子因管有伪造英国国民（海外）护照和伪造身分证两罪，分别被判入狱二十个月，同期执行。">三名被告中，二十三岁无业男子因管有伪造英国国民（海外）护照和伪造身分证两罪，分别被判入狱二十个月，同期执行。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="第二被告，二十九岁资料输入员，被告协助和教唆他人使用虚假英国国民（海外）护照及香港身分证明书两罪，分别判入狱二十个月，同期执行。">第二被告，二十九岁资料输入员，被告协助和教唆他人使用虚假英国国民（海外）护照及香港身分证明书两罪，分别判入狱二十个月，同期执行。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="第三被告，三十岁工人被判管有伪造香港身分证明书和误导警务人员罪名成立，第一项控罪被判入狱二十个月，而第二项控罪被判入狱两个月，同期执行。">第三被告，三十岁工人於一月间在中国将他的身分证明书以二千元卖给一名男子。他的旅行证件其後被用於协助其中一名中国人士以办理前往澳洲的登机手续。他被判管有伪造香港身分证明书和误导警务人员罪名成立，第一项控罪被判入狱二十个月，而第二项控罪被判入狱两个月，同期执行。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="於本年二月，一名绰号＂老细＂的男子在中国福建和两名当地人士接洽，声称可以安排两人往澳洲工作，费用人民币十五万元。">案情透露，於本年二月，一名绰号＂老细＂的男子在中国福建和两名当地人士接洽，声称可以安排两人往澳洲工作，费用人民币十五万元。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="在该名＂老细＂安排下，两人在二月底到港。在第一和第三被告陪同下往机场，并由第二被告协助办理登机手续。">在该名＂老细＂安排下，两人在二月底到港。在第一和第三被告陪同下往机场，并由第二被告协助办理登机手续。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="办妥手续後，第二被告即将两本伪造的英国国民（海外）护照、香港身分证明书及香港身分证交与该两名中国人士。而整个过程，都被入境处职员所监视。">办妥手续後，第二被告即将两本伪造的英国国民（海外）护照、香港身分证明书及香港身分证交与该两名中国人士。而整个过程，都被入境处职员所监视。正当交易完成，入境处职员即上前将五人拘捕。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="该两名中国人士在三月时已被指行使伪造中国护照和管有伪造香港旅行证件而分别被判入狱六个月。">该两名中国人士在三月时已被指行使伪造中国护照和管有伪造香港旅行证件而分别被判入狱六个月。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="藏有伪造旅行证件或非法更改旅行证件乃严重罪行。违例者将被检控，一经定罪，最高刑罚为监禁十四年及罚款十五万元。">入境处发言人说：「藏有伪造旅行证件或非法更改旅行证件乃严重罪行。违例者将被检控，一经定罪，最高刑罚为监禁十四年及罚款十五万元。」</P>
+    <P Function="Situation" ID="11" ParagraphTopic="藏有伪造身分证为严重罪行，最高可被判罚入狱十年及罚款十万元正。">发言人补充说：「藏有伪造身分证为严重罪行，最高可被判罚入狱十年及罚款十万元正。」</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社东京１２月３０日电（记者张可喜）" DiscourseTopic="威拉蓬夺得世界拳击理事会最轻量级冠军称号">
+    <LEAD>威拉蓬成为世界拳击理事会最轻量级冠军。</LEAD>
+    <ABSTRACT>威拉蓬成为世界拳击理事会最轻量级冠军。比赛是在大阪市举行的。辰吉丈一郎被威拉蓬击倒６次，脸上中左刺拳无数，裁判不得不宣布比赛就此结束。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="威拉蓬成为世界拳击理事会最轻量级冠军。">在２９日于大阪举行的世界拳击理事会（ＷＢＣ）最轻量级第十二次冠军赛中，泰国的威拉蓬击败世界冠军、日本的辰吉丈一郎，成为这个级别的新冠军。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="比赛是在大阪市举行的。辰吉丈一郎被威拉蓬击倒６次，脸上中左刺拳无数，裁判不得不宣布比赛就此结束。">这场比赛是在辰吉丈一郎的家乡大阪市的中央体育馆举行的。辰吉丈一郎今年２８岁，体重５３·５公斤，去年１１月击败这个级别的冠军、泰国的希里蒙空，夺得ＷＢＣ最轻量级冠军，此后，曾２度卫冕成功。但在２９日的卫冕战中，他在２分５２秒钟的时间内，被威拉蓬击倒６次，脸上中左刺拳无数，可以说是一败涂地，裁判不得不宣布比赛就此结束。在迄今为止的拳击生涯中，辰吉丈一郎的战绩是２３战１７胜、５负、１平。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="威拉蓬１９９７年１２月之前，是泰拳三级冠军，１９９５年改练拳击，在第四战中便获得世界拳击协会最轻量级冠军。">威拉蓬已到而立之年，１９９７年１２月之前，是泰拳三级冠军。他１９９５年改练拳击，当年５月以历史上第二快的速度，在第四战中便获得ＷＢＡ（世界拳击协会）最轻量级冠军，但后来在第一次卫冕战中失利。以快速的右拳著称的威拉蓬最后战绩是２１战２０胜１负。（完）</P>
+  </TEXT>
+</DOC>

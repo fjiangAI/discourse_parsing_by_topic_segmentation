@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海五月八日电（记者夏儒阁）" DiscourseTopic="中国电子产品出口近年内将成倍增长">
+    <LEAD>到二零零零年，中国电子产品年出口金额将比去年增长一倍左右，达三百五十亿美元。</LEAD>
+    <ABSTRACT>到二零零零年，中国电子产品年出口金额将比去年增长一倍左右，达三百五十亿美元。中国电子业进入快速发展期，预计到本世纪末，中国电子工业年产值将实现七千到一万亿元。为扩大出口，有关部门几年前就已着手调整产业产品结构。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="3" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="到二零零零年，中国电子产品年出口金额将比去年增长一倍左右，达三百五十亿美元。">据权威部门预测，到二零零零年，中国电子产品年出口金额将比去年增长一倍左右，达三百五十亿美元。</P>
+    <P Function="Background" ID="2" ParagraphTopic="去年中国电子产品出口为一百八十四亿美元。">中国电子工业部经济运行与体制改革司司长李玉祥在日前透露这一信息时说，去年中国电子产品出口为一百八十四亿美元，出口产品主要为计算机及其配件，家用电器，元器件，以及电子产业的基础设备等。在中国当年机电产品出口中，电子产品出口已占机电产品出口的百分之三十八。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国电子业进入快速发展期，预计到本世纪末，中国电子工业年产值将实现七千到一万亿元。">九十年代以来，中国电子业进入快速发展期。其工业产值平均每年以近三成的速度增长。去年，电子工业年产值已达三千亿元。预计到本世纪末，中国电子工业年产值将实现七千到一万亿元。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="为扩大出口，有关部门几年前就已着手调整产业产品结构。">目前，中国电子产品主要满足国内市埸的需求。为扩大出口，有关部门几年前就已着手调整产业产品结构，现在已取得较为明显的效果。在产品结构上，投资类产品超过三分之一，消费类和元器件产品，比例亦较合理。在产业结构上，正朝着微电子方向发展。（完）</P>
+  </TEXT>
+</DOC>

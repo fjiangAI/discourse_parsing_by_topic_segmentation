@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社香港１２月３０日电（记者周宗欣）" DiscourseTopic="香港国际女子网球赛双打对阵排定">
+    <LEAD>香港超霸国际女子网球挑战赛公布了双打抽签的结果。</LEAD>
+    <ABSTRACT>香港超霸国际女子网球挑战赛公布了双打抽签的结果。格拉夫和汤嘉宝将和安·库尔尼科娃和塔纳苏加恩对阵，李芳和塞·威廉斯首轮的对手是维·威廉斯和林宁。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="香港超霸国际女子网球挑战赛公布了双打抽签的结果。">１９９９年香港超霸国际女子网球挑战赛的组办单位今天公布了双打抽签的结果，德国的单打头号种子施·格拉夫将和中国香港的汤嘉宝配对，而中国的李芳将和美国选手塞·威廉斯联手。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="格拉夫和汤嘉宝将在第一轮中和安·库尔尼科娃和塔纳苏加恩对阵，李芳和塞·威廉斯首轮的对手是维·威廉斯和林宁。">格拉夫和汤嘉宝将在第一轮中和俄罗斯的安·库尔尼科娃和泰国的塔纳苏加恩对阵，而李芳和塞·威廉斯首轮的对手是美国的维·威廉斯和中国香港的林宁。第一轮比赛的胜方将争夺冠军。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="比赛定于明年１月７日至９日在香港维园举行，设立单打和双打两个项目。">比赛定于明年１月７日至９日在香港维园举行，设立单打和双打两个项目。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="女单对阵已于日前抽签排定。">女单对阵已于日前抽签排定，一至四号种子分别是格拉夫、维·威廉斯、库尔尼科娃和塞·威廉斯。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="格拉夫曾创造了连续排名世界第一３６４周的纪录。维·威廉斯、塞·威廉斯姊妹和库尔尼科娃目前分别排世界第五、第二十和第十三位。中国的李芳刚刚在曼谷亚运会上获得双打金牌和单打第三名。">格拉夫曾创造了连续排名世界第一３６４周的纪录。维·威廉斯、塞·威廉斯姊妹和库尔尼科娃目前分别排世界第五、第二十和第十三位。中国的李芳刚刚在曼谷亚运会上获得双打金牌和单打第三名。（完）</P>
+  </TEXT>
+</DOC>

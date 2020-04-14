@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电" DiscourseTopic="中国经济体制多项改革按照原定部署有序推进">
+    <LEAD>中国经济体制改革按照原定部署迈出了更加坚定、有序的步伐。中国在进一步建立健全社会主义市场经济运行机制和经济秩序等方面取得突破。</LEAD>
+    <ABSTRACT>中国经济体制改革按照原定部署迈出了更加坚定、有序的步伐。中国在进一步建立健全社会主义市场经济运行机制和经济秩序等方面取得突破。一九九八年中国主要在粮食流通体制、国有企业改革、金融体制、住房改革、政府机构改革和社会保障制度等方面取得明显进展。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="4|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...9" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...9" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...5|6...6|7...7|8...8|9...9" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Summary" ID="4" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="中国经济体制改革按照原定部署迈出了更加坚定、有序的步伐。">即将过去的一年里，尽管经受了来自亚洲金融危机和特大洪涝灾害的严峻考验，但是中国经济体制改革依然按照原定部署迈出了更加坚定、有序的步伐。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国在进一步建立健全社会主义市场经济运行机制和经济秩序等方面取得突破。">中国在进一步建立健全社会主义市场经济运行机制和经济秩序等方面取得突破。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="一九九八年中国主要在粮食流通体制、国有企业改革、金融体制、住房改革、政府机构改革和社会保障制度等方面取得明显进展。">一九九八年中国主要在粮食流通体制、国有企业改革、金融体制、住房改革、政府机构改革和社会保障制度等方面取得明显进展。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="目前，粮食流通体制改革已经取得初步成果。">四月下旬，中国粮食流通体制改革按计划出台，工作重点是坚决贯彻执行按保护价敞开收购余粮，粮食收储企业实行顺价销售，收购资金实行封闭运行三项政策，加快粮食企业自身改革，提高市场竞争能力和经济效益。目前，粮食流通体制改革已经取得初步成果，新的粮食亏损挂帐被遏止，一些品种的粮食市场价格开始回升，农民利益得到保护。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="国有企业改革继续推进。">国有企业改革继续推进。纺织、煤炭、石油石化、冶金等行业深化改革和扭亏解困取得初步成效；加快了国有企业的改组和调整；同时，成立了中共中央大型企业工作委员会，国家管理国有企业的方式发生重大转变。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="金融行业进一步加快了金融体制改革的步伐，在防范和化解金融风险方面取得积极进展。">面对亚洲金融危机给中国经济发展带来的挑战，金融行业进一步加快了金融体制改革的步伐，在防范和化解金融风险方面取得积极进展。中共中央金融工作委员会成立；金融机构全面实行垂直领导；国家取消了对国有商业银行实行多年的贷款限额控制；人民银行对存款准备金制度实行改革，法定存款准备金率由过去的百分之十三下调到百分之八。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="国务院发出关于进一步深化城镇住房制度改革、加快住房建设的通知。">七月二十日，国务院发出关于进一步深化城镇住房制度改革、加快住房建设的通知，要求自一九九八年下半年开始停止住房实物分配，逐步实行住房分配货币化；针对不同收入的家庭实行不同的住房供应政策，重点发展经济适用住房；扩大个人住房贷款的发放范围，取消对个人住房贷款的规模限制。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="政府机构改革达到预期目标。">政府机构改革达到预期目标。国务院组成部门由原有的四十个减少为二十九个。按照转变职能、政企分开的要求，通过改革，各部门转交给企业、社会中介组织和地方的职能共有二百多项，人员编制总数基本达到精简一半的预期目标，政府效率进一步提高。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="社会保障制度改革步伐加快。">社会保障制度改革步伐加快。目前全国正在建立基本养老保险省级统筹制度；医疗保险制度改革方案已顺利出台；失业保险制度改革稳步推进。截至今年九月末，全国已有五百三十六个城市和六百六十一个县建立了城镇居民最低生活保障线制度，使下岗职工实施的基本生活得到保障。（完）</P>
+  </TEXT>
+</DOC>

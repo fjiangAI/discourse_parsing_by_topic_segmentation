@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社纽约１２月２８日电（记者丁宝忠）" DiscourseTopic="纽约股市节后交易平淡">
+    <LEAD>圣诞节后第一个交易日纽约股市交易平淡，道－琼斯股指微升，其他股指则有升有降。</LEAD>
+    <ABSTRACT>圣诞节后第一个交易日纽约股市交易平淡，道－琼斯股指微升，其他股指则有升有降。道－琼斯３０种工业股票平均价格指数２８日连续第七个交易日上升，但全天仅微升８．７６点，报收于９２２６．７５点。以技术股为主的纳斯达克股票指数比２３日创下的最高记录再涨１７．２７点，达２１８０．３０点的新高。标准普尔５００种股票价格指数及其他一些股票指数则有不同程度下跌。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="圣诞节后第一个交易日纽约股市交易平淡，道－琼斯股指微升，其他股指则有升有降。">圣诞节后第一个交易日纽约股市交易平淡，道－琼斯股指微升，其他股指则有升有降。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="道－琼斯３０种工业股票平均价格指数２８日连续第七个交易日上升，但全天仅微升８．７６点，报收于９２２６．７５点。">在技术股带动下，道－琼斯３０种工业股票平均价格指数２８日连续第七个交易日上升，但全天仅微升８．７６点，报收于９２２６．７５点。目前，该指数比年初升高百分之十六点七，距１１月２３日所创的历史最高点９３７４．２７点只差１４７点。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="以技术股为主的纳斯达克股票指数比２３日创下的最高记录再涨１７．２７点，达２１８０．３０点的新高。">当日，以技术股为主的纳斯达克股票指数比２３日创下的最高记录再涨１７．２７点，达２１８０．３０点的新高。至此，纳斯达克指数比年初升高百分之三十八点八。据一家咨询公司预测，美国网上交易额有可能从今年的大约１３０亿美元增加到明年的３００亿至４００亿美元，这是导致技术股当天走强的主要因素。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="标准普尔５００种股票价格指数及其他一些股票指数则有不同程度下跌。">标准普尔５００种股票价格指数及其他一些股票指数则有不同程度下跌。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="圣诞后新年前夕的华尔街交投清淡，纽约证交所上升股略少于下跌股。">圣诞后新年前夕的华尔街交投清淡，纽约证交所上升股略少于下跌股，成交量从前一个完整交易日的６．９４亿股减少为５．２６亿股。（完）</P>
+  </TEXT>
+</DOC>

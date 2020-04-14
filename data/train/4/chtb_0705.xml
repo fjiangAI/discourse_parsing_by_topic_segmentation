@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社维也纳１２月２８日电（记者刘云峰）" DiscourseTopic="欧佩克油价继续下跌">
+    <LEAD>欧佩克七种市场监督原油一揽子平均价上周继续下滑。</LEAD>
+    <ABSTRACT>欧佩克七种市场监督原油一揽子平均价上周继续下滑。今年１１月份，欧佩克原油全月平均价为每桶１１．１９美元，远低于去年每桶１８．６８美元的全年平均价。进入１２月以后，欧佩克原油价格跌破了每桶１０美元大关，而且仍在一路下滑。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...3|4...4" ParentId="1" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="欧佩克七种市场监督原油一揽子平均价上周继续下滑。">石油输出国组织（欧佩克秘书处２８日宣布，该组织七种市场监督原油一揽子平均价上周继续下滑，从前一周的每桶９.７８美元滑落到上周的每桶９．５０美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="今年１１月份，欧佩克原油全月平均价为每桶１１．１９美元，远低于去年每桶１８．６８美元的全年平均价。">今年１１月份，欧佩克原油全月平均价为每桶１１．１９美元，远低于去年每桶１８．６８美元的全年平均价，更低于该组织规定的每桶２１美元的内部参考价。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="欧佩克今年先后在３月和６月两次削减原油日产量，未能起到稳定油价的作用。">为了稳定原油价格，欧佩克今年先后在３月和６月两次削减原油日产量，但由于国际原油市场一直呈供大于求的状况，欧佩克的减产决定实际上只是杯水车薪，因而未能起到稳定油价的作用。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="进入１２月以后，欧佩克原油价格跌破了每桶１０美元大关，而且仍在一路下滑。">在今年１１月２６日召开的欧佩克石油部长会议上，该组织由于成员国意见分歧未能作出第三次减产决定。进入１２月以后，欧佩克原油价格跌破了每桶１０美元大关，而且仍在一路下滑。欧佩克人士指望该组织明年３月部长会议能作出稳定油价的新决定。（完）</P>
+  </TEXT>
+</DOC>

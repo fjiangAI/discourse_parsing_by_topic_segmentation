@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社赫尔辛基１２月２９日电（记者郄霜涛）" DiscourseTopic="芬兰网上销售业发展迅猛">
+    <LEAD>近两年芬兰网上销售业发展迅猛，其优质服务和高效运作显示了广阔的发展前景。</LEAD>
+    <ABSTRACT>近两年芬兰网上销售业发展迅猛，其优质服务和高效运作显示了广阔的发展前景。芬兰的零售商们为方便公众购物，在因特网上联合建立了统一的服务网址。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="近两年芬兰网上销售业发展迅猛，其优质服务和高效运作显示了广阔的发展前景。">芬兰《赫尔辛基新闻》２９日公布的因特网食品购物商店服务质量抽样调查表明，近两年芬兰网上销售业发展迅猛，其优质服务和高效运作显示了广阔的发展前景。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="芬兰的零售商们为方便公众购物，在因特网上联合建立了统一的服务网址。">芬兰的零售商们为方便公众购物，在因特网上联合建立了统一的服务网址。网上销售业涉及汽车、服装、电器、食品及鲜花等门类的上万种商品。消费者从网页目录栏中很容易找到位于芬兰南部、北部或首都的网上商店。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="以网上食品商店为例，它们的网上销售有如下特点：首先，挑选商品方便。其次，商品货真价实。再则，服务快捷、灵活。另外，付款安全。">以网上食品商店为例，它们的网上销售有如下特点：首先，挑选商品方便。网页索引操作简便，“商品货架”图像显示直观，重量、包装和单价一目了然。其次，商品货真价实。不仅食品质量有保证，而且价格与超市大同小异。再则，服务快捷、灵活。预订的电子“食品”可以到商店自取，如要送货上门，订货２小时内即可送到。另外，付款安全。采取交货付款方式，用现金还是信用卡两便。</P>
+    <P Function="Contrast" ID="4" ParagraphTopic="目前，网上购物存在的问题是，所需计算机要求内存高，运行工具版本也高。">目前，网上购物存在的问题是，所需计算机要求内存高，运行工具版本也高。而且对于购物困难最大的老年人来说，技术问题依然是他们实现电子购物的最大障碍。（完）</P>
+  </TEXT>
+</DOC>

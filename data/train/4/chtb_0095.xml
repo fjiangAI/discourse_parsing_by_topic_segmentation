@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社莫斯科１月８日电" DiscourseTopic="俄总理谈俄经济情况">
+    <LEAD>俄罗斯总理说１９９７年俄罗斯取得的主要成果是为经济增长创造了基本前提。</LEAD>
+    <ABSTRACT>俄罗斯总理说１９９７年俄罗斯取得的主要成果是为经济增长创造了基本前提。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="俄总理说俄罗斯１９９７年取得的主要成果是为经济增长创造了基本前提。">俄罗斯总理切尔诺梅尔金８日在政府会议上说，１９９７年俄罗斯取得的主要成果是为经济增长创造了基本前提。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="俄罗斯去年经济增长情况。">据俄通社━塔斯社报道，切尔诺梅尔金说，与１９９６年相比，俄罗斯去年国内生产总值增长百分之一点二，工业生产增长百分之三点二，零售商品总额增长百分之三点九，年通货膨胀率为百分之十一，是１９９６年的一半，居民收入增长百分之二点五。</P>
+    <P Function="Contrast" ID="3" ParagraphTopic="俄罗斯去年国内经济存在的问题。">切尔诺梅尔金同时指出，去年国内也存在不少问题，例如，税收情况不佳，投资计划没有完成，外贸顺差减少，政府采取的财政金融措施不得力等等。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="俄罗斯正在起草今年新的结构改革和经济增长计划。">在谈到今年的工作时，切尔诺梅尔金说，正在起草新的结构改革和经济增长计划，准备提交在２月２６日举行的政府扩大会议讨论。根据这个计划，明年俄罗斯的国内生产总值应增长百分之二，通货膨胀率要降到百分之五至百分之八。（完）</P>
+  </TEXT>
+</DOC>

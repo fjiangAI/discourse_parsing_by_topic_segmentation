@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京五月十六日电（记者石永红）" DiscourseTopic="江苏省提出重点行业引进外资目标">
+    <LEAD>江苏省日前制定了重点行业引进外资的具体目标，以提高对外开放水平并扩大对外开放的领域。</LEAD>
+    <ABSTRACT>江苏省日前制定了重点行业引进外资的具体目标，以提高对外开放水平并扩大对外开放的领域。这些具体目标包括全省交通基础设施建设实际引进外资的规模要超过十亿美元，全省电力建设实际引进外资要超过二十亿美元，邮电等信息化工程建设，应在技术层次、网络规模、服务质量上追踪国际先进水平。城市基础设施利用外资改造和建设要取得显著成绩。同时，将以引进外资促进农业实现高产、优质、高效。另外，还将加快引进外资对支柱产业、大型企业集团的外商投资和国有大中型企业的嫁接改造，推进产品和技术更新，形成新的产业优势。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="江苏省日前制定了重点行业引进外资的具体目标，以提高对外开放水平并扩大对外开放的领域。">中国经济大省江苏省日前制定了重点行业引进外资的具体目标，以提高对外开放水平并扩大对外开放的领域。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="江苏省计划到本世纪末时实现引进外资三百亿美元。">据江苏省计划与经济委员会介绍，江苏省计划到本世纪末时实现引进外资三百亿美元，争取达到四百亿美元，使全省外资实际投入占当年全社会固定资产投资总额的比例从一九九五年的四分之一提高到本世纪末的三分之一。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这些具体目标包括全省交通基础设施建设实际引进外资的规模要超过十亿美元，全省电力建设实际引进外资要超过二十亿美元，邮电等信息化工程建设，应在技术层次、网络规模、服务质量上追踪国际先进水平。城市基础设施利用外资改造和建设要取得显著成绩。">这些具体目标包括：“九五”期间（一九九六年至二零零零年），全省交通基础设施建设实际引进外资的规模要超过十亿美元，占固定资产新增投资总额的百分之三十。全省电力建设实际引进外资要超过二十亿美元，占同期电力总投资的百分之二十五左右。邮电等信息化工程建设，应在技术层次、网络规模、服务质量上追踪国际先进水平。城市基础设施利用外资改造和建设要取得显著成绩。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="同时，将以引进外资促进农业实现高产、优质、高效。另外，还将加快引进外资对支柱产业、大型企业集团的外商投资和国有大中型企业的嫁接改造，推进产品和技术更新，形成新的产业优势。">同时，将以引进外资促进农业实现高产、优质、高效。另外，还将加快引进外资对支柱产业、大型企业集团的外商投资和国有大中型企业的嫁接改造，推进产品和技术更新，形成新的产业优势。在电子、化工、机械、汽车等四个支柱产业和大型企业集团中扩大与世界著名大企业、跨国公司的合资、合作。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="江苏省将积极扩大服务贸易领域利用外资。">据介绍，江苏省将在国家产业政策的指导下，积极扩大服务贸易领域利用外资，并使商业、金融、信息、运输、旅游、医疗、教育等行业引进外资取得实质性进展。（完）</P>
+  </TEXT>
+</DOC>

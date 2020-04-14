@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电（记者崔军强）" DiscourseTopic="北京重奖严格控制公费医疗开支单位">
+    <LEAD>北京重奖严格控制公费医疗开支的单位。</LEAD>
+    <ABSTRACT>北京重奖严格控制公费医疗开支的单位。一九九八年北京市公费医疗经费人均支出一千五百元，是近年来增幅最小的一年。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...5" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="3" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="北京重奖严格控制公费医疗开支的单位。">北京市公费医疗管理委员会日前拨出一千万元专款，重奖一百一十九个严格控制公费医疗开支的单位。</P>
+    <P Function="Result" ID="2" ParagraphTopic="一九九八年北京市公费医疗经费人均支出一千五百元，是近年来增幅最小的一年。">一份最新的统计资料显示，一九九八年北京市公费医疗经费人均支出一千五百元，比上年同期增长百分之九点八，是近年来增幅最小的一年。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="通过实施“总量控制，结构调整”的改革措施，今年前九个月共为国家和企业减少支出十点九亿元。">北京市卫生局副局长金大鹏说，通过实施“总量控制，结构调整”的改革措施，按可比口径计算，今年前九个月共为国家和企业减少支出十点九亿元。用药报销范围的制定，使药品支出占总支出的比例由一九九六年的百分之七十六降到目前的百分之五十八，用药更趋合理。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="为了加大监督检查力度，北京市今年还组织十八个区县、二十八所医院及八十所大专院校联审互查。">为了加大监督检查力度，北京市今年还组织十八个区县、二十八所医院及八十所大专院校联审互查。通过对医疗照顾人员三万元以上支出的大额病例进行核查，有关部门共拒付违规金额四百七十多万元。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="根据群众的举报和暗访结果，北京市公费医疗管理委员会还对部分医院出售生活用品开药费收据进行查处。">据了解，根据群众的举报和暗访结果，北京市公费医疗管理委员会还对部分医院出售生活用品开药费收据进行查处，并对四所超出人均医疗支出控制指标的医院罚款三十八万元。（完）</P>
+  </TEXT>
+</DOC>

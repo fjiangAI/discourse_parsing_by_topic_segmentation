@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="特区护照条例草案今日刊宪">
+    <LEAD>香港特别行政区政府今日（星期二）在宪报刊登《香港特别行政区护照条例草案》。</LEAD>
+    <ABSTRACT>香港特别行政区政府今日（星期二）在宪报刊登《香港特别行政区护照条例草案》。在联合联络小组有关筹备及签发香港特别行政区护照的会议纪要中亦说明香港特别行政区入境事务处将是唯一一个签发特区护照的机关。条例草案就香港特区护照的有效性、在某种情况下取消特区护照以至收费等详情制定条款。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|4" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|5" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="4" Layer="2" ParagraphPosition="5...5|6...6|7...7|8...8" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="香港特别行政区政府今日（星期二）在宪报刊登《香港特别行政区护照条例草案》。">香港特别行政区政府今日（星期二）在宪报刊登《香港特别行政区护照条例草案》。</P>
+    <P Function="Background" ID="2" ParagraphTopic="香港仍需要本地法例规定有关签发特区护照的实际事宜。">特区政府发言人解释，虽然香港特别行政区政府已获中央人民政府授权签发香港特别行政区护照，香港仍需要本地法例规定有关签发特区护照的实际事宜。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在联合联络小组有关筹备及签发香港特别行政区护照的会议纪要中亦说明香港特别行政区入境事务处将是唯一一个签发特区护照的机关。">他说：「在联合联络小组有关筹备及签发香港特别行政区护照的会议纪要中亦说明香港特别行政区入境事务处将是唯一一个签发特区护照的机关。」</P>
+    <P Function="Situation" ID="4" ParagraphTopic="条例草案就香港特区护照的有效性、在某种情况下取消特区护照以至收费等详情制定条款。">「条例草案就香港特区护照的有效性、在某种情况下取消特区护照以至收费等详情制定条款。」</P>
+    <P Function="Situation" ID="5" ParagraphTopic="条例草案订下的各种收费已在约一个月前入境处开始派发申请表格时宣布。">条例草案订下的各种收费已在约一个月前入境处开始派发申请表格时宣布。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="政府建议该条例草案於制定後，可具有追溯效力至七月一日。">政府建议该条例草案於制定後，可具有追溯效力至七月一日。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="由七月一日开始，入境处已有权签发香港特区护照。而自七月三日起，入境处已为急切需要旅行证件的人士签发香港特区护照。">发言人说：「由七月一日开始，入境处已有权签发香港特区护照。而自七月三日起，入境处已为急切需要旅行证件的人士签发香港特区护照。」</P>
+    <P Function="Situation" ID="8" ParagraphTopic="条例草案的生效日期应配合入境处获授权签发香港特区护照的日期。">「条例草案的生效日期应配合入境处获授权签发香港特区护照的日期。条例草案并无任何罚则的条款。」</P>
+  </TEXT>
+</DOC>

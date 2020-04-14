@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社贵阳十二月二十二日电（记者房方）" DiscourseTopic="贵州茅台酒厂将进一步提高产量">
+    <LEAD>贵州茅台酒厂计划在今后三年内实施技术改造工程，以进一步提高茅台酒的产量。</LEAD>
+    <ABSTRACT>贵州茅台酒厂计划在今后三年内实施技术改造工程，以进一步提高产量，公司正争取发行股票和尝试更多的融资渠道为扩建工程解决资金需求。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...5" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Background" ID="4" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="贵州茅台酒厂计划在今后三年内实施技术改造工程，以进一步提高产量。">闻名中外的贵州茅台酒厂计划在今后三年内实施一项投资逾四亿人民币的技术改造工程，以进一步提高茅台酒的产量。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="公司尝试通过多种融资渠道为扩建工程解决资金需求。">为解决庞大资金需求，公司正争取发行股票和尝试更多的融资渠道。这是中国贵州茅台酒厂（集团）公司董事长季克良日前透露的。季克良说，这项扩建工程将使茅台酒的年生产能力新增二千吨，到二０００年达到六千吨。</P>
+    <P Function="Background" ID="3" ParagraphTopic="茅台酒的介绍。">被誉为中国“国酒”的茅台酒历史悠久，与法国的科涅克白酒、英国的苏格兰威士忌并称世界三大蒸馏名酒之一。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="茅台酒产量十分有限。">由于茅台酒制作工艺复杂，生产周期长，因而其产量十分有限。直到一九八七年年产量才达到一千二百吨。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="近年来茅台酒厂进行扩建技术改造，目前产量已大幅提高。">近年来，在国家财政部和轻工总会的支持下，茅台酒厂投资五点三亿元人民币，连续进行了二期扩改建技术改造，目前已形成年产四千吨的生产能力。一九九七年，该厂共生产茅台酒四千四百余吨，销售收入超过五亿元人民币，实现利税三点七亿人民币，均为历史最好水平。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="茅台酒知名的原因。">产于中国西南贵州省北部赤水河谷地带的茅台酒，以酿制工艺十分独特而知名。它所取用的水取自流经朱砂土质的赤水河，原料则选用当地特产高梁及优质小麦等，在端午至重阳节之间酿制，共需经过两次投料，七次蒸馏，八次发酵、九次蒸煮，历时十月酿成后，还须放入特制的陶土酒坛中密封贮存三年以上，最后由经验丰富的老酒师精心勾兑而成。而令其更加出名的则是因为新中国老一代领导人曾用茅台酒招待美国前总统尼克松、日本前首相田中角荣等贵宾。（完）</P>
+  </TEXT>
+</DOC>

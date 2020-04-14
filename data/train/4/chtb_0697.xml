@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社开罗１２月２８日电（记者安江）" DiscourseTopic="阿盟决定推迟召开阿拉伯外长紧急会议">
+    <LEAD>阿拉伯国家联盟（阿盟）秘书长马吉德宣布，在阿盟总部召开的阿拉伯外长紧急会议将推迟至１９９９年１月２４日举行。</LEAD>
+    <ABSTRACT>阿拉伯国家联盟（阿盟）秘书长马吉德宣布，在阿盟总部召开的阿拉伯外长紧急会议将推迟至１９９９年１月２４日举行。原因是希望进一步就这次会议进行磋商，使阿盟成员国都能出席会议，并在本地区所有问题上保持步调一致和统一立场。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="阿拉伯国家联盟（阿盟）秘书长马吉德宣布，在阿盟总部召开的阿拉伯外长紧急会议将推迟至１９９９年１月２４日举行。">阿拉伯国家联盟（阿盟）秘书长马吉德２８日在此间宣布，原定本月３０日在阿盟总部召开的阿拉伯外长紧急会议将推迟至１９９９年１月２４日举行。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="原因是希望进一步就这次会议进行磋商，使阿盟成员国都能出席会议，并在本地区所有问题上保持步调一致和统一立场。">阿盟秘书处当天发表的一份声明说，会议是应海湾合作委员会国家要求推迟的，原因是希望进一步就这次会议进行磋商，使阿盟成员国都能出席会议，并在本地区所有问题上保持步调一致和统一立场。</P>
+    <P Function="Background" ID="3" ParagraphTopic="本月２４日，马吉德紧急致函阿拉伯各国外长，要求在本月３０日举行阿拉伯外长紧急会议。">本月２４日，马吉德紧急致函阿拉伯各国外长，要求在本月３０日举行阿拉伯外长紧急会议，就本地区目前局势，特别是美国和英国对伊拉克实施空中打击给本地区局势带来的影响进行磋商。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="到目前为止，阿盟２２个成员国中已有１７个国家正式表示同意出席此次会议。">据报道，到目前为止，阿盟２２个成员国中已有１７个国家正式表示同意出席此次会议。（完）</P>
+  </TEXT>
+</DOC>

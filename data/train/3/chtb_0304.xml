@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社耶路撒冷９月１日电" DiscourseTopic="以约决定开通第二个边界口岸">
+    <LEAD>以色列和约旦决定开通两国共同边界北段的侯赛因大桥作为两国间第二个边界口岸。</LEAD>
+    <ABSTRACT>以色列和约旦决定开通两国共同边界北段的侯赛因大桥作为两国间第二个边界口岸。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="以色列和约旦决定开通两国共同边界北段的侯赛因大桥作为两国间第二个边界口岸。">以色列和约旦决定开通两国共同边界北段的侯赛因大桥作为两国间第二个边界口岸。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="以色列—约旦联合代表团已经视察了位于贝桑谷地约旦河上的这座大桥。">以色列电台今天报道说，以色列—约旦联合代表团已经视察了位于贝桑谷地约旦河上的这座大桥。</P>
+    <P Function="Background" ID="3" ParagraphTopic="根据《华盛顿宣言》，双方将开放两个边界口岸。">根据约旦国王侯赛因和以色列总理拉宾７月２５日签署的《华盛顿宣言》，双方将开放两个边界口岸。位于约旦亚喀巴和以色列埃拉特之间的阿拉巴边界口岸已于８月８日开通，但是这个边界口岸目前只允许第三国旅游者通过。（完）</P>
+  </TEXT>
+</DOC>

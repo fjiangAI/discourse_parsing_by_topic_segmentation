@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社杭州五月二十五日电（记者陈瑶）" DiscourseTopic="浙江欢迎更多台商投资">
+    <LEAD>浙江省欢迎更多的台湾同胞前来参观考察、兴办实业，以加快两地的经济发展和共同繁荣。</LEAD>
+    <ABSTRACT>浙江省欢迎更多的台湾同胞前来参观考察、兴办实业，以加快两地的经济发展和共同繁荣。浙江省鼓励台商发挥资金、技术、信息等方面的优势，重点投资农业、基础设施、高新技术产业、旅游等发展前景看好的领域。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Sub-Summary" ID="5" Layer="5" ParagraphPosition="2...2|3...4" ParentId="4" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Background" ID="7" Layer="6" ParagraphPosition="3...3|4...4" ParentId="5" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|6" Function="Story" ID="4" Layer="4" ParagraphPosition="2...4|5...7" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...7|8...8" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...7" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="5...5|6...6|7...7" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="浙江省欢迎更多的台湾同胞前来参观考察、兴办实业，以加快两地的经济发展和共同繁荣。">浙江省代省长柴松岳今天接受《联合报》、中国电视公司等八家台湾新闻媒体记者联合采访时表示，欢迎更多的台湾同胞前来参观考察、兴办实业，以加快两地的经济发展和共同繁荣。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="浙江省鼓励台商发挥资金、技术、信息等方面的优势，重点投资农业、基础设施、高新技术产业、旅游等发展前景看好的领域。">柴松岳说，浙江省鼓励台商发挥资金、技术、信息等方面的优势，重点投资农业、基础设施、高新技术产业、旅游等发展前景看好的领域。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="介绍了作为长江三角洲南翼的浙江省的改革开放进程和浙台经贸合作情况。">台湾记者采访团一行十二人是专程前来采访长江三角洲经济发展状况的。柴松岳着重向他们介绍了作为长江三角洲南翼的浙江省的改革开放进程和浙台经贸合作情况。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="台商已在浙江创办各类企业二千五百多家，总投资超过四十二亿美元。这些企业大部分已投产开业，且多数已有盈利，不仅为投资者带来了日益丰厚的收益，也给浙江经济发展注入了新的活力。">他说，浙江和台湾最近点距离仅一百六十公里，地缘相近，人缘相亲。迄今，台商已在浙江创办各类企业二千五百多家，总投资超过四十二亿美元。这些企业大部分已投产开业，且多数已有盈利，不仅为投资者带来了日益丰厚的收益，也给浙江经济发展注入了新的活力。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="今后一个时期，浙江要大力进行农业综合开发，发展农产品深加工业，台商可以建立良种引进和繁育基地，兴办农副产品加工企业。">他说，今后一个时期，浙江除了要提高土地产出率、稳定和加强粮食生产外，还要大力进行农业综合开发，发展农产品深加工业，台商可以运用台湾在种养殖技术、农副产品加工技术等方面的特长，以合资、合作等方式建立良种引进和繁育基地，兴办农副产品加工企业，用更多、更优的产品去占领国际国内市场。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="在基础设施领域，浙江计划兴建大批水利、交通、能源、通信和市政公用设施，台商可以合资、合作、独资或ＢＯＴ的方式参与建设，也可以购买股票的办法进行投资。">在基础设施领域，浙江计划兴建大批水利、交通、能源、通信和市政公用设施，其中包括连接省会杭州和其它地市之间的高速公路网络，与上海国际航运中心配套建设的宁波、舟山组合港等。台商可以合资、合作、独资或ＢＯＴ的方式参与建设，也可以购买股票的办法进行投资。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="此外，浙江正在积极培育机械、石化、电子、医药四大主导产业，发展新材料、新能源、高效节能和环保技术等高新技术产业，这些也是近期吸引台资的重点领域。">此外，浙江正在积极培育机械、石化、电子、医药四大主导产业，发展新材料、新能源、高效节能和环保技术等高新技术产业，这些也是近期吸引台资的重点领域。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="近年来，全省投资环境有了明显改观。对外开放进一步扩大。">据柴松岳介绍，近年来，为了推动浙江与其它地方的交流与合作，浙江省已投入数以亿计的资金，新建、扩建了一系列能源、交通、通信设施，全省投资环境有了明显改观。对外开放进一步扩大，形成了由宁波、温州两个沿海开放城市，三十四个经济开放县市，八个国家级开发区和若干个省级开发区组成的全方位对外开放格局。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="《浙江省台湾同胞投资保障条例》将为两地经贸交流与合作创造更加适宜的环境。">柴松岳说，目前，浙江正抓紧制订《浙江省台湾同胞投资保障条例》，这部地方性法规不久将颁布实施，届时，将为两地经贸交流与合作创造更加适宜的环境。（完）</P>
+  </TEXT>
+</DOC>

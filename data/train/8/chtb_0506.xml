@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="四千嘉宾共庆回归">
+    <LEAD>来自世界各地超过四千名嘉宾今日（星期二）聚首一堂，出席中华人民共和国香港特别行政区的成立庆典。</LEAD>
+    <ABSTRACT>来自世界各地超过四千名嘉宾今日（星期二）聚首一堂，出席中华人民共和国香港特别行政区的成立庆典。江泽民及香港特别行政区行政长官董建华均在典礼上致辞。典礼程序包括移交土地基金的资产予香港特区政府，以及播映介绍内地三十一个省、自治区及直辖市向香港市民致送的贺礼的录影带。著名作曲家谭盾跟着首次公开指挥演奏他的新作交响曲１９９７《天地人》。庆典节目最精彩的一环是接着的香江组曲大汇演，由本地八位顶尖歌手与七位演奏中国传统乐器的演奏家合作他们一起演绎另一首乐曲《回归颂》。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="5|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...8" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...4|5...5|6...6|7...8" ParentId="1" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="7...7|8...8" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="来自世界各地超过四千名嘉宾今日（星期二）聚首一堂，出席中华人民共和国香港特别行政区的成立庆典。">来自世界各地超过四千名嘉宾今日（星期二）聚首一堂，出席中华人民共和国香港特别行政区的成立庆典。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="出席的嘉宾包括中国国家主席江泽民、总理李鹏、副总理兼外长钱其琛，以及来自四十多个国家的外长及部长级官员和四十多个国际组织的秘书长及高层代表。">出席的嘉宾包括中国国家主席江泽民、总理李鹏、副总理兼外长钱其琛，以及来自四十多个国家的外长及部长级官员和四十多个国际组织的秘书长及高层代表。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="江泽民及香港特别行政区行政长官董建华均在典礼上致辞。">成立典礼在宏伟壮观的香港会议展览中心新翼举行，江泽民及香港特别行政区行政长官董建华均在典礼上致辞。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="董建华在致辞前特别向坐于喜宾席前排已故中国领导人邓小平遗孀卓琳表示欢迎。">董建华在致辞前特别向坐於喜宾席前排已故中国领导人邓小平遗孀卓琳表示欢迎。邓小平为香港的未来创立「一国两制」的构想。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="典礼程序包括移交土地基金的资产予香港特区政府，以及播映介绍内地三十一个省、自治区及直辖市向香港市民致送的贺礼的录影带。">典礼程序包括移交土地基金的资产予香港特区政府，以及播映介绍内地三十一个省、自治区及直辖市向香港市民致送的贺礼的录影带。</P>
+    <P Function="Story-Situation" ID="6" ParagraphTopic="著名作曲家谭盾跟着首次公开指挥演奏他的新作交响曲１９９７《天地人》。">著名作曲家谭盾跟着首次公开指挥演奏他的新作交响曲１９９７《天地人》。参与演出的还有举世闻名的大提琴家马友友、享誉乐坛的歌手张学友、亚洲青年管弦乐团、叶氏儿童合唱团，以及中华编钟乐团。</P>
+    <P Function="Sub-Summary" ID="7" ParagraphTopic="庆典节目最精彩的一环是接着的香江组曲大汇演，由本地八位顶尖歌手与七位演奏中国传统乐器的演奏家合作他们一起演绎另一首乐曲《回归颂》。">庆典节目最精彩的一环是接着的香江组曲大汇演，由本地八位顶尖歌手与七位演奏中国传统乐器的演奏家合作，以娓娓动听的歌乐声庆祝香港回归。他们一起演绎另一首为庆祝香港回归而创作的乐曲《回归颂》。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="《回归颂》的作曲人是吴敬文医生及行政长官董建华的太太董赵洪娉，董太更联同翁月华为乐曲填上歌词。">《回归颂》的作曲人是吴敬文医生及行政长官董建华的太太董赵洪娉，董太更联同翁月华为乐曲填上歌词。</P>
+  </TEXT>
+</DOC>

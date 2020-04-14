@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电（记者喻菲）" DiscourseTopic="世界第一大峡谷比原先认为的更窄">
+    <LEAD>世界第一大峡谷比人们原先认为的更狭窄，谷底最窄处的宽度只有三十五米。</LEAD>
+    <ABSTRACT>世界第一大峡谷比人们原先认为的更狭窄，谷底最窄处的宽度只有三十五米。这个最狭窄处发现在大峡谷核心地段，是科学家们过去从未涉足的地方。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="4" Function="Background" ID="3" Layer="3" ParagraphPosition="4...5|6...6" ParentId="2" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="1...1|2...2" ParentId="5" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...6" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Cause" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="世界第一大峡谷比人们原先认为的更狭窄，谷底最窄处的宽度只有三十五米。">刚刚结束徒步穿越世界第一大峡谷——雅鲁藏布大峡谷的中国科学家今天在此间透露，大峡谷比人们原先认为的更狭窄，谷底最窄处的宽度只有三十五米。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这个最狭窄处发现在大峡谷核心地段，是科学家们过去从未涉足的地方。">在今天召开的雅鲁藏布大峡谷科学考察报告会上，中国科学探险协会常务副主席高登义说，这个最狭窄处发现在大峡谷核心地段，是科学家们过去从未涉足的地方。原先人们认为大峡谷最窄处宽度为七十八米。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="今天并未公布有关大峡谷长度与深度的最新测量数据。">但高登义今天并未公布有关大峡谷长度与深度的最新测量数据。他说，最窄处宽度可以直接获得，但整个峡谷长度、平均深度和最大深度仍需测绘部门进一步核实才能公布。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="雅鲁藏布大峡谷位于世界海拔最高的青藏高原，一九九四年中国科学家实地勘察后确认其为世界第一大峡谷，它长四百九十六点三公里，平均深度五千余米。">雅鲁藏布大峡谷位于世界海拔最高的青藏高原，一九九四年中国科学家实地勘察后确认其为世界第一大峡谷，它长四百九十六点三公里，平均深度五千余米，远远超过以前被誉为世界最长峡谷的美国科罗拉多大峡谷和世界最深峡谷的秘鲁科尔卡峡谷。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="科学家当年进行这一论证时，使用了该地区仅有的一比五万航测地形图和卫星影像图及航空照片进行测量和计算，但精确度不够高。">据介绍，科学家当年进行这一论证时，使用了该地区仅有的一比五万航测地形图和卫星影像图及航空照片进行测量和计算，但精确度不够高。</P>
+    <P Function="Result" ID="6" ParagraphTopic="今年十月十九日至十二月十日中国科学探险协会组织的雅鲁藏布大峡谷科学探险考察队首次实现了徒步穿越大峡谷。科学家利用全球定位系统和激光测距仪等高科技手段对大峡谷进行测量，希望提高精确度。">今年十月十九日至十二月十日中国科学探险协会组织的雅鲁藏布大峡谷科学探险考察队首次实现了徒步穿越大峡谷。科学家利用全球定位系统和激光测距仪等高科技手段对大峡谷进行测量，希望提高精确度。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="国家测绘局的科研人员已经在雅鲁藏布大峡谷设立了三个测绘基准点，近期将公布测绘结果。">高登义说，国家测绘局的科研人员已经在雅鲁藏布大峡谷设立了三个测绘基准点，近期将公布测绘结果。（完）</P>
+  </TEXT>
+</DOC>

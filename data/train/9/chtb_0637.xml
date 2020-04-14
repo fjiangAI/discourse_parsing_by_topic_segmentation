@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社福州五月二十七日电（记者王凡凡、王运才）" DiscourseTopic="中国投巨资建设海峡西岸国际大港口">
+    <LEAD>台湾海峡西岸迄今规模最大的工业投资计划正在福建省湄州湾加紧实施。</LEAD>
+    <ABSTRACT>台湾海峡西岸迄今规模最大的工业投资计划正在福建省湄州湾加紧实施。面积六百四十三平方公里的湄州湾将划分为南北岸两个各具特色的区域进行建设。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="5" Layer="4" ParagraphPosition="3...3|4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="7" Function="Story" ID="6" Layer="3" ParagraphPosition="6...7|8...8" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|6" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|5" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...2|3...5" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="7" Layer="4" ParagraphPosition="6...6|7...7" ParentId="6" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="台湾海峡西岸迄今规模最大的工业投资计划正在福建省湄州湾加紧实施。">台湾海峡西岸迄今规模最大的工业投资计划正在福建省湄州湾加紧实施，预计到二０００年，这个在建中的东方大港，工业总投资将超过两千亿元人民币。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="面积六百四十三平方公里的湄州湾将划分为南北岸两个各具特色的区域进行建设。">根据规划，面积六百四十三平方公里的湄州湾将划分为南北岸两个各具特色的区域进行建设。南岸以肖厝工业区为重点，发展石化工业，逐步建成中国东南沿海重要的石化基地；北岸则以秀屿港为主，重点发展国际中转、出口加工、旅游度假等。届时，湄州湾开发区的工业产值将突破二千亿元人民币，与目前福建全省的经济实力基本相当。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="湄州湾位于上海和广州两大港口的中点，与台湾隔海相望。目前它已被列为国家重点建设的四大综合性、多功能国际深水中转港之一。">湄州湾位于上海和广州两大港口的中点，与台湾隔海相望，是孙中山先生《建国方略》中提出要建设的东方大港之一。目前它已被列为国家重点建设的四大综合性、多功能国际深水中转港之一。其他三个分别建在大连、宁波和深圳。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="湄州湾港口一旦建成，可使中国半壁江山受益。">著名经济学家童大林称，要认识福建，首先必须认识湄州湾，福建的二十一世纪是湄州湾世纪。著名的科学家钱伟长则认为：福建就象一架展翅翱翔的飞机，马尾和厦门是两翼，而湄州湾是发动机。湄州湾港口一旦建成，可使中国半壁江山受益。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="经过多年的努力，湄州湾已经具备大规模开发的条件。">经过多年的努力，湄州湾已经具备大规模开发的条件。国家有关部门和福建省先后投资近二十亿元人民币兴建的基础设施，使湄州湾初步形成了水、电、路、码头、通讯、仓储等相互配套的招商引资环境。十万吨级油码头、万吨级杂货码头、三千吨级对台码头均已获准对外开放。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="湄州湾南岸将主要依靠大工业来带动发展。">湄州湾南岸将主要依靠大工业来带动发展。初具规模的福建炼油厂现正加紧技术改造，以达到年产一千二百万吨原油的生产能力；与此同时，装机容量一百八十至一百九十万千瓦的南埔火电厂及其他一批大型石化工业项目也正在紧张建设中。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="湄州湾南岸的基础设施建设又掀起了新的热潮。">继去年实现年吞吐量五百多万吨、顺利进入国家中型港口行列之后，湄州湾南岸的基础设施建设又掀起了新的热潮。目前，正在兴建的就有十万吨级煤码头、五万吨级集装箱码头、十万吨级粮油码头、漳泉肖铁路、福厦高速公路、肖厝自来水厂、南岸供水工程等。</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="在北岸，昔日荒芜的瘦地和寂静的海港也正在被喧闹的投资热浪所代替。">在北岸，昔日荒芜的瘦地和寂静的海港也正在被喧闹的投资热浪所代替。建设者们为这片开发区设计的战略步骤是：现在至二０００年的起步阶段，将建成以秀屿、霞塘、忠门为中心的三大组团式区域，总面积达二十九平方公里，港口年吞吐量达一千万吨；二０００年至二０一０年的成形阶段，将建成城区面积五十八平方公里，港口吞吐量达两千万吨；二０一０年至二０二０年的高速发展阶段，城区建成面积在一百平方公里以内，港口吞吐量达五千万吨。目前，包括基础设施建设、调整产业政策、加快招商引资等在内的一系列相关措施正在紧张实施中。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="湄州湾已引起越来越多的海内外客商的关注。">由于几乎综合了目前国内开发区的各种优势，湄州湾已引起越来越多的海内外客商的关注。湄州湾南岸经济开发管委会成立不到一年，已引进“三资”项目三十三个，利用外资达四亿多美元，尚有一大批项目正在洽谈中；湄州湾北岸经济开发管委会成立仅四个月，就引进大中小项目六十三个，总投资一百零六亿元人民币，其中利用外资达九十一点七亿元人民币。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="九七年上半年及六月份土地注册数字发表">
+    <LEAD>土地注册处发表今年上半年的土地注册数字。土地注册处亦同时公布今年六月份送交市区及新界土地注册处注册的物业交易契约的统计数字。</LEAD>
+    <ABSTRACT>土地注册处发表今年上半年的土地注册数字。一九九七年上半年送交该处注册的楼宇买卖合约共有十一万五千六百七十三份。今年上半年共有十一万零九百八十份楼宇转让契约送交该处注册。土地注册处亦同时公布今年六月份送交市区及新界土地注册处注册的物业交易契约的统计数字。六月份送交土地注册处注册的楼宇买卖合约（包括住宅及非住宅单位）共一万七千五百一十份。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...13" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="9...12|13...13" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="11" Layer="7" ParagraphPosition="4...4|5...5" ParentId="9" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="9...9|10...12" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="10" Function="Story" ID="5" Layer="4" ParagraphPosition="10...11|12...12" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="12" Layer="7" ParagraphPosition="2...2|3...3" ParentId="9" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="6" Layer="3" ParagraphPosition="2...7|8...8" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8" Function="Story" ID="7" Layer="4" ParagraphPosition="2...6|7...7" ParentId="6" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="9" Function="Story" ID="8" Layer="5" ParagraphPosition="2...5|6...6" ParentId="7" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="12|11" Function="Story" ID="9" Layer="6" ParagraphPosition="2...3|4...5" ParentId="8" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="10" Layer="5" ParagraphPosition="10...10|11...11" ParentId="5" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="土地注册处发表今年上半年的土地注册数字。">土地注册处今日（星期日）发表今年上半年的土地注册数字。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="一九九七年上半年送交该处注册的楼宇买卖合约共有十一万五千六百七十三份。">一九九七年上半年送交该处注册的楼宇买卖合约（包括住宅及非住宅单位）共有十一万五千六百七十三份，较去年下半年增加百分之四十四点六，与去年同期比较，则增加百分之七十一点五。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="上述合约总值为四千八百三十五亿八千万元。">上述合约总值为四千八百三十五亿八千万元，较去年下半年增加百分之七十四点二，与去年同期比较，则增加百分之一百四十五点三。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="今年上半年共有十一万零九百八十份楼宇转让契约送交该处注册。">此外，今年上半年共有十一万零九百八十份楼宇转让契约送交该处注册，较去年下半年的八万一千二百六十五份增加百分之三十六点六，较去年同期的七万八千二百五十五份，则增加百分之四十一点八。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="该些楼宇转让契约涉及的款项总值达三千七百八十亿四千万元。">该些楼宇转让契约涉及的款项总值达三千七百八十亿四千万元，较去年下半年增加百分之六十六点五，与去年同期比较，则增加百分之一百零三点九。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="涉及的楼宇按揭总值（建筑按揭除外）为四百三十七亿一千万元。">涉及的楼宇按揭总值（建筑按揭除外）为四百三十七亿一千万元，较去年下半年增加百分之二十八点四，与去年同期比较，则增加百分之六。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="土地注册处今日发表的图表，载有上述数据、今年上半年其他统计数字、以及去年下半年和上半年的相关统计数字。">土地注册处今日发表的图表，载有上述数据、今年上半年其他统计数字、以及去年下半年和上半年的相关统计数字，以供参考。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="一九九七年上半年市民查册的次数共二百八十五万五千四百六十七次。">一九九七年上半年市民查册的次数共二百八十五万五千四百六十七次，较去年下半年增加百分之二十二点八，与去年同期比较，则增加百分之四十三点六。</P>
+    <P Function="Sub-Summary" ID="9" ParagraphTopic="土地注册处亦同时公布今年六月份送交市区及新界土地注册处注册的物业交易契约的统计数字。">此外，土地注册处亦同时公布今年六月份送交市区及新界土地注册处注册的物业交易契约的统计数字。</P>
+    <P Function="Sub-Summary" ID="10" ParagraphTopic="六月份送交土地注册处注册的楼宇买卖合约（包括住宅及非住宅单位）共一万七千五百一十份。">六月份送交土地注册处注册的楼宇买卖合约（包括住宅及非住宅单位）共一万七千五百一十份，较五月份减少百分之十一点四，与去年六月比较，则增加百分之五十八点四。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="六月份注册的楼宇买卖合约总值为八百一十四亿元。">六月份注册的楼宇买卖合约总值为八百一十四亿元，较五月份增加百分之十七点四，与去年六月比较，则增加百分之一百三十四点一。</P>
+    <P Function="Supplement" ID="12" ParagraphTopic="该处同时发表五月份及去年同期的土地注册数字，以资比较。">该处同时发表五月份及去年同期的土地注册数字，以资比较；并发表过去十二个月内楼宇买卖合约纪录的统计图，以及楼宇买卖合约的升降趋势图。</P>
+    <P Function="Supplement" ID="13" ParagraphTopic="六月份的注册数字，一般显示送交登记前约四个星期内签署契约的物业交易。">由於由签署契约至把契约送交该处登记，通常相隔一段时间，因此，六月份的注册数字，一般显示送交登记前约四个星期内签署契约的物业交易。</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十五日电（记者鹿永建）" DiscourseTopic="中国批准设立外商投资企业逾三十万家">
+    <LEAD>中国累计批准设立外商投资企业三十万零二千四百六十四家。</LEAD>
+    <ABSTRACT>中国累计批准设立外商投资企业三十万零二千四百六十四家，利用外商投资多元化格局已初步形成，资金来源于一百七十多个国家和地区。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="4|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国累计批准设立外商投资企业逾三十万家。">来自外经贸部的最新消息说，截止今年十一月底，中国累计批准设立外商投资企业三十万零二千四百六十四家。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="外资企业的情况介绍。">据介绍，在这三十多万家外资企业中，中外合资经营企业十八万二千零五十九家，占六成；中外合作经营企业四万四千零九十四家，约占百分之十五；外商独资企业七万六千一百六十一家，约占百分之二十五。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="中国利用外商投资多元化格局已初步形成。">目前，中国利用外商投资多元化格局已初步形成，资金来源于一百七十多个国家和地区。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="外商投资资金前十位的国家和地区。">截至到今年九月底，按实际使用外资金额排序，在中国投资最多的前十位国家和地区依次是：香港、台湾、日本、美国、新加坡、韩国、英国、德国、维尔京群岛、法国。居前十位的这些国家和地区在中国的投资占全国实际使用外资金额的百分之九十一多。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="亚洲国家和地区是中国主要外资来源。">亚洲国家和地区是中国主要外资来源，来自香港、台湾、日本、韩国、东盟等国家和地区，投资额占全国利用外资总额的百分之八十五以上。其中香港仍是内地吸收外资的主要来源，占累计实际吸收外商投资的比重为百分之五十五以上。（完）</P>
+  </TEXT>
+</DOC>

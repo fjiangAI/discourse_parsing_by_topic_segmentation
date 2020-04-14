@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社成都五月十四日电（记者冯昌勇）" DiscourseTopic="四川将推出二百个对外引资项目">
+    <LEAD>四川省今年计划扩大招商引资，并推出二百个对外引资项目，争取全年利用外资突破十亿美元。</LEAD>
+    <ABSTRACT>四川省今年计划扩大招商引资，并推出二百个对外引资项目，争取全年利用外资突破十亿美元。这些项目主要涉及农业综合开发、能源、交通、主要原材料等急需发展的基础产业和机械、电子、食品等支柱产业。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Purpose" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|5" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...5" ParentId="1" RelationType="Purpose-Behavior" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Behavior" ID="5" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="四川省今年计划扩大招商引资，并推出二百个对外引资项目，争取全年利用外资突破十亿美元。">四川省政府有关人士日前透露，这个省今年计划扩大招商引资，并推出二百个对外引资项目，争取全年利用外资突破十亿美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这些项目主要涉及农业综合开发、能源、交通、主要原材料等急需发展的基础产业和机械、电子、食品等支柱产业。">据悉，这些项目主要涉及农业综合开发、能源、交通、主要原材料等急需发展的基础产业和机械、电子、食品等支柱产业。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这个省首批三十五个重点合资项目已推出，总投资十九点一亿美元，主要是农业、基础设施和企业技改等领域。">目前，这个省首批三十五个重点合资项目已推出，总投资十九点一亿美元，主要是农业、基础设施和企业技改等领域。这些项目建设周期一般在三年左右，按目前测算的财务指标，这三十五个项目都有较好的投资收益。这些项目正分别在新加坡、澳大利亚举办招商引资洽谈会。这个省还将选择部分项目探索经营权转让、项目融资、到境外发行股票、债券等多种方式引资融资。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="《四川省鼓励外商投资优惠政策》中，对这些项目，尤其是交通、农业、资源开发等重点行业项目，制定了包括税收、土地使用、外汇管理和信贷等一系列具体的优惠政策。">据介绍，四川省政府一九九六年底颁布的《四川省鼓励外商投资优惠政策》中，对这些项目，尤其是交通、农业、资源开发等重点行业项目，制定了包括税收、土地使用、外汇管理和信贷等一系列具体的优惠政策。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="四川将奉行更加开放的政策，不断改善投资环境，引进更多的海外资金、先进的技术和管理经验">四川省政府官员李达昌介绍说，中央在重庆设立直辖市后，四川仍然是中国西部工业门类最齐全、优势产品最多的工业基地，是西部巨大的市场和物资集散中心，仍是中国人才、科技、劳动力资源和旅游资源大省。这位官员说，四川将奉行更加开放的政策，不断改善投资环境，引进更多的海外资金、先进的技术和管理经验。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="到目前为止，在四川的外商投资企业已达四千六百四十多家，居中国中西部地区首位。">据悉，到目前为止，在四川的外商投资企业已达四千六百四十多家，居中国中西部地区首位。美国摩托罗拉、泰国正大等三十多家国际知名集团已入川开办了企业。法国巴黎国民银行、英国标准渣打银行、日本东京银行等十二家外资银行在四川开办了分行或设立了代表处。（完）</P>
+  </TEXT>
+</DOC>

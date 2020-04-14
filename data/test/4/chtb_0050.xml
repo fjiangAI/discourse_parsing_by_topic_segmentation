@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京十二月十六日电（记者周放）" DiscourseTopic="外资对江苏农业投入增多">
+    <LEAD>外资对江苏省农业的投入日益增多，目前国外直接投资农业项目达八百个，金额达八亿多美元。</LEAD>
+    <ABSTRACT>外资对江苏省农业的投入日益增多，目前国外直接投资农业项目达八百个，金额达八亿多美元。外资迅速增加，加速了农业资源的开发利用，使农业生产水平明显提高。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Result" ID="2" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Cause" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="外资对江苏农业的投入增多。">外资对江苏省农业的投入日益增多。目前国外直接投资江苏省农业的项目达八百个，金额达八亿多美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="江苏农业利用外资情况。">江苏省农林厅的官员说，从一九九四年以来，江苏省农业系统批准的“三资”企业超过五百家，利用外资金额七亿多美元，分别是一九九三年前的三倍和七倍。来自美国、日本、新加坡的外资增加较多，新项目中外商投资比例越来越高，独资企业明显增加。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="外资加速了农业资源的开发利用。">外资迅速增加，在相当程度上弥补了江苏省农业投入的不足，加速了农业资源的开发利用。据统计，江苏省目前拥有产值超过一亿元人民币的农副产品加工企业已达一百多家。连云港如意集团利用日本政府贷款和外商直接投资，建成了目前中国出口量最大、品种最多的蔬菜加工销售企业。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="外资引进优良品种和先进技术，使农业生产水平明显提高。">江苏还利用外资引进了啤酒大麦、加州鲈鱼、罗氏沼虾、良种鸡、瘦肉型猪及蔬菜、花卉等近百个优良品种和先进生产加工技术，农业生产水平明显提高。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电（记者王黎）" DiscourseTopic="中国剧协第五次全国代表大会闭幕">
+    <LEAD>中国戏剧家协会第五次全国代表大会今天在京闭幕。会议期间，代表们原则上通过了新的剧协章程，总结了剧协工作的成绩和不足，选出了新一届剧协领导成员。</LEAD>
+    <ABSTRACT>）中国戏剧家协会第五次全国代表大会今天在京闭幕。会议期间，代表们原则上通过了新的剧协章程，总结了剧协工作的成绩和不足，选出了新一届剧协领导成员。经选举，著名表演艺术家李默然当选为新一届剧协主席。著名戏曲理论家张庚被推举为剧协名誉主席。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="）中国戏剧家协会第五次全国代表大会今天在京闭幕。会议期间，代表们原则上通过了新的剧协章程，总结了剧协工作的成绩和不足，选出了新一届剧协领导成员。">中国戏剧家协会第五次全国代表大会今天在京闭幕。会议期间，代表们原则上通过了新的剧协章程，总结了剧协工作的成绩和不足，选出了新一届剧协领导成员。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="经选举，著名表演艺术家李默然当选为新一届剧协主席。">经选举，著名表演艺术家李默然当选为新一届剧协主席，方掬芬、白淑贤、刘长瑜、刘锦云、李维康、何孝充、余笑予、茅威涛、尚长荣、徐晓钟、阎肃、裴艳玲、薛若琳、魏明伦、瞿弦和当选为剧协副主席。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="著名戏曲理论家张庚被推举为剧协名誉主席。">著名戏曲理论家张庚被推举为剧协名誉主席，于是之、马少波、刘厚生、红线女、杨兰春、吴雪、吴祖光、陈伯华、胡可、赵寻、郭汉城、袁世海、袁雪芬、常香玉被聘请为剧协顾问。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社武汉一月十七日电（记者刘晖）" DiscourseTopic="武汉确定今后利用外资重点领域">
+    <LEAD>武汉市将把今后利用外资重点放在高科技产业、基础产业和基础设施、农业开发等领域。</LEAD>
+    <ABSTRACT>武汉市将把今后利用外资重点放在高科技产业、基础产业和基础设施、农业开发等领域。外商投资旧城改造和居民住宅建设将获得优惠政策，并鼓励外商托管国有大中型企业。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="武汉市将把今后利用外资重点放在高科技产业、基础产业和基础设施、农业开发等领域。">地处中国内陆中央的湖北省武汉市，将把今后利用外资重点放在高科技产业、基础产业和基础设施、农业开发等领域。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="外商投资旧城改造和居民住宅建设将获得优惠政策，并鼓励外商托管国有大中型企业。">武汉市市长王守海日前对记者说，外商投资旧城改造和居民住宅建设将获得优惠政策，并鼓励外商托管国有大中型企业。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="武汉市将进一步改善投资环境。">据介绍，武汉市将进一步改善投资环境。其中，武汉天河机场已获准对外国籍飞机开放，并被定为国家重要的航空枢纽之一。长江三桥也已动工。全市电话容量现已达一百八十万门。（完）</P>
+  </TEXT>
+</DOC>

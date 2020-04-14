@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社联合国１２月２７日电（记者顾震球）" DiscourseTopic="安南呼吁塞拉利昂反政府武装放下武器">
+    <LEAD>安南呼吁塞拉利昂反政府武装立即放下武器，并无条件地参与和平进程。</LEAD>
+    <ABSTRACT>安南呼吁塞拉利昂反政府武装立即放下武器，并无条件地参与和平进程。安南对塞拉利昂反政府武装革命联合阵线拒绝放下武器，并继续进行推翻该国合法政府的武装活动表示谴责。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Background" ID="2" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="安南呼吁塞拉利昂反政府武装立即放下武器，并无条件地参与和平进程。">联合国秘书长安南２７日发表声明，呼吁塞拉利昂反政府武装立即放下武器，并无条件地参与和平进程。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="安南对塞拉利昂反政府武装革命联合阵线拒绝放下武器，并继续进行推翻该国合法政府的武装活动表示谴责。">安南在这份由发言人发表的声明中，对塞拉利昂反政府武装革命联合阵线拒绝放下武器，并继续进行推翻该国合法政府的武装活动表示谴责。他说：“企图用武力推翻经过合法途径选举产生的政府是令人无法接受的。”</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="安南的发言人是在西非维和部队与反政府武装进行激战时发表这一声明的。">安南的发言人是在西非维和部队２７日正在塞拉利昂北部小镇马克尼附近与反政府武装进行激战时发表这一声明的。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="由于塞拉利昂局势日趋紧张，联合国已决定将大约４０名工作人员撤到临近的几内亚。">联合国发言人席尔瓦２６日宣布，由于塞拉利昂局势日趋紧张，联合国已决定将大约４０名工作人员撤到临近的几内亚。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="西非维和部队于今年２月采取军事行动，将政变军政权赶下台，３月恢复了卡巴领导的合法政府。叛军与反政府的革命联合阵线一起，在该国东、北部边境地区与西非维和部队周旋。">１９９７年５月，塞拉利昂发生军事政变，卡巴总统领导的政府被推翻。在国际社会的大力支持下，西非维和部队于今年２月采取军事行动，将政变军政权赶下台，３月恢复了卡巴领导的合法政府。但是，叛军从未停止活动，并与反政府的革命联合阵线一起，在该国东、北部边境地区与西非维和部队周旋。据报道，反政府武装近日来频频在弗里敦附近采取军事行动，使塞拉利昂首都的局势骤然紧张。（完）</P>
+  </TEXT>
+</DOC>

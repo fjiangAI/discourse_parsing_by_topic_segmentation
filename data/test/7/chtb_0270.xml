@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月二十三日电" DiscourseTopic="中国红十字会举行第六次全国会员代表大会">
+    <LEAD>中国红十字会第六次全国会员代表大会今天在北京开幕。</LEAD>
+    <ABSTRACT>中国红十字会第六次全国会员代表大会今天在北京开幕。大会通过了新一届领导成员名单，讨论了一九九五年至一九九九年五年工作规划纲要，确立了“认真实施红十字会法，努力发展中国特色红十字事业”的工作方向。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Background" ID="4" Layer="4" ParagraphPosition="3...3|4...5" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="6" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...2|3...5" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国红十字会第六次全国会员代表大会今天在北京开幕。">中国红十字会第六次全国会员代表大会今天在北京开幕。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="大会通过了新一届领导成员名单，讨论了一九九五年至一九九九年五年工作规划纲要，确立了“认真实施红十字会法，努力发展中国特色红十字事业”的工作方向。">大会通过了以江泽民为名誉会长的新一届领导成员名单，讨论了一九九五年至一九九九年五年工作规划纲要，确立了“认真实施红十字会法，努力发展中国特色红十字事业”的工作方向。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="中国红十字会是中国在国际组织中第一个恢复合法席位的团体，它以其特殊的身份广泛开展民间外交活动，在国际舞台上为宣传新中国发挥了重要作用。">今年是中国红十字会成立九十周年。一九五０年中国红十字会协商改组后，作为从事人道主义工作的社会救助团体，做了大量工作。中国红十字会是中国在国际组织中第一个恢复合法席位的团体，它以其特殊的身份广泛开展民间外交活动，在国际舞台上为宣传新中国发挥了重要作用。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="近几年来，中国红十字会在沟通海峡两岸关系方面发挥了特殊作用，并通过积极开展与各国红十字会和国际红十字组织的双边、多边交流，增进了国际间友好交往与合作。">近几年来，中国红十字会在沟通海峡两岸关系方面发挥了特殊作用，并通过积极开展与各国红十字会和国际红十字组织的双边、多边交流，增进了国际间友好交往与合作。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="第八届全国人大常委会正式通过了《中华人民共和国红十字会法》，体现了国家对红十字人道主义事业的高度重视和支持，为中国红十字事业的发展以及与国际红十字运动接轨提供了法律保证，标志着中国红十字事业进入了新的历史阶段。">一九九三年十月三十一日，第八届全国人大常委会正式通过了《中华人民共和国红十字会法》，体现了国家对红十字人道主义事业的高度重视和支持，为中国红十字事业的发展以及与国际红十字运动接轨提供了法律保证，标志着中国红十字事业进入了新的历史阶段。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="今天的会议通过的中国红十字会第六届领导名单。">今天的会议通过的中国红十字会第六届领导名单包括：赵朴初、王光英、李沛瑶、钱信忠、崔月犁、陈敏章为名誉副会长；全国政协副主席钱正英为会长；顾英奇为常务副会长，范宝俊、杨崇春、林炎志、孙（百加木旁）秋、曲折为副会长，李长明为秘书长。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="红十字会与红新月会国际联合会秘书长乔治·韦伯向今天的大会发来了贺信。">红十字会与红新月会国际联合会秘书长乔治·韦伯向今天的大会发来了贺信。（完）</P>
+  </TEXT>
+</DOC>

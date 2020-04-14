@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社兰州一月六日电（记者孙志平）" DiscourseTopic="甘肃经济形成高增长低通胀发展格局">
+    <LEAD>甘肃省去年经济发展势头看好，逐渐形成“高增长、低通胀”的发展格局。</LEAD>
+    <ABSTRACT>甘肃省去年经济发展势头看好，逐渐形成“高增长、低通胀”的发展格局。农业、工业、对外开放发展态势良好。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="3...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="甘肃经济形成高增长低通胀的发展格局。">地处中国西北部的甘肃省去年经济发展势头看好，逐渐形成“高增长、低通胀”的发展格局。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="甘肃经济情况。">甘肃一九九七年全省国内生产总值达七百八十一点三亿元，同比增长百分之八点三；零售物价涨幅则从上年的百分之六点六下降到百分之一点八，居民消费价格涨幅由百分之十九点八下降到百分之三。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="甘肃省积极实施科技兴农战略。">甘肃省积极实施科技兴农战略，推广地膜覆盖、节水灌溉、集雨节灌等农业适用技术和增产措施，农业获得较好收成，全年粮食总产量达七十六点六亿公斤。全省全年有九十一点六万人解决了温饱问题。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="甘肃国有大中型企业效益开始回升，工业增加值增长，固定资产投资力度加大。">去年，甘肃省国有大中型企业效益开始回升，一至十月，净亏损比上年同期减少五千多万元。全年全省完成工业增加值二百八十七点一亿元，比上年增长百分之十点三。与此同时，固定资产投资力度加大，投资总额达二百六十亿元，同比增长百分之二十一。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="甘肃对外开放发展态势良好。">此外，甘肃对外开放发展态势良好。全年出口创汇完成四亿美元，进口二点五亿美元。全年实际利用外资达二点六亿美元。（完）</P>
+  </TEXT>
+</DOC>

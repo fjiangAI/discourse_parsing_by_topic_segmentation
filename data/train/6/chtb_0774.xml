@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电（记者杨晓红、王遂）" DiscourseTopic="一九九八年中国企业亏损额继续扩大">
+    <LEAD>尽管一九九八年中国企业的亏损额仍继续扩大，但亏损的增幅已呈现逐步减缓的良好态势。</LEAD>
+    <ABSTRACT>尽管一九九八年中国企业的亏损额仍继续扩大，但亏损的增幅已呈现逐步减缓的良好态势。今年上半年，中国企业亏损额比去年同期增长百分之三十九点八，到了十一月，这个数字就下降为百分之二十五点八。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Supplement" ID="3" Layer="3" ParagraphPosition="3...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|3" Function="Result" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="尽管一九九八年中国企业的亏损额仍继续扩大，但亏损的增幅已呈现逐步减缓的良好态势。">国家统计局发言人叶震今天说，尽管一九九八年中国企业的亏损额仍继续扩大，但亏损的增幅已呈现逐步减缓的良好态势。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="今年上半年，中国企业亏损额比去年同期增长百分之三十九点八，到了十一月，这个数字就下降为百分之二十五点八。">在此间举行的新闻发布会上，叶引用相关统计数字说，今年上半年，中国企业亏损额比去年同期增长百分之三十九点八，到了十一月，这个数字就下降为百分之二十五点八。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="中国企业效益下滑的趋势也在减缓。">这位发言人指出，中国企业效益下滑的趋势也在减缓。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="一到十一月，中国企业实现利润一千一百八十四亿元，同比减少百分之二十二点一。">统计显示，一到十一月，中国企业实现利润一千一百八十四亿元，同比减少百分之二十二点一。其中，第一季度的利润额比去年同期减少百分之五十八，但到第三季度，这个数字就下降到百分之三十一。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="工业产品库存总量的增幅正逐步下降。">同时，工业产品库存总量的增幅正逐步下降。叶震说，今年头三个月，库存总量同比增长了百分之十以上，之后就开始逐渐回落。到了十一月份，增幅就下降为百分之零点七。</P>
+    <P Function="Cause" ID="6" ParagraphTopic="产品价格下降、销售成本上升、企业结构调整和周边国家经济不景气是导致中国企业效益不佳的主要原因。">这位发言人在分析中国企业亏损严重的原因时指出，产品价格下降、销售成本上升、企业结构调整和周边国家经济不景气是导致中国企业效益不佳的主要原因。（完）</P>
+  </TEXT>
+</DOC>

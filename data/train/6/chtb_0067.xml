@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社华盛顿１２月２１日电（记者翟景升）" DiscourseTopic="国际货币基金组织调低对全球经济增长的预测">
+    <LEAD>国际货币基金组织发表一份临时评估报告，调低对今明两年全球经济增长速度的预测。</LEAD>
+    <ABSTRACT>国际货币基金组织发表一份临时评估报告，调低对今明两年世界经济增长、多数地区和国家明年经济增长、发展中国家经济增长的预测，还对世界商品和劳务贸易趋势作了新的预测。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="国际货币基金组织调低对今明两年全球经济增长速度的预测。">国际货币基金组织２１日在此间发表一份临时评估报告，再次调低了它对今明两年全球经济增长速度的预测。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="基金组织调低对今明两年世界经济增长率的预测。">报告认为，亚洲金融危机给世界经济造成的影响比以前估计的要严重。预计世界经济今年的增长率为百分之四点一，明年降为百分之三点五，是５年来增长最缓慢的一年。这比１０月份该组织公布的预测分别低了零点一和零点八个百分点。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="基金组织调低对多数地区和国家明年经济增长的预测。">基金组织还调低了对多数地区和国家明年经济增长的预测。根据它的最新估计，今年工业化国家的经济增长率为百分之三点九，明年为百分之三点六。其中美国明年的经济增长率将从今年的百分之三点八下降到百分之二点四，日本明年的经济增长率只有百分之一点一。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="基金组织调低对发展中国家经济增长的预测。">预计今年发展中国家经济增长百分之五点九，而明年仅增长百分之四点九，比１０月份的预计低了一点三个百分点。其中亚洲地区今明两年的增长率预计分别为百分之六点八和百分之五点七，比先前的预测下调了零点九和一点七个百分点。韩国、泰国、印度尼西亚、马来西亚和菲律宾等国的经济增长都将明显放慢。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="基金组织对世界商品和劳务贸易趋势作了新的预测。">基金组织还对世界商品和劳务贸易趋势作了新的预测。预计今年全球贸易增长幅度为百分之八点六，明年降为百分之六点二。其中工业国今明两年的贸易增长幅度为百分之九点三和百分之六点一，发展中国家的增长幅度为百分之九点六和百分之七点七。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="报告对亚洲地区经济的预测。">报告认为，如果经济和金融政策得力，亚洲地区经济可望在１９９９年开始回升，但不会象墨西哥和阿根廷在１９９４－１９９５年金融危机后那样出现高速Ｖ形大回升。如果改革措施不得力，信心危机依然存在，那么投资者就有可能把注意力转向其他新兴市场。（完）</P>
+  </TEXT>
+</DOC>

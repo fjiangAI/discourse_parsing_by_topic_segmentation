@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社莫斯科８月３１日电（记者谢荣）" DiscourseTopic="波罗的海三国总统就俄撤军发表声明">
+    <LEAD>波罗的海３国总统发表联合声明指出，俄从波罗的海３国撤军将“巩固欧洲的安全”。</LEAD>
+    <ABSTRACT>波罗的海３国总统发表联合声明指出，俄从波罗的海３国撤军将“巩固欧洲的安全”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="波罗的海３国总统发表联合声明指出，俄从波罗的海３国撤军将“巩固欧洲的安全”。">波罗的海３国总统８月３１日发表联合声明指出，俄从波罗的海３国撤军将“巩固欧洲的安全”。声明强调俄罗斯完成撤军应促进俄同波罗的海国家关系的发展。</P>
+    <P Function="Background" ID="2" ParagraphTopic="这项联合声明是在俄罗斯全部完成了从波罗的海三国的撤军之际发表的。">这项联合声明是在俄罗斯全部完成了从波罗的海三国的撤军之际发表的。俄驻立陶宛的军队早在一年前撤回了俄罗斯。今年８月３１日俄驻拉脱维亚的军队全部撤离，驻爱沙尼亚的俄军也于今年８月２９日完成了撤军工作。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="如果波罗的海国家侵犯当地讲俄语居民的权力，俄政府仍然还有对这些国家施加影响的措施。">俄罗斯外交部副部长克雷洛夫３１日在接受国际文传电讯社的采访时指出，虽然俄已从波罗的海国家撤军，但是如果波罗的海国家侵犯当地讲俄语居民的权力，俄政府仍然还有对这些国家施加影响的措施，其中包括政治、经济和道义上的措施。（完）</P>
+  </TEXT>
+</DOC>

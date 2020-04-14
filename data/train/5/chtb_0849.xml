@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社贵阳十二月三十一日电（记者刘子富、何天文）" DiscourseTopic="中国缺粮大省贵州农村初步实现粮食自给">
+    <LEAD>贵州省初步实现了农村人口粮食自给。</LEAD>
+    <ABSTRACT>贵州省初步实现了农村人口粮食自给。刘方仁说，贵州省粮食总产量已连续三年保持在一千万吨以上，今年达到一千一百万吨，农村人均占有粮食达到三百五十公斤以上。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Comment" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="贵州省初步实现了农村人口粮食自给。">长期依靠调进粮食解决吃饭问题的贵州省，由于农业连续六年获得丰收，今年粮食总产量再创历史最好水平，初步实现了农村人口粮食自给。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="刘方仁说，贵州省粮食总产量已连续三年保持在一千万吨以上，今年达到一千一百万吨，农村人均占有粮食达到三百五十公斤以上。">这是贵州省委书记刘方仁在近日召开的全省经济工作会上披露的。刘方仁说，贵州省粮食总产量已连续三年保持在一千万吨以上，今年达到一千一百万吨，农村人均占有粮食达到三百五十公斤以上，除品种调剂外已基本停止从省外调进粮食。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="贵州粮食丰收，促进了农村经济的全面发展。">贵州粮食丰收，促进了农村经济的全面发展，畜牧业、乡镇工业继续保持了较快增长势头，农民人均纯收入预计在去年一千二百九十八元的基础上增长百分之四。农村贫困人口由九十年代初期占农村总人口的百分之五十下降到目前的百分之十左右。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="贵州农村生产力实现了农业和农村经济的历史性跨越。">刘方仁说：“贵州农村生产力已由主要解决‘吃饭’问题转向主要解决‘用钱’问题，实现了农业和农村经济的历史性跨越。”</P>
+    <P Function="Background" ID="5" ParagraphTopic="贵州由于土地零散、贫瘠、破碎，耕种条件差，发展农业尤其是粮食生产受到制约，过去每年都要从省外调进部分粮食弥补本省缺口。">八山一水一分田的贵州，是中国唯一没有平原支撑的山区省份。全省国土面积十七点六万平方公里，喀斯特岩溶地貌占百分之七十三，人均耕地只有零点八亩。由于土地零散、贫瘠、破碎，耕种条件差，发展农业尤其是粮食生产受到制约，过去每年都要从省外调进部分粮食弥补本省缺口。（完）</P>
+  </TEXT>
+</DOC>

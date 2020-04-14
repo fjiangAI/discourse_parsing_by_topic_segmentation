@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社伦敦１２月２８日电（记者周杰）" DiscourseTopic="古力特加速招募队员">
+    <LEAD>古力特在新年之际可以尽兴为纽卡斯尔联队招兵买马。</LEAD>
+    <ABSTRACT>古力特在新年之际可以尽兴为纽卡斯尔联队招兵买马。目前，被古力特纳入视线的有荷兰的罗·德波尔，前英格兰队队员斯·斯通和法国队后卫迪·多米。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...9" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="3...3|4...4" ParentId="4" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="5...5|6...6" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="7...7|8...8|9...9" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="7|4" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...2|3...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5|6" Function="Story" ID="4" Layer="3" ParagraphPosition="3...4|5...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="7" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="古力特在新年之际可以尽兴为纽卡斯尔联队招兵买马。">一直抱怨手中无钱的古力特现在手头有了大把活钱，使得他在新年之际可以尽兴为纽卡斯尔联队招兵买马。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="目前，被古力特纳入视线的有荷兰的罗·德波尔，前英格兰队队员斯·斯通和法国队后卫迪·多米。">目前，被古力特纳入视线的有荷兰的罗·德波尔，前英格兰队队员斯·斯通和法国队后卫迪·多米。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="古力特以前是想引进球员而手中无钱，现在好不容易有钱了却也难遂心愿。此前，伊普拉辛·巴最后体检未能过关，令古力特痛心疾首。">古力特以前是想引进球员而手中无钱，现在好不容易有钱了却也难遂心愿。此前，他曾要出资５２０万英镑购买效力于ＡＣ米兰队的伊普拉辛·巴。本来一切都已经谈好，结果伊普拉辛·巴最后体检未能过关，令古力特痛心疾首。</P>
+    <P Function="Result" ID="4" ParagraphTopic="古力特从伊普拉辛·巴转会的事件中吸取了教训，现在不再那么早地透露心里的运动员姓名，只是说近期内肯定能招募一名球员。">古力特从伊普拉辛·巴转会的事件中吸取了教训，现在不再那么早地透露心里的运动员姓名，只是说近期内肯定能招募一名球员。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="他说：“现在的发展都很不错，在转会事情的谈判上已经取得突破。”">他说：“现在的发展都很不错，我现在还不能透露有关细节，不过我们在转会事情的谈判上已经取得突破。”</P>
+    <P Function="Situation" ID="6" ParagraphTopic="已经就一名球员的转会费达成了协议。">“本周我一直都在忙于此事，已经就一名球员的转会费达成了协议。我希望很快就能公布，但是现在还需要等体检结果，”他说。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="德波尔大名鼎鼎，今年入选荷兰队，并在法国世界杯赛上打入半决赛。">德波尔大名鼎鼎，今年入选荷兰队，并在法国世界杯赛上打入半决赛。不过近来，他同弟弟弗·德波尔都提出转会西班牙，结果遭到阿姆斯特丹阿贾克斯俱乐部的拒绝。目前，德波尔兄弟同阿姆斯特丹队的关系陷入僵局。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="斯通就出生在英格兰东北部，现在效力于诺丁汉森林队。">斯通就出生在英格兰东北部，现在效力于诺丁汉森林队。假如他能加盟纽卡斯尔队，也算是回家乡球队效力。其身价据称为５００万英镑。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="多米现在法国巴黎圣日耳曼队踢球，身价大约为３００万英镑。">多米现在法国巴黎圣日耳曼队踢球，身价大约为３００万英镑。（完）</P>
+  </TEXT>
+</DOC>

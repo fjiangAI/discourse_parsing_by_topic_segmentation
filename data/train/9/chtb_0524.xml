@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="雇主雇员应订定暴雨下工作守则">
+    <LEAD>劳工处今日（星期四）提醒雇主及雇员切勿延误，应尽早达成在恶劣天气下工作安排的协议。</LEAD>
+    <ABSTRACT>劳工处今日（星期四）提醒雇主及雇员切勿延误，应尽早达成在恶劣天气下工作安排的协议。本处极希望雇主能采取弹性的处理方法来制订恶劣天气下的工作安排，并对雇员在工作地点和往返工作地点途中的安全问题予以适当考虑。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...8" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="6" Function="Story" ID="5" Layer="4" ParagraphPosition="4...4|5...5|6...7|8...8" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="6...6|7...7" ParentId="5" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="劳工处今日（星期四）提醒雇主及雇员切勿延误，应尽早达成在恶劣天气下工作安排的协议。">劳工处今日（星期四）提醒雇主及雇员切勿延误，应尽早达成在恶劣天气下工作安排的协议。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="本处极希望雇主能采取弹性的处理方法来制订恶劣天气下的工作安排，并对雇员在工作地点和往返工作地点途中的安全问题予以适当考虑。">劳工处发言人说：「本处极希望雇主能采取弹性的处理方法来制订恶劣天气下的工作安排，并对雇员在工作地点和往返工作地点途中的安全问题予以适当考虑。」</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="工作安排的协议一般应包括上班的规定、在工作期间提早休班的规定、复工的规定和工资的计算方法。">工作安排的协议一般应包括上班的规定、在工作期间提早休班的规定、复工的规定和工资的计算方法。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="协议应清楚列明雇员在何种暴雨警号下毋须工作，及在何时发出该等讯号便毋须上班。">发言人说：「协议应清楚列明雇员在何种暴雨警号下毋须工作，及在何时发出该等讯号便毋须上班。」</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="协议亦应包括在上班期间发出红色或黑色暴雨警告讯号时，雇员提早休班的规定。">「协议亦应包括在上班期间发出红色或黑色暴雨警告讯号时，雇员提早休班的规定。」</P>
+    <P Function="Situation" ID="6" ParagraphTopic="雇主与雇员亦应预先订立协议，列明若暴两警号在办公时间内除下，雇员在何种情况下复工。">「雇主与雇员亦应预先订立协议，列明若暴两警号在办公时间内除下，雇员在何种情况下复工。」</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="由於雇员在返回工作岗位时可能会遇到困难，因此雇主要求雇员复工时应采用弹性的处理方法。">由於雇员在返回工作岗位时可能会遇到困难，因此雇主要求雇员复工时应采用弹性的处理方法。</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="暴雨是自然气象，雇主应考雇员在恶劣天气下不能上班或准时返回工作岗位的情况，尽量使雇员的收入，包括勤工奖，不受影响。">发言人补充说：「暴雨是自然气象，雇主应考雇员在恶劣天气下不能上班或准时返回工作岗位的情况，尽量使雇员的收入，包括勤工奖，不受影响。」</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="雇主或雇员可就暴雨警号下工作安排的事宜，向就近劳资关系组分区办事处寻求协助。">雇主或雇员可就暴雨警号下工作安排的事宜，向就近劳资关系组分区办事处寻求协助。</P>
+  </TEXT>
+</DOC>

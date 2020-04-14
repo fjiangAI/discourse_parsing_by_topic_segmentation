@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="数万佛教徒为香港祈福">
+    <LEAD>香港特别行政区行政长官董建华今日（星期二）与四万名信众出席佛教界庆祝香港回归祈福大会，为香港的繁荣安定及世界和平祝祷。</LEAD>
+    <ABSTRACT>香港特别行政区行政长官董建华今日（星期二）与四万名信众出席佛教界庆祝香港回归祈福大会，为香港的繁荣安定及世界和平祝祷。祈福大会于香港回归中国的首天在香港大球场举行，历时三小时。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...7" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...4|5...5|6...6|7...7" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="香港特别行政区行政长官董建华今日（星期二）与四万名信众出席佛教界庆祝香港回归祈福大会，为香港的繁荣安定及世界和平祝祷。">香港特别行政区行政长官董建华今日（星期二）与四万名信众出席佛教界庆祝香港回归祈福大会，为香港的繁荣安定及世界和平祝祷。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="祈福大会于香港回归中国的首天在香港大球场举行，历时三小时。">祈福大会於香港回归中国的首天在香港大球场举行，历时三小时，是香港有史以来最大规模的。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="多间学校共八百名学生组成的铜管乐队率先演奏，为仪式揭开序幕。随后，合共五百名学生手持中国国旗、特别行政区区旗及写上佛教信条的旗帜列队进场。">多间学校共八百名学生组成的铜管乐队率先演奏，为仪式揭开序幕。随後，合共五百名学生手持中国国旗、特别行政区区旗及写上佛教信条的旗帜列队进场。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="行政长官向与会信众发表一段预先录音的祝词，并接受佛教代表致送一尊据说会带来吉祥、健康和快乐的玉如意。">行政长官向与会信众发表一段预先录音的祝词，并接受佛教代表致送一尊据说会带来吉祥、健康和快乐的玉如意。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="二千五百多名学生以砌图砌出佛祖和菩萨画像和「国泰民安，世界和平」的字样，以及举行「花开佛现」和放和平鸽的仪式。">除了祈福祝祷外，二千五百多名学生以砌图砌出佛祖和菩萨画像和「国泰民安，世界和平」的字样，以及举行「花开佛现」和放和平鸽的仪式。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="此外还有一千多名幼稚园学生表演舞蹈庆祝香港回归祖国，和一百名演出者表演歌舞剧「释迦传」。">此外还有一千多名幼稚园学生表演舞蹈庆祝香港回归祖国，和一百名演出者表演歌舞剧「释迦传」。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="信众加入合唱时，演出者将灯传交各人，为他们带来好运与幸福。">信众加入合唱时，演出者将灯传交各人，为他们带来好运与幸福。</P>
+  </TEXT>
+</DOC>

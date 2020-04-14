@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京九月三十日电（记者路海宽、王丽丽）" DiscourseTopic="蒙特利尔银行北京分行正式开业">
+    <LEAD>蒙特利尔银行北京分行今天正式开业。</LEAD>
+    <ABSTRACT>蒙特利尔银行北京分行今天正式开业。蒙特利尔银行北京分行现有职员二十五名，拥有投资金额一千二百三十万美元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...4" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="蒙特利尔银行北京分行今天正式开业。">蒙特利尔银行北京分行今天正式开业。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="蒙特利尔银行北京分行现有职员二十五名，拥有投资金额一千二百三十万美元。">蒙特利尔银行北京分行现有职员二十五名，拥有投资金额一千二百三十万美元。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="在北京成立分行，将为我行继续致力于促进加拿大乃至北美与中国的重要贸易和投资关系提供重要机遇。”">蒙特利尔银行董事会全体成员参加了今天的开业庆典。董事长兼首席行政长官马修·巴雷特说：“在北京成立分行，将为我行继续致力于促进加拿大乃至北美与中国的重要贸易和投资关系提供重要机遇。”</P>
+    <P Function="Background" ID="4" ParagraphTopic="蒙特利尔银行已申请在上海设立代表处，在此之前，它已在广州和香港设立分行。">据透露，蒙特利尔银行已申请在上海设立代表处，在此之前，它已在广州和香港设立分行。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="蒙特利尔银行与中国工商银行今天还签署了一份合作备忘录，宣布两家金融机构将增进合作、共同寻求互利互惠业务机会。">蒙特利尔银行与中国工商银行今天还签署了一份合作备忘录，宣布两家金融机构将增进合作、共同寻求互利互惠业务机会。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="蒙特利尔银行是北美十大银行之一，现拥有资产两千零三十亿加元。">蒙特利尔银行是北美十大银行之一，现拥有资产两千零三十亿加元。（完）</P>
+  </TEXT>
+</DOC>

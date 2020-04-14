@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社宜昌十二月三十日电" DiscourseTopic="朱（容加金旁）基要求确保三峡工程质量妥善安置移民">
+    <LEAD>朱（容加金旁）基在考察三峡工程建设时指出，必须确保工程质量，妥善安置库区移民，改善库区生态环境。</LEAD>
+    <ABSTRACT>朱（容加金旁）基在考察三峡工程建设时指出，必须确保工程质量，妥善安置库区移民，改善库区生态环境。朱（容加金旁）基指出，质量是三峡工程的生命，质量责任重于泰山。每一个参加三峡施工建设的人都要确保三峡工程的一流质量。做好库区移民工作，是关系三峡工程建设进展的关键。库区企业搬迁，要与经济结构和企业结构调整紧密结合起来。要妥善处理移民建设与环境保护的关系。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="5" Layer="4" ParagraphPosition="3...4|5...5" ParentId="3" RelationType="Purpose-Behavior" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Purpose" ID="7" Layer="5" ParagraphPosition="3...3|4...4" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="5|6" Function="Story" ID="3" Layer="3" ParagraphPosition="3...5|6...7|8...8" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="6...6|7...7" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="朱（容加金旁）基在考察三峡工程建设时指出，必须确保工程质量，妥善安置库区移民，改善库区生态环境。">中共中央政治局常委、国务院总理朱（容加金旁）基近日在考察三峡工程建设时指出，必须采取有力措施，千方百计，确保工程质量，丝毫不能懈怠。当前三峡工程建设正处在二期施工的关键阶段，要总结经验，完善政策，妥善安置库区移民，改善库区生态环境。</P>
+    <P Function="Background" ID="2" ParagraphTopic="朱（容加金旁）基先后考察了重庆市和湖北省的移民工作情况。">十二月二十八日至三十日，朱（容加金旁）基先后考察了重庆市和湖北省的移民工作情况，实地查看了秭归新县城和移民新村，走访搬迁户了解他们的生产和生活情况。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="朱（容加金旁）基指出，质量是三峡工程的生命，质量责任重于泰山。">朱（容加金旁）基指出，三峡工程是世纪性、世界性工程，是千秋大业。质量是三峡工程的生命，质量责任重于泰山，任何一点马虎都会遗祸子孙，造成难以挽回的损失。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="每一个参加三峡施工建设的人都要确保三峡工程的一流质量。">他说，目前正在进行的二期工程施工是三峡工程建设非常重要的阶段，每一个参加三峡施工建设的人都要有历史责任感，以对国家、对人民、对子孙万代高度负责的精神，确保三峡工程的一流质量。</P>
+    <P Function="Behavior" ID="5" ParagraphTopic="为了确保三峡工程质量，必须实行严格的工程监理制度。">朱（容加金旁）基强调，为了确保三峡工程质量，必须实行严格的工程监理制度，强化工程建设监理。对工程的某些重要部位，可以聘请国外知名度高、有信誉、有经验的监理公司，参与工程监理。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="做好库区移民工作，是关系三峡工程建设进展的关键。">朱（容加金旁）基说，做好库区移民工作，是关系三峡工程建设进展的关键。几年来，三峡库区移民工作取得很大成绩，顺利完成一期移民任务，保证了大江截流如期实现。从现在到二００三年，是实施二期移民的攻坚阶段，移民任务更加繁重艰巨。他说，要坚持多种方式移民的方针，因地制宜，把本地安置与异地安置、集中安置与分散安置、政府安置与自找门路结合起来。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="库区企业搬迁，要与经济结构和企业结构调整紧密结合起来。">朱（容加金旁）基要求，库区企业搬迁，要与经济结构和企业结构调整紧密结合起来。除名、特、优产品和确有竞争力的产品外，一般不再搬迁、重建，而应着力调整经济结构，寻找新的经济增长点，提高国民经济的整体效益。</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="要妥善处理移民建设与环境保护的关系。">谈到三峡的环境保护，朱（金旁加容）基说，要妥善处理移民建设与环境保护的关系，防治污染，保护山林，保持水土，防止乱占耕地。对二十五度以上的坡地，要停止开垦，已开垦的要有计划有步骤退耕还林；二十五度以下的坡耕地，要建成高标准梯田。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="朱（容加金旁）基还就加强监督管理三峡工程建设资金和移民资金提出了要求。">朱（容加金旁）基还就加强监督管理三峡工程建设资金和移民资金提出了要求。他说，要建立严格的稽核制度，强化审计监督，按照限额包干原则，加强资金计划、项目、财务管理，增强资金使用透明度，确保专款专用。对那些侵吞、挤占、挪用移民资金的单位和个人，要依法追究责任，严肃查处，并进行曝光。移民迁建项目严禁层层转包，建设用地严禁转卖，绝不能造成移民资金的变相流失。（完）</P>
+  </TEXT>
+</DOC>

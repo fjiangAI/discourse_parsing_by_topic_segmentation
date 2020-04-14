@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社杭州十月十八日电（记者陈瑶）" DiscourseTopic="“中国渔都”重现风采">
+    <LEAD>舟山渔场逐步走出困境，生机勃发，重现“中国渔都”风采。</LEAD>
+    <ABSTRACT>舟山渔场逐步走出困境，生机勃发，重现“中国渔都”风采。去年，舟山市渔业产量达到一百零五万吨。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="5|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...7" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Result" ID="3" Layer="3" ParagraphPosition="4...4|5...7" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...7" ParentId="1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="5...5|6...6|7...7" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="舟山渔场逐步走出困境，生机勃发，重现“中国渔都”风采。">随着远洋渔业和人工养殖业的迅速兴起，一度因水产资源衰退造成生产效益下降的舟山渔场逐步走出困境，生机勃发，重现“中国渔都”风采。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="去年，舟山市渔业产量达到一百零五万吨。">去年，舟山市渔业产量达到一百零五万吨，相当于一九九０年的两倍，在中国海水产品总产量中约占十分之一。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="七十年代后期，由于长时间过度捕捞，舟山渔场水产资源开始出现萎缩。到八十年代中期，号称东海“四大家族”的大黄鱼、小黄鱼、带鱼和墨鱼已难形成渔汛。">位于中国东海海域的舟山市由一千三百多座岛屿组成，陆海总面积超过两万平方公里，是中国最大的渔业生产基地，也是世界四大渔场之一。每当渔汛来临，中国沿海各省以及日本、韩国等地的数万艘渔船便聚集这里，张网作业。七十年代后期，由于长时间过度捕捞，舟山渔场水产资源开始出现萎缩。到八十年代中期，号称东海“四大家族”的大黄鱼、小黄鱼、带鱼和墨鱼已难形成渔汛。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="舟山市适时调整渔业生产政策，提出了开发外海远洋资源、开展沿岸滩涂人工养殖、控制近海捕捞强度的方针。">针对这种情况，舟山市适时调整渔业生产政策，提出了开发外海远洋资源、开展沿岸滩涂人工养殖、控制近海捕捞强度的方针。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="远洋渔业投资大、生产周期长，舟山渔民大多采取与外商合资、合作或补偿贸易的方式，就地捕捞、加工和销售，保持了较高的生产效益。">远洋渔业投资大、生产周期长，舟山渔民大多采取与外商合资、合作或补偿贸易的方式，就地捕捞、加工和销售，保持了较高的生产效益。目前，他们已同日本、澳大利亚、韩国、塞拉利昂等三十多个国家的渔业机构建立了长期合作关系。去年，舟山市共有二百六十艘渔轮在远洋和异国海域作业，捕捞量超过十万吨。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="在拓展远洋渔业的同时，这个市积极利用昔日荒芜的滩涂、浅海，大力开展人工养殖。">在拓展远洋渔业的同时，这个市积极利用昔日荒芜的滩涂、浅海，大力开展人工养殖。梭子蟹、石斑鱼、海鳗、蛏子、泥螺、对虾等一系列养殖基地陆续建成，总面积达四千多公顷。去年，全市海水养殖产量接近三万吨。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="近海捕捞强度的减弱为舟山渔场提供了休养生息的机会。">近海捕捞强度的减弱为舟山渔场提供了休养生息的机会。这期间，渔民们改变了自古以来对海洋只取不予的做法，每年都要将人工繁殖的数亿尾对虾、石斑鱼、海蜇幼苗放入大海，以促进海洋生态平衡。近两年来，舟山渔场的水产资源已开始明显回升，近海捕捞量逐年增大。（完）</P>
+  </TEXT>
+</DOC>

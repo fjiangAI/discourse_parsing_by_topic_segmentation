@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社杭州二月二十一日电（记者唐庆忠）" DiscourseTopic="杭州高新技术产业开发区成果显著">
+    <LEAD>杭州高新技术产业开发区积极转化高新技术成果，成效显著。</LEAD>
+    <ABSTRACT>杭州高新技术产业开发区转化高新技术成果，成效显著。目前被认定为高新技术产业的企业有二百二十三家，去年技工贸总收入达三十亿元。开发区的特点是：产品、项目水平高，重大科技成果迅速转化为现实生产力。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="4...4|5...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="5...5|6...6" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="杭州高新技术产业开发区积极转化高新技术成果，成效显著。">杭州高新技术产业开发区积极转化高新技术成果，成效显著。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="开发区高新技术产业企业情况和技工贸收入情况。">到目前为止，全区已有四百一十家企业，被认定为高新技术产业的有二百二十三家。其中大专院校、大型科研院所和大中企业开办的企业约占百分之七十。迄今已有二十多家高新企业与十多个国家和地区联合，兴办了七十八家外商投资企业。去年，开发区技工贸总收入达三十亿元，税利４亿元，出口创汇二千万美元。</P>
+    <P Function="Background" ID="3" ParagraphTopic="开发区位于杭州市区内，一九九一年国务院批准建设。">这个开发区位于中国著名风景旅游城——杭州市区内，是一九九一年国务院批准建设的国家级高新技术产业开发区。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="产品、项目水平高是开发区的重要特点。">产品、项目水平高，是该区的重要特点。据了解，进区的每个企业都有一至多个高新技术项目或产品，目前区内已有五百五十多个高新技术项目或产品进入商品化生产或推广应用。其中五十七项被批准列入国家、省、市火炬计划，其数量比例在全国高新技术产业开发区中名列前茅。重点发展的医药与生物技术、新材料、计算机及应用、光电一体化等产业已初具规模。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="重大科技成果迅速转化为现实生产力是开发区的突出特点。">重大科技成果迅速转化为现实生产力，是这个开发区的突出特点。由浙江医科院院长、中国科学院士毛江森主持在世界上率先研究成功，并具有国际先进水平的甲肝减毒活疫苗，去年经卫生部批准正式投入生产和使用，目前该区生产此疫苗的普康公司已形成年产五百万人份的生产规模，这对有效地控制甲肝流行具有重大意义。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="新材料重大成果的转化在该区尤为突出。">新材料重大成果的转化在该区尤为突出。曾荣获国家重大发明奖的以氮作保护气直拉硅单晶技术，已由该区浙大半导体厂转化为国内外同类产品中的佼佼者，目前硅单晶年产已达二十多吨，居全国第一，其销售市场已从国内和东南亚扩展欧美许多国家。（完）</P>
+  </TEXT>
+</DOC>

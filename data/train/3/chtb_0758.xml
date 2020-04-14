@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社赫尔辛基１２月２９日电（记者郑焕清）" DiscourseTopic="芬兰首都近一半为单身家庭">
+    <LEAD>在过去２５年间，芬兰首都赫尔辛基的单身家庭数量翻了一番，每两家住户中就有一家是独居者。</LEAD>
+    <ABSTRACT>在过去２５年间，芬兰首都赫尔辛基的单身家庭数量翻了一番，每两家住户中就有一家是独居者。最新统计数字表明，单身家庭的比例高达百分之四十七，居全国各城镇之首。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="在过去２５年间，芬兰首都赫尔辛基的单身家庭数量翻了一番，每两家住户中就有一家是独居者。">据当地报纸２９日报道，在过去２５年间，芬兰首都赫尔辛基的单身家庭数量翻了一番，每两家住户中就有一家是独居者。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="最新统计数字表明，单身家庭的比例高达百分之四十七，居全国各城镇之首。">赫尔辛基市公布的最新统计数字表明，今年初，该市总共２６．８２万住户中有１２．６万户是独身者，单身家庭的比例高达百分之四十七，居全国各城镇之首。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="据分析，芬兰首都单身家庭急剧增加有经济、社会和伦理等众多方面的原因。">据分析，芬兰首都单身家庭急剧增加有经济、社会和伦理等众多方面的原因。首先，人们思想观念的转变使离婚率趋高，赫尔辛基市１９９７底有一半以上的居民未婚，高于全国百分之四十七的未婚率。其次，９０年代初芬兰经济出现战后最严重的萧条，大批失业和无业人员移居到包括首都在内的南部地区谋生，其中多数为单身者。第三，赫尔辛基大多数住房面积狭小，大量移民又造成房源紧张，房租高昂，使低收入者难以很快组建家庭。此外，为适应新技术发展和就业要求而紧张工作或学习的年轻人也无暇谈恋爱、交朋友。（完）</P>
+  </TEXT>
+</DOC>

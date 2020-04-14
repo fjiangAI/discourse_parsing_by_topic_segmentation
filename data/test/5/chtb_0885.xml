@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电（记者丁逸）" DiscourseTopic="中国科学院颁发首届优秀博士后奖励基金">
+    <LEAD>中国科学院今天颁发首届优秀博士后奖励基金和王宽诚博士后奖励基金。</LEAD>
+    <ABSTRACT>中国科学院今天颁发首届优秀博士后奖励基金和王宽诚博士后奖励基金。中国科技大学陈卿等十位博士后获得了首届优秀博士后奖励基金。半导体所游建强等五十名在站博士后人员获得了“王宽诚博士后奖励基金”的两万元资助。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Behavior" ID="3" Layer="3" ParagraphPosition="1...1|2...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Behavior-Purpose" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国科学院今天颁发首届优秀博士后奖励基金和王宽诚博士后奖励基金。">中国科学院今天向在科研领域表现突出的博士后研究人员颁发了首届优秀博士后奖励基金和王宽诚博士后奖励基金。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国科技大学陈卿等十位博士后获得了首届优秀博士后奖励基金。">中国科技大学陈卿等十位博士后获得了首届优秀博士后奖励基金。据介绍，中科院将对完成学习后留院工作的获奖者资助科研工作启动费五万元，并优先给予公费出国进修的机会和参加国际会议的经费补助。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="半导体所游建强等五十名在站博士后人员获得了“王宽诚博士后奖励基金”的两万元资助。">半导体所游建强等五十名在站博士后人员获得了“王宽诚博士后奖励基金”的两万元资助。王宽诚博士后奖励基金是王宽诚基金会为加快高层次人才培养、促进中国科学事业的发展于一九九七年捐资设立的，用于资助从事前沿学科、交叉学科的基础研究及有直接经济或社会效益的应用研究的博士后研究人员。</P>
+    <P Function="Purpose" ID="4" ParagraphTopic="中科院设立优秀博士后奖励基金和王宽诚博士后奖励基金是为了吸引更多优秀博士毕业生到中科院做博士后，强化和激励博士后研究人员的科学创新意识。">据悉，中科院设立优秀博士后奖励基金和王宽诚博士后奖励基金是为了吸引更多优秀博士毕业生到中科院做博士后，强化和激励博士后研究人员的科学创新意识。根据中科院知识创新工程试点工作的精神，到本世纪末，中科院在站博士后规模将达到一千二百至一千五百人。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="截止今年九月，中科院共招收博士后近两千两百人，目前在站的博士后约有七百余人。现在博士后专项经费已增加到二百万元。">截止今年九月，中科院共招收博士后近两千两百人，其中留学回国人员二百五十人。目前在站的博士后约有七百余人。中科院除国家拨发的博士后日常经费外，从一九八五年开始每年拨出一百万元做为博士后工作专项经费。现在博士后专项经费已增加到二百万元。（完）</P>
+  </TEXT>
+</DOC>

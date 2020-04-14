@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电" DiscourseTopic="北京青年关心与生活贴近的科技进展">
+    <LEAD>北京青年更加关注与日常生活相贴近的科技进展。</LEAD>
+    <ABSTRACT>北京青年更加关注与日常生活相贴近的科技进展。北京青年对电子通讯技术发展、生活用品发明与革新的兴趣远远大于对物理学等基础研究的关注。他们对生物学、医学、军事、航天等领域世界尖端科技发展的兴趣程度也较高。北京青年对农业科技较为冷淡。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5" Function="Sub-Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...3|4...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="4" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="北京青年更加关注与日常生活相贴近的科技进展。">最近进行的一项社会调查表明，与基础科学相比较，北京青年更加关注与日常生活相贴近的科技进展。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="北京青年对电子通讯技术发展、生活用品发明与革新的兴趣远远大于对物理学等基础研究的关注。他们对生物学、医学、军事、航天等领域世界尖端科技发展的兴趣程度也较高。">这项由北京市团委委托北京勺海市场调查有限公司所作的调查显示，北京青年对电子通讯技术发展、生活用品发明与革新的兴趣远远大于对物理学等基础研究的关注。他们对生物学、医学、军事、航天等领域世界尖端科技发展的兴趣程度也较高。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="北京青年对农业科技较为冷淡。">调查报告说，生活在中国政治、文化中心的北京青年对农业科技较为冷淡，也并不“感激”农业技术为他们带来的好处。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="这项调查的目的是研究北京青年的科技素质。调查对象为北京城区十四至三十五岁的常住居民。">据介绍，这项调查的目的是研究北京青年的科技素质。调查对象为北京城区十四至三十五岁的常住居民，平均年龄为二十二点八岁，其中接受过高等教育的占百分之二十九，高中程度的占百分之四十三，初中以下的占百分之二十八。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="受教育程度越高的青年对科技新闻的兴趣越高，男性对科技的兴趣高于女性。">调查发现，受教育程度越高的青年对科技新闻的兴趣越高，男性对科技的兴趣高于女性。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="与这些科学术语相比，青年人对水银温度计、移动电话、照相机、冰箱、洗衣机、微波炉等日常生活用品的工作原理更为了解。">北京青年最了解的科学术语是“克隆”和“信息高速公路”；最不了解的是“八六三计划”和“边缘科学”。与这些科学术语相比，青年人对水银温度计、移动电话、照相机、冰箱、洗衣机、微波炉等日常生活用品的工作原理更为了解。（完）</P>
+  </TEXT>
+</DOC>

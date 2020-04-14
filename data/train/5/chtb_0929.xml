@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社香港十二月三十一日电" DiscourseTopic="任志刚表示，香港银行不会出现倒闭危机">
+    <LEAD>虽然今年有一两家银行出现亏损，但香港银行资本充足比率偏高，不会面临倒闭危机。他预计明年银行业会更加困难。</LEAD>
+    <ABSTRACT>虽然今年有一两家银行出现亏损，但香港银行资本充足比率偏高，不会面临倒闭危机。他预计明年银行业会更加困难。香港银行资本充足比率高达百分之十八点五，且资产素质和流动资金情况也令人满意，故不会出现倒闭危机。由于坏账需一段时间才逐步浮现，所以银行业明年将为更困难的一年，业界需要保持高度警惕，尤其要监察资产素质情况。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="虽然今年有一两家银行出现亏损，但香港银行资本充足比率偏高，不会面临倒闭危机。他预计明年银行业会更加困难。">香港金融管理局总裁任志刚表示，虽然今年有一两家银行出现亏损，但香港银行资本充足比率偏高，不会面临倒闭危机。他预计明年银行业会更加困难。</P>
+    <P Function="Story-Situation" ID="2" ParagraphTopic="香港银行资本充足比率高达百分之十八点五，且资产素质和流动资金情况也令人满意，故不会出现倒闭危机。">任志刚日前在年终结会上指出，香港银行资本充足比率高达百分之十八点五，且资产素质和流动资金情况也令人满意，故不会出现倒闭危机。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="由于坏账需一段时间才逐步浮现，所以银行业明年将为更困难的一年，业界需要保持高度警惕，尤其要监察资产素质情况。">他说，由于坏账需一段时间才逐步浮现，所以银行业明年将为更困难的一年，业界需要保持高度警惕，尤其要监察资产素质情况。目前坏账水平尚未达到高峰期，政府曾多次进行有关压力测试，结果显示对银行业影响不大。政府明年会制定银行业修订条例草案，包括根据国际银行结算的惯例，香港银行收购资产的数额若超过其资本的百分之五，便要先得到政府批准。此外，将目前银行披露资料的指引，纳入条例内作为法定权力。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="如果市场对香港经济前景充满信心，仍有减息空间。">任志刚还表示，由于香港和美国息差达一百二十五点，如果市场对香港经济前景充满信心，仍有减息空间。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="亚洲地区应加强金融合作。">为加强香港金融市场的深度，他建议亚洲地区应加强金融合作，如与其他地区的货币建立实时结算联系，拓展亚洲结算系统的网络。（完）</P>
+  </TEXT>
+</DOC>

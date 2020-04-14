@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北海十月二十五日电（记者肖伟俐）" DiscourseTopic="广西加快沿海地区基础建设">
+    <LEAD>广西全力加快沿海地区的基础设施建设。</LEAD>
+    <ABSTRACT>广西全力加快沿海地区的基础设施建设。从九十年代开始，广西配合建设西南出海大通道的战略布局，采取谁投资、谁受益的方法，多方面筹集资金，使这一地区成为广西新的经济增长点。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...7" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="4...4|5...5|6...6|7...7" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="广西全力加快沿海地区的基础设施建设。">广西全力加快沿海地区的基础设施建设，一九九一年以来已经投入一百七十多亿元，用于沿海三市的路、港、城的配套建设，初步形成了完整的交通、通讯和服务网络，为大西南出海通道的最后完成创造了条件。</P>
+    <P Function="Background" ID="2" ParagraphTopic="广西沿海地区的北海、钦州、防城港三市，由于历史原因，过去这一地区发展速度非常缓慢，城市化水平很低。">广西沿海地区的北海、钦州、防城港三市，面积二万零二百九十九平方公里，人口约四百万。由于历史原因，过去这一地区发展速度非常缓慢，城市化水平很低。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="从九十年代开始，广西配合建设西南出海大通道的战略布局，采取谁投资、谁受益的方法，多方面筹集资金，使这一地区成为广西新的经济增长点。">从九十年代开始，广西配合建设西南出海大通道的战略布局，采取谁投资、谁受益的方法，多方面筹集资金，短短几年，使中国沿海最后一块“洼地”，发生了根本性的变化，不仅解决了沿海三市路、港、城的配套问题，形成一个完整的港口群，而且还使这一地区成为广西新的经济增长点。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="在广西一千五百九十五公里长的大陆海岸线上，已经建成了大中型港口三个，泊位和码头七十六个，其中万吨级泊位十个，年吞吐能力已达到一千万吨，并与世界上一百三十多个国家和地区建立了贸易往来关系。">目前，在广西一千五百九十五公里长的大陆海岸线上，已经建成了大中型港口三个，泊位和码头七十六个，其中万吨级泊位十个，年吞吐能力已达到一千万吨，并与世界上一百三十多个国家和地区建立了贸易往来关系。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="一直制约着广西沿海地区发展的铁路问题随着南昆铁路的通车而得到彻底的解决。">一直制约着广西沿海地区发展的铁路问题随着南昆铁路的通车而得到彻底的解决，与南昆铁路配套的南防和钦北铁路把北海、钦州和防城港三个港口城市与大西南紧密勾联，大宗货物可从西南腹地直达北部湾港口。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="空中的十七条航线在广西沿海与国内的各大主要城市中架起了空中桥梁，极大地方便了南商北贾。">空中的十七条航线在广西沿海与国内的各大主要城市中架起了空中桥梁，极大地方便了南商北贾。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="广西正在对南防铁路进行改造，同时新修钦州至黎塘的铁路。">为适应广西实施的沿海带动战略和大西南出海通道的需要，广西正在对南防铁路进行改造，同时新修钦州至黎塘的铁路。此外，防城港和北海港的扩建工程已经动工，南宁至防城港和钦州至北海的高速公路正加快建设。（完）</P>
+  </TEXT>
+</DOC>

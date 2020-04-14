@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="电视新闻报道不正确">
+    <LEAD>有电视台新闻报道指由于连场大雨，水务署在城门水塘开启水闸排洪，该署发言人说∶「该报道内容不正确。」。</LEAD>
+    <ABSTRACT>有电视台新闻报道指由于连场大雨，水务署在城门水塘开启水闸排洪，该署发言人说∶「该报道内容不正确。」。所有香港的水塘都设有溢洪道，当水塘注满水后，过剩的水就会自动由溢洪道逐渐流走，毋须要进行排洪。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="有电视台新闻报道指由于连场大雨，水务署在城门水塘开启水闸排洪，该署发言人说∶「该报道内容不正确。」。">今日（星期三）有电视台新闻报道指由於连场大雨，水务署在城门水塘开启水闸排洪，该署发言人说∶「该报道内容不正确。」</P>
+    <P Function="Situation" ID="2" ParagraphTopic="所有香港的水塘都设有溢洪道，当水塘注满水后，过剩的水就会自动由溢洪道逐渐流走，毋须要进行排洪。">「所有香港的水塘都设有溢洪道，当水塘注满水後，过剩的水就会自动由溢洪道逐渐流走，毋须要进行排洪。」</P>
+  </TEXT>
+</DOC>

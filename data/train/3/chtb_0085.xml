@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社天津十二月二十七日电" DiscourseTopic="天津开发区近百家外资企业成为海关保税工厂">
+    <LEAD>天津经济技术开发区已有九十九家外商投资企业成为保税工厂。</LEAD>
+    <ABSTRACT>天津经济技术开发区已有九十九家外商投资企业成为保税工厂。保税工厂降低了贸易成本，提高了贸易效益。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="天津经济技术开发区已有九十九家外商投资企业成为保税工厂。">记者从天津海关了解到，近日通用半导体（中国）有限公司等二十家外商投资企业通过天津海关的考核，成为享受海关优惠政策的保税工厂。至此，天津经济技术开发区已有九十九家外商投资企业成为保税工厂。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="近年来天津海关大力推广保税工程制度，开发区逐步形成保税工厂体系。">据介绍，近年来天津海关积极与国际惯例接轨，从加强对企业宏观管理，优化通关环境，促进企业提高贸易效率出发，大力推广保税工程制度。经济技术开发区做为当地新的经济增长点，加工贸易发展迅速，目前已有二百二十家从事加工贸易的外资企业，保税工厂已占到企业总数的百分之四十一，逐步形成了涉及电子、化工、纺织、通讯以及汽车等行业的保税工厂体系，摩托罗拉、三星电子、雅马哈等都是其中的一员。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="保税工厂降低了贸易成本，提高了贸易效益。">据天津开发区海关官员介绍，保税工厂降低了贸易成本，提高了贸易效益。通用半导体（中国）有限公司成为保税工厂后，每天减少流动资金占用五十万美元。该公司介绍，在未来的五年内他们将追加投资九千万美元，届时，预计年产值可达三亿美元。（完）</P>
+  </TEXT>
+</DOC>

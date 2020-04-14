@@ -1,0 +1,10 @@
+baselines: 基准系统
+data_structure: 自己的数据结构
+model: 构建的模型
+parsing： 构建结构树的相关文件
+pretrain_model： 预训练模型
+shift_reduce_algorithm：移进规约算法
+test: 自己的功能测试文件
+train_model：模型训练文件
+utils: 其他常用的工具类
+dataset: 生成用于训练的文本

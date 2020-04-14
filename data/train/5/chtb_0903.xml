@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京五月二十一日电" DiscourseTopic="中国金融对外开放稳步前行">
+    <LEAD>中国外资金融机构的数量和种类不断增加，已成为中国金融业的一支重要力量。</LEAD>
+    <ABSTRACT>中国外资金融机构的数量和种类不断增加，已成为中国金融业的一支重要力量。截至今年三月底中国营业性外资金融机构达一百五十八家，各类金融机构的代表处五百二十八家。外资金融机构业务量也增长迅速，到去年底，其总资产为三百亿美元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国外资金融机构的数量和种类不断增加，已成为中国金融业的一支重要力量。">随着中国金融开放向广度和深度发展，中国外资金融机构的数量和种类不断增加，目前获准在上海浦东经营人民币业务的外资银行已达九家。外资金融机构已成为中国金融业的一支重要力量。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="截至今年三月底中国营业性外资金融机构达一百五十八家，各类金融机构的代表处五百二十八家。">据统计，截至今年三月底中国营业性外资金融机构达一百五十八家，其中分行一百三十二家，合资银行七家，独资银行五家，外（合）资财务公司五家，保险公司八家，中外合资投资银行一家；各类金融机构的代表处五百二十八家。中国已有二十四个城市被批准允许设立营业性外资金融机构。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="外资金融机构业务量也增长迅速，到去年底，其总资产为三百亿美元。">外资金融机构业务量也增长迅速，到去年底，其总资产为三百亿美元，比上年增长百分之五十六点三。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="目前人行上海市分行等有关部门正在加紧制定实施细则和税收等综合配套政策。">去年年底，中国人民银行颁布了《上海浦东外资金融机构经营人民币业务试点暂行管理办法》，目前，人行上海市分行等有关部门正在加紧制定实施细则和税收等综合配套政策。中国人民银行行长戴相龙日前曾公开表示，中国将继续扩大金融业对外开放。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="中国人民银行将积极做好外资银行在上海浦东经营人民币业务试点工作，及时总结和积累经验，将逐步扩大国外保险机构和投资银行在华数量，积极推动《中外合资基金管理公司管理暂行办法》的颁布；还将合理确定外资金融机构数量和地区分布，加强与外国银行监管当局和国际金融监管组织的合作。">据悉，今年，中国人民银行将在积极做好外资银行在上海浦东经营人民币业务试点工作的基础上，及时总结和积累经验，为今后扩大试点范围做准备，并将逐步扩大国外保险机构和投资银行在华数量，同时，积极推动《中外合资基金管理公司管理暂行办法》的颁布；人民银行还将合理确定外资金融机构数量和地区分布，加强与外国银行监管当局和国际金融监管组织的合作。今后，外资金融机构进入中国金融市场的深度和广度必将得到扩展。（完）</P>
+  </TEXT>
+</DOC>

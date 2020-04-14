@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社深圳五月十六日电（记者何广怀）" DiscourseTopic="岭澳核电站国际融资进展顺利">
+    <LEAD>广东岭澳核电站在国际资本市场融资反应良好，目前进展十分顺利。</LEAD>
+    <ABSTRACT>广东岭澳核电站在国际资本市场融资反应良好，目前进展十分顺利。国家开发银行至今年四月底，已经向项目发放出口信贷一亿多美元，并为项目筹措了国际商业贷款四亿美元。岭澳核电站四亿美元的股本金目前已全部安排到位，其余资金由国家开发银行负责从国内外筹措。国家开发银行已在深圳专门设立了代表处，并委托中国工商银行深圳分行作为代理行，为岭澳核电站建设提供优质高效的服务。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="广东岭澳核电站在国际资本市场融资反应良好，目前进展十分顺利。">投资约四十亿美元的广东岭澳核电站在国际资本市场融资反应良好，目前进展十分顺利。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="国家开发银行至今年四月底，已经向项目发放出口信贷一亿多美元，并为项目筹措了国际商业贷款四亿美元。">据国家开发银行行长姚振炎介绍，该行目前已签订总额达二十三亿美元的出口信贷贷款协议，承诺为核电站建设筹措国际商业贷款十八亿美元，并将为项目单位提供软贷款。至今年四月底，已经向项目发放出口信贷一亿多美元，并为项目筹措了国际商业贷款四亿美元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="岭澳核电站四亿美元的股本金目前已全部安排到位，其余资金由国家开发银行负责从国内外筹措。">据了解，岭澳核电站四亿美元的股本金目前已全部安排到位，其余资金由国家开发银行负责从国内外筹措。法国、英国出口信贷部分通过法国巴黎国民银行和英国西商银行牵头组织的银团安排。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="国家开发银行已在深圳专门设立了代表处，并委托中国工商银行深圳分行作为代理行，为岭澳核电站建设提供优质高效的服务。">姚振炎说，国家开发银行已在深圳专门设立了代表处，并委托中国工商银行深圳分行作为代理行，为岭澳核电站建设提供优质高效的服务。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="岭澳核电站是中国“九五”期间利用外资最多的重点工程项目。">岭澳核电站是中国“九五”期间（一九九六至二０００年）利用外资最多的重点工程项目。它距离已投产发电的大亚湾核电站仅一点二公里，规划建造四台百万千瓦级核电机组。首期先建两台，约需投资四十亿美元。按照工程总体进度要求，岭澳核电站一号机组和二号机组将分别于二００二年七月和二００三年三月投产发电。（完）</P>
+  </TEXT>
+</DOC>

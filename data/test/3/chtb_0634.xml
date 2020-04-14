@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社天津五月二十五日" DiscourseTopic="蓟港铁路动工兴建">
+    <LEAD>连接天津蓟县与天津港之间的蓟港铁路日前破土动工。</LEAD>
+    <ABSTRACT>连接天津蓟县与天津港之间的蓟港铁路日前破土动工。这条铁路将跨越中国华北地区的海河、京津塘高速公路、津滨高速公路和京山线，全长二百公里。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="连接天津蓟县与天津港之间的蓟港铁路日前破土动工。">中国又一条煤炭运输大通道──连接天津蓟县与天津港之间的蓟港铁路日前破土动工。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这条铁路将跨越中国华北地区的海河、京津塘高速公路、津滨高速公路和京山线，全长二百公里。">据了解，这条铁路将跨越中国华北地区的海河、京津塘高速公路、津滨高速公路和京山线，全长二百公里，其中包括改造现有铁路四十四公里。此项目还包括在天津港南疆建设一个煤炭专用码头。全部工程总投资近十亿元人民币，预计明年底完工。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="这条铁路建成后，可缓解中国北路煤炭因外运量不断增长而沿海港口煤炭运力不足的矛盾，并改变目前煤炭运输开放式作业、污染严重的状况，改善当地的投资环境。">这条铁路建成后，每年将有一千万吨“三西”（山西、陕西、蒙西）优质煤经此从天津港下海出口或运往中国南方，可缓解中国北路煤炭因外运量不断增长而沿海港口煤炭运力不足的矛盾，并改变目前煤炭运输开放式作业、污染严重的状况，改善当地的投资环境。（完）</P>
+  </TEXT>
+</DOC>

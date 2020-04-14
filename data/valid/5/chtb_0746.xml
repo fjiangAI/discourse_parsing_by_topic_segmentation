@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月２９日电" DiscourseTopic="三浦知良加盟克罗地亚俱乐部">
+    <LEAD>三浦知良今天和克罗地亚的萨格勒布俱乐部签订了１年半的合同。</LEAD>
+    <ABSTRACT>三浦知良今天和克罗地亚的萨格勒布俱乐部签订了１年半的合同。３１岁的三浦知良表示，当克罗地亚联赛冠军萨格勒布俱乐部提出这次转会后，他决定接受这次挑战。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="三浦知良今天和克罗地亚的萨格勒布俱乐部签订了１年半的合同。">日本著名足球明星三浦知良今天和克罗地亚的萨格勒布俱乐部签订了１年半的合同。他的转会费是６０万德国马克（折合３５万美元）。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="３１岁的三浦知良表示，当克罗地亚联赛冠军萨格勒布俱乐部提出这次转会后，他决定接受这次挑战。">据外电报道，３１岁的三浦知良表示，当克罗地亚联赛冠军萨格勒布俱乐部提出这次转会后，他决定接受这次挑战，来展示他精湛的足球技艺。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="三浦知良一度是亚洲足球的头号明星。">三浦知良一度是亚洲足球的头号明星，在为日本队效力的时候，他在８６场比赛中打进了５４个球，其中有１４个是在去年的世界杯预选赛时打进的。但他最后并没有被主教练挑选参加今年的世界杯赛。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="三浦知良曾在巴西的桑托斯队接受训练，并于１９９３——１９９４赛季在意大利桑普多利亚队效力。">三浦知良曾在巴西的桑托斯队接受训练，并于１９９３——１９９４赛季在意大利桑普多利亚队效力。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="不过，三浦知良表示，他现在对于萨格勒布队还基本上是一无所知。">不过，三浦知良表示，他现在对于萨格勒布队还基本上是一无所知，“就是在上个月的欧洲冠军杯赛上我才第一次看到这个队伍”。（完）</P>
+  </TEXT>
+</DOC>

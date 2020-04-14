@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京８月３１日电" DiscourseTopic="以外长为其《新中东》一书中文版作序">
+    <LEAD>以色列外交部长西蒙•佩雷斯说，中国坚持走自己的路，集中力量征服贫困，为中东各国人民树立了榜样。</LEAD>
+    <ABSTRACT>以色列外交部长西蒙•佩雷斯说，中国坚持走自己的路，集中力量征服贫困，为中东各国人民树立了榜样。中国已经向全世界显示，解决社会困苦问题的战略在于作出理智的规划，把力量集中到有合理成功希望的任务上。各国领导人需要有远见，捐弃前嫌，缔造和平，以对付“明日的挑战”。这些目标是不会轻易实现的，需要明智的态度和献身精神。希望中国成为中东各国人民仿效的榜样。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Purpose-Behavior" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="以色列外交部长西蒙•佩雷斯说，中国坚持走自己的路，集中力量征服贫困，为中东各国人民树立了榜样。">以色列外交部长西蒙·佩雷斯说，中国坚持走自己的路，集中力量征服贫困，为中东各国人民树立了榜样。</P>
+    <P Function="Background" ID="2" ParagraphTopic="这是佩雷斯在为其刚刚出版的新著《新中东》中文版专门撰写的序言中说的话。">这是佩雷斯在为其刚刚出版的新著《新中东》中文版专门撰写的序言中说的话。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="中国已经向全世界显示，解决社会困苦问题的战略在于作出理智的规划，把力量集中到有合理成功希望的任务上。">佩雷斯说：“中国和以色列地处亚洲的两端，相隔万水千山。但我们两国人民却是彼此相近的。伟大的中国人民给世界提供了精神上和物质上的文化财富。假如没有这些财富，人们将不可能描述历史的进程。”他还说：“我们身在西亚，正以希望和尊敬的目光注视着东方。中国已经向全世界显示，解决社会困苦问题的战略在于作出理智的规划，把力量集中到有合理成功希望的任务上。……中国还相信自己所特有的道路。它过去没有屈服于任何外来压力，现在仍然始终不渝地维护自己决定自己未来的权利。”</P>
+    <P Function="Purpose" ID="4" ParagraphTopic="各国领导人需要有远见，捐弃前嫌，缔造和平，以对付“明日的挑战”。">《新中东》一书原为英文版，去年秋冬之交出版。作者从当年９月以色列同巴勒斯坦解放组织签署巴勒斯坦自治原则宣言谈起，回顾了中东几百年、特别是近半个世纪以来错综复杂的斗争，表达了他对今后建设一个新中东的看法。在中文版序言中，佩雷斯说，各国领导人需要有远见，捐弃前嫌，缔造和平，以对付“明日的挑战”。他指出，“当我们临近２１世纪的时候，战争不再有任何用处。我们面临的主要问题是如何征服贫穷和匮乏。”为此，他强调，“我们必须整治日益侵蚀耕地的沙漠，开发新的水源，实施新的工程项目。”</P>
+    <P Function="Behavior" ID="5" ParagraphTopic="这些目标是不会轻易实现的，需要明智的态度和献身精神。希望中国成为中东各国人民仿效的榜样。">佩雷斯指出，这些目标是不会轻易实现的，需要明智的态度和献身精神。他认为，“中国已经表明它能征服贫困和几代人以来经受的苦难。我们希望中国成为中东各国人民，既包括以色列人也包括阿拉伯人，在我们共同走向未来道路上仿效的榜样。”</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="《新中东》一书中文版近日已由新华出版社出版发行。">《新中东》一书中文版近日已由新华出版社出版发行。（完）</P>
+  </TEXT>
+</DOC>

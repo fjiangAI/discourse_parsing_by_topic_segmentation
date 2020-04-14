@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社宁波十月二十三日电（记者柴骥程通讯员罗培根）" DiscourseTopic="宁波港多渠道利用外资">
+    <LEAD>宁波港多渠道利用外资加快港口建设。</LEAD>
+    <ABSTRACT>宁波港多渠道利用外资加快港口建设。宁波港不断加大对外开放力度，吸引了各地客商纷纷前来合资兴建储罐、码头和集装箱堆场等。宁波港实际利用外资的质量也有了很大提高，投资结构进一步优化，投资领域进一步扩大。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="2...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|6" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...6" ParentId="1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Cause" ID="3" Layer="3" ParagraphPosition="1...1|2...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Result" ID="6" Layer="3" ParagraphPosition="5...5|6...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="宁波港多渠道利用外资加快港口建设。">被中国国务院列为重点开发的四个国际深水枢纽港之一的宁波港，多渠道利用外资加快港口建设。目前，参与该港口投资的外资企业已有二十一家，合同利用外资七千三百多万美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="在宁波港首先进行投资的外商是香港龙翔化工国际有限公司。">在宁波港首先进行投资的外商是香港龙翔化工国际有限公司，该公司于九０年在宁波港的镇海港投资兴建二个液体化工泊位，此后，又在港口投资组建了五个合资企业。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="宁波港不断加大对外开放力度，吸引了各地客商纷纷前来合资兴建储罐、码头和集装箱堆场等。">近年来，宁波港不断加大对外开放力度，吸引了日本、德国、美国、挪威、泰国、印尼以及香港、台湾等地客商纷纷前来合资兴建储罐、码头和集装箱堆场等。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="宁波港实际利用外资的质量也有了很大提高，投资结构进一步优化，投资领域进一步扩大。">据宁波港外资处的有关人士介绍，近年来，宁波港实际利用外资的质量也有了很大提高，投资结构进一步优化，投资领域进一步扩大。来宁波港投资的境外大公司、大集团增多，项目的投资额明显增大。许多企业经营范围已由液体化工和散装化工产品的仓储、灌包，扩大到散装水泥、集装箱、车客渡、散装化肥、沥青等各货种的装卸、储运、中转。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="宁波港的良好发展势头使外商资金到位快，追加投资、再投资现象频繁。">宁波港的良好发展势头使外商资金到位快，追加投资、再投资现象频繁。镇海港区的宁波泛澳文伦液化储运有限公司一九九二年来已两次增资，投资总额达到二千一百三十六万美元，建造液化储罐六万立方米。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="外资企业生产持续增长，经济效益连年提高。">同时，这些外资企业生产持续增长，经济效益连年提高。在镇海港区兴建的八家以经营液化产品储运为主的中外合资企业，其接卸货种大大突破原设计的八个品种，已达到近四十个品种，成为港区新的经济增长点。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="随着国家宏观政策放宽，码头也逐步成为外商投资的热点。">随着国家宏观政策放宽，码头也逐步成为外商投资的热点。目前，泰国正大、印尼金光以及美国协和都已经或计划在宁波北仑港建造五万吨以上的码头。据介绍，北仑港二期集装箱码头目前正在进行前期筹备，码头总长一千二百三十八米，总投资预计在三亿美元左右。建成后，宁波港的集装箱吞吐能力将接近一百万标箱。（完）</P>
+  </TEXT>
+</DOC>

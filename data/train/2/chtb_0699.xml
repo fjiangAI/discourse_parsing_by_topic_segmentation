@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电（记者曲志红）" DiscourseTopic="中国审结一批非法出版大要案">
+    <LEAD>今年以来中国各地和各有关部门破获并审结一批情节严重的典型案件，对犯罪分子给予有效打击。</LEAD>
+    <ABSTRACT>今年以来中国各地和各有关部门破获并审结一批情节严重的典型案件，对犯罪分子给予有效打击。这些案件包括：天津“二．一三”贩卖非法图书案、河北正定“四．一五”政治性非法出版物案、北京贩卖政治性非法图书案、湖北贩卖政治性非法图书案。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="今年以来中国各地和各有关部门破获并审结一批情节严重的典型案件，对犯罪分子给予有效打击。">据全国扫黄办介绍，今年以来中国各地和各有关部门，进一步加强扫黄打非斗争，加大对走私、制作、贩卖非法出版物大要案的查处力度和刑事处罚力度，破获并审结一批情节严重的典型案件，对犯罪分子给予有效打击。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这些案件包括：天津“二．一三”贩卖非法图书案、河北正定“四．一五”政治性非法出版物案、北京贩卖政治性非法图书案、湖北贩卖政治性非法图书案。">这些案件包括：天津“二．一三”贩卖非法图书案、河北正定“四．一五”政治性非法出版物案、北京贩卖政治性非法图书案、湖北贩卖政治性非法图书案，共涉及非法出版物及图书三万多册，目前案件涉及的非法出版物已经全部收缴。（完）</P>
+  </TEXT>
+</DOC>

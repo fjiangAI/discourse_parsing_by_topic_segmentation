@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社青岛五月十九日电（记者刘海民）" DiscourseTopic="青岛优化资本结构促进企业规模扩大">
+    <LEAD>资本结构优化给青岛经济带来新的活力。</LEAD>
+    <ABSTRACT>资本结构优化给青岛经济带来新的活力。青岛在资金及政策上重点支持了五十个名牌产品和五十个重点企业，集中力量发展了电子、机械、石化、橡胶、家电和饮料六大支柱产业。青岛的资本运营形式已呈兼并、联合、参股、控股、收购等多元化态势。在市场的引导下，一批实力强劲的企业迅速组建大集团。资本结构的优化，使青岛一批企业迅速崛起。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...5|6...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="资本结构优化给青岛经济带来新的活力。">以组建在国内外具有实力影响的大公司、大集团为目标进行的资本结构优化，正在给青岛经济带来新的活力。</P>
+    <P Function="Story-Situation" ID="2" ParagraphTopic="青岛在资金及政策上重点支持了五十个名牌产品和五十个重点企业，集中力量发展了电子、机械、石化、橡胶、家电和饮料六大支柱产业。">近两年来，青岛这个中国沿海十四个开放城市之一的城市，在资金及政策上重点支持了五十个名牌产品和五十个重点企业，集中力量发展了电子、机械、石化、橡胶、家电和饮料六大支柱产业。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="青岛的资本运营形式已呈兼并、联合、参股、控股、收购等多元化态势。在市场的引导下，一批实力强劲的企业迅速组建大集团。">目前，青岛的资本运营形式已呈兼并、联合、参股、控股、收购等多元化态势。在市场的引导下，一批实力强劲的企业迅速组建大集团。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="海尔集团发展为在国内外知名度很高的大集团。">到去年底，海尔集团的销售收入已突破六十亿元，发展为拥有九十九个法人企业、产品规模达到三千多个品种的，以家电为主，集科工贸和三产于一体的在国内外知名度很高的大集团。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="青啤公司近年也开始跨地区经营和异地投资。">青啤公司近年也开始跨地区经营和异地投资。一九九四年该公司收购了扬州啤酒厂，啤酒产量扩大六点五万吨；一九九五年又以八千二百五十万元控股西安“汉斯”啤酒厂。据了解，青啤公司到一九九五年底国有资产已达九亿元，本世纪末这家企业的目标是年产青岛啤酒一百四十万吨。</P>
+    <P Function="Story-Situation" ID="6" ParagraphTopic="资本结构的优化，使青岛一批企业迅速崛起。">资本结构的优化，使青岛一批企业迅速崛起，青啤公司、海尔集团和双星集团的产品品牌已先后被认定为中国驰名商标。据青岛市第三次工业普查证实，青岛啤酒、海尔冰箱和双星运动鞋的出口量已分别占中国同类商品出口量的百分之九十、百分之三十和百分之十四。（完）</P>
+  </TEXT>
+</DOC>

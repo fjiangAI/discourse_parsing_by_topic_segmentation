@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社杭州十二月二十九日电（记者慎海雄）" DiscourseTopic="新中国方志修纂体系初步建立">
+    <LEAD>改革开放二十年间，中国的方志修纂工作出现了前所未有的繁荣景象。</LEAD>
+    <ABSTRACT>改革开放二十年间，中国的方志修纂工作出现了前所未有的繁荣景象。中国在不到二十年的时间里就出版了新修志书三千多种，并在全国形成了拥有二万多专职修志人员、四万多名兼职修志人员的编纂队伍。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="改革开放二十年间，中国的方志修纂工作出现了前所未有的繁荣景象。">改革开放二十年间，中国的方志修纂工作出现了前所未有的繁荣景象。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国在不到二十年的时间里就出版了新修志书三千多种，并在全国形成了拥有二万多专职修志人员、四万多名兼职修志人员的编纂队伍。">据中国历史文献研究会副会长、知名方志学家、浙江大学教授仓修良介绍，中国在不到二十年的时间里就出版了新修志书三千多种，其中新修的县志就达一千九百多种，并在全国形成了拥有二万多专职修志人员、四万多名兼职修志人员的编纂队伍。</P>
+    <P Function="Background" ID="3" ParagraphTopic="中国的方志修纂已经有二千多年的时间。方志具有“存史、资治、教化”的功能，为历代统治者所重视。">中国的方志修纂已经有二千多年的时间。方志具有“存史、资治、教化”的功能，为历代统治者所重视。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="八十年代以来，中国出现了政通人和、百废俱兴的兴旺景象，迎来了修志的“黄金季节”，修志工作渐成热潮。">仓修良教授介绍说，八十年代以来，中国出现了政通人和、百废俱兴的兴旺景象，迎来了修志的“黄金季节”，修志工作渐成热潮。一九八三年，中国地方志指导小组成立，要求到本世纪末将地方志修到县级，并出版志书五千种。这一目标已经完成过半。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社莫斯科１２月２９日电" DiscourseTopic="俄总理说对华关系是俄外交政策重点">
+    <LEAD>俄罗斯总理普里马科夫指出，发展对华关系是俄对外政策的重点和优先方向。</LEAD>
+    <ABSTRACT>俄罗斯总理普里马科夫指出，发展对华关系是俄对外政策的重点和优先方向。不久前俄罗斯总统叶利钦和中国国家主席江泽民的成功会晤，有力地推动了两国面向２１世纪的战略协作伙伴关系。俄总理还高度评价两国在重大国际问题上的合作。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="俄罗斯总理普里马科夫指出，发展对华关系是俄对外政策的重点和优先方向。">俄罗斯总理普里马科夫２９日在联邦政府大厦会见中国驻俄大使武韬时指出，发展对华关系是俄对外政策的重点和优先方向。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="不久前俄罗斯总统叶利钦和中国国家主席江泽民的成功会晤，有力地推动了两国面向２１世纪的战略协作伙伴关系。">普里马科夫表示，不久前俄罗斯总统叶利钦和中国国家主席江泽民的成功会晤，有力地推动了两国面向２１世纪的战略协作伙伴关系。他期待着朱（容加金旁）基总理明年春天访俄，届时将举行两国总理第四次定期会晤，着重就进一步加强俄中经济合作等问题深入交换意见。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="俄总理还高度评价两国在重大国际问题上的合作。">俄总理还高度评价两国在重大国际问题上的合作，强调俄中在国际问题上加强协调与合作，符合双方共同利益，有利于世界和平与稳定，也有利于推进多极化进程。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="武韬转交了朱（容加金旁）基总理致普里马科夫总理的信。">会见中，武韬转交了朱（容加金旁）基总理致普里马科夫总理的信。俄总理表示感谢，并请武韬转达他对朱（容加金旁）基总理的亲切问候和新年的良好祝愿。（完）</P>
+  </TEXT>
+</DOC>

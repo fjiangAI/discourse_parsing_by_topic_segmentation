@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州十二月二十八日电（记者赵春晓杨霞）" DiscourseTopic="广州将举行元旦贺年缤纷大巡游">
+    <LEAD>广州市又将举办贺年旅游花车巡游活动。</LEAD>
+    <ABSTRACT>广州市又将举办贺年旅游花车巡游活动。今届花车将以生态环境游和迎澳门回归为主题。活动将于元旦上午十时三十分开始，沿市区主要干线巡游一周后，将组织部分花车前往中山、顺德等珠三角地区巡游。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="广州市又将举办贺年旅游花车巡游活动。">一九九九年元旦，广州市又将举办贺年旅游花车巡游活动。此次活动在广州赛马会举行起步仪式，它将揭开一九九九中国（广州）生态环境游活动的序幕，同时也作为广州市迎接澳门回归祖国系列活动中的首项活动。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="今届花车将以生态环境游和迎澳门回归为主题。">由广州地区旅游事业管理委员会主办、市旅游局承办的元旦贺年花车巡游活动，至今已是第三届。今届花车将以生态环境游和迎澳门回归为主题，包括有“喜迎回归”、“花城锦绣”、“食在广州”、“田园风光”、“旅游新貌”等主题花车。值得一提的是，当天还会进行一场别开生面的化妆鸵鸟迎宾表演，并且有南非鸵鸟竞速、国宝果夏矮马激情竞速表演，可谓妙趣横生。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="活动将于元旦上午十时三十分开始，沿市区主要干线巡游一周后，将组织部分花车前往中山、顺德等珠三角地区巡游。">活动将于元旦上午十时三十分开始，沿市区主要干线巡游一周后，将组织部分花车前往中山、顺德等珠三角地区巡游。主办者希望以此形成珠三角地区居民新的旅游热点，并将穗、港、澳、深及珠三角地区的旅游业紧密联合，形成整体旅游形象。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="活动当天，主办单位将组织三千人以上的海外旅游团，而澳门地区就将有一千五百至一千八百人到广州参加花车巡游观礼。">据介绍，活动当天，主办单位将组织三千人以上的海外旅游团，而澳门地区就将有一千五百至一千八百人到广州参加花车巡游观礼。为此，拱北海关将提前半小时开关。（完）</P>
+  </TEXT>
+</DOC>

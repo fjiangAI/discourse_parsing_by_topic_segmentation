@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社乌鲁木齐十一月三日电（记者唐施红邬焕庆）" DiscourseTopic="新疆生产建设兵团寻求更广泛的国际经贸合作">
+    <LEAD>新疆生产建设兵团将展开更广泛的国际经贸合作。</LEAD>
+    <ABSTRACT>新疆生产建设兵团将展开更广泛的国际经贸合作。兵团从五十年代末开始承担对越南的农业援助项目，九十年代兵团承担了中国援助布隆迪、阿富汗、蒙古国、古巴、墨西哥等国家的农业、水利及综合开发工作。兵团是新疆最早利用世行贷款，开展补偿贸易和吸收外商投资单位之一。兵团对外贸易也呈高速增长的发展态势。新疆生产建设兵团将选择建设一批项目库，加强对外招商引资的力度，制定优惠政策。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...8" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="5" Layer="4" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="5...5|6...6|7...7|8...8" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Sub-Summary" ID="4" Layer="3" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="新疆生产建设兵团将展开更广泛的国际经贸合作。">中国最大的农工商联合体—－新疆生产建设兵团将以“中国新建集团”的名义展开更广泛的国际经贸合作。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="这是该集团副总裁朱鉴凡今天在接受记者采访时透露的。">这是该集团副总裁朱鉴凡今天在接受记者采访时透露的。朱鉴凡对记者说：“采用‘中国新建集团’这个新名称将有利于消除外界以为新疆建设兵团是军方企业的误解，为兵团开展更广泛的国际经贸合作提供便利条件。”</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在最近举行的厦门国际贸洽会上，新疆建设兵团首次在国际互联网上建立了主页。">在最近举行的厦门国际贸洽会上，新疆建设兵团首次在国际互联网上建立了主页，向全球互联网用户介绍兵团、寻求商机。</P>
+    <P Function="Background" ID="4" ParagraphTopic="新疆建设兵团是四十三年前由十万驻疆人民解放军集体就地转业组成的。">新疆建设兵团是四十三年前由十万驻疆人民解放军集体就地转业组成的。兵团现有土地总面积七百多万公顷，农业机械总动力十四亿瓦特，农用飞机二十九架，预计今年可完成国内生产总值一百五十亿元以上。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="兵团从五十年代末开始承担对越南的农业援助项目，九十年代兵团承担了中国援助布隆迪、阿富汗、蒙古国、古巴、墨西哥等国家的农业、水利及综合开发工作。">兵团从五十年代末开始承担对越南的农业援助项目，九十年代兵团承担了中国援助布隆迪、阿富汗、蒙古国、古巴、墨西哥等国家的农业、水利及综合开发工作。从一九九０年至今年七月底，兵团累计承担对周边国家工程承包、劳务合作项目二十一项，合同总金额一千多万美元；境外投资项目四十八项，合同金额两千多万美元。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="兵团是新疆最早利用世行贷款，开展补偿贸易和吸收外商投资单位之一。">兵团是新疆最早利用世行贷款，开展补偿贸易和吸收外商投资单位之一。到去年底，兵团注册外商投资企业七十家，实际利用外资总金额一亿六千多万美元。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="兵团对外贸易也呈高速增长的发展态势。">朱鉴凡介绍说，兵团对外贸易也呈高速增长的发展态势，已拥有经国家外经贸部正式授权的各类外经贸企业二百零五家，今年预计完成进出口总额二点二亿美元。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="新疆生产建设兵团将选择建设一批项目库，加强对外招商引资的力度，制定优惠政策。">兵团负责人王传友在接受记者采访时表示：“新疆生产建设兵团将依托国家经济建设向西部倾斜发展战略的大好时机，选择建设一批项目库，加强对外招商引资的力度，制定优惠政策，创造良好的外商投资环境，开创兵团利用外资的新局面。”（完）</P>
+  </TEXT>
+</DOC>

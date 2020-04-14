@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社香港九月二十二日电（记者刘史忠）" DiscourseTopic="陈元表示香港将继续保持国际金融中心地位">
+    <LEAD>陈元表示香港将继续保持国际金融中心地位。</LEAD>
+    <ABSTRACT>陈元表示香港将继续保持国际金融中心地位。香港将继续保持自由市场制度和自由港地位，成为独立的关税地区，继续保持国际金融中心地位，资本可自由流动。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="陈元表示香港将继续保持国际金融中心地位。">中国人民银行副行长陈元今天在世界银行举办的“廿一世纪中国经济展望”研讨会上，向与会者阐述了“一国两制”在金融领域的涵义。他表示，“一国两制”是中国政府为推进祖国统一大业进程提出的指导性原则，它已载入中国宪法，成为一项长期不变的基本国策，香港将继续保持国际金融中心地位。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="香港将继续保持自由市场制度和自由港地位，成为独立的关税地区，继续保持国际金融中心地位，资本可自由流动。">陈元指出，根据中英联合声明和基本法，香港将享有除外交和国防事务以外的高度自治，将继续保持自由市场制度和自由港地位，成为独立的关税地区，继续保持国际金融中心地位，资本可自由流动。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="“一国两制”在金融领域具体表现可以概括为：一个国家，两种货币、两种货币制度、两个金融当局。">他说，“一国两制”在金融领域具体表现可以概括为：一个国家，两种货币、两种货币制度、两个金融当局。即香港继续保持其单独的货币发行和管理制度；港币和人民币作为香港与内地的法定货币在两地流通，相互视同外币对待；香港的三家发钞银行继续在联系汇率制度下以百分之百的美元准备发行港钞。在两个相对独立的货币制度下，两地的金融监管当局也要保持相对独立的关系。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="两种货币制度并存对于中国内地的改革开放事业具有重要的意义，同时中国人民银行不会取代香港金融管理局的地位，更不会在香港设立分行。">陈元强调，两种货币制度并存对于中国内地的改革开放事业具有重要的意义，同时中国人民银行不会取代香港金融管理局的地位，更不会在香港设立分行。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="陈元还向与会者解释了香港在国际金融关系中的定位。">陈元还向与会者解释了香港在国际金融关系中的定位。他指出，香港作为国际金融中心，将继续参与国际性及区域性的金融组织及中央银行论坛，发展对外关系。根据基本法的有关规定，香港特别行政区可以“中国香港”的名义单独同各国、各地区保持和发展金融关系，以及处理对外金融事宜。对于仅限于主权国家参加的国际金融组织，在举行与香港有关的问题磋商时，中国政府将正式征求香港特区政府的意见并吸收其代表参加中国代表团。这次参加世界银行和国际货币基金组织理事会年会的中国代表团就是以这种方式组成的。另外，在缔结可能涉及香港的国际金融协议时，中国政府将在征求香港特区政府的意见后，决定是否适用于香港特别行政区。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="今年七月一日，中华人民共和国香港特别行政区政府成立，“一个国家，两种制度”的构想正式开始在香港实施。">陈元表示，今年七月一日，江泽民主席在香港向全世界宣布，中华人民共和国香港特别行政区政府成立，并重申“一国两制”、“港人治港”、高度自治的政策五十年不变，这是一项长期的基本国策。从那时起，“一个国家，两种制度”的构想正式开始在香港实施。（完）</P>
+  </TEXT>
+</DOC>

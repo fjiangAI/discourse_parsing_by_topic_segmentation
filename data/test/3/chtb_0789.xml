@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电（记者赵新兵）" DiscourseTopic="一批中共党外专家学者获助出版学术著作">
+    <LEAD>夏英才基金支持中共党外专家学者出版学术著作仪式今天上午在此间举行。</LEAD>
+    <ABSTRACT>夏英才基金支持中共党外专家学者出版学术著作仪式今天上午在此间举行。此次获得支持的二十二人均为本学科著名专家、学术带头人或业务骨干，其中两院院士十一人。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="夏英才基金支持中共党外专家学者出版学术著作仪式今天上午在此间举行。">华夏英才基金支持中共党外专家学者出版学术著作仪式今天上午在此间举行。全国人大常委会副委员长丁石孙、许嘉璐，全国政协副主席、中共中央统战部部长王兆国出席了仪式。</P>
+    <P Function="Background" ID="2" ParagraphTopic="华夏英才基金是经中共中央统战部的积极努力，在有关部门的支持和关心下，得到海内外企业家和有识之士捐赠而设立的。">华夏英才基金是经中共中央统战部的积极努力，在有关部门的支持和关心下，得到海内外企业家和有识之士捐赠而设立的。以支持中共党外有代表性、有影响的高级知识分子，特别是中国科学院、中国工程院和教科文卫领域的中青年杰出人才出版学术著作，开展科学技术、文化艺术研究，促进国内外学术交流与合作，弘扬中华文化，同心共兴中华为宗旨。该基金去年首批支持十位专家学者出版了学术著作。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="此次获得支持的二十二人均为本学科著名专家、学术带头人或业务骨干，其中两院院士十一人。">据悉，此次获得支持的二十二人均为本学科著名专家、学术带头人或业务骨干，其中两院院士十一人。接受支持出版的学术著作学术水平高，其中自然科学著作十九部，社会科学著作三部。这批专家学者包括王涛、胡文瑞、赵功民、方俐洛、周汝昌等。（完）</P>
+  </TEXT>
+</DOC>

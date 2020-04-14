@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电（记者杨晓红、王遂）&#10;国家统计局发言人叶震今天说，在中国政府不断加大固定资产投资力度的政策支持下，一九九八年中国房地产市场逐渐呈现出稳步回升的良好态势。" DiscourseTopic="中国房地产市场呈现稳步回升态势">
+    <LEAD>在中国政府不断加大固定资产投资力度的政策支持下，一九九八年中国房地产市场逐渐呈现出稳步回升的良好态势。</LEAD>
+    <ABSTRACT>在中国政府不断加大固定资产投资力度的政策支持下，一九九八年中国房地产市场逐渐呈现出稳步回升的良好态势。房地产的竣工和销售情况正趋于好转。，一到十一月，中国房屋竣工面积达到七千二百七十六万平方米。房屋销售面积和销售额则分别比去年同期增长了百分之四十八和百分之五十。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="在中国政府不断加大固定资产投资力度的政策支持下，一九九八年中国房地产市场逐渐呈现出稳步回升的良好态势。">叶震在此间举行的新闻发布会上透露说，今年一到十一月，中国共完成房地产投资两千四百九十亿元，比去年同期增长百分之十八点三。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="房地产的竣工和销售情况正趋于好转。，一到十一月，中国房屋竣工面积达到七千二百七十六万平方米。">房地产的竣工和销售情况正趋于好转。叶引用统计数据说，一到十一月，中国房屋竣工面积达到七千二百七十六万平方米，比去年同期增长百分之二十。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="房屋销售面积和销售额则分别比去年同期增长了百分之四十八和百分之五十。">房屋销售面积和销售额则分别比去年同期增长了百分之四十八和百分之五十，其中，个人购房消费增长了百分之六十四点七。（完）</P>
+  </TEXT>
+</DOC>

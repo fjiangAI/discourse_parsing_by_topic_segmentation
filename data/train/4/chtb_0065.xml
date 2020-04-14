@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海十二月二十一日电（记者吴宇通讯员浦海）" DiscourseTopic="今年浦东新区外贸进出口逾九十亿美元">
+    <LEAD>今年一至十一月，浦东新区进出口货物总额达八十五点七九亿美元，预计全年将超过九十亿美元。</LEAD>
+    <ABSTRACT>今年一至十一月，浦东新区进出口货物总额达八十五点七九亿美元，预计全年将超过九十亿美元。浦东新区外贸呈现进口与出口比例均衡、增长强劲的特点。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="浦东新区今年一至十一月进出口总额和全年预计进出口总额。">据上海浦东海关统计，今年一至十一月，浦东新区（包括外高桥保税区）进出口货物总额达八十五点七九亿美元，比去年同期增长近四分之一。预计全年外贸进出口总额将超过九十亿美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="浦东新区外贸呈现进口与出口比例均衡、增长强劲的特点。">今年浦东新区外贸呈现进口与出口比例均衡、增长强劲的特点。其中，加工贸易发展较快，全区已有二百多家国有企业走进加工贸易行列，在企业总数和备案合同金额方面都与外资企业平分秋色，而且生产经营方式逐渐由简单的来料加工向高科技、高附加值商品的精深加工转变。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="外资企业进出口额增长情况。">据介绍，由于外资企业增加了作为投资的设备进口，加之中国在浦东率先对外资开放外贸领域，成立了三家中外合资贸易公司，今年浦东外资企业进出口额比去年同期增长百分之三十七点四，达三十八点六亿美元，占浦东进出口总额的百分之四十五。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="进出口商品种类以及贸易伙伴。">就进出口商品种类来看，机电产品在浦东新区进口货物中独占鳌头，主要是计算机、集成电路和微电子组件；出口则以机电、服装、编织品类产品为主。日本仍为最大贸易伙伴，美国、香港位居二、三位。（完）</P>
+  </TEXT>
+</DOC>

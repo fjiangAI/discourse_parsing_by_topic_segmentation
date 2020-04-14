@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十月十三日电（记者李强）" DiscourseTopic="委内瑞拉将在乳化油项目上与中国进行合作">
+    <LEAD>委内瑞拉将和中国在共同开发和生产乳化油方面进行互利合作。</LEAD>
+    <ABSTRACT>委内瑞拉将和中国在共同开发和生产乳化油方面进行互利合作。委内瑞拉沥青石储量丰富，而中国已经制定了一个规模宏大的能源发展计划；奥历若克乳化油作为一种新型燃料，已经受到越来越多的电力企业的青睐。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Cause" ID="5" Layer="4" ParagraphPosition="3...3|4...6" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="4...4|5...5|6...6" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Background" ID="3" Layer="3" ParagraphPosition="7...7|8...8" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...8" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7|5" Function="Story" ID="4" Layer="3" ParagraphPosition="1...2|3...6" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="7" Layer="4" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="委内瑞拉将和中国在共同开发和生产乳化油方面进行互利合作。">委内瑞拉将和中国在共同开发和生产乳化油方面进行互利合作。这是委内瑞拉奥历若克沥青石公司董事长和执行总裁卡洛斯·博雷加莱斯今天在北京宣布的。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="卡洛斯·博雷加莱斯参加了第十五届世界石油大会。">卡洛斯·博雷加莱斯参加了在此间举行的第十五届世界石油大会。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="委内瑞拉沥青石储量丰富，而中国已经制定了一个规模宏大的能源发展计划；奥历若克乳化油作为一种新型燃料，已经受到越来越多的电力企业的青睐。">他说，委内瑞拉沥青石储量丰富，达到四百亿吨，而中国已经制定了一个规模宏大的能源发展计划；奥历若克乳化油作为一种新型燃料，已经受到越来越多的电力企业的青睐。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="奥历若克乳化油指沥青石与水及某些化学品的混合物，已经成为发电厂和其它工业行业的理想燃料。">奥历若克乳化油是委内瑞拉发明的一个词，它指沥青石与水及某些化学品的混合物，这种乳化油已经成为发电厂和其它工业行业的理想燃料。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="奥历若克乳化油是一种安全、经济、有竞争力、有效益的燃料。">博雷加莱斯指出，奥历若克乳化油是一种安全、经济、有竞争力、有效益的燃料。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="电厂使用这种乳化油已经取得了令人满意的结果。">他说，电厂使用这种乳化油已经取得了令人满意的结果。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="奥历若克乳化油在上海和山东的发电厂中得到广泛的使用。">一九九六年中国和委内瑞拉在合作生产乳化油项目上签署了一份总投资额达三点二亿美元的协议。奥历若克乳化油在上海和山东的发电厂中得到广泛的使用。</P>
+    <P Function="Comment" ID="8" ParagraphTopic="博雷加莱斯相信，中委两国在这个项目上的合作“富有成效”，前景令人兴奋。">博雷加莱斯相信，中委两国在这个项目上的合作“富有成效”，前景令人兴奋。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="在开发和使用沥青石方面，委内瑞拉居世界第一位。">在开发和使用沥青石方面，委内瑞拉居世界第一位，它今年制定的生产规划，计划将乳化油的年产量提高到两千万吨。一九九六年委内瑞拉的乳化油出口量达四百一十七万吨，今年有望达四百七十万吨。（完）</P>
+  </TEXT>
+</DOC>

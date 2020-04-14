@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月３０日电" DiscourseTopic="中国乒协将复制１９枚世乒赛金牌">
+    <LEAD>中国乒乓球协会决定复制中国乒乓球运动员参加历届世界锦标赛所获１９枚金牌。</LEAD>
+    <ABSTRACT>中国乒乓球协会决定复制中国乒乓球运动员参加历届世界锦标赛所获１９枚金牌。复制工作由中国乒协与中国科联广东经济发展研究中心专家委员会合作进行。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Result" ID="4" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...3|4...4" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="5" Layer="5" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国乒乓球协会决定复制中国乒乓球运动员参加历届世界锦标赛所获１９枚金牌。">中国乒乓球协会决定复制中国乒乓球运动员参加历届世界锦标赛所获１９枚金牌。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="复制工作由中国乒协与中国科联广东经济发展研究中心专家委员会合作进行。">复制工作由中国乒协与中国科联广东经济发展研究中心专家委员会合作进行。双方今天在这里举行了合作签字仪式，李富荣和吴永文代表双方在协议书上签了字。</P>
+    <P Function="Background" ID="3" ParagraphTopic="１９５９年，中国运动员容国团在第二十五届世乒赛上为中华民族夺得第一个世界冠军。此后，中国运动员在所参加的每届世乒赛上都获得了冠军。">１９５９年，中国运动员容国团在第二十五届世乒赛上为中华民族夺得第一个世界冠军。此后，中国运动员在所参加的每届世乒赛上都获得了冠军，其中还在两届世乒赛上囊括全部七项冠军。中国乒乓球队因此被誉为“长盛不衰”的队伍。</P>
+    <P Function="Cause" ID="4" ParagraphTopic="为纪念容国团为中国夺得第一个世界冠军４０周年和４０年来中国乒乓球运动员为国争光作出的贡献，中国乒协决定复制中国乒乓球运动员参加历届世界锦标赛所获金牌共１９枚。">为纪念容国团为中国夺得第一个世界冠军４０周年和４０年来中国乒乓球运动员为国争光作出的贡献，中国乒协决定复制中国乒乓球运动员参加历届世界锦标赛所获金牌共１９枚，配上以水晶制作的７项冠军奖杯小模型，精装发行，作为纪念品和中国乒协的礼品。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="复制的金牌中包括将要举行的第四十五届世乒赛金牌。">中国乒乓球运动员没有参加第二十九和三十届世乒赛。因此，复制的金牌中包括将要举行的第四十五届世乒赛金牌。据介绍，这些纪念品限量生产不超过３０００套。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="将在适当时间和地点共同组织容国团为中国夺得第一个世界冠军４０周年纪念活动。">双方还在签字仪式上表示，将在适当时间和地点共同组织容国团为中国夺得第一个世界冠军４０周年纪念活动。（完）</P>
+  </TEXT>
+</DOC>

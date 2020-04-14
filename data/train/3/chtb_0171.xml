@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="第八届安第斯议会会议开幕">
+    <LEAD>第八届安第斯议会会议十三日在利马开幕。</LEAD>
+    <ABSTRACT>第八届安第斯议会会议十三日在利马开幕。藤森总统在开幕式上呼吁安第斯国家共同努力实现地区一体化，以摆脱不发达的状况。他还呼吁各国团结一致对付外债、贩毒以及暴力活动。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="第八届安第斯议会会议十三日在利马开幕。">第八届安第斯议会会议十三日在利马开幕。秘鲁总统阿尔贝托·藤森主持了开幕式。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="藤森总统在开幕式上呼吁安第斯国家共同努力实现地区一体化，以摆脱不发达的状况。">藤森总统在开幕式上呼吁安第斯国家共同努力实现地区一体化，以摆脱不发达的状况。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="他还呼吁各国团结一致对付外债、贩毒以及暴力活动。">他还呼吁各国团结一致对付外债、贩毒以及暴力活动，本届安第斯议会会议将延续到十六日。</P>
+  </TEXT>
+</DOC>

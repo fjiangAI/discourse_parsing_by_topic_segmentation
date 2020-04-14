@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社成都１２月３１日电（记者史春东）" DiscourseTopic="中国高尔夫球精英赛在蓉开杆">
+    <LEAD>中国高尔夫球精英赛今天在成都四川国际高尔夫球赛场举行。</LEAD>
+    <ABSTRACT>中国高尔夫球精英赛今天在成都四川国际高尔夫球赛场举行。精英赛裁判由中国香港高尔夫球代表队队长王水明领衔，由中国高尔夫球协会和四川省高尔夫球协会派员组成。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国高尔夫球精英赛今天在成都四川国际高尔夫球赛场举行。">为期四天的中国高尔夫球精英赛今天在成都四川国际高尔夫球赛场举行。这是我国最高水平的高尔夫球比赛，国内职业选手均赴蓉参赛，其中包括亚洲亚军张连伟、’９７中国公开赛冠军程军以及郑文根、吴相兵、刘国杰等男选手和６名女选手。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="本月刚刚获得职业资格的新手们也将登场亮相。">此外，本月刚刚获得职业资格的新手们也将登场亮相。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="精英赛裁判由中国香港高尔夫球代表队队长王水明领衔，由中国高尔夫球协会和四川省高尔夫球协会派员组成。">精英赛裁判由中国香港高尔夫球代表队队长王水明领衔，由中国高尔夫球协会和四川省高尔夫球协会派员组成。精英赛头两天举行职业－－业余配对赛，之后举行精英赛。</P>
+  </TEXT>
+</DOC>

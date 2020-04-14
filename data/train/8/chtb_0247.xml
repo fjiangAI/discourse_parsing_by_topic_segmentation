@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京九月一日电（记者李希光、江国成）" DiscourseTopic="第五届北京国际图书博览会开幕">
+    <LEAD>为期六天的第五届北京国际图书博览会今天在北京举行。</LEAD>
+    <ABSTRACT>为期六天的第五届北京国际图书博览会今天在北京举行。这次博览会展出规模为历届之最。这次博览会还设立了版权贸易项目，指定专门人员为版权贸易提供各种便利条件。许多世界闻名的出版社参加了这次博览会。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Cause" ID="3" Layer="3" ParagraphPosition="5...6|7...7" ParentId="2" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="2...2|3...3|4...4" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...7" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Statement" ID="4" Layer="4" ParagraphPosition="5...5|6...6" ParentId="3" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Result" ID="5" Layer="3" ParagraphPosition="1...1|2...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="为期六天的第五届北京国际图书博览会今天在北京举行。">为期六天的第五届北京国际图书博览会今天在北京举行。来自三十八个国家和地区的一千五百多家出版社参展。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这次博览会展出规模为历届之最。">据博览会组织委员会介绍，这次博览会展出规模为历届之最，共展出图书九万种，其中海外原版图书三点五万种，内容涉及科技、经济、文化、教育和社会发展等众多领域。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这次博览会还设立了版权贸易项目，指定专门人员为版权贸易提供各种便利条件。">为加强与世界各国出版界的交流、促进国际版权贸易，这次博览会还设立了版权贸易项目，指定专门人员为版权贸易提供各种便利条件。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="许多世界闻名的出版社参加了这次博览会。">来自美国、德国、日本、法国、英国、俄罗斯、加拿大等国家和台湾、香港、澳门地区的许多世界闻名的出版社参加了这次博览会，如英国企鹅图书公司、蓝登书屋出版公司、朗文出版公司等。</P>
+    <P Function="Result" ID="5" ParagraphTopic="世界各国和地区的主要出版公司、书商和出版界协会参加这次博览会，反映了海外图书出版和发行人士对中国图书市场的重视。">有关人士说，世界各国和地区的主要出版公司、书商和出版界协会参加这次博览会，反映了海外图书出版和发行人士对中国图书市场的重视。</P>
+    <P Function="Cause" ID="6" ParagraphTopic="人民生活水平不断提高，购买力不断增强，中国的图书进口市场潜力巨大。">国家科学技术委员会副主任朱丽兰今天在博览会开幕式上说，随着中国经济的繁荣和科技的迅速进步，人民生活水平不断提高，购买力不断增强，中国的图书进口市场潜力巨大。</P>
+    <P Function="Illustration" ID="7" ParagraphTopic="英国出版商希望在相互尊重版权的基础上进一步发展与中国出版商的业务。">英国朗文出版公司的欧文说，英国出版商希望在相互尊重版权的基础上进一步发展与中国出版商的业务。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="北京国际图书博览会是一九八六年经国务院批准由中国图书进出口总公司举办的，每两年举办一届。">北京国际图书博览会是一九八六年经国务院批准由中国图书进出口总公司举办的，每两年举办一届。（完）</P>
+  </TEXT>
+</DOC>

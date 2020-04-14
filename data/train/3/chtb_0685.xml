@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社开罗１２月２８日电（记者王亚东）" DiscourseTopic="埃及发现２５座法老时代的古墓">
+    <LEAD>埃及考古专家最近在距开罗不远的辛布拉文地区发现了２５座属于法老第一王朝和第二王朝时代的古墓。</LEAD>
+    <ABSTRACT>埃及考古专家最近在距开罗不远的辛布拉文地区发现了２５座属于法老第一王朝和第二王朝时代的古墓。这批古墓均由两个墓穴组成，墓穴四周用土坯砖垒成。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="埃及考古专家最近在距开罗不远的辛布拉文地区发现了２５座属于法老第一王朝和第二王朝时代的古墓。">埃及考古专家最近在距开罗不远的辛布拉文地区发现了２５座４５００年前属于法老（古埃及国王）第一王朝和第二王朝时代的古墓。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这批古墓均由两个墓穴组成，墓穴四周用土坯砖垒成。">据此间媒体日前报道说，这批古墓均由两个墓穴组成，墓穴四周用土坯砖垒成。考古专家们在墓穴中发现了人的骨骼，以及一批用大理石和雪花石制作的器皿。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="专家们认为这批古墓的发现有助于人们了解４５００年前古埃及人在尼罗河三角洲地区的生活情况。">专家们认为这批古墓的发现有助于人们了解４５００年前古埃及人在尼罗河三角洲地区的生活情况。（完）</P>
+  </TEXT>
+</DOC>

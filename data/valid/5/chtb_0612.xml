@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社天津十二月二十四日电（记者栗建昌实习生葛素红）" DiscourseTopic="天津将与外商合作扩大连锁商业规模">
+    <LEAD>天津将扩大与外商大型零售企业合作，发展连锁商业，同时吸收国外先进经验，开拓适合国情的连锁经营方式。</LEAD>
+    <ABSTRACT>天津将扩大与外商大型零售企业合作，发展连锁商业，同时吸收国外先进经验，开拓适合国情的连锁经营方式。天津将采取措施，鼓励外贸企业在投资和贸易两个方面，加强与国外大型连锁商业企业合作。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="3...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="天津将扩大与外商大型零售企业合作，发展连锁商业，同时吸收国外先进经验，开拓适合国情的连锁经营方式。">天津市外经贸委主任王述祖日前说，天津将扩大与外商大型零售企业合作，发展连锁商业，同时吸收国外先进经验，开拓适合国情的连锁经营方式。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="天津将采取措施，鼓励外贸企业在投资和贸易两个方面，加强与国外大型连锁商业企业合作。">王述祖说，天津将采取措施，鼓励外贸企业在投资和贸易两个方面，加强与国外大型连锁商业企业合作。这些合作包括：与大型连锁企业合作投资，发展连锁商业，促进外贸出口；加强与国外大型连锁企业的采购部门进行供货合作；根据大型企业对中国商品的需求和经营特点，解决制约出口发展的因素等。</P>
+    <P Function="Statement" ID="3" ParagraphTopic="近年来，天津连锁商业一直发展较快。">商业零售业是中国新的开放领域。目前为止，中国只开放了五个经济特区和北京、上海、天津等六个城市作为试点。近年来，天津连锁商业一直发展较快，法国、日本等国以及香港特别行政区的一些零售商业企业都在天津开设了连锁店。</P>
+    <P Function="Illustration" ID="4" ParagraphTopic="天津外贸总公司与日本大荣公司合作开办连锁超市。天津外贸食品公司与香港华润公司合作开办华润超市连锁店。">天津外贸总公司与日本大荣公司合作开办连锁超市，去年的销售额超过六千万人民币，另外，大荣公司在中国的采购已达上千万美元。天津外贸食品公司与香港华润公司合作开办华润超市连锁店，开业不到一年时间，已设立了十一家商店，双方在出口方面也有佳绩。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="天津市一些外贸企业目前已采取行动。">据悉，天津市一些外贸企业目前已采取行动。市外贸企业正在与大荣公司使用建设大型食品加工基地，发展长期商品供应，并利用大荣公司的连锁销售网络扩大国际市场。大荣公司也已制定在本世纪内把中国商品采购量扩大三倍的计划目标。（完）</P>
+  </TEXT>
+</DOC>

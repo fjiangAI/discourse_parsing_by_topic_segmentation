@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十七日电（记者顾钱江杨晓红）" DiscourseTopic="（每周视点）中国的改革开放：历史的传奇">
+    <LEAD>二十年给一个民族带来了奇迹般的巨大变化。</LEAD>
+    <ABSTRACT>二十年给一个民族带来了奇迹般的巨大变化。一九七九年以来的近二十年，中国经济年均增长百分之九点八，居全球第一。一九七八年底，中国的外汇储备只有一点七亿美元；目前，中国的外汇储备已位居世界第二位。从“封闭”走向“开放”，地球在中国人的眼里正在慢慢变小。一九九七年，因私出境的人数达到二百四十四万。城市居民就业靠国家安排仅有不足四成。居民收入的稳步增长使中国成为世界少数几个高储蓄国家之一。发展起来的中国向世界提供了更为广阔的商品市场和更多的投资机会。世界商业巨头们正在陆续进入中国。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="7|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...12" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="4" ParagraphPosition="3...4|5...5" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="6" Layer="5" ParagraphPosition="3...3|4...4" ParentId="5" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="11...11|12...12" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...10|11...12" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="3...5|6...6|7...7|8...8|9...9|10...10" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="7" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="二十年给一个民族带来了奇迹般的巨大变化。">二十年只是历史长河中的一瞬间，但它却给一个民族带来了奇迹般的巨大变化。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="以十一届三中全会为标志，中国进入了“改革开放”的年代。">以一九七八年中共十一届三中全会为标志，中国进入了“改革开放”的年代。天文数字的人口、沉重的经济负担、短短的二十年和惊人的高速度，一起构成了这段历史的传奇色彩。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="一九七九年以来的近二十年，中国经济年均增长百分之九点八，居全球第一。">一九七九年以来的近二十年，中国经济年均增长百分之九点八，居全球第一，比同期世界年均增长率高六点五个百分点。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="中国只用了一代人的时间，就取得了其它国家用几个世纪才能取得的成就。">世界银行专家赞叹说：“中国只用了一代人的时间，就取得了其它国家用几个世纪才能取得的成就。”</P>
+    <P Function="Situation" ID="5" ParagraphTopic="二十年前，中国年出口额不足一百亿美元；一九九七年的数字是一千八百二十七亿美元，增长了近十八倍。">对外开放是中国经济高速发展的机缘。二十年前，中国年出口额不足一百亿美元；而一九九七年的数字是一千八百二十七亿美元，增长了近十八倍。据预测，到二０００年，中国年进出口总额将达四千亿美元，二０一０年将达八千亿美元。</P>
+    <P Function="Story-Situation" ID="6" ParagraphTopic="一九七八年底，中国的外汇储备只有一点七亿美元；目前，中国的外汇储备已位居世界第二位。">一九七八年底，中国的外汇储备只有一点七亿美元；目前，中国的外汇储备已位居世界第二位，达一千四百多亿美元，增长了八百二十多倍。</P>
+    <P Function="Story-Situation" ID="7" ParagraphTopic="从“封闭”走向“开放”，地球在中国人的眼里正在慢慢变小。">从“封闭”走向“开放”，地球在中国人的眼里正在慢慢变小。二十年前，许多中国家庭的梦想是拥有一部电话。当时，中国的电话普及率只有百分之零点三八，被称为“没有电话的国家。”而现在，电话的普及率已经达到百分之八点一。此外，移动电话、电脑、网络也正在迅速走进普通人的生活。</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="一九九七年，因私出境的人数达到二百四十四万。">二十年前，中国人感觉世界很遥远，而现在，富裕起来的中国人成群结对地出国“串门”，一九九七年，因私出境的人数达到二百四十四万，比一九七八年增长了四十五倍。</P>
+    <P Function="Story-Situation" ID="9" ParagraphTopic="城市居民就业靠国家安排仅有不足四成。">一九七八年以前，约有九成以上的城市居民就业靠国家安排，现在仅有不足四成。而且，国有企业不再是人们的首选，取而代之的是外资及合资企业──因为那里的收入高。</P>
+    <P Function="Story-Situation" ID="10" ParagraphTopic="居民收入的稳步增长使中国成为世界少数几个高储蓄国家之一。">居民收入的稳步增长使中国成为世界少数几个高储蓄国家之一。一九九七年，中国的人均储蓄存款超过三千元，而二十年前每人每年平均才存二十元钱。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="发展起来的中国向世界提供了更为广阔的商品市场和更多的投资机会。">发展起来的中国向世界提供了更为广阔的商品市场和更多的投资机会。一九七九年，中国为北京航空食品有限公司颁发了第一份合资企业证书；现在已有三十多万家外资企业在中国投资。</P>
+    <P Function="Situation" ID="12" ParagraphTopic="世界商业巨头们正在陆续进入中国。">有迹象显示一直迟疑不决的世界商业巨头们正在陆续进入中国，因为他们已经确信，中国经济发展的传奇将持续到新的世纪。（完）</P>
+  </TEXT>
+</DOC>

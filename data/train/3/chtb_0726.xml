@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社武汉十二月二十九日电（记者江时强）" DiscourseTopic="湖北黄黄高速公路建成通车">
+    <LEAD>湖北省连通安徽、江西的黄黄高速公路今天建成通车。</LEAD>
+    <ABSTRACT>湖北省连通安徽、江西的黄黄高速公路今天建成通车。黄黄高速公路西起湖北黄石市，与武（汉）黄（石）高速路接界，东至湖北黄梅县，与（南）昌九（江）高速路相连。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="湖北省连通安徽、江西的黄黄高速公路今天建成通车。">湖北省连通安徽、江西的黄黄高速公路今天建成通车。至此，长江流域五个特大城市上海、南京、合肥、南昌、武汉通过高速公路连为一体。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="黄黄高速公路西起湖北黄石市，与武（汉）黄（石）高速路接界，东至湖北黄梅县，与（南）昌九（江）高速路相连。">黄黄高速公路西起湖北黄石市，与武（汉）黄（石）高速路接界，东至湖北黄梅县，与（南）昌九（江）高速路相连。工程全长一百四十二公里，总投资二十七亿元人民币。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="黄黄路的建成对发展中国东西向交通、开发长江经济带、服务上海浦东和三峡工程将起到重要作用。">黄黄路的建成，极大地改善了鄂东的投资环境；同时与沪宁、合宁、合（肥）九（江）、武黄高速路连通，将长江经济带连成一体，这对发展中国东西向交通、开发长江经济带、服务上海浦东和三峡工程将起到重要作用。（完）</P>
+  </TEXT>
+</DOC>

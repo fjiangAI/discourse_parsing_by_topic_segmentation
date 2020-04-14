@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社海口十月十五日电（记者陈江）" DiscourseTopic="外商加大对海口工业投资">
+    <LEAD>今年以来，外商投资海口工业项目继续上升。</LEAD>
+    <ABSTRACT>今年以来，外商投资海口工业项目继续上升。最近五年，海口市利用外资迅速增长。外资投向也由“第三产业”向“第二产业”倾斜，外商投资工业力度加大，投资规模也由小变大，质量不断提高。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="今年以来，外商投资海口工业项目继续上升。">今年以来，外商投资海口工业项目继续上升。这是海口投资环境不断改善和政府鼓励、支持的结果。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="近十年来，海口在交通、能源、电讯等方面的环境已大为改善，为投资办工业打下了良好基础。">近十年来，海口在交通、能源、电讯等方面的环境已大为改善，为投资办工业打下了良好基础。从海口经济发展的情况看，最需的是投资兴办实业，尤其是工业。为此，政府采取各种优惠政策以鼓励外商投资工业。包括在用地上给予较低的地价，在税收上给予减免等。</P>
+    <P Function="Statement" ID="3" ParagraphTopic="最近五年，海口市利用外资迅速增长。外资投向也由“第三产业”向“第二产业”倾斜，外商投资工业力度加大，投资规模也由小变大，质量不断提高。">海口统计部门提供的数据表明，最近五年，海口市利用外资迅速增长。一九九二年至一一九九六年累计实际利用外资三十点七亿美元。外资投向也由“第三产业”向“第二产业”倾斜，外商投资工业力度加大，投资规模也由小变大，质量不断提高。</P>
+    <P Function="Illustration" ID="4" ParagraphTopic="海宇镀锡薄板厂，年产十万吨镀锡薄板，填补了海口工业项目的空白。亚洲太平洋酿酒有限公司，首期工程年产十三万吨虎牌啤酒，使海口有了啤酒方面的拳头产品。">由韩国大宇公司、韩国东洋镀锡工业株式会社和中国有色金属工业海南公司等合资六千六百多万美元兴建的海宇镀锡薄板厂，年产十万吨镀锡薄板，填补了海口工业项目的空白。由新加坡独资建设的亚洲太平洋酿酒有限公司，首期工程年产十三万吨虎牌啤酒，使海口有了啤酒方面的拳头产品。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="外商投资工业也获得了丰厚的回报。">外商投资工业也获得了丰厚的回报。去年海口“三资”企业出口创汇四千八百多万美元，比上年增加一千一百多万美元；今年一至七月出口创汇三千四百多万美元。这些出口产品，除少部分为水产加工品外，主要是电子、医药、服装、针织手套、家具等。（完）</P>
+  </TEXT>
+</DOC>

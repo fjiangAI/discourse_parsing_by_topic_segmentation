@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月八日电" DiscourseTopic="山东淄博将在北京举行产品展示暨投资洽谈会">
+    <LEAD>淄博市将于二月二十九日在北京举办一次大规模的工业产品展示暨投资贸易洽谈会。</LEAD>
+    <ABSTRACT>淄博市将于二月二十九日在北京举办一次大规模的工业产品展示暨投资贸易洽谈会。北京淄博工业产品展示暨投资贸易洽谈会规模较大，共有三十五个行业的六百多家企业参加；同时将推出二百二十个重点项目对外招商。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="淄博市将于二月二十九日在北京举办一次大规模的工业产品展示暨投资贸易洽谈会。">地处山东半岛沿海经济开放区的淄博市，将于二月二十九日在北京举办一次大规模的工业产品展示暨投资贸易洽谈会。</P>
+    <P Function="Background" ID="2" ParagraphTopic="淄博市去年国内生产总值达四百一十五亿元人民币，是中国城市经济五十强之一。">淄博市去年国内生产总值达四百一十五亿元人民币，是中国城市经济五十强之一。目前已累计批准三资企业一千四百三十二家，利用外资十四点七亿美元。十四平方公里的国家级高新技术产业开发区已形成规模，进区企业达八百二十八家。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="北京淄博工业产品展示暨投资贸易洽谈会规模较大，共有三十五个行业的六百多家企业参加；同时将推出二百二十个重点项目对外招商。">北京淄博工业产品展示暨投资贸易洽谈会规模较大，共有三十五个行业的六百多家企业参加；同时将推出二百二十个重点项目对外招商，主要涉及化工、医药、纺织、建材、机械、电子、陶瓷等行业。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社圣何塞１２月２９日电（记者孟军）" DiscourseTopic="穆尼奥斯获第三十四届哥斯达黎加自行车赛冠军">
+    <LEAD>哥伦比亚车手达里奥•穆尼奥斯赢得第三十四届哥斯达黎加自行车赛冠军。</LEAD>
+    <ABSTRACT>哥伦比亚车手达里奥•穆尼奥斯赢得第三十四届哥斯达黎加自行车赛冠军。尽管身穿黄色领骑衫的穆尼奥斯获得第二名，但他个人总成绩却名列这次自行车赛中排名榜的榜首。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="哥伦比亚车手达里奥•穆尼奥斯赢得第三十四届哥斯达黎加自行车赛冠军。">经过１２天的角逐，哥伦比亚车手达里奥·穆尼奥斯赢得第三十四届哥斯达黎加自行车赛冠军。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="尽管身穿黄色领骑衫的穆尼奥斯获得第二名，但他个人总成绩却名列这次自行车赛中排名榜的榜首。">在２９日进行的第十二赛段，也是最后一个赛段的比赛中，尽管身穿黄色领骑衫的穆尼奥斯获得第二名，但他个人总成绩却名列这次自行车赛中排名榜的榜首。他的同胞路易斯·卡斯塔涅达以２小时４０分２５秒获得这一全长１１０公里最后赛段的第一名，但因他个人总成绩落后而未进入前十名。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="哥伦比亚车手包揽了这次自行车赛的前三名。">哥伦比亚车手包揽了这次自行车赛的前三名。东道主哥斯达黎加车手第一次无人进入前十名。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="第三十四届哥斯达黎加自行车赛是１２月１８日在哥斯达黎加首都圣何塞揭幕的。比赛设１２个赛段，全程１７１４公里，６个国家１０支队伍参加了这次比赛。">第三十四届哥斯达黎加自行车赛是１２月１８日在哥斯达黎加首都圣何塞揭幕的。本届比赛设１２个赛段，全程１７１４公里。哥斯达黎加、哥伦比亚、墨西哥、委内瑞拉、奥地利等６个国家１０支队伍参加了这次比赛。（完）</P>
+  </TEXT>
+</DOC>

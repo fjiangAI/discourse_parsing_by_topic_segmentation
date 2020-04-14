@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京三月十三日电" DiscourseTopic="中国对外贸易进出口继续增长">
+    <LEAD>今年一至二月份中国对外贸易进出口继续增长。</LEAD>
+    <ABSTRACT>今年一至二月份中国对外贸易进出口继续增长。一般贸易出口下降，加工贸易进出口继续增长，经济特区、保税区进出口总值增长；机电产品进出口贸易继续增加，主要轻纺、农副产品出口下降，主要进口产品增长；外商投资企业占全国进出口总值的比重增加。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="今年一至二月份中国对外贸易进出口继续增长。">据海关总署提供的统计数据，今年一至二月份中国对外贸易进出口继续保持增长势头，进出口总值达三百六十一亿美元，比去年同期增长百分之十三点九。其中出口为一百七十八点三亿美元，比去年同期下降百分之一点三；进口一百八十二点七亿美元，增长百分之三十四点一。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="今年一至二月份中国进出口贸易情况。">今年一至二月份，中国一般贸易出口明显下降，加工贸易继续稳定增长。加工贸易进出口总额达一百八十四点九亿美元，比去年同期增长百分之二十三点六，占全部进出口总额的百分之五十一点二。经济特区进出口总值为四十二点九亿美元，增长百分之三点四。保税区进出口总值为四点九亿美元，增长一点三倍。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国各类产品进出口贸易情况。">中国机电产品进出口贸易继续增加，占总进出口的比重继续上升。其中，出口五十七点九亿美元，占总出口的百分之三十二点五；进口八十五点二亿美元，占总进口的百分之四十六点四，均比去年同期有所上升。中国主要轻纺、农副产品出口则比去年同期下降。除个别产品如钢材、食糖、汽车等以外，其它主要进口产品则全面增长。其中，初级形状塑料进口一百一十万吨，增长百分之四十七点七，价值九点五亿美元，成为今年以来中国最大的单项进口商品。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="今年一至二月份外商投资企业占全国进出口总值的比重上升。">外商投资企业一至二月份进出口总值为一百六十五点九亿美元，占全国进出口总值的比重由去年同期的百分之三十七上升到百分之四十五点九。（完）</P>
+  </TEXT>
+</DOC>

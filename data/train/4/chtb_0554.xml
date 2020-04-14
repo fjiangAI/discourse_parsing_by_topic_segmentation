@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="信兴阅读奖励计划">
+    <LEAD>来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，同场并会展出获奖学生作品。</LEAD>
+    <ABSTRACT>来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，同场并会展出获奖学生作品。阅读奖励计划的目的，在培养学生的良好阅读习惯，提高学生的阅读及语文能力，且鼓励学生运用图书馆资源。信兴阅读奖励计划由教育署图书馆组主办，信兴教育及慈善基金赞助，小五至中五学生均可参加。</ABSTRACT>
+    <LEAD>来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，同场并会展出获奖学生作品。</LEAD>
+    <ABSTRACT>来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，同场并会展出获奖学生作品。阅读奖励计划的目的，在培养学生的良好阅读习惯，提高学生的阅读及语文能力，且鼓励学生运用图书馆资源。信兴阅读奖励计划由教育署图书馆组主办，信兴教育及慈善基金赞助，小五至中五学生均可参加。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，同场并会展出获奖学生作品。">来自六百二十二间学校的一百一十名学生明日（星期三）在信兴阅读奖励计划颁奖典礼上获颁奖杯、书券及奖状，同场并会展出获奖学生作品。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="阅读奖励计划的目的，在培养学生的良好阅读习惯，提高学生的阅读及语文能力，且鼓励学生运用图书馆资源。">阅读奖励计划的目的，在培养学生的良好阅读习惯，提高学生的阅读及语文能力，且鼓励学生运用图书馆资源。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="信兴阅读奖励计划由教育署图书馆组主办，信兴教育及慈善基金赞助，小五至中五学生均可参加。">信兴阅读奖励计划由教育署图书馆组主办，信兴教育及慈善基金赞助，小五至中五学生均可参加。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="阅读奖励计划非常受欢迎，参加学校与学生人数每年递增。">阅读奖励计划非常受欢迎，参加学校与学生人数每年递增。</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社东京１２月２９日电" DiscourseTopic="日本静冈县一妇女产下五胞胎">
+    <LEAD>日本静冈县一位３０岁妇女上月产下五胞胎，母亲和孩子都很健康。</LEAD>
+    <ABSTRACT>日本静冈县一位３０岁妇女上月产下五胞胎，母亲和孩子都很健康。这五胞胎中，有４个男孩，１个女孩。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="日本静冈县一位３０岁妇女上月产下五胞胎，母亲和孩子都很健康。">据此间媒体今天报道，日本静冈县一位３０岁妇女上月产下五胞胎，母亲和孩子都很健康。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这五胞胎中，有４个男孩，１个女孩。">这五胞胎中，有４个男孩，１个女孩。孩子出生时体重均为７００至８００克，但都很健康。这位妇女生产多胞胎的原因是因为服用了排卵诱发剂。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="从１９９５年到１９９７年间，日本已有５组五胞胎出生。">据日本厚生省说，从１９９５年到１９９７年间，日本已有５组五胞胎出生。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="香港特别行政区宣誓仪式誓言">
+    <LEAD>行政长官的誓言。主要官员的誓言。行政会议誓言。临时立法会誓言。司法誓言。</LEAD>
+    <ABSTRACT>行政长官的誓言。主要官员的誓言。行政会议誓言。临时立法会誓言。司法誓言。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="6|5|4|3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4|5...6|7...8|9...10" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="7...7|8...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="2" ParagraphPosition="5...5|6...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="9...9|10...10" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="行政长官的誓言。">行政长官的誓言－－－－－－－</P>
+    <P Function="Situation" ID="2" ParagraphTopic="本人董建华，谨此宣誓：本人就任中华人民共和国香港特别行政区行政长官，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务，对中华人民共和国中央人民政府和香港特别行政区负责。">本人董建华，谨此宣誓：本人就任中华人民共和国香港特别行政区行政长官，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务，对中华人民共和国中央人民政府和香港特别行政区负责。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="主要官员的誓言。">主要官员的誓言－－－－－－－</P>
+    <P Function="Situation" ID="4" ParagraphTopic="我谨此宣誓：本人就任中华人民共和国香港特别行政区政府（职务），定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务。">我谨此宣誓：本人就任中华人民共和国香港特别行政区政府（职务），定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="行政会议誓言。">行政会议誓言－－－－－－</P>
+    <P Function="Situation" ID="6" ParagraphTopic="我谨此宣誓：本人就任中华人民共和国香港特别行政区行政会议成员，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务。">我谨此宣誓：本人就任中华人民共和国香港特别行政区行政会议成员，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务。</P>
+    <P Function="Sub-Summary" ID="7" ParagraphTopic="临时立法会誓言。">临时立法会誓言－－－－－－－</P>
+    <P Function="Situation" ID="8" ParagraphTopic="我谨此宣誓：本人就任中华人民共和国香港特别行政区临时立法会议员，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务。">我谨此宣誓：本人就任中华人民共和国香港特别行政区临时立法会议员，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，遵守法律，廉洁奉公，为香港特别行政区服务。</P>
+    <P Function="Sub-Summary" ID="9" ParagraphTopic="司法誓言。">司法誓言－－－－</P>
+    <P Function="Situation" ID="10" ParagraphTopic="我谨此宣誓：本人就任中华人民共和国香港特别行政区法院法官，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，奉公守法、公正廉洁、以无惧、无偏、无私、无欺之精神，维护法制，主持正义，为香港特别行政区服务。">我谨此宣誓：本人就任中华人民共和国香港特别行政区法院法官，定当拥护《中华人民共和国香港特别行政区基本法》，效忠中华人民共和国香港特别行政区，尽忠职守，奉公守法、公正廉洁、以无惧、无偏、无私、无欺之精神，维护法制，主持正义，为香港特别行政区服务。</P>
+  </TEXT>
+</DOC>

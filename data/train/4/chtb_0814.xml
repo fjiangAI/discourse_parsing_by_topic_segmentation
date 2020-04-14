@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社布鲁塞尔１２月３０日电（记者义高潮）" DiscourseTopic="欧元区通胀率再降">
+    <LEAD>欧元区通货膨胀率再次稳步下降。欧洲联盟１１月份的通胀率从一个月前的百分之一点一降至百分之一点零。</LEAD>
+    <ABSTRACT>欧元区通货膨胀率再次稳步下降。欧洲联盟１１月份的通胀率从一个月前的百分之一点一降至百分之一点零。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="欧元区通货膨胀率再次稳步下降。">欧元诞生前３６小时，欧元区得到来自欧洲统计局的好消息：欧元区通货膨胀率再次稳步下降，从１０月份的百分之一点零降至１１月份的百分之零点九。欧元区去年同期的通胀率为百分之一点六。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="欧洲联盟１１月份的通胀率从一个月前的百分之一点一降至百分之一点零。">欧洲统计局还说，欧洲联盟１１月份的通胀率从一个月前的百分之一点一降至百分之一点零。欧盟一年前的通胀率是百分之一点七。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="通胀率是欧盟实现经济货币联盟的经济趋同标准之一。">通胀率是欧盟实现经济货币联盟的经济趋同标准之一。参加欧元区国家的通胀率最高不得超出区内通胀率最低的三个国家平均值的百分之一点五。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="１１月份欧元区１１国中葡萄牙的通胀率最高，法国最低。">据欧洲统计局报告，１１月份欧元区１１国中葡萄牙的通胀率最高，为百分之二点六，法国最低为百分之零点二。未参加单一货币体系的希腊１１月份的通胀率为欧盟十五国最高，达百分之三点九。同样未加入欧元区的瑞典的通胀率为十五国最低，仅为百分之零点一。（完）</P>
+  </TEXT>
+</DOC>

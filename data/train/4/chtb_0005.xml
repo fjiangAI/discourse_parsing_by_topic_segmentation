@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社拉萨二月二日电（记者央珍）" DiscourseTopic="西藏金融工作取得显著成绩">
+    <LEAD>“八五”期间西藏金融工作取得显著成绩。</LEAD>
+    <ABSTRACT>“八五”期间西藏金融工作取得显著成绩，实现了金融体制在框架上与全国一致，外汇体制与全国接轨，存款和贷款的增幅明显。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="“八五”期间西藏金融工作取得显著成绩。">“八五”（一九九一至一九九五年）期间，西藏金融体制改革坚持与全国框架一致、体制衔接的方针，顺利完成了西藏各级人民银行的分设工作，实现信贷资金使用从粗放型经营方式向集约型经营方式转变。去年，全区各项存款首次突破了年净增二十亿元大关。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="西藏实现了金融体制在框架上与全国一致，外汇体制与全国接轨，存款和贷款的增幅高。">据中国人民银行西藏自治区分行行长索朗达吉介绍，“八五”期间，西藏自治区分行在全国率先撤销了人民银行县支行，中国农业银行西藏自治区分行于去年七月一日正式对外挂牌营业，实现了金融体制在框架上与全国一致。外汇体制改革实现了与全国接轨，结售制度和新的核销制度在西藏全面实施，有效地防止了外汇流失。去年全区各项存款和贷款的增幅远远高于经济发展速度，实现了年初金融工作会议提出的要求。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="西藏积极调整信贷结构，贷款增幅明显。">西藏银行部门积极调整信贷结构，以确保农牧业生产等重点产业的投入，加大对工业、能源、交通、通信等建设的正常资金供应量。去年新增贷款十四点四一亿元，比上年增加八亿多元。农牧业生产贷款（包括扶贫贷款）比上年新增四点三八亿元；乡镇企业贷款增幅为百分之六十一点八三。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="存款增幅明显。">到去年底，全区各项存款余额达七十一点六三亿元，比上年同期增长百分之四十一点七八，其中，城乡居民储蓄存款为十九点三七亿元，比上年同期增长百分之四十八点二。“八五”期间各项存款比“七五”（一九八六至一九九０年）末净增五十亿元，年平均增长百分之二十七点四九。在新增的储蓄存款中，定期存款占百分之七十二点一五。货币回笼的增加，为平抑全区物价发挥了作用。（完）</P>
+  </TEXT>
+</DOC>

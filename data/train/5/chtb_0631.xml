@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社巴黎５月２３日电（记者沈孝泉）" DiscourseTopic="中国将扩大能源领域的对外开放">
+    <LEAD>中国将扩大能源领域的对外开放与合作，并欢迎外商前往中国投资。</LEAD>
+    <ABSTRACT>中国将扩大能源领域的对外开放与合作，并欢迎外商前往中国投资。中国政府今后将一如既往地鼓励和支持中国能源行业扩大对外开放，对外合作的方式也将灵活多样。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国将扩大能源领域的对外开放与合作，并欢迎外商前往中国投资。">中国国家计划委员会副主任叶青２３日在国际能源署特别会议上说，中国将扩大能源领域的对外开放与合作，并欢迎外商前往中国投资。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国政府今后将一如既往地鼓励和支持中国能源行业扩大对外开放，对外合作的方式也将灵活多样。">叶青是在出席国际能源署部长理事会特别会议时作这一表示的。他指出，改革开放是中国的基本国策，中国政府今后将一如既往地鼓励和支持中国能源行业扩大对外开放；对外合作的方式也将灵活多样，既要积极筹措国外贷款，也要吸引外商直接投资。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国能源领域对外合作的重点是发展电力、开采石油、天然气和煤炭以及节约能源、保护环境、开发新能源和可再生能源等。">叶青说，中国能源领域对外合作的重点是发展电力、开采石油、天然气和煤炭以及节约能源、保护环境、开发新能源和可再生能源等。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国希望不断加强同国际能源署的合作与交流。">叶青表示中国希望不断加强同国际能源署的合作与交流。国际能源署是去年１０月份开始同中国正式建立联系的。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="中国是第一个参加国际能源署成员国特别会议的非成员国。">国际能源署部长理事会年度会议２３日在巴黎召开。会后举行了特别会议。中国是第一个参加国际能源署成员国特别会议的非成员国。（完）</P>
+  </TEXT>
+</DOC>

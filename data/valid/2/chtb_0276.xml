@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京４月２３日电" DiscourseTopic="朱（容加金旁）基电唁尼克松逝世">
+    <LEAD>中华人民共和国国务院副总理朱（容加金旁）基２３日电唁美国前总统理查德·尼克松逝世。</LEAD>
+    <ABSTRACT>中华人民共和国国务院副总理朱（容加金旁）基２３日电唁美国前总统理查德·尼克松逝世。尼克松先生是一位具有远见卓识的政治家，为两国关系的改善和发展做出了重要贡献，赢得了中国人民的尊敬。对他的不幸逝世，我谨表示深切哀悼，并向尼克松先生的家属致以诚挚的慰问。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中华人民共和国国务院副总理朱（容加金旁）基２３日电唁美国前总统理查德·尼克松逝世。">中华人民共和国国务院副总理朱（容加金旁）基２３日电唁美国前总统理查德·尼克松逝世。电文全文如下：</P>
+    <P Function="Situation" ID="2" ParagraphTopic="尼克松先生是一位具有远见卓识的政治家，为两国关系的改善和发展做出了重要贡献，赢得了中国人民的尊敬。对他的不幸逝世，我谨表示深切哀悼，并向尼克松先生的家属致以诚挚的慰问。">尼克松先生是一位具有远见卓识的政治家，生前一直关心中美关系，先后曾七次访华，为两国关系的改善和发展做出了重要贡献，赢得了中国人民的尊敬。对他的不幸逝世，我谨表示深切哀悼，并向尼克松先生的家属致以诚挚的慰问。（完）</P>
+  </TEXT>
+</DOC>

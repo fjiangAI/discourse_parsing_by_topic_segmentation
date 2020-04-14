@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社波恩４月２３日电" DiscourseTopic="德外长欢迎北约对塞族的最后通牒">
+    <LEAD>德国外长欢迎北约对波黑塞族发出的最后通牒。他同时也要求举行新的谈判以结束波黑内战。</LEAD>
+    <ABSTRACT>德国外长欢迎北约对波黑塞族发出的最后通牒。他同时也要求举行新的谈判以结束波黑内战。北约的决定是“正确的和必要的”。但作为军事措施的辅助手段，重开谈判同样是必要的。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="德国外长欢迎北约对波黑塞族发出的最后通牒。他同时也要求举行新的谈判以结束波黑内战。">德国外长金克尔２３日说，他欢迎北约对波黑塞族发出的最后通牒。他同时也要求举行新的谈判以结束波黑内战。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="北约的决定是“正确的和必要的”。但作为军事措施的辅助手段，重开谈判同样是必要的。">金克尔说，北约的决定是“正确的和必要的”。但作为军事措施的辅助手段，重开谈判同样是必要的。他要求联合国、欧洲联盟、美国和俄罗斯共同提出新的倡议，以使波黑交战各方回到谈判桌旁。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="北约要求波黑塞族武装撤离戈拉日代市中心，并保证联合国的人道主义援助畅通无阻，否则北约将对塞族武装实行空中打击。">北约１６国２２日要求波黑塞族武装在格林尼治时间４月２４日零点之前撤离戈拉日代市中心３公里之外，并保证联合国的人道主义援助畅通无阻，否则北约将对塞族武装实行空中打击。（完）</P>
+  </TEXT>
+</DOC>

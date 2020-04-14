@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社墨西哥城１２月２９日电（记者李强）危地马拉城消息：" DiscourseTopic="门楚决定应邀出席哥和谈">
+    <LEAD>戈韦塔•门楚已接受哥伦比亚游击队“革命武装力量”的邀请作为“荣誉证人”出席该组织与哥政府定于明年１月７日举行的和谈。</LEAD>
+    <ABSTRACT>戈韦塔•门楚已接受哥伦比亚游击队“革命武装力量”的邀请作为“荣誉证人”出席该组织与哥政府定于明年１月７日举行的和谈。她接受邀请的原因就是因为这次和谈极为重要、意义深远，它将“为哥伦比亚人民长期以来一直渴望的和平创造新的更大的机会”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="戈韦塔•门楚已接受哥伦比亚游击队“革命武装力量”的邀请作为“荣誉证人”出席该组织与哥政府定于明年１月７日举行的和谈。">１９９２年诺贝尔和平奖获得主、危地马拉土著人活动家里戈韦塔·门楚今天在危地马拉首都危地马拉城正式宣布，她已接受哥伦比亚游击队“革命武装力量”的邀请作为“荣誉证人”出席该组织与哥政府定于明年１月７日举行的和谈。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="她接受邀请的原因就是因为这次和谈极为重要、意义深远，它将“为哥伦比亚人民长期以来一直渴望的和平创造新的更大的机会”。">这位诺贝尔和平奖获得者解释说，近十年来，她“特别关注”有关哥武装冲突双方的接近和对话的各种创议。她接受邀请的原因就是因为这次和谈极为重要、意义深远，它将“为哥伦比亚人民长期以来一直渴望的和平创造新的更大的机会”。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="选择危地马拉政府同该国游击队“全国革命联盟”签署永久和平协议两周年之际宣布此事表明，她“将为（拉美）人民的和平事业尽更大的努力”。">门楚表示，选择危地马拉政府同该国游击队“全国革命联盟”签署永久和平协议两周年之际宣布此事表明，她“将为（拉美）人民的和平事业尽更大的努力”。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月十七日电（记者钱彤）" DiscourseTopic="中国利用世界银行贷款建设铁路通讯网络">
+    <LEAD>中国铁道部将利用世界银行铁路项目贷款建设铁路专用通讯网络。</LEAD>
+    <ABSTRACT>中国铁道部将利用世界银行铁路项目贷款建设铁路专用通讯网络。中仪国际招标公司将与中国电气进出口联营公司一同为铁道部提供总量为二十二万线的程控交换机设备，合同金额近二千万美元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国铁道部将利用世界银行铁路项目贷款建设铁路专用通讯网络。">中国铁道部将利用世界银行铁路项目贷款建设联通全国的铁路专用通讯网络。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中仪国际招标公司将与中国电气进出口联营公司一同为铁道部提供总量为二十二万线的程控交换机设备，合同金额近二千万美元。">中仪国际招标公司经过激烈竞争中标，将与中国电气进出口联营公司一同为铁道部提供总量为二十二万线的程控交换机设备，合同金额近二千万美元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="此次网络建设是全国铁路枢纽通讯改造工程的一部分。">铁道部人士介绍，此次网络建设是全国铁路枢纽通讯改造工程的一部分。建成投入使用后，将有利于包括港澳地区在内的中国各地乘客和货主通过该网查询铁路运行情况，提前预订客票或货位，以及跟踪货物发、到站位置。</P>
+    <P Function="Background" ID="4" ParagraphTopic="近年来，中国在基本建设方面，开始利用国际金融组织的贷款进行国际性竞争性招标采购。">近年来，中国在基本建设方面，开始利用国际金融组织的贷款进行国际性竞争性招标采购。此次采购即遵循国际惯例进行，最终确定中国电气进出口联营公司代理的上海贝尔生产的程控交换机产品中标。这也是中国国内生产的程控交换机产品赢得的重要订单之一。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="合同各方已于昨日在北京钓鱼台国宾馆举行了签字仪式。全部设备将于今年年内生产、安装完毕。">据悉，合同各方已于昨日在北京钓鱼台国宾馆举行了签字仪式。全部设备将于今年年内生产、安装完毕。（完）</P>
+  </TEXT>
+</DOC>

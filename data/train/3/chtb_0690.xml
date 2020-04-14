@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电" DiscourseTopic="中国将对职业中介机构进行清理整顿">
+    <LEAD>劳动和社会保障部将在近期集中力量对中国劳动力市场的职业中介机构进行清理整顿。</LEAD>
+    <ABSTRACT>劳动和社会保障部将在近期集中力量对中国劳动力市场的职业中介机构进行清理整顿。这次清理整顿的重点是各种非法职业中介机构及各种非法职业中介行为。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="劳动和社会保障部将在近期集中力量对中国劳动力市场的职业中介机构进行清理整顿。">针对一些职业中介服务机构存在的乘劳动力市场中下岗职工、失业人员、进城务工劳动力较多，求职心切之机违法违规经营行为，劳动和社会保障部将在近期集中力量对中国劳动力市场的职业中介机构进行清理整顿。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这次清理整顿的重点是各种非法职业中介机构及各种非法职业中介行为。">据介绍，这次清理整顿的重点是各种非法职业中介机构及各种非法职业中介行为。清理整顿工作将由各省、自治区、直辖市劳动保障部门组织实施，具体工作由就业管理机构和劳动保障监察机构共同开展。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="劳动和社会保障部明确要求，各地清理整顿工作必须在明年三月底前完成。">劳动和社会保障部明确要求，各地清理整顿工作必须在明年三月底前完成。（完）</P>
+  </TEXT>
+</DOC>

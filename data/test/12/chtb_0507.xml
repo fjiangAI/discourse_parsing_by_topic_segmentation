@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="土地基金增强特区财政储备">
+    <LEAD>土地基金资产移交香港特别行政区政府后，特区的财政储备已增至约三千五百亿港元。</LEAD>
+    <ABSTRACT>土地基金资产移交香港特别行政区政府后，特区的财政储备已增至约三千五百亿港元。在特区成立庆典上，中央人民政府把土地基金资产移交特区政府的手续获得正式确认。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|5" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...10|11...12" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="7|6" Function="Background" ID="4" Layer="3" ParagraphPosition="7...8|9...10" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="7" Layer="4" ParagraphPosition="7...7|8...8" ParentId="4" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="9...9|10...10" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="8" Layer="4" ParagraphPosition="4...4|5...5|6...6" ParentId="3" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...10" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="9|8" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...6" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="5" Layer="2" ParagraphPosition="11...11|12...12" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="10" Function="Summary" ID="9" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="10" Layer="5" ParagraphPosition="1...1|2...2" ParentId="9" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="土地基金资产移交香港特别行政区政府后，特区的财政储备已增至约三千五百亿港元。">总额约一千七百亿港元的土地基金资产今日（星期二）移交香港特别行政区政府後，特区的财政储备已增至约三千五百亿港元。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="外汇基金和土地基金的资产总值约达七千一百七十六亿港元。">连此在内，外汇基金和土地基金的资产总值约达七千一百七十六亿港元，其中超过八百一十亿美元（六千三百一十八亿港元）是外币资产，是世界上最庞大的外汇资产之一。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在特区成立庆典上，中央人民政府把土地基金资产移交特区政府的手续获得正式确认。">在今日早上於香港会议展览中心扩建部分举行的特区成立庆典上，中央人民政府把土地基金资产移交特区政府的手续获得正式确认。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="土地基金现将由特区政府自行管理，并成为特区财政储备的一部分。">土地基金现将由特区政府自行管理，并成为特区财政储备的一部分。特区行政长官董建华委任财政司司长曾荫权为接收基金的公职人员。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="土地基金将独立于与外汇基金之外，由香港金融管理局在财政司司长的指导下运作。">土地基金将独立於与外汇基金之外，由香港金融管理局在财政司司长的指导下运作。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="财政司司长将成立一个谘询委员会，就土地基金的管理及投资策略向他提供意见。">财政司司长将成立一个谘询委员会，就土地基金的管理及投资策略向他提供意见。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="土地基金于一九八六年根据中英联合声明的规定成立。">土地基金於一九八六年根据中英联合声明的规定成立，订明由联合声明於一九八五年五月二十七日生效当天起至一九九七年六月三十日止，香港政府的卖地收益，在扣除开发土地的成本後，与日後的特区政府均分。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="中英土地委员会中方代表办事处在一九八六年八月十三日正式成立土地基金。">中英土地委员会中方代表办事处在徵得土委会英方同意後，在一九八六年八月十三日正式成立「香港特别行政区土地基金」（土地基金）。</P>
+    <P Function="Sub-Summary" ID="9" ParagraphTopic="并公布《香港特别行政区政府土地基金信托声明书》作为土地基金的管理及移交特区政府的法律依据。">同时，并公布《香港特别行政区政府土地基金信托声明书》（简称《信托声明书》），作为土地基金的管理及移交特区政府的法律依据。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="《信托声明书》规定中英土地委员会的三名中方代表，获中华人民共和国政府授权，以受托的方式，为特区政府管理这项基金，并保存其价值。">《信托声明书》规定中英土地委员会的三名中方代表，获中华人民共和国政府授权，以受托的方式，为特区政府管理这项基金，并保存其价值。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="土地基金成立十一年以来能确保各项投资业务的安全及正常运作，并取得可观的回报。">土地基金成立十一年以来，虽经历过市场的波动，但仍能确保各项投资业务的安全及正常运作，并取得可观的回报。</P>
+    <P Function="Situation" ID="12" ParagraphTopic="土地基金在成立时的资产净值为七亿七千二百万港元，中央政府今日将土地基金移交特区政府后，其资产净值将超过一千七百亿港元。">土地基金在成立时的资产净值为七亿七千二百万港元，中央政府今日将土地基金移交特区政府後，其资产净值将超过一千七百亿港元，其中包括四百亿港元累积盈利。</P>
+  </TEXT>
+</DOC>

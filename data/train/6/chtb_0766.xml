@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月３０日电" DiscourseTopic="约旦和利比亚反对美国轰炸伊拉克北部">
+    <LEAD>约旦和利比亚２９日分别发表声明，反对美国飞机最近在伊拉克北部“禁飞区”对伊阵地进行轰炸，要求美国放弃武力解决问题的政策。</LEAD>
+    <ABSTRACT>约旦和利比亚２９日分别发表声明，反对美国飞机最近在伊拉克北部“禁飞区”对伊阵地进行轰炸，要求美国放弃武力解决问题的政策。约旦政府严重关注伊拉克北部事态的发展，并要求美军立即停止对伊北部地区的“侵犯”。利支持伊防空部队反击美国飞机入侵的行动。利比亚外交部发言人称赞伊拉克的这一决定是维护国家尊严、领土及主权完整的正确决定。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...3|4...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="约旦和利比亚２９日分别发表声明，反对美国飞机最近在伊拉克北部“禁飞区”对伊阵地进行轰炸，要求美国放弃武力解决问题的政策。">综合本社驻安曼和突尼斯记者报道：约旦和利比亚２９日分别发表声明，反对美国飞机最近在伊拉克北部“禁飞区”对伊阵地进行轰炸，要求美国放弃武力解决问题的政策。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="约旦政府严重关注伊拉克北部事态的发展，并要求美军立即停止对伊北部地区的“侵犯”。">约旦新闻大臣纳赛尔·居德当天下午在内阁会议后发表声明说，约旦政府严重关注伊拉克北部事态的发展，并要求美军立即停止对伊北部地区的“侵犯”，以免事态进一步恶化。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="声明呼吁美国放弃武力解决问题的政策，根据国际法通过外交途径解决问题，并要求尽快解除对伊已实施８年之久的国际制裁。">这是约旦官方首次对美国飞机２８日轰炸伊拉克北部防空阵地作出反应。声明指出，美军再次袭击伊拉克北部是局势恶化的先兆，约旦不希望看到局势再次恶化到两周前美英对伊发动空中打击的地步。声明呼吁美国放弃武力解决问题的政策，根据国际法通过外交途径解决问题，并要求尽快解除对伊已实施８年之久的国际制裁，以减轻伊拉克人民正在遭受的巨大痛苦。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="利支持伊防空部队反击美国飞机入侵的行动。">利比亚对外联络和国际合作总人民委员会（外交部）在声明中表示，利支持伊防空部队反击美国飞机入侵的行动。声明说，美在伊北部设立禁飞区并多次入侵伊领空，其目的是为了分裂和控制伊拉克。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="利比亚外交部发言人称赞伊拉克的这一决定是维护国家尊严、领土及主权完整的正确决定。">利比亚外交部发言人同一天还就伊拒绝联合国特委会重返伊进行武器核查发表谈话，称赞伊拉克的这一决定是维护国家尊严、领土及主权完整的正确决定。</P>
+    <P Function="Background" ID="6" ParagraphTopic="美国战斗机２８日在伊北部“禁飞区”向伊地面目标发动了攻击，伊防空部队进行了还击。">据报道，美国战斗机２８日在伊北部“禁飞区”向伊地面目标发动了攻击，造成４名伊士兵死亡、７人受伤。伊防空部队进行了还击。（完）</P>
+  </TEXT>
+</DOC>

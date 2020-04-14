@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南昌十二月七日电（记者蒋秋生、李平、刘义）" DiscourseTopic="中国鼓励民营企业家投资国家基础建设">
+    <LEAD>九江民生集团总裁王翔大量投资国家基础建设取得成效，利国利民利己。</LEAD>
+    <ABSTRACT>九江民生集团总裁王翔大量投资国家基础建设，参与了九江火车站站场、防洪工程、九龙街、大千世界游乐园的建设，利国利民利己。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...7" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...6" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...5|6...6" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="6" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="九江民生集团近几年大量投资国家基础建设取得成效。">地处世界名山庐山脚下的九江民生集团有限公司，是跻身中国五百家最大私营企业。身兼全国政协委员、江西省政协常委、集团公司总裁等多职的王翔，在谈到近几年大量投资国家基础建设取得成效时，实实在在地告诉记者：“立足内地，为当地经济发展‘修桥铺路’，是我明智的选择。”</P>
+    <P Function="Background" ID="2" ParagraphTopic="王翔和民生集团介绍。">王翔虽年过半百，但其充沛的精力和敏捷的思维，给人以一个挑战者的印象。民生集团近两年为改善九江基础设施所做的贡献，在九江无人不晓。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="王翔参与九江火车站站场的建设。">九江是江西的北大门，是沿长江开放开发的重点城市之一。王翔投巨资一点二七亿元人民币参与了九江火车站站场的建设。江泽民主席在九江视察时说：“九江地处京九中段，地理位置很好，九江前途无量。”并亲笔为九江站题写了站名。</P>
+    <P Function="Cause" ID="4" ParagraphTopic="每年汛期给九江造成影响。">九江是连接长江南北的要道。但每年的汛期给当地经济建设和老百姓的生活都造成了一定的影响，特别是九江市的龙开河下游段处在市区的中轴线位置上，其水流穿城区注入长江，所以一到汛期，上涨的长江水倒灌，使龙开河下游段成了历年紧张抗洪的战场。为此，省政府将“龙开河治理开发工程”纳入了省重点防洪工程。</P>
+    <P Function="Result" ID="5" ParagraphTopic="王翔全力投资兴建防洪工程。">王翔得知后立即请专家论证。他说，这是一项施泽后世的工程，也是政府最急切要办的事，我有责任尽一份力。王翔举全力投资一点二亿元人民币兴建防洪工程。在今年的防汛中这项工程显示出了巨大的威力。</P>
+    <P Function="Story-Situation" ID="6" ParagraphTopic="王翔投资九龙街、大千世界游乐园的建设。">目前，王翔又开始了九龙街的建设。与此同时，为改善九江的投资环境，王翔决定投资数亿元在九江市区开发建设与世界名山庐山相呼应的“大千世界游乐园”。</P>
+    <P Function="Comment" ID="7" ParagraphTopic="王翔投资国家基础设施建设，利国利民利己。">王翔投资国家基础设施建设，利国利民利己。当地政府为鼓励投资者，已将王翔投资建设的九江火车站站场和填平后的龙开河部分地带交给王翔治理开发。有人预言，随着九江的进一步开放开发，王翔将从政府划给他的土地中获得可观的利润。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="民生集团的介绍。">王翔创业的民生集团，是江西省最早成立的由台属、侨属等集资兴办的集体企业，到今天已经历了十一个春秋，下属二十二个子公司。不断壮大的企业规模，已从流通领域拓展到生产领域、高新技术、房地产、建筑及投资建设大型基础设施等多行业多领域。（完）</P>
+  </TEXT>
+</DOC>

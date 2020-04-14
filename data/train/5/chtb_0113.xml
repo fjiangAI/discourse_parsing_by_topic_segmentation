@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京一月十四日电（记者鹿永建）" DiscourseTopic="中国吸引外资进入调整期">
+    <LEAD>经过前几年的高速发展之后，中国吸引外资进入调整期。</LEAD>
+    <ABSTRACT>经过前几年的高速发展之后，中国吸引外资进入调整期。过去五年是外商投资增长最快的五年，外商投资已进入中国国民经济的大部分领域。一九九四年、一九九五年起，中国新批外商投资项目数和合同金额持续下降。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="经过前几年的高速发展之后，中国吸引外资进入调整期。">来自外经贸部的消息说，经过前几年的高速发展之后，中国吸引外资已进入了一个调整期。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="一九九七年一至十一月份，中国新批外商投资项目数和合同金额、单个项目的平均外资金额、工业项目占新批项目数的比例下降。">统计数字表明，一九九七年一至十一月份，中国新批外商投资项目数和合同金额比上年同期分别下降百分之十五点三九和百分之三十三点五二，单个项目的平均外资金额同比下降了百分之二十一点三三，工业项目占新批项目数的比例也下降了五点四个百分点。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="过去五年是外商投资增长最快的五年，外商投资已进入中国国民经济的大部分领域。">改革开放以来，中国把吸引外资作为对外开放基本国策的重要方面加以推进，过去五年是外商投资增长最快的五年，外商投资已进入中国国民经济的大部分领域。中国实际利用外资金额连年增加，一九九七年创造了历史最高水平，并出现了一批技术和资金特别密集的项目。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="一九九四年、一九九五年起，中国新批外商投资项目数和合同金额持续下降。">另一方面，自一九九四年、一九九五年起，中国新批外商投资项目数和合同金额持续下降，这将直接影响今后一个时间内中国吸引外资的增长速度。有关专家指出，经过前几年的高速发展之后，中国吸引外资速度有所放慢是正常的。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="对于外商投资高新技产业和基础设施等领域的项目，国家将实行税收优惠政策。">不过，今年初有关方面已宣布，对于外商投资于中国鼓励的高新技产业和基础设施等领域的项目，国家将实行一些税收优惠政策。据预测，这些政策将吸引更多的外商来华投资。（完）</P>
+  </TEXT>
+</DOC>

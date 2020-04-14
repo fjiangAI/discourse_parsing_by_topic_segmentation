@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社合肥十二月二十八日电（记者偶正涛）" DiscourseTopic="安徽定远因交通事故引发爆炸造成十八人死亡">
+    <LEAD>安徽省合肥至蚌埠公路二十六日下午因交通事故引发了重大爆炸，造成重大伤亡。</LEAD>
+    <ABSTRACT>安徽省合肥至蚌埠公路二十六日下午因交通事故引发了重大爆炸，造成重大伤亡。二十六日下午三时，一辆由巢湖至蚌埠的中巴车自北向南行驶，在距合肥约六十五公里的定远县连江镇中心村，与一辆双排座客货两用车相撞。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="安徽省合肥至蚌埠公路二十六日下午因交通事故引发了重大爆炸，造成重大伤亡。">安徽省合肥至蚌埠公路二十六日下午因交通事故引发了重大爆炸，造成重大伤亡。到目前为止，已死亡十八人，六十三名受伤者仍在医院治疗。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="二十六日下午三时，一辆由巢湖至蚌埠的中巴车自北向南行驶，在距合肥约六十五公里的定远县连江镇中心村，与一辆双排座客货两用车相撞。">二十六日下午三时，一辆由巢湖至蚌埠的中巴车自北向南行驶，在距合肥约六十五公里的定远县连江镇中心村，与一辆双排座客货两用车相撞。中巴车上共有九名乘客。撞车后乘客的呼救声引来数百名村民和过路者抢救和围观。当时两车均起火，救援人员用水将已变形的客车火浇灭，集中力量抢救伤员。约十分钟后，货车火势控制不住，有数十人一齐上前准备将客车推离货车。这时货车上爬下一名重伤者，说车厢里有危险品。人们正在逃离时突然发生爆炸，当场炸死十七人，伤近百人，有一名重伤者在医院死亡。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="事后获知，货车里装有六万支雷管和四万米导火索。">事后获知，货车里装有六万支雷管和四万米导火索。见义勇为被炸伤仍在医院接受治疗的王振年等人告诉记者，交通事故发生后主动救助的人很多，人们看到货车上堆着纸箱，但上面没有写明是什么东西。若不是货车上那位重伤者爬出来告诉救援人员，伤亡将会更为惨重。（完）</P>
+  </TEXT>
+</DOC>

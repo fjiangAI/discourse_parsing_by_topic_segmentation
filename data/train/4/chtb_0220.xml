@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社马德里８月３１日电（记者胡泰然）" DiscourseTopic="西班牙一些团体谴责美国封锁古巴">
+    <LEAD>西班牙左翼联盟和其他３６个群众团体发表联合公报谴责美国为了强化对古巴的封锁所采取的各种措施。</LEAD>
+    <ABSTRACT>西班牙左翼联盟和其他３６个群众团体发表联合公报谴责美国为了强化对古巴的封锁所采取的各种措施。美国政府“采取这些措施的目的是要在（古巴）国内制造紧张气氛，进而加剧民众对立，为外国干涉和军事占领这个岛国提供借口”。美国的做法是对古巴政府施加压力，企图破坏和推迟古巴恢复经济的进程。公报要求美国尊重古巴的领土完整，把关塔那摩军事基地还给古巴，并立即停止封锁。它还要求古美两国进行“全面的谈判”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="西班牙左翼联盟和其他３６个群众团体发表联合公报谴责美国为了强化对古巴的封锁所采取的各种措施。">西班牙左翼联盟和其他３６个群众团体８月３１日发表联合公报，强烈谴责美国为了强化对古巴的封锁所采取的各种措施。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="美国政府“采取这些措施的目的是要在（古巴）国内制造紧张气氛，进而加剧民众对立，为外国干涉和军事占领这个岛国提供借口”。">公报指出，美国政府“采取这些措施的目的是要在（古巴）国内制造紧张气氛，进而加剧民众对立，为外国干涉和军事占领这个岛国提供借口”。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="美国的做法是对古巴政府施加压力，企图破坏和推迟古巴恢复经济的进程。">公报认为，诸如禁止旅居美国的古巴侨民向国内家属汇款和邮寄物品、把在公海上拦截的古巴偷渡者送到关塔那摩海军基地等做法，是对古巴政府施加压力，企图破坏和推迟古巴恢复经济的进程。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="公报要求美国尊重古巴的领土完整，把关塔那摩军事基地还给古巴，并立即停止封锁。它还要求古美两国进行“全面的谈判”。">公报还指出，美国在关塔那摩设立“难民营”违反了关于使用军事基地的国际协议。公报要求美国尊重古巴的领土完整，把关塔那摩军事基地还给古巴，并立即停止封锁。它还要求古美两国进行“全面的谈判”。（完）</P>
+  </TEXT>
+</DOC>

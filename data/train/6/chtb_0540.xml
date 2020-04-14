@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="十月一日为法定假日">
+    <LEAD>十月一日国庆日将为本年度新增的法定假日。根据《雇佣条例》，雇主必须在法定假日给予雇员一天假期。</LEAD>
+    <ABSTRACT>十月一日国庆日将为本年度新增的法定假日。根据《雇佣条例》，雇主必须在法定假日给予雇员一天假期。根据《雇佣条例》，所有雇员，不论入息多少，均有权享有法定假日。按连续性雇佣合约受雇的雇员，在任何法定假日之前，如已连续为雇主工作三个月或以上，便可享有该假日的工资。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="十月一日国庆日将为本年度新增的法定假日。根据《雇佣条例》，雇主必须在法定假日给予雇员一天假期。">十月一日国庆日将为本年度新增的法定假日。根据《雇佣条例》，雇主必须在法定假日给予雇员一天假期。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="有关将十月一日列为新增法定假日已於七月一日在香港特别行政区政府宪报刊登。">有关将十月一日列为新增法定假日已於七月一日在香港特别行政区政府宪报刊登。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="根据《雇佣条例》，所有雇员，不论入息多少，均有权享有法定假日。">劳工处发言人今日（星期一）说：「根据《雇佣条例》，所有雇员，不论入息多少，均有权享有法定假日。」</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="按连续性雇佣合约受雇的雇员，在任何法定假日之前，如已连续为雇主工作三个月或以上，便可享有该假日的工资。">「按连续性雇佣合约受雇的雇员，在任何法定假日之前，如已连续为雇主工作三个月或以上，便可享有该假日的工资。」</P>
+    <P Function="Situation" ID="5" ParagraphTopic="假日工资应相等於雇员在一个完整工作日的收入，并包括底薪及以现金支付的津贴。">假日工资应相等於雇员在一个完整工作日的收入，并包括底薪及以现金支付的津贴，如生活、膳食、交通及勤工津贴、勤工奖、佣金以及超时工作工资。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="未能遵守法定假日条款的雇主，可被判最高罚款五万元。">未能遵守法定假日条款的雇主，可被判最高罚款五万元。</P>
+  </TEXT>
+</DOC>

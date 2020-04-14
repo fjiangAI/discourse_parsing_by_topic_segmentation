@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社呼和浩特三月二日电（记者何涛）" DiscourseTopic="内蒙古呼伦贝尔盟加大开放力度">
+    <LEAD>内蒙古呼伦贝尔盟采取一系列措施，改善投资环境，加快对外开放。</LEAD>
+    <ABSTRACT>内蒙古呼伦贝尔盟采取一系列措施加快对外开放，包括：出台新政策、改善收费乱象、提高办事效率、推进基础建设。投资环境的改善吸引了国内外资金、经验、技术，呼盟易货贸易、出口创汇、经济技术合作增长迅速。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|4" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...8" ParentId="-1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|5" Function="Cause" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Result" ID="4" Layer="2" ParagraphPosition="6...6|7...7|8...8" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="内蒙古呼伦贝尔盟加快对外开放。">最近一个时期，地处中国沿边开放前沿的内蒙古呼伦贝尔盟采取一系列措施，大力改善投资环境，加快对外开放步伐。</P>
+    <P Function="Background" ID="2" ParagraphTopic="呼伦贝尔盟情况介绍。">呼伦贝尔盟位于中国北疆边陲，与俄罗斯、蒙古接壤。在境内长达一千六百多公里的边境线上，分布着国家一、二类口岸九个。为充分发挥地缘优势，进一步加快对外开放步伐，呼伦贝尔盟自去年下半年开始，认真总结在对外开放方面存在的问题和不足，大力开展了“创造良好开放环境”活动。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="呼伦贝尔盟出台新政策，改善收费乱象。">从去年十月份开始，呼伦贝尔盟出台了新的《对外开放优惠政策》。为制止乱收费、乱罚款和乱设卡，除勒令取消一百四十八项不合理收费外，对集体、个体私营经济实行“缴费明白卡、登记卡”制度。目前，全盟已撤掉各类堵卡站二十多个。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="海拉尔市重点抓了办事效率低的整顿问题。">在海拉尔市，重点抓了办事效率低的整顿问题。三资企业的审批速度已由原来的一个月左右限定在七天以内。盟工商部门对个体私营企业申办营业执照实行一张表格、一张照片、一张身份证、一天办完的工作制度。商检部门将原来七至十天完成的产地检验时间缩短到一至三天。黑山头口岸联检部门将原来要二至三天办完的出入境手续改为一天办完。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="呼伦贝尔盟基础设施建设情况。">迄今，呼伦贝尔盟十三个旗市已全部进入全国电话直拨网，并成为中国最大的电话本地网。海拉尔、满洲里等城市先后建起星级宾馆饭店十余所。去年，海拉尔飞机场扩建成为国际航空港，三０一国道海拉尔至满洲里段建成通车，额尔古纳河航运试航成功，使呼伦贝尔盟形成了铁路、公路、水路和空中立体开放、多口通商的新格局，适应了国内外客商来呼盟观光旅游、洽谈生意的需要。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="投资环境的改善吸引了国内外资金、经验、技术。">投资环境的改善，吸引了国内外大财团、大企业的雄厚资金、先进经验、先进技术接踵而至。加拿大太平矿业有限公司投资二千九百七十万元与呼盟一家铅锌银矿联合建立了有限责任公司，瑞士特联投资集团投资二千万美元与宝日希勒煤矿联合建立六十万千瓦的电站，美国环球集团有限公司与满洲里国际贸易公司联合改组了满洲里服装厂。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="呼盟引进国内外投资和先进技术。">据不完全统计，一九九四年以来，呼盟新建三资企业四十二家，累计引进国外资金四千多万美元、国内资金六千多万元，引进国内外先进技术三十多项，与东北、华东、华南、北京等地结成合作对子一百多个。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="呼盟易货贸易、出口创汇、经济技术合作情况。">据了解，去年呼盟易货贸易完成三点五亿美元，比上年现汇贸易成倍增长，出口创汇一千零三十七万美元，是上年的四倍多，经济技术合作完成二千八百三十万美元，是上年的一点五倍。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京一月十六日电（记者袁晔）" DiscourseTopic="中国制药企业将加快新药开发步伐">
+    <LEAD>长期以来以大量生产原料药和仿制外国化学药品为主的中国制药业，将加快对拥有自主知识产权的新药和新技术的开发。</LEAD>
+    <ABSTRACT>长期以来以大量生产原料药和仿制外国化学药品为主的中国制药业，将加快对拥有自主知识产权的新药和新技术的开发。从今年起要逐步增加对创新药物研究的资助。今年国家医药管理局将依据新的标准评价和评出医药工业“五十强”企业。国家要引导外资投向新技术、新产品以及中西部地区的医药项目。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Cause" ID="4" Layer="4" ParagraphPosition="5...6|7...7" ParentId="3" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Result" ID="6" Layer="4" ParagraphPosition="2...2|3...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...7" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...4|5...7" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="5...5|6...6" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="长期以来以大量生产原料药和仿制外国化学药品为主的中国制药业，将加快对拥有自主知识产权的新药和新技术的开发。">长期以来以大量生产原料药和仿制外国化学药品为主的中国制药业，将加快对拥有自主知识产权的新药和新技术的开发。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="从今年起要逐步增加对创新药物研究的资助。">国家医药管理局一位官员说，从今年起要逐步增加对创新药物研究的资助，国有资本要以高技术领域和创新医药产品为投资重点。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="今年国家医药管理局将依据新的标准评价和评出医药工业“五十强”企业。">今年国家医药管理局将依据新的标准评价和评出医药工业“五十强”企业，其年销售收入总和预计占全国医药销售收入的百分之六十以上。与此同时，各企业年销售收入的百分之三到百分之五将被用于新药研究和开发。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="国家要引导外资投向新技术、新产品以及中西部地区的医药项目。">这位官员说，国家同时也要引导外资投向新技术、新产品以及中西部地区的医药项目，以此带动民族医药企业提高产品的技术含量，增强国际市场竞争力。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="中国是仅次于美国的第二大原料药生产和出口国，但科技含量低，产品在国际市场上的售价低于正常价格。">中国现有医药企业约三千五百家，每年生产一千三百五十种原料药和四千种中草药，是仅次于美国的第二大原料药生产和出口国。但由于科技含量低，产品在国际市场上的售价低于正常价格的百分之二十至三十，每年仅能换回十多亿美元的外汇。而一九九六年，中国仅进口药物制剂就耗资超过十一亿美元。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="目前中国专职从事创新药物研究的人员不足三千人。">目前中国专职从事创新药物研究的人员不足三千人，仅相当于美国默克药厂研究部的在编人员。</P>
+    <P Function="Comment" ID="7" ParagraphTopic="中国医药业应改变重原料药生产、轻制剂开发的做法。">专家呼吁中国医药业应改变重原料药生产、轻制剂开发的做法，尽快赶上世界制药业的发展潮流。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="由国家科委、卫生部、国家医药管理局等部门联合推行的国家新药与产业化开发项目正在实施中。">据悉，由国家科委、卫生部、国家医药管理局等部门联合推行的国家新药与产业化开发项目正在实施中，计划到本世纪末，开发出十个专利保护新药，建立五个新药筛选中心、五个药物安全性评价中心和五个药物临床实验中心。（完）</P>
+  </TEXT>
+</DOC>

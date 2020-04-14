@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="行政长官向终审法院首席法官申报利益">
+    <LEAD>香港特别行政区行政长官董建华已于七月一日向终审法院首席法官李国能申报了利益，记录在案。</LEAD>
+    <ABSTRACT>香港特别行政区行政长官董建华已于七月一日向终审法院首席法官李国能申报了利益，记录在案。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="香港特别行政区行政长官董建华已于七月一日向终审法院首席法官李国能申报了利益，记录在案。">香港特别行政区行政长官董建华已於七月一日向终审法院首席法官李国能申报了利益，记录在案。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="董建华的申报是要履行《基本法》第四十七条的规定。">董建华的申报是要履行《基本法》第四十七条的规定。《基本法》第四十七条规定，行政长官就任时应向终审法院首席法官申报财产。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="董建华曾在今年四月与香港特别行政区行政会议成员申报利益，并公开了有关资料。">董建华曾在今年四月与香港特别行政区行政会议成员申报利益，并公开了有关资料。</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月二十三日电" DiscourseTopic="中国外交部发言人就尼克松逝世表示哀悼">
+    <LEAD>中国外交部发言人今天就美国前总统尼克松二十二日晚病逝表示哀悼。</LEAD>
+    <ABSTRACT>中国外交部发言人今天就美国前总统尼克松二十二日晚病逝表示哀悼。美国前总统尼克松先生患病期间，中国领导人曾通过中国驻美大使转达慰问。对他的逝世，我们深表哀悼。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国外交部发言人今天就美国前总统尼克松二十二日晚病逝表示哀悼。">中国外交部发言人今天就美国前总统尼克松二十二日晚病逝表示哀悼。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="美国前总统尼克松先生患病期间，中国领导人曾通过中国驻美大使转达慰问。对他的逝世，我们深表哀悼。">这位发言人在回答记者提问时说，美国前总统尼克松先生患病期间，中国领导人曾通过中国驻美大使转达慰问。对他的逝世，我们深表哀悼。中国国家主要领导人已发唁电致悼。（完）</P>
+  </TEXT>
+</DOC>

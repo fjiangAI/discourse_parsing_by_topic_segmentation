@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京八月三十一日电" DiscourseTopic="中国一中医专家研制出治肝新药">
+    <LEAD>哈尔滨市中龙肝病医药研究所所长研制出纯中药制剂——治肝胶囊。</LEAD>
+    <ABSTRACT>哈尔滨市中龙肝病医药研究所所长研制出纯中药制剂——治肝胶囊。焦柏忠与他的研究所在反复试验中终于研制出“治肝胶囊”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="哈尔滨市中龙肝病医药研究所所长研制出纯中药制剂——治肝胶囊。">哈尔滨市中龙肝病医药研究所所长焦柏忠潜心十数载研制出纯中药制剂——治肝胶囊，为万余名患者解除了痛苦。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="焦柏忠与他的研究所在反复试验中终于研制出“治肝胶囊”。">肝病系病毒感染，目前采用的保肝疗法普遍不理想，而昂贵的干扰素大多数患者难以承受。针对医疗界这一现实，近年来，焦柏忠与他的研究所决定从中医药宝库中寻求科学良方。经过多年探索，在反复试验中终于研制出“治肝胶囊”。临床验证表明，这种药对各种肝病均有较好的疗效。目前这种药已批量生产，并大范围用于临床。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="“治肝胶囊”获黑龙江省中医药管理局科技成果奖，在马来西亚国际新技术、新产品展览会上获特等奖，在全国第三届医疗保健品博览会上获得金奖。">据悉，“治肝胶囊”在一九九二年获黑龙江省中医药管理局科技成果奖后，还曾在马来西亚国际新技术、新产品展览会上获特等奖，今年五月，在全国第三届医疗保健品博览会上获得金奖。（完）</P>
+  </TEXT>
+</DOC>

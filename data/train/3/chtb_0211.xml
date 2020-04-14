@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社马德里８月３１日电（记者胡泰然）" DiscourseTopic="西班牙外交大臣反对美国封锁古巴">
+    <LEAD>西班牙反对美国封锁古巴，也不赞成干涉海地。</LEAD>
+    <ABSTRACT>西班牙反对美国封锁古巴，也不赞成干涉海地。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="西班牙反对美国封锁古巴，也不赞成干涉海地。">西班牙外交大臣索拉纳８月３１日重申，西班牙反对美国封锁古巴，也不赞成干涉海地。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="西班牙政府愿作必要的努力促使哈瓦那和华盛顿之间对话。">索拉纳同时表示，西班牙政府对古巴“偷渡者的惨境”深为关切，并愿作必要的努力，促使哈瓦那和华盛顿之间对话，寻找解决办法。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="这位大臣是在介绍西班牙接任联合国安理会主席国的工作任务时说这番话的。">这位大臣是在记者招待会上介绍西班牙从９月１日起接任联合国安理会主席国的工作任务时说这番话的。他还宣布，西班牙已经接受联合国的要求，准备在近几天内派出一架运输机和２０名士兵前往卢旺达，直接参与联合国维持和平部队的任务。（完）</P>
+  </TEXT>
+</DOC>

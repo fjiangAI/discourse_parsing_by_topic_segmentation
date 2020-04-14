@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社汉城１２月２８日电（记者朱克川）" DiscourseTopic="韩国企业集团结构调整面临阻碍">
+    <LEAD>韩国政府的大型企业集团产业结构调整计划遇到阻碍。</LEAD>
+    <ABSTRACT>韩国政府的大型企业集团产业结构调整计划遇到阻碍。根据这个方案，现代电子产业和ＬＧ半导体产业合并，并委托美国ＡＤＬ公司在这两家公司中判定一家为经营主体，另一家则需交出经营权。ＬＧ半导体公司认为ＡＤＬ公司的评判不公正，声称要向美国的法院提出诉讼。根据政府的意向，大宇的电子产业和三星的汽车产业互换。由于大宇电子是大宇集团的优良产业，而三星汽车相对还未形成竞争规模，所以大宇财团对让出电子产业很不情愿。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|5" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="韩国政府的大型企业集团产业结构调整计划遇到阻碍。">由于ＬＧ等韩国几家大型企业集团不愿按照原定方案进行产业结构调整，韩国政府的大型企业集团产业结构调整计划遇到阻碍。</P>
+    <P Function="Background" ID="2" ParagraphTopic="韩国政府确定了对五大财团进行产业结构调整的具体方案。">解决大型企业财团的低效率扩张是韩国企业改革中的重要课题之一。韩国政府多次敦促现代、三星、大宇、ＬＧ和鲜京五大财团采取改革措施，并于１２月７日确定了对它们进行产业结构调整的具体方案。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="根据这个方案，现代电子产业和ＬＧ半导体产业合并，并委托美国ＡＤＬ公司在这两家公司中判定一家为经营主体，另一家则需交出经营权。ＬＧ半导体公司认为ＡＤＬ公司的评判不公正，声称要向美国的法院提出诉讼。">根据这个方案，现代电子产业和ＬＧ半导体产业合并，并委托美国ＡＤＬ公司在这两家公司中判定一家为经营主体，另一家则需交出经营权。２４日，现代电子被指定为合并后的新公司的经营主体，ＬＧ半导体公司认为ＡＤＬ公司的评判不公正，声称要向美国的法院提出诉讼。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="根据政府的意向，大宇的电子产业和三星的汽车产业互换。由于大宇电子是大宇集团的优良产业，而三星汽车相对还未形成竞争规模，所以大宇财团对让出电子产业很不情愿。">现代、三星、大宇和ＬＧ都有相当规模的电子或半导体产业，彼此竞争激烈。根据政府的意向，大宇的电子产业和三星的汽车产业互换。现代电子和ＬＧ半导体合并。由于大宇电子是大宇集团的优良产业，百分之九十五的产品销往国外，而三星汽车相对还未形成竞争规模，所以大宇财团对让出电子产业很不情愿。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="韩国政府不准备直接干预企业的改革，但政府对金融部门有监督权。如果大企业不按照政府的政策进行改革，将通过银行推动它们改革。">韩国总统金大中曾经表示，政府不准备直接干预企业的改革，但政府对金融部门有监督权。如果大企业不按照政府的政策进行改革，将通过银行推动它们改革。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="由于ＬＧ半导体拒绝接受评判，它的债权银行已决定停止提供新的贷款。">由于ＬＧ半导体拒绝接受评判，它的债权银行已决定停止提供新的贷款。（完）</P>
+  </TEXT>
+</DOC>

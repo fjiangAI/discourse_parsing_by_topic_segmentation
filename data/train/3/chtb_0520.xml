@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="政府欢迎毛里求斯就特区护照的宣布">
+    <LEAD>政府欢迎毛里求斯政府将给予香港特别行政区护照持有人免签证往毛里求斯的宣布。</LEAD>
+    <ABSTRACT>政府欢迎毛里求斯政府将给予香港特别行政区护照持有人免签证往毛里求斯的宣布。这反映毛里求斯政府对特区护照投以极具信心的一票。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="政府欢迎毛里求斯政府将给予香港特别行政区护照持有人免签证往毛里求斯的宣布。">政府发言人今日（星期四）在回应毛里求斯政府发出的新闻稿时，表示政府欢迎毛里求斯政府将给予香港特别行政区护照持有人免签证往毛里求斯的宣布。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这反映毛里求斯政府对特区护照投以极具信心的一票。">他说：「这反映毛里求斯政府对特区护照投以极具信心的一票，标志着他们对香港能继续成功作出有力及受港人欢迎的承诺。」</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="欢迎毛里求斯国民继续到访香港。">发言人补充，欢迎毛里求斯国民继续到访香港。</P>
+  </TEXT>
+</DOC>

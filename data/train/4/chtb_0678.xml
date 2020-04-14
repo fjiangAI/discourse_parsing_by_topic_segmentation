@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月２８日电" DiscourseTopic="奥地利老将夺得世界杯高山滑雪女子大回转比赛冠军">
+    <LEAD>奥地利雪坛老将阿妮塔·瓦特赫尔伤愈复出，赢得了她１４年高山滑雪生涯中的第十五个世界杯赛冠军。</LEAD>
+    <ABSTRACT>奥地利雪坛老将阿妮塔·瓦特赫尔伤愈复出，赢得了她１４年高山滑雪生涯中的第十五个世界杯赛冠军。这次，她两次滑行以２分７秒９０的总成绩夺得冠军，击败了包括本赛季世界杯积分领先的队友亚历山大·迈斯尼策尔在内的全部对手。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="奥地利雪坛老将阿妮塔·瓦特赫尔伤愈复出，赢得了她１４年高山滑雪生涯中的第十五个世界杯赛冠军。">奥地利雪坛老将阿妮塔·瓦特赫尔伤愈复出，２７日在奥地利举行的世界杯高山滑雪系列赛塞默灵站女子大回转比赛中，出人意料地赢得了她１４年高山滑雪生涯中的第十五个世界杯赛冠军。</P>
+    <P Function="Background" ID="2" ParagraphTopic="阿妮塔·瓦特赫尔因膝部经常受伤，几乎要结束其高山滑雪的生涯。">阿妮塔·瓦特赫尔今年３１岁，因膝部经常受伤，从今年１月起不得不退出世界杯比赛，连日本长野冬奥会也未能参加，几乎要结束其高山滑雪的生涯。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这次，她两次滑行以２分７秒９０的总成绩夺得冠军，击败了包括本赛季世界杯积分领先的队友亚历山大·迈斯尼策尔在内的全部对手。">这次，她两次滑行以２分７秒９０的总成绩夺得冠军，击败了包括本赛季世界杯积分领先的队友亚历山大·迈斯尼策尔在内的全部对手。长野冬奥会这个项目铜牌得主亚历山大·迈斯尼策尔以２分８秒６４的成绩获得亚军，挪威选手安丽娜·弗莱门以２分９秒３３名列第三。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="这是本赛季世界杯女子高山滑雪系列赛的第四次大回转比赛。">这是本赛季世界杯女子高山滑雪系列赛的第四次大回转比赛。其中，安丽娜·弗莱门１０月２４日赢得第一次大回转比赛的冠军，亚历山大·迈斯尼策尔１１月１９日和１２月１１日夺得第二次和第三次大回转比赛的冠军。（完）</P>
+  </TEXT>
+</DOC>

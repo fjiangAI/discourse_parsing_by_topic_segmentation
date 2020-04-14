@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社长沙十二月三十日电（记者张翼飞）" DiscourseTopic="中国柚类产量居世界第一">
+    <LEAD>中国今年将出产九十二万吨柚子，柚类种植面积和产量都居世界第一。</LEAD>
+    <ABSTRACT>中国今年将出产九十二万吨柚子，柚类种植面积和产量都居世界第一。中国自八十年代末开始开发香柚产业以来，改造传统的沙田柚、玉环文旦等名种，良种覆盖率达到百分之七十以上，香柚产业发展很快，形成广西、广东、湖南、浙江等六个大面积栽培区，八年间产量增加了十二倍，超过泰国跃居世界第一。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国今年将出产九十二万吨柚子，柚类种植面积和产量都居世界第一。">中国今年将出产九十二万吨柚子，柚类种植面积和产量都居世界第一，这是最近在湖南江永举行的第五届中国香柚科研协作会上透露的。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国自八十年代末开始开发香柚产业以来，改造传统的沙田柚、玉环文旦等名种，良种覆盖率达到百分之七十以上，香柚产业发展很快，形成广西、广东、湖南、浙江等六个大面积栽培区，八年间产量增加了十二倍，超过泰国跃居世界第一。">据介绍，中国自八十年代末开始开发香柚产业以来，改造传统的沙田柚、玉环文旦等名种，良种覆盖率达到百分之七十以上，香柚产业发展很快，形成广西、广东、湖南、浙江等六个大面积栽培区，八年间产量增加了十二倍，超过泰国跃居世界第一。（完）</P>
+  </TEXT>
+</DOC>

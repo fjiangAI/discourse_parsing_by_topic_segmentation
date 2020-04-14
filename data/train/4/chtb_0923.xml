@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社伦敦１２月２９日电（记者毛磊）" DiscourseTopic="１９９８年年末将增加一个“闰秒”">
+    <LEAD>国际地球自转研究中心已决定在今年１２月３１日的最后一分钟增加一个“闰秒”。</LEAD>
+    <ABSTRACT>国际地球自转研究中心已决定在今年１２月３１日的最后一分钟增加一个“闰秒”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="国际地球自转研究中心已决定在今年１２月３１日的最后一分钟增加一个“闰秒”。">英国广播公司２９日报道说，为平衡地球自转速度变慢给世界时间带来的误差，设在巴黎的国际地球自转研究中心已决定在今年１２月３１日的最后一分钟增加一个“闰秒”。</P>
+    <P Function="Background" ID="2" ParagraphTopic="目前全世界使用的标准时间是地球自转时间和原子钟时间相互结合的产物。">目前全世界使用的标准时间是地球自转时间和原子钟时间相互结合的产物。人类历史上一直以地球绕其轴心自转和绕太阳公转的周期为基准计时，为使全世界计时有标准可循，国际上曾引入以格林尼治本初子午线所在时区为标准的时间。这一以地球自转周期的天文观测为基准的格林尼治时间，又被称为世界时。本世纪５０年代，随着高精度原子钟的出现，一种以原子振荡周期为基准的新原子时系统又应运而生。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="由于地球自转速度并不均匀，世界时误差会不断增大，逐渐与不依赖地球自转的原子时失去同步。">由于地球自转速度并不均匀，世界时误差会不断增大，逐渐与不依赖地球自转的原子时失去同步。为了兼顾格林尼治世界时的方便性和原子时的精确度，有关国际机构于１９７２年引入“协调世界时”这一新的时间系统。根据规定，“协调世界时”与格林尼治世界时之间误差应小于０．９秒，如差值超过此限，将通过在“协调世界时”中增加或减少一个“闰秒”来协调两种时间以使其步调一致。是否增加或减少“闰秒”主要由国际地球自转研究中心决定。引入““闰秒”的时间通常为该年度６月或１２月最后一天的最后一分钟。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="自“闰秒”系统１９７２年实施以来，“协调世界时”已总共增加了２１个“闰秒”。">自“闰秒”系统１９７２年实施以来，“协调世界时”已总共增加了２１个“闰秒”。（完）</P>
+  </TEXT>
+</DOC>

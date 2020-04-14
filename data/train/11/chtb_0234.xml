@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京八月三十一日电（记者倪四义）" DiscourseTopic="全国人大常委会通过《仲裁法》和《审计法》">
+    <LEAD>今天闭幕的八届全国人大常委会第九次会议通过了《仲裁法》和《审计法》。</LEAD>
+    <ABSTRACT>今天闭幕的八届全国人大常委会第九次会议通过了《仲裁法》和《审计法》。《仲裁法》的制定将保证公正、及时地仲裁经济纠纷，保护当事人的合法权益，从而保障社会主义市场经济的健康发展。《审计法》在总则中强调其立法目的是加强国家的审计监督，维护国家财政经济秩序，促进廉政建设，保障国民经济的健康发展。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|6" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...11" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="4" Layer="4" ParagraphPosition="5...5|6...7" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="7" Layer="5" ParagraphPosition="6...6|7...7" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="8" Layer="5" ParagraphPosition="3...3|4...4" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...7" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...4|5...7" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="8" Function="Story" ID="5" Layer="4" ParagraphPosition="2...2|3...4" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="6" Layer="2" ParagraphPosition="8...8|9...9|10...10|11...11" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="今天闭幕的八届全国人大常委会第九次会议通过了《仲裁法》和《审计法》。">今天闭幕的八届全国人大常委会第九次会议通过了《仲裁法》和《审计法》。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="《仲裁法》的制定将保证公正、及时地仲裁经济纠纷，保护当事人的合法权益，从而保障社会主义市场经济的健康发展。">据称，《仲裁法》的制定将保证公正、及时地仲裁经济纠纷，保护当事人的合法权益，从而保障社会主义市场经济的健康发展。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="法律分八章八十条，对仲裁组织机构、仲裁协议的制定与执行、仲裁程序、涉外仲裁等方面的问题作了明确规定。">法律分八章八十条，对仲裁组织机构、仲裁协议的制定与执行、仲裁程序、涉外仲裁等方面的问题作了明确规定。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="该法将于一九九五年九月一日起施行。">该法将于一九九五年九月一日起施行。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="《审计法》在总则中强调其立法目的是加强国家的审计监督，维护国家财政经济秩序，促进廉政建设，保障国民经济的健康发展。">《审计法》在总则中强调其立法目的是加强国家的审计监督，维护国家财政经济秩序，促进廉政建设，保障国民经济的健康发展。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="《审计法》强化了审计机关对政府各级财政收支、预算执行情况的审计监督职能，并赋与了审计机关制止被审计机关的违法行为的权力。">《审计法》强化了审计机关对政府各级财政收支、预算执行情况的审计监督职能，并赋与了审计机关制止被审计机关的违法行为的权力。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="《审计法》分七章五十一条，将于一九九五年一月一日起施行。">《审计法》分七章五十一条，将于一九九五年一月一日起施行。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="会议通过了《关于郑耀棠等三十二名全国人大代表所提议案的决定》。">会议通过了《关于郑耀棠等三十二名全国人大代表所提议案的决定》，从法律上确定了中国在一九九七年七月一日恢复对香港行使主权时，将重组香港特别行政区立法机关和区域组织。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="由乔石委员长主持的会议，通过了批准中国和保加利亚关于民事司法协助的协定和中国与蒙古国友好合作关系条约。">由乔石委员长主持的会议，通过了批准中国和保加利亚关于民事司法协助的协定和中国与蒙古国友好合作关系条约。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="会议还通过了关于选举、补选全国人大代表的代表资格审查报告，补选了三名全国人大代表。罢免了原辽宁省丹东市市长常义的全国人大代表资格。">会议还通过了关于选举、补选全国人大代表的代表资格审查报告，补选了三名全国人大代表。罢免了原辽宁省丹东市市长常义的全国人大代表资格。他在两起汽车走私案中触犯刑律，构成走私罪。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="会议最后通过了一系列任免名单。">会议最后通过了一系列任免名单。（完）</P>
+  </TEXT>
+</DOC>

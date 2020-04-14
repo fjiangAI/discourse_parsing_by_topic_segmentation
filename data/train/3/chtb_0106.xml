@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京一月十三日电" DiscourseTopic="中国批准设立了三十万家外商投资企业">
+    <LEAD>中国批准设立了三十万家外商投资企业。</LEAD>
+    <ABSTRACT>中国批准设立了三十万家外商投资企业。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国批准设立了三十万家外商投资企业。">来自外经贸部的消息说，中国迄今批准设立了三十万家外商投资企业。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="现有企业利用外资进行改造，是中国利用外资主要形式。">现有企业利用外资进行改造，是中国利用外资主要形式。近二十年来。通过举办中外合资、合作企业，带动了十二万多家国有企业、集体企业的技术改造，培养了一大批技术人才和新型经营管理人才，加速了企业经营机制的转换和资产的重组，形成了上海贝尔、上海大众、康佳、TCL等大批现代名牌。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="在这三十万家外商投资企业中，其产权中的国有和集体成分占据了百分之五十七">据了解，在这三十万家外商投资企业中，其产权中的国有和集体成分占据了百分之五十七。这种混合所有制经济中的国有和集体成分，在混合经济的迅速发展中得到了保值和增值。（完）</P>
+  </TEXT>
+</DOC>

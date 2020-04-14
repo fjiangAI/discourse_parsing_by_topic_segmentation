@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电（记者李斌江涛）" DiscourseTopic="全球首次民俗摄影大赛获奖作品展在京开幕">
+    <LEAD>首届中国国际民俗摄影“人类贡献奖”年赛获奖作品展日前在中国历史博物馆开幕。</LEAD>
+    <ABSTRACT>首届中国国际民俗摄影“人类贡献奖”年赛获奖作品展日前在中国历史博物馆开幕。这次展览共展出其中的五百多幅作品，完全采用组照的形式，分为九个专题，配有详细的中英文说明。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="首届中国国际民俗摄影“人类贡献奖”年赛获奖作品展日前在中国历史博物馆开幕。">首届中国国际民俗摄影“人类贡献奖”年赛获奖作品展日前在中国历史博物馆开幕。收录其中五百多幅作品的《人类的记忆》光盘和作品选也同时推出。</P>
+    <P Function="Background" ID="2" ParagraphTopic="中国民俗摄影协会举办中国国际民俗摄影“人类贡献奖”年赛，旨在借助竞赛的形式，记录、保存、研究发掘、濒临消失的各种民俗，促进不同国家、民族间的交流，丰富人类文化宝库。">中国民俗摄影协会举办中国国际民俗摄影“人类贡献奖”年赛，旨在借助竞赛的形式，记录、保存、研究发掘、濒临消失的各种民俗，促进不同国家、民族间的交流，丰富人类文化宝库。年赛计划每两年举行一次。据悉，这次是世界上第一次以民俗文化为主题的摄影大赛，共收到来自世界四十多个国家和地区的一点六万多幅作品，是中国历来参赛范围最广、规格最高、文化内涵最丰富的摄影比赛之一。评选委员共来自荷兰、日本、英国、瑞士、法国等七个国家，也是国内历次摄影比赛中外国评委最多的一次。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这次展览共展出其中的五百多幅作品，完全采用组照的形式，分为九个专题，配有详细的中英文说明。">这次展览共展出其中的五百多幅作品，完全采用组照的形式，分为人物服饰、民居建筑、生活方式、节日文化、饮食文化、宗教文化、人生礼仪、传统体育和民间游艺、综合等九个专题，配有详细的中英文说明。非洲的土著部落、格陵兰岛的因纽特人、客家的土楼、乌江的纤夫、四川的茶馆、彝族的祭火神节日、黄河故道的斗羊、台湾的烧王船、南非塔瓦沙那的传统医师等都有所展示，一组组作品忠实地记录了世界各地独特的民俗景观。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国的焦波由于《俺爹俺娘》组照获得“人类贡献奖”大奖，另有二十七名中外作者分别获得九个专题的一、二、三等奖。">中国的焦波由于《俺爹俺娘》组照获得“人类贡献奖”大奖，另有二十七名中外作者分别获得九个专题的一、二、三等奖。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="联合国教科文组织副总干事丹尼尔为大赛题词：“你们保存了人类的记忆”。">联合国教科文组织副总干事丹尼尔为大赛题词：“你们保存了人类的记忆”。（完）</P>
+  </TEXT>
+</DOC>

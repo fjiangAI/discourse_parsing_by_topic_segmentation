@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社厦门一月十六日电（记者余瑛瑞）" DiscourseTopic="美国一跨国公司将在福建开办三百家连锁超市">
+    <LEAD>厦门福兰普利超市有限公司将根据市场拓展陆续在福建省九地市共开办三百家便民连锁店。</LEAD>
+    <ABSTRACT>厦门福兰普利超市有限公司在厦门市开办二十家示范便民连锁店和一个现代化的配送中心，然后根据市场拓展陆续在福建省九地市共开办三百家便民连锁店。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Illustration" ID="1" ParagraphTopic="美国大型跨国集团必纯士公司占有六成股份的厦门福兰普利超市有限公司正式启动。">取名为“倍顺”的两家便民超市今天在此间开张营业。它标志着美国大型跨国集团必纯士公司占有六成股份的厦门福兰普利超市有限公司正式启动。</P>
+    <P Function="Statement" ID="2" ParagraphTopic="根据协定，该项目总投资额约为二千六百万美元，第一期投资一千万美元，在厦门市开办二十家示范便民连锁店和一个现代化的配送中心，然后根据市场拓展陆续在福建省九地市共开办三百家便民连锁店。">厦门福兰普利超市有限公司是美国必纯士国际实业集团和中国厦门对外供应总公司、菲律宾菲力环球国际公司三方合作的福建省首家零售业中外合资企业。根据协定，该项目总投资额约为二千六百万美元，第一期投资一千万美元，在厦门市开办二十家示范便民连锁店和一个现代化的配送中心，然后根据市场拓展陆续在福建省九地市共开办三百家便民连锁店。这些店一般都在居民密集区，规模大约在四百平方米左右，经营和市民生活密切相关的日用百货、主副食品。</P>
+    <P Function="Background" ID="3" ParagraphTopic="美国必纯士国际实业有限公司是一家大型食品跨国公司，年销售额超过二十一亿美元。">美国必纯士国际实业有限公司是一家大型食品跨国公司，年销售额超过二十一亿美元。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="中国零售业对外开放的步伐是相对谨慎的，美国必纯士国际实业有限公司的在华连锁店发展计划是外资涉足中国零售业的一个较大举动。">中国零售业对外开放的步伐是相对谨慎的，目前只有北京、青岛、大连、广州、深圳、武汉、上海等地先后进行了试点，美国必纯士国际实业有限公司的在华连锁店发展计划是外资涉足中国零售业的一个较大举动。（完）</P>
+  </TEXT>
+</DOC>

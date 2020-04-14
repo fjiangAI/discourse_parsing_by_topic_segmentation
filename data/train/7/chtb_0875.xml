@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社华盛顿１０月２７日电（记者翟景升）" DiscourseTopic="中国经贸代表团访美取得成果">
+    <LEAD>中美双方企业已经签订了一系列合同和协议，总额达４２．６亿美元。</LEAD>
+    <ABSTRACT>中美双方企业已经签订了一系列合同和协议，总额达４２．６亿美元。此次代表团对洛杉矶、纽约和华盛顿地区的访问中已达成商品采购合同与协议总额为２６．６亿美元。此外，中国方面还同美方达成了一些商品采购和合作的意向协议，总价值１６亿美元。此外，中国方面还同美方达成了一些商品采购和合作的意向协议，总价值１６亿美元。这次访问的其它成果。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="3...3|4...4|5...5" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="6...6|7...7" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...5" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Cause" ID="4" Layer="3" ParagraphPosition="2...2|3...5" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="正在美国访问的中国经贸代表团团长曾培炎和代表团副团长孙振宇表示对今后发展中美经贸关系充满信心。">正在美国访问的中国经贸代表团团长、国家计委副主任曾培炎和代表团副团长、外经贸部副部长孙振宇２７日在这里举行新闻发布会，表示对今后发展中美经贸关系充满信心。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="中美双方企业已经签订了一系列合同和协议，总额达４２．６亿美元。">曾培炎说，这是中国经贸代表团第六次访问美国，也是规模最大的一次。中美双方企业已经签订了一系列合同和协议，总额达４２．６亿美元。这不仅显示了中国政府为解决两国贸易存在的问题采取的积极措施，也带来了中国鼓励发展中美贸易新的信息。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="此次代表团对洛杉矶、纽约和华盛顿地区的访问中已达成商品采购合同与协议总额为２６．６亿美元。">此次代表团对洛杉矶、纽约和华盛顿地区的访问中已达成商品采购合同与协议总额为２６．６亿美元，其中包括购买价值１９亿美元的波音客机，以及价值７．６亿美元的化肥、石油、汽车配件和发电机组。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="此外，中国方面还同美方达成了一些商品采购和合作的意向协议，总价值１６亿美元。">此外，中国方面还同美方达成了一些商品采购和合作的意向协议，总价值１６亿美元。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="这次访问的其它成果。">这次访问的其它成果还有，中国同意美国第三大人寿保险公司艾特纳保险公司在上海开展业务活动，中美两国政府就低地球轨道卫星商业发射服务价格问题达成并签订了原则协议，中国国家计委和美国能源部达成了能源和环境合作计划等。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="孙振宇指出，美国对华的实际投入并未减少。">孙振宇在新闻发布会上回答记者提问时指出，虽然美国对华的新投资有所下降，但实际投入并未减少，比如美国石油公司从未减少它们在中国投资的热情，直到代表团出发前还同中方签订了两项大型项目合同。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="他认为，今年美国对华贸易逆差还会进一步扩大。中国方面将同美方合作，推动扩大美国对华出口，也希望美国银行给于对华出口以积极的支持。">他认为，今年美国对华贸易逆差还会进一步扩大。这主要是由于新税收制度影响了部分机械进口，中国粮食丰收减少了从美国的进口等因素。他说，中国政府已经感到了贸易逆差对美国政治的敏感性，采取了一些积极措施，其中包括降低关税和逐步取消非关税壁垒。中国方面将同美方合作，推动扩大美国对华出口，也希望美国银行给于对华出口以积极的支持。（完）</P>
+  </TEXT>
+</DOC>

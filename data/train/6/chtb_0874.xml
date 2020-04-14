@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社济南十月二十八日电（记者温闽通讯员张堂修）" DiscourseTopic="山东日照市成为外商投资热点地区">
+    <LEAD>山东省日照市正逐步成为新的外商投资热点地区。</LEAD>
+    <ABSTRACT>山东省日照市正逐步成为新的外商投资热点地区。截止目前，全市已累计批准外资企业四百四十二家，合同利用外资四点九亿美元，实际利用外资一点八二亿美元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="3" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...5" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Result" ID="4" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="山东省日照市正逐步成为新的外商投资热点地区。">地处山东省沿海的港口城市日照市，被国家正式确定为新亚欧大陆桥东方桥头堡两年后，正逐步成为新的外商投资热点地区。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="截止目前，全市已累计批准外资企业四百四十二家，合同利用外资四点九亿美元，实际利用外资一点八二亿美元。">日照市政府最新公布的数字表明，截止目前，全市已累计批准外资企业四百四十二家，合同利用外资四点九亿美元，实际利用外资一点八二亿美元。</P>
+    <P Function="Background" ID="3" ParagraphTopic="该市于一九九五年七月被国家正式列为新亚欧大陆桥东方桥头堡，其建设项目被国家列入“中国二十一世纪议程优先项目计划”。">日照市拥有人口二百七十万，辖区面积五千三百多平方公里。该市于一九九五年七月被国家正式列为新亚欧大陆桥东方桥头堡，其建设项目被国家列入“中国二十一世纪议程优先项目计划”。去年八月，全国唯一的新亚欧大陆桥国际培训中心在日照市正式挂牌并开始运行。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="作为新兴的沿海港城，日照市有许多突出的发展优势。">作为新兴的沿海港城，日照市有许多突出的发展优势：从区位看，日照市“两港（日照港和岚山港）通四海，一线系亚欧”。从交通上看，日照市拥有日照、岚山两个国家一类对外开放港口，总吞吐能力已达二千零七十万吨；铁路方面则有兖（州）石（臼）铁路、坪（上）岚（山）铁路向西延伸，在西安与陇海铁路相交，经新疆阿拉山口出境，可直达荷兰的鹿特丹港和比利时的安特卫普港；公路方面，纵横交错的国道和省道为日照的陆路运输提供了便捷条件。此外，日照蕴藏着大量的矿产、水产、石材、木材和农业资源，其创汇产业基础十分雄厚。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="日照市开发区经过五年建设，初具规模。">目前，日照市开发区经过五年建设，初具规模；全国首家星火保税仓库和民营高科技工业园已经运行。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="最近日照又出台了一系列鼓励投资办企业的优惠政策。">据悉，最近日照又出台了一系列鼓励投资办企业的优惠政策，其中包括在地价、城建收费及货物进出口岸、项目审批等方面所给予的大量收费优惠措施。（完）</P>
+  </TEXT>
+</DOC>

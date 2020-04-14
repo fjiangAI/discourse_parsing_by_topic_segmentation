@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月十一日电（记者唐虹）" DiscourseTopic="外商投资企业成为中国外贸重要增长点">
+    <LEAD>“八五”期间中国外商投资企业的进出口呈直线上升之势，外商投资企业在改善中国出口商品结构中发挥了显著作用。</LEAD>
+    <ABSTRACT>“八五”期间中国外商投资企业的进出口呈直线上升之势，外商投资企业在改善中国出口商品结构中发挥了显著作用。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="“八五”期间中国外商投资企业的进出口呈直线上升之势。">海关统计表明，“八五”期间（一九九０年—一九九五年），中国外商投资企业的进出口呈直线上升之势，出口年均增长百分之四十三点二，进口年均增长百分之三十八点六。去年实现进出口总值达一千零九十八点二亿美元，占全国进出口总值的比重由上年的百分之三十七提高到百分之三十九。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="外商投资企业在改善中国进出口商品结构中发挥了显著作用。">外商投资企业在改善中国出口商品结构中发挥了显著作用。去年外商投资企业出口商品中，工业制成品占九成以上，达四百三十八点八亿美元，比上年增长了百分之三十六点七，明显高于全国平均水平。外商投资企业的出口商品仍以轻纺产品为主，其中，出口额最大的商品是服装，去年为七十六点八亿美元。而进口商品则以机械设备和工业原材料为主。（完）</P>
+  </TEXT>
+</DOC>

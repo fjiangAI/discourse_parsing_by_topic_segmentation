@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京一月十六日电（记者范文欣）" DiscourseTopic="日本经济学家说，今年世界经济的实际增长率在百分之三左右">
+    <LEAD>一九九八年世界经济的实际增长率在百分之三左右。</LEAD>
+    <ABSTRACT>一九九八年世界经济的实际增长率在百分之三左右。由于亚洲经济增长进一步放慢，其它国家的经济增长也将受到很大影响。世界经济进入了调整期。预测今年世界经济实际增长率将从九七年的百分之三点九降至百分之三。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="5|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...7" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Sub-Summary" ID="4" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="3...4|5...7" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="5...5|6...6|7...7" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="一九九八年世界经济的实际增长率在百分之三左右。">日本第一劝业银行调查部长中村和夫今天在这里说，一九九八年世界经济的实际增长率在百分之三左右。</P>
+    <P Function="Background" ID="2" ParagraphTopic="中村和夫在报告会上就新一年的世界经济金融形势做了报告。">中村和夫在由北京五佳经济咨询有限公司和日本第一劝业银行联办的报告会上就新一年的世界经济金融形势做了报告。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="由于亚洲经济增长进一步放慢，其它国家的经济增长也将受到很大影响。世界经济进入了调整期。">他在回顾了九七年世界经济金融形势后说，由于包括日本在内的亚洲经济增长进一步放慢，即使现在经济运行较好的美国和其它国家的经济增长也将受到很大影响。与过去的快速增长相比，世界经济进入了调整期。</P>
+    <P Function="Result" ID="4" ParagraphTopic="预测今年世界经济实际增长率将从九七年的百分之三点九降至百分之三。">他预测今年世界经济实际增长率将从九七年的百分之三点九降至百分之三。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="以韩国、泰国为主的亚洲国家和地区的经济增长率将大幅下滑，预期下半年其经济将下滑到最低点，预计东盟经济增长率将在百分之四点五左右。">中村认为以韩国、泰国为主的亚洲国家和地区的经济增长率将大幅下滑。但是他说，这些国家货币已大幅度贬值，出口得到恢复，而进口将会减少。因此预期下半年其经济将下滑到最低点。他预计东盟经济增长率将在百分之四点五左右。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="九八年如果拿不出好的经济政策，日本经济将继续为负增长，预计为百分之负零点五左右。">中村说，九七年度日本经济出现负增长，九八年如果拿不出好的经济政策，经济将继续为负增长。他预计为百分之负零点五左右。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="中国经济增长也将放慢速度，但不会象其他亚洲国家那样陷入危机。">他还说，受日本和亚洲经济不景气及这些国家货币贬值的影响，中国经济增长也将放慢速度。但因为中国经常收支顺差，而且有一千多亿美元的外汇储备，将不会象其他亚洲国家那样陷入危机。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海四月三日电（记者周解蓉）" DiscourseTopic="外资银行争相落户上海浦东">
+    <LEAD>浦东陆家嘴金融贸易区允许外资银行经营人民币业务的政策正式颁布后，先后有四十多家外资银行、金融机构提出申请在浦东设立分支机构。</LEAD>
+    <ABSTRACT>浦东陆家嘴金融贸易区允许外资银行经营人民币业务的政策正式颁布后，先后有四十多家外资银行、金融机构提出申请在浦东设立分支机构。目前，多家外资银行和金融机构，已先后落户陆家嘴金融贸易区。不久，一大批海内外金融机构、大公司还会陆续进驻，连同外滩地区已形成的金融街，一个上海中央商务区框架正在形成。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Summary" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Illustration" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="香港上海汇丰银行上海分行成为获准经营人民币业务、迁址浦东的第三家外资银行。">日前，香港上海汇丰银行已将其上海分行迁至浦东陆家嘴金融贸易区的中国船舶大厦，成为获准经营人民币业务、迁址浦东的第三家外资银行。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="目前上海已有八家外资银行被批准可经营人民币业务，这八家银行都将在近期迁址浦东。">目前上海已有八家外资银行被批准可经营人民币业务，他们分别是，美国花旗银行、香港汇丰银行、日本东京三菱银行、日本兴业银行、渣打银行上海分行、上海巴黎国际银行、日本第一劝业银行上海分行和日本三和银行上海分行。按照规定，这八家银行都将在近期迁址浦东。</P>
+    <P Function="Statement" ID="3" ParagraphTopic="浦东陆家嘴金融贸易区允许外资银行经营人民币业务的政策正式颁布后，先后有四十多家外资银行、金融机构提出申请在浦东设立分支机构。">浦东陆家嘴金融贸易区允许外资银行经营人民币业务的政策正式颁布后，先后有四十多家外资银行、金融机构提出申请在浦东设立分支机构。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="一些外国金融机构在陆家嘴选址时，并不在乎楼盘的价格，而更注重大楼的档次与本公司的身价相符。">一些外国金融机构在陆家嘴选址时，并不在乎楼盘的价格，而更注重大楼的档次与本公司的身价相符。总部设在美国加州、在全球拥有一千三百亿美元注册资金的富兰克林·邓普顿公司，决定将其中国地区的总部设在浦东。经公司总裁和亚洲地区总裁亲自到浦东考察确定，把办公地点选在楼价每平米超过二千七百美元的上海证券大厦。现在邓普顿公司已正式签约，买下了证券大厦整个十八层楼面。</P>
+    <P Function="Sumup" ID="5" ParagraphTopic="目前，多家外资银行和金融机构，已先后落户陆家嘴金融贸易区。不久，一大批海内外金融机构、大公司还会陆续进驻，连同外滩地区已形成的金融街，一个上海中央商务区框架正在形成。">目前，香港上海汇丰银行、日本兴业银行上海分行、荷兰合作银行、比利时信贷银行上海分行等外资银行和金融机构，已先后落户陆家嘴金融贸易区。不久，一大批海内外金融机构、大公司还会陆续进驻，连同外滩地区已形成的金融街，一个上海中央商务区框架正在形成。（完）</P>
+  </TEXT>
+</DOC>

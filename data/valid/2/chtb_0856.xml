@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十一日电" DiscourseTopic="迎接澳门回归系列图书出版">
+    <LEAD>新华出版社最近相继推出迎接澳门回归祖国系列图书。</LEAD>
+    <ABSTRACT>新华出版社最近相继推出迎接澳门回归祖国系列图书。由专家撰写的这套图书系统地介绍了澳门的历史、澳门问题的由来、澳门的政治、经济和社会现状，澳门的回归进程等，全景式多角度地反映了澳门的历史、现在和未来。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="新华出版社最近相继推出迎接澳门回归祖国系列图书。">为迎接澳门回归祖国，满足读者进一步了解澳门的需求，新华出版社最近相继推出《澳门纵横》、《澳门一九九九》、《迎接澳门回归祖国图片集》系列图书。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="由专家撰写的这套图书系统地介绍了澳门的历史、澳门问题的由来、澳门的政治、经济和社会现状，澳门的回归进程等，全景式多角度地反映了澳门的历史、现在和未来。">由专家撰写的这套图书系统地介绍了澳门的历史、澳门问题的由来、澳门的政治、经济和社会现状，澳门的回归进程等，全景式多角度地反映了澳门的历史、现在和未来。《迎接澳门回归祖国图片集》由中国革命博物馆编辑，以精彩的画面，全景式地回顾了十多年来澳门走过的回归路。</P>
+  </TEXT>
+</DOC>

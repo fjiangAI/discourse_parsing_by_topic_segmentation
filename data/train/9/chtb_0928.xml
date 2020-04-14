@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社武汉十二月三十一日电（记者袁晔）" DiscourseTopic="国际狮子会帮助湖北灾民住进新居">
+    <LEAD>这个仅用两三个月就建起来的移民新村被命名为“狮子村”，以纪念国际狮子会为重建提供的三百万元的资助。</LEAD>
+    <ABSTRACT>这个仅用两三个月就建起来的移民新村被命名为“狮子村”，以纪念国际狮子会为重建提供的三百万元的资助。捐款已被用于兴建村内的道路、供水供电系统、电话等基础设施。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="8" Layer="6" ParagraphPosition="1...1|2...2" ParentId="7" RelationType="Progression" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sumup" ID="6" Layer="5" ParagraphPosition="4...4|5...5" ParentId="5" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8" Function="Story" ID="7" Layer="5" ParagraphPosition="1...2|3...3" ParentId="5" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...7|8...8" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...5|6...7" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Comment" ID="4" Layer="4" ParagraphPosition="6...6|7...7" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="7|6" Function="Story" ID="5" Layer="4" ParagraphPosition="1...3|4...5" ParentId="3" RelationType="Summary" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="家住湖北省新洲县的叶章荣在今年罕见的大洪水中失去了家园，不过在元旦到来之前，他们一家已经住进一幢崭新的二层小楼里。">家住湖北省新洲县的叶章荣在今年罕见的大洪水中失去了家园，不过在元旦到来之前，他们一家已经住进一幢崭新的二层小楼里。</P>
+    <P Function="Progression" ID="2" ParagraphTopic="在叶家附近，一百一十多幢类似的楼房也已经拔地而起，工人正忙着完成最后的工程。">在叶家附近，一百一十多幢类似的楼房也已经拔地而起，工人正忙着完成最后的工程。再过一个多月，大约六百名灾民会像叶顺章一样，在温暖结实的新家迎接传统春节的来临。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="现在搬进长江大堤的里面，再也不怕被水淹了。">“今年长江发水前我们一直住在江堤外面，三年里有两年遭水灾，”这位五十五岁的菜农说。“现在搬进长江大堤的里面，再也不怕被水淹了。”</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="这个仅用两三个月就建起来的移民新村被命名为“狮子村”，以纪念国际狮子会为重建提供的三百万元的资助。">这个仅用两三个月就建起来的移民新村被命名为“狮子村”，以纪念国际狮子会为重建提供的三百万元的资助。这个全球性的服务机构是目前唯一与国家建设部合作开展灾后重建的国际组织。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="捐款已被用于兴建村内的道路、供水供电系统、电话等基础设施。">据狮子村村长叶方新介绍，捐款已被用于兴建村内的道路、供水供电系统、电话等基础设施。当地政府同时为各户提供约四分之一的建房款，整个新村的设计规划由武汉城市规划设计研究院免费承担。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="狮子会的宗旨是“我们服务”，面对中国百年不遇的水灾，实施援助是狮子会义不容辞的任务。">国际狮子会会长凯基特·荷布南南德日前在视察狮子村时表示，狮子会的宗旨是“我们服务”，面对中国百年不遇的水灾，实施援助是狮子会义不容辞的任务。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="何兴华副司长说，水灾过后短短几个月就建成这种高标准的住房，这与国际狮子会的及时捐助密不可分。">建设部城乡规划司的何兴华副司长参观狮子村以后说，水灾过后短短几个月就建成这种高标准的住房，这与国际狮子会的及时捐助密不可分。狮子村的成功经验为今后海外援助重建受灾村镇提供了可以借鉴的模式。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="像狮子村一样，全国其它灾区的重建工作不再是简单的原址原样恢复，而是与根治江河水患相结合，实行统一规划、统一设计和统一建设。">这位主管灾后重建工作的官员说，像狮子村一样，全国其它灾区的重建工作不再是简单的原址原样恢复，而是与根治江河水患相结合，实行统一规划、统一设计和统一建设。目前，受灾的湖北、湖南、安徽、江西、黑龙江、吉林和内蒙古七省区的两千五百多个村镇已全面完成了规划设计工作。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="春节前将有七成灾民陆续搬入新居，而其余灾民的安全过冬问题被视为重中之重，也将得到妥善解决。">据统计，今年夏天发生在长江和嫩江流域的特大洪灾共冲毁房屋七百三十多万间，二点三亿多人受灾。来自国家计委的消息说，春节前将有七成灾民陆续搬入新居，而其余灾民的安全过冬问题被视为重中之重，也将得到妥善解决。（完）</P>
+  </TEXT>
+</DOC>

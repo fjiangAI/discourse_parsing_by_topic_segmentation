@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社华盛顿４月２０日电（记者应谦）" DiscourseTopic="在华美资企业要求延长给中国的贸易最惠国待遇">
+    <LEAD>美国商会中国分会展开游说活动，要求延长给中国的贸易最惠国待遇。</LEAD>
+    <ABSTRACT>随着对中国贸易最惠国待遇问题的审议临近，在华美资企业普遍担心美国党派之争可能使问题更加复杂，因而美国商会中国分会展开游说活动，要求继续延长给中国的贸易最惠国待遇。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="3" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="美国商会中国分会展开游说活动，要求延长给中国的贸易最惠国待遇。">美国商会中国分会近日派出一个２５人组成的代表团，在华盛顿向国会和白宫展开为期一周的游说活动，要求继续延长给中国的贸易最惠国待遇。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="游说活动细节。">参加这次游说活动的美商代表来自美国在华的许多知名大企业，如道·琼斯、ＡＴ＆Ｔ、ＩＢＭ、波音、麦道、通用电气、西屋电气、福特以及仙妮雷德集团等。他们分为５个小组，共约见了约１５０位议员或议员助手以及政府官员，用他们在中国投资办企业的经验，阐述延长给中国贸易最惠国待遇的必要性。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="游说活动原因。">随着美国政府和国会一年一度对中国贸易最惠国待遇问题的审议又将临近，在华美资企业普遍担心今年大选年的美国党派之争可能使这个问题更加复杂，于是组团对他们进行有组织、有计划的游说活动。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="游说活动的后续行动。">代表美国商会广州分会和仙妮雷德集团参加游说团的华裔商人王震对记者说，作为这次游说的后续行动，他准备发动公司下属的数万名经销商给当地国会议员写信，支持延长中国的贸易最惠国待遇。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="游说活动的重点对象。">美国商会广东分会会长康永华律师说，克林顿政府已经表示要延长中国的贸易最惠国待遇，因此，这次游说的重点是那些较保守的议员。（完）</P>
+  </TEXT>
+</DOC>

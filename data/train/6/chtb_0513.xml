@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="行政长官颁授勋章">
+    <LEAD>香港特别行政区行政长官董建华今日（星期三）在前总督府颁授香港特别行政区政府勋衔制度的大紫荆勋章予十二位人士。</LEAD>
+    <ABSTRACT>香港特别行政区行政长官董建华今日（星期三）在前总督府颁授香港特别行政区政府勋衔制度的大紫荆勋章予十二位人士。大紫荆勋章是香港特别行政区政府勋衔制度中的最高荣誉奖章。受勋人士必须为香港永久性居民，长期以来表现杰出。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="2...3|4...4" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="5" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="香港特别行政区行政长官董建华今日（星期三）在前总督府颁授香港特别行政区政府勋衔制度的大紫荆勋章予十二位人士。">香港特别行政区行政长官董建华今日（星期三）在前总督府颁授香港特别行政区政府勋衔制度的大紫荆勋章予十二位人士。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="大紫荆勋章是香港特别行政区政府勋衔制度中的最高荣誉奖章。受勋人士必须为香港永久性居民，长期以来表现杰出。">大紫荆勋章是香港特别行政区政府勋衔制度中的最高荣誉奖章。受勋人士必须为香港永久性居民，长期以来表现杰出。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="获授勋的人士，均曾长期：＊推动香港市民热爱祖国；＊关怀、支持和认同祖国事业；以及＊对香港多方面作出卓越贡献。">获授勋的人士，均曾长期：＊推动香港市民热爱祖国；＊关怀、支持和认同祖国事业；以及＊对香港多方面作出卓越贡献。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="授勋名单将于每年七月一日公布。">授勋名单将於每年七月一日公布。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="今日将获颁大紫荆勋章的十二位人士。">今日将获颁大紫荆勋章的十二位人士为：黄克立先生安子介先生查济民先生锺士元博士李福善先生曾宪梓先生庄世平先生杜叶锡恩女士徐四民先生利国伟先生霍英东先生罗德丞先生</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="行政长官董建华主持今日的授勋典礼。中国副总理兼外长钱其琛也出席了该项仪式。">行政长官董建华主持今日的授勋典礼。中国副总理兼外长钱其琛也出席了该项仪式。</P>
+  </TEXT>
+</DOC>

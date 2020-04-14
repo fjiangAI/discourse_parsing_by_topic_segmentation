@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社德黑兰８月３１日电（记者陈铭）" DiscourseTopic="伊朗副总统对访华成果表示满意">
+    <LEAD>伊朗第一副总统对访华成果表示满意。</LEAD>
+    <ABSTRACT>伊朗第一副总统对访华成果表示满意。哈比在访问中与中国领导人就双边关系、国际和地区问题交换了意见。伊中两国的经济合作项目正在展开，两国将在中亚地区联合投资，进行经济合作。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="伊朗第一副总统对访华成果表示满意。">伊朗第一副总统哈桑·哈比比在结束对中国为期３天的友好访问后，今天回到德黑兰时说，他对访华成果表示满意。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="哈比在访问中与中国领导人就双边关系、国际和地区问题交换了意见。">哈比比在机场对记者说，他在访问中与中国领导人就双边关系、国际和地区问题交换了意见。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="伊中两国的经济合作项目正在展开，两国将在中亚地区联合投资，进行经济合作。">他说，伊中两国的经济合作项目正在展开，两国将在中亚地区联合投资，进行经济合作。中国、伊朗和第三国还将联合投资，改造中国的炼油厂设备，扩大提炼伊朗石油的能力。（完）</P>
+  </TEXT>
+</DOC>

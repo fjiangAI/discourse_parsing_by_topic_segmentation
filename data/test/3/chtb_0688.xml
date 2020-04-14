@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社珠海十二月二十八日电" DiscourseTopic="黄龙云当选中共珠海市委书记">
+    <LEAD>中共珠海市委第四届委员会第一次全体会议上，黄龙云当选为中共珠海市委书记。</LEAD>
+    <ABSTRACT>中共珠海市委第四届委员会第一次全体会议上，黄龙云当选为中共珠海市委书记。黄龙云一九五一年生于广州，一九七０年加入中国共产党，研究生学历，经济学硕士学位。他曾任中共广州市委常委、珠海市委副书记、珠海市市长。黄龙云是全国人大澳门特别行政区筹委会委员。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中共珠海市委第四届委员会第一次全体会议上，黄龙云当选为中共珠海市委书记。">在今天下午召开的中共珠海市委第四届委员会第一次全体会议上，黄龙云当选为中共珠海市委书记。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="黄龙云一九五一年生于广州，一九七０年加入中国共产党，研究生学历，经济学硕士学位。他曾任中共广州市委常委、珠海市委副书记、珠海市市长。">黄龙云一九五一年生于广州，一九七０年加入中国共产党，研究生学历，经济学硕士学位。他曾任中共广州市委常委、珠海市委副书记、珠海市市长。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="黄龙云是全国人大澳门特别行政区筹委会委员。">黄龙云是全国人大澳门特别行政区筹委会委员。（完）</P>
+  </TEXT>
+</DOC>

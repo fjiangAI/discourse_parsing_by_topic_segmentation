@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南宁一月十六日电（记者杨维成）" DiscourseTopic="广西防城港年吞吐量达八百五十万吨">
+    <LEAD>广西防城港市，充分发挥地缘优势，大力发展港口经济。目前，港口年吞吐量已达八百五十万吨，成为广西最大的港口城市。</LEAD>
+    <ABSTRACT>广西防城港市，充分发挥地缘优势，大力发展港口经济。目前，港口年吞吐量已达八百五十万吨，成为广西最大的港口城市。目前，全市已有泊位二十五个，其中万吨级的十个；港区建设铁路十四公里；码头已具备各种杂货、散货、滚装货物、集装箱、石化产品装卸功能；库场面积达六十多万平方米，年中转六十万吨散装水泥和五十万吨粮食的中转库已经建成。港口已与世界上六十四个国家和地区的一百五十九个港口进行贸易往来。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="广西防城港市，充分发挥地缘优势，大力发展港口经济。目前，港口年吞吐量已达八百五十万吨，成为广西最大的港口城市。">中国唯一既沿海又沿边的新兴城市广西防城港市，充分发挥地缘优势，大力发展港口经济。目前，港口年吞吐量已达八百五十万吨，成为广西最大的港口城市。</P>
+    <P Function="Background" ID="2" ParagraphTopic="防城港市是一九九三年五月经国务院批准设立的地级沿海开放港口城市。">防城港市是一九九三年五月经国务院批准设立的地级沿海开放港口城市。全市海岸线长五百八十四公里，陆地边境线长二百三十多公里。港口以避风、水深、不於积、航道短、可用岸线长而闻名于世。四年多来，全市先后投入二十二亿元进行港口码头、仓储场地及配套设施的建设和港城基础设施建设，为构建大西南出海通道创造良好的条件。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="目前，全市已有泊位二十五个，其中万吨级的十个；港区建设铁路十四公里；码头已具备各种杂货、散货、滚装货物、集装箱、石化产品装卸功能；库场面积达六十多万平方米，年中转六十万吨散装水泥和五十万吨粮食的中转库已经建成。港口已与世界上六十四个国家和地区的一百五十九个港口进行贸易往来。">目前，全市已有泊位二十五个，其中万吨级的十个。港区建设铁路十四公里，南防铁路可以直驶码头。码头已具备各种杂货、散货、滚装货物、集装箱、石化产品装卸功能。库场面积达六十多万平方米，年中转六十万吨散装水泥和五十万吨粮食的中转库已经建成，是全国四大水泥出口基地和十大接粮口岸之一。港口已与世界上六十四个国家和地区的一百五十九个港口进行贸易往来。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="国家重点工程九号泊位的五万吨级散货通用码头和十号泊位二点五万吨级集装箱码头正在加紧进行中。到二０００年，防城港码头吞吐能力将达到两千万吨。">记者在码头边看到，去年八月八日动工建设的国家重点工程九号泊位的五万吨级散货通用码头和十号泊位二点五万吨级集装箱码头正在加紧进行中，已完成投资二千一百九十一万元。到二０００年，防城港码头吞吐能力将达到两千万吨。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="房屋局局长回应出租公屋数量">
+    <LEAD>房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「房屋委员会在该段期间内所兴建的出租公屋数量仍多於所拆卸的单位数量。因此，今日一份报章所载的数字并不准确。」。</LEAD>
+    <ABSTRACT>房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「房屋委员会在该段期间内所兴建的出租公屋数量仍多於所拆卸的单位数量。因此，今日一份报章所载的数字并不准确。」。在过去五年，房屋委员会亦兴建了大量的资助自置居所。此外，因向房屋委员会或私人机构购买自置居所的住户所腾空的出租单位亦已再分配予公共房屋轮候册上的申请人。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「房屋委员会在该段期间内所兴建的出租公屋数量仍多於所拆卸的单位数量。因此，今日一份报章所载的数字并不准确。」。">房屋局局长黄星华今日（星期五）在回应新闻界查询时说：「虽然在过去五年，房屋委员会有大规模的清拆计划，以新型高质素的单位取代破旧而只有基本设施的单位，但房屋委员会在该段期间内所兴建的出租公屋数量（九万六千三百六十九个）仍多於所拆卸的单位数量（七万五千四百个）。因此，今日一份报章所载的数字并不准确。」</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="单只就该等出租公屋数量并不能全面反映政府的公共房屋计划。">黄星华说：「单只就该等出租公屋数量并不能全面反映政府的公共房屋计划。」</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在过去五年，房屋委员会亦兴建了大量的资助自置居所。此外，因向房屋委员会或私人机构购买自置居所的住户所腾空的出租单位亦已再分配予公共房屋轮候册上的申请人。">「在过去五年，房屋委员会亦兴建了大量的资助自置居所（八万零二百七十五个），其中很多是被居於拆卸单位的住户所购买。此外，因向房屋委员会或私人机构购买自置居所的住户所腾空的出租单位亦已再分配予公共房屋轮候册上的申请人。平均来说，每年约有一万四千个在轮候册上的家庭获编配到租住单位。」</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="由於推行多项措施的成果，轮候出租公屋的平均时间已逐渐由九年缩短至现时的六年半。">「由於推行多项措施的成果，轮候出租公屋的平均时间已逐渐由九年缩短至现时的六年半。我们亦已承诺会在未来的日子再进一步缩短这时间。」</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="房屋科（现已改名为房屋局）於一九九四年十一月成立，其中一项职能是制定公共房屋政策。">房屋科（现已改名为房屋局）於一九九四年十一月成立，其中一项职能是制定公共房屋政策。房屋委员会是直接负责公屋的兴建及拆卸。黄星华说：「有关对房屋科／局的批评是不当的。」</P>
+  </TEXT>
+</DOC>

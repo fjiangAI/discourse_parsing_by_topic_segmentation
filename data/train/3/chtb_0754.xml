@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社１２月３０日电（记者乐绍延）" DiscourseTopic="日本研制出世界上最小的晶体振荡器">
+    <LEAD>日本大真空公司日前宣布研制出了据称是世界上最小的晶体振荡器。</LEAD>
+    <ABSTRACT>日本大真空公司日前宣布研制出了据称是世界上最小的晶体振荡器。研制出的“ＤＳＯ３２１ＳＶ”型晶体振荡器采用了全新的设计，在特定的温度范围内不仅其振荡效果没有变差，而且扩大了振荡频率范围，其频率可从１．８４兆赫降低到０．７５兆赫。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="日本大真空公司日前宣布研制出了据称是世界上最小的晶体振荡器。">日本大真空公司日前宣布研制出了据称是世界上最小的晶体振荡器，其体积只有０．０１立方毫米。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="研制出的“ＤＳＯ３２１ＳＶ”型晶体振荡器采用了全新的设计，在特定的温度范围内不仅其振荡效果没有变差，而且扩大了振荡频率范围，其频率可从１．８４兆赫降低到０．７５兆赫。">一般情况下，晶体振荡器随着体积的缩小，其振荡效果就会相应递减。而研制出的“ＤＳＯ３２１ＳＶ”型晶体振荡器采用了全新的设计，在特定的温度范围内不仅其振荡效果没有变差，而且扩大了振荡频率范围，其频率可从１．８４兆赫降低到０．７５兆赫。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="晶体振荡器是便携式电脑以及其它电子通信设备中十分重要的部件。">晶体振荡器是便携式电脑以及其它电子通信设备中十分重要的部件。（完）</P>
+  </TEXT>
+</DOC>

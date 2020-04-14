@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州十月三十日电（记者史美泗）" DiscourseTopic="第九届中国外资企业出口商品交易会闭幕">
+    <LEAD>第九届中国外商投资企业出口商品交易会今天在广州闭幕。</LEAD>
+    <ABSTRACT>第九届中国外商投资企业出口商品交易会今天在广州闭幕。这届外企交易会有三千多客商洽谈贸易，出口成交八千多万美元。这届外企交易会有六百多家企业参展。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="第九届中国外商投资企业出口商品交易会今天在广州闭幕。">由中国外商投资企业协会主办的第九届中国外商投资企业出口商品交易会今天在广州闭幕。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这届外企交易会有三千多客商洽谈贸易，出口成交八千多万美元。">这届外企交易会有三千多客商洽谈贸易，出口成交八千多万美元。成交的主要商品是草柳藤竹制品，还有电子产品、陶瓷、玩具、服装、鞋帽、箱包、家具等。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这届外企交易会有六百多家企业参展。">这届外企交易会有六百多家企业参展，来自福建、江苏、上海、浙江等省市的外资企业成交最多。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="下届外企交易会仍在广州举行，仍与中国出口商品交易会同期举行。">据主办者介绍，下届外企交易会仍在广州举行，仍与中国出口商品交易会同期举行。（完）</P>
+  </TEXT>
+</DOC>

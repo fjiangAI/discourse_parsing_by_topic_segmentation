@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社厦门十二月一日电（记者余瑛瑞）" DiscourseTopic="中日经贸和经济技术合作发展态势良好">
+    <LEAD>中日贸易和经济技术合作发展态势良好，中日经贸合作关系已初步形成。</LEAD>
+    <ABSTRACT>中日贸易和经济技术合作发展态势良好，中日经贸合作关系已初步形成。中日经贸关系在两国对外经贸关系中均占有重要地位。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...5|6...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...6" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中日贸易和经济技术合作发展态势良好，中日经贸合作关系已初步形成。">记者在日前召开的第七次中日经济讨论会上获悉，中日贸易和经济技术合作发展态势良好，互利互补、形式多样、日益紧密、稳定发展的中日经贸合作关系已初步形成。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="中日经贸关系在两国对外经贸关系中均占有重要地位。">据国家外经贸部亚洲司副司长吕克俭介绍，中日经贸关系在两国对外经贸关系中均占有重要地位。日本已成为中国最大的贸易伙伴，中国为日本第二大贸易对象国。到一九九六年，双边贸易额已从一九七二年恢复邦交时的十亿美元增加到六百亿美元。此外，日本还是向中国提供贷款最多的国家，是中国吸引外资、引进技术的主要对象国。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="据中国海关统计，今年前七个月，中日贸易达三百二十二点一六亿美元。">据中国海关统计，今年前七个月，中日贸易达三百二十二点一六亿美元，较去年同期增长百分之二点九。占同期中国进出口总额的百分之十八点七。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="日本企业对华投资经过较长时间的观望和摸索之后，现已进入较为良性发展阶段。">日本企业对华投资经过较长时间的观望和摸索之后，现已进入较为良性发展阶段。截至今年六月，中国共批准日本企业对华投资项目一万五千六百七十个，协议金额二百七十六亿美元，实际使用金额一百五十九亿美元，居中国吸收外资国别第二位。此外，日商投资项目平均规模不断扩大，出资到位率居对华投资国家、地区之首，呈现出成功率高、经营状况良好的特点。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="日元贷款是中日经济合作的重要内容。">日元贷款是中日经济合作的重要内容。关于一九九七年度贷款，日方已经对中方提出的二千零二十九亿日元、十四个项目进行了正式承诺，并于九月桥本首相访华时由两国政府签署换文。九月中旬，贷款协议正式签署。日本政府承诺的贷款约占外国政府向中国承诺贷款额的百分之四十以上，居首位。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="长期以来，日本一直是中国引进技术、进口设备的主要来源国之一。">长期以来，日本一直是中国引进技术、进口设备的主要来源国之一。据外经贸部业务统计，一九九六年，中国自日本引进技术和设备共九百二十五项，总金额达二十四点零四亿美元，达历史最高水平。今后几年，中国技术引进的力度会进一步加大，预计占中国进出口总额的比例将会超过百分之十。</P>
+    <P Function="Comment" ID="7" ParagraphTopic="二十五年来，中日两国经贸合作有了长足发展，主流是健康的。展望未来，中日经贸合作潜力巨大，具有良好的发展前景。">吕克俭说，今年是中日恢复邦交二十五周年。二十五年来，中日两国经贸合作有了长足发展，主流是健康的。展望未来，中日经贸合作潜力巨大，具有良好的发展前景。（完）</P>
+  </TEXT>
+</DOC>

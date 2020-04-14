@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京九月一日电" DiscourseTopic="中国将加快人才市场体系建设">
+    <LEAD>中共中央组织部、人事部近日发出通知，要求加强人才市场建设规划，加快人才市场发展步伐，促进人才市场的健康发展。</LEAD>
+    <ABSTRACT>中共中央组织部、人事部近日发出通知，要求加强人才市场建设规划，加快人才市场发展步伐，促进人才市场的健康发展。通知指出，培育和发展人才市场的总体目标和近期目标。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Summary" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中共中央组织部、人事部近日发出通知，要求加强人才市场建设规划，加快人才市场发展步伐，促进人才市场的健康发展。">中共中央组织部、人事部近日发出通知，要求加强人才市场建设规划，加快人才市场发展步伐，促进人才市场的健康发展。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="通知指出，培育和发展人才市场的总体目标和近期目标。">通知指出，培育和发展人才市场的总体目标是：实现个人自主择业，单位自主择人，市场调节供求，社会服务完善，社会保障健全，在国家宏观调控下，使市场在人才资源配置方面起基础性作用。培育和发展人才市场的近期目标是：在近两三年内制定人才市场运行需要的基本政策法规，在大中城市普遍建立人才市场场所，建立和发展地区人才信息网络，扶持专业人才市场发展，建立区域性人才市场。二０００年之前，在全国范围内初步建成功能完善、机制健全、法规配套、指导及时、服务周到的人才市场体系。</P>
+    <P Function="Sumup" ID="3" ParagraphTopic="中组部、人事部要求各级组织人事部门加强人才市场建设和管理，加强人才市场的研究和规划，确立人才市场发展的总体布局和实施步骤，因地制宜，分类指导，逐步建立起完善的人才市场体系。">中组部、人事部要求各级组织人事部门加强人才市场建设和管理，加强人才市场的研究和规划，确立人才市场发展的总体布局和实施步骤，因地制宜，分类指导，逐步建立起完善的人才市场体系。（完）</P>
+  </TEXT>
+</DOC>

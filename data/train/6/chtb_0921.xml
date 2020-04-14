@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月２９日电" DiscourseTopic="美国选手赢得世界杯女子高山滑雪系列赛小回转冠军">
+    <LEAD>美国选手克里斯蒂娜·科兹尼克赢得本赛季世界杯女子高山滑雪系列赛第四次小回转比赛的冠军。</LEAD>
+    <ABSTRACT>美国选手克里斯蒂娜·科兹尼克赢得本赛季世界杯女子高山滑雪系列赛第四次小回转比赛的冠军。这是美国女选手在本赛季世界杯高山滑雪赛中赢得的一个冠军，也是克里斯蒂娜·科兹尼克第二次赢得世界杯赛冠军。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...4" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="5" ParagraphPosition="1...1|2...2" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="美国选手克里斯蒂娜·科兹尼克赢得本赛季世界杯女子高山滑雪系列赛第四次小回转比赛的冠军。">美国选手克里斯蒂娜·科兹尼克２８日在奥地利的塞默灵战胜包括冬奥会冠军在内的全部对手，赢得本赛季世界杯女子高山滑雪系列赛第四次小回转比赛的冠军。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这是美国女选手在本赛季世界杯高山滑雪赛中赢得的一个冠军，也是克里斯蒂娜·科兹尼克第二次赢得世界杯赛冠军。">据外电报道，这是美国女选手在本赛季世界杯高山滑雪赛中赢得的一个冠军，也是克里斯蒂娜·科兹尼克第二次赢得世界杯赛冠军。上个赛季，她在瑞士的阿勒河曾赢得过世界杯小回转比赛的冠军。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="克里斯蒂娜·科兹尼克最后两次滑行以１分４０秒４９的总成绩夺得冠军。">２８日的小回转比赛是在晚上灯光下举行的。今年２３岁的克里斯蒂娜·科兹尼克很喜欢在晚上比赛，最后两次滑行以１分４０秒４９的总成绩夺得冠军。２０日，她在瑞士的韦松纳茨举行的世界杯系列赛第三次小回转比赛中获得亚军。比赛结束后，她说：“我喜欢在晚上灯光下进行比赛，过去１０年我总是在灯光下训练的。我希望今后有更多的比赛能在晚上进行。”她的第一个世界杯赛冠军也是在晚上获得的。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="瑞士选手卡琳·罗滕以１分４１秒３３的成绩获得亚军。瑞典老将珀妮娅·维贝里获得第三名，成绩是１分４１秒３７。">瑞士选手卡琳·罗滕以１分４１秒３３的成绩获得亚军。２２岁的卡琳·罗滕２０日在瑞士的韦松纳茨曾战胜克里斯蒂娜·科兹尼克，赢得第三次小回转比赛的冠军。２０日名列第三的瑞典老将珀妮娅·维贝里这次依然获得第三名，成绩是１分４１秒３７。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="日本长野冬奥会这个项目金牌得主仅获第十六名，铜牌得主获得第十二名。">日本长野冬奥会这个项目金牌得主、德国的希尔德·格尔格这次仅获第十六名，铜牌得主、澳大利亚的扎利·斯特加尔获得第十二名。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="在本赛季世界杯高山滑雪系列赛头两次女子小回转比赛中，斯洛文尼亚选手乌尔斯卡·赫罗瓦特赢得首次比赛冠军，瑞典选手安娅·派松获得第二次比赛冠军。">在本赛季世界杯高山滑雪系列赛头两次女子小回转比赛中，斯洛文尼亚选手乌尔斯卡·赫罗瓦特１１月２１日在美国帕克城赢得首次比赛冠军，瑞典选手安娅·派松１２月３日在美国马默斯山获得第二次比赛冠军。（完）</P>
+  </TEXT>
+</DOC>

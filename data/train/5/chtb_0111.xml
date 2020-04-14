@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社纽约１月１３日电（记者周锡生）" DiscourseTopic="纽约证交所上市外国企业大幅增加">
+    <LEAD>近年来，一大批外国企业纷纷涌入纽约证券交易所。</LEAD>
+    <ABSTRACT>近年来，一大批外国企业纷纷涌入纽约证券交易所。外国企业到美国证券交易市场上市的主要原因是，近年来美国经济持续稳定增长，纽约证交所管理严格，运作规范。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Result" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="近年来，一大批外国企业纷纷涌入纽约证券交易所。">近年来，一大批实力雄厚、发展前景看好的外国企业纷纷涌入纽约证券交易所。据统计，目前在纽约证交所上市的外国企业已达３４０多家，为５年前的三倍。</P>
+    <P Function="Background" ID="2" ParagraphTopic="目前，有在纽约证交所上市企业的国家和地区已近５０个。">据纽约证交所人士介绍，９０年代初期在纽约上市的主要是欧洲和日本等经济发达国家的大企业，但最近几年的情况不同，墨西哥、阿根廷等中南美洲国家的民营企业到纽约上市的明显增多，包括俄罗斯、中国等亚洲和中东欧发展中国家的一批有实力的企业也开始来纽约证交所上市。目前，有在纽约证交所上市企业的国家和地区已近５０个。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="纽约新上市的外国企业共有６１家，创历年来最高纪录。">去年，纽约新上市的外国企业共有６１家，创历年来最高纪录。去年纽约证交所新上市的股票共有１４５种，其中百分之四十二是由外国企业发行的。</P>
+    <P Function="Cause" ID="4" ParagraphTopic="外国企业到美国证券交易市场上市的主要原因是，近年来美国经济持续稳定增长，纽约证交所管理严格，运作规范。">据分析，外国企业纷纷到美国证券交易市场上市的主要原因是，近年来美国经济持续稳定增长，纽约证交所管理严格，运作规范，是较理想的筹资场所。统计表明，１９９２年以来，外国企业在纽约证交所筹措的资金已达６００亿美元。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="外国企业在纽约证交所上市，意味着需要采用美国严格的经营和财物管理方式。">但华尔街的金融专家提醒说，外国企业在纽约证交所上市，在很大程度上意味着这些企业需要采用美国严格的经营和财物管理方式。如果外国企业尚无条件采取这种方式，不要盲目急于到纽约上市，否则难免受到冷落。（完）</P>
+  </TEXT>
+</DOC>

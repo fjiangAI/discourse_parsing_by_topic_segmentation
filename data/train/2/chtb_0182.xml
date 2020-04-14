@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="本报伦敦２月１３日电记者陈特安报道：" DiscourseTopic="英国">
+    <LEAD>我驻英国大使冀朝铸在中国使馆举行迎春招待会，３００多旅英华侨、华人欢聚一堂，喜庆羊年春节。</LEAD>
+    <ABSTRACT>我驻英国大使冀朝铸在中国使馆举行迎春招待会，３００多旅英华侨、华人欢聚一堂，喜庆羊年春节。过去的一年是中国战胜重重困难，在国内建设和国际事务中取得举世公认的重大成就的一年。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="我驻英国大使冀朝铸在中国使馆举行迎春招待会，３００多旅英华侨、华人欢聚一堂，喜庆羊年春节。">昨晚，我驻英国大使冀朝铸在中国使馆举行迎春招待会，３００多旅英华侨、华人欢聚一堂，喜庆羊年春节。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="过去的一年是中国战胜重重困难，在国内建设和国际事务中取得举世公认的重大成就的一年。">冀大使在会上发表了热情洋溢的讲话。他高兴地告诉与会侨胞，过去的一年是中国战胜重重困难，在国内建设和国际事务中取得举世公认的重大成就的一年。在今后１０年内，我们又计划把国民生产总值再翻一番，到那时，中国的力量就会更强。冀大使说，“祖国强大，侨胞地位提高，我本人作为归国华侨对此有深刻体会”。他称赞说，英国华侨、华人为“亚运”捐款之巨、回国观看“亚运”人数之多，均居欧洲第一，他们在促进中英友好方面发挥了“桥梁作用”。冀大使不久将到纽约就任联合国副秘书长，当他借此机会向大家道别时，全场报以热烈的掌声。</P>
+  </TEXT>
+</DOC>

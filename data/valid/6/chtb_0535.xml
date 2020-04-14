@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="申请营运新专线小巴路线周一截止">
+    <LEAD>全港共二十七条新专线小巴路线的营运权，将於星期一中午十二时截止申请。</LEAD>
+    <ABSTRACT>全港共二十七条新专线小巴路线的营运权，将於星期一中午十二时截止申请。有兴趣申请营运该等小巴路线的人士，必须於截止期限前递交申请书。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="4...4|5...5|6...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="全港共二十七条新专线小巴路线的营运权，将於星期一中午十二时截止申请。">全港共二十七条新专线小巴路线的营运权，将於星期一（七月七日）中午十二时截止申请。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="有兴趣申请营运该等小巴路线的人士，必须於截止期限前递交申请书。">运输署发言人今日（星期六）提醒有兴趣申请营运该等小巴路线的人士，必须於截止期限前递交申请书。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="逾期递交的申请书，概不受理。">他说：「逾期递交的申请书，概不受理。」</P>
+    <P Function="Situation" ID="4" ParagraphTopic="申请者必须用「一九九七年宪报公布各组公共小型巴士（专线）路线客运牌照申请书」来申请。">申请者必须用「一九九七年宪报公布各组公共小型巴士（专线）路线客运牌照申请书」来申请。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="填妥的表格必须放入一个白色信封，封面标明「一九九七年宪报公布各组公共小型巴士（专线）路线客运牌照申请书」，和密封妥当。">填妥的表格必须放入一个白色信封，封面标明「一九九七年宪报公布各组公共小型巴士（专线）路线客运牌照申请书」，和密封妥当。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="申请表格须於星期一正午前放入香港湾仔告士打道七号入境事务大楼四十一楼运输署总部投标箱内。">申请表格须於星期一正午前放入香港湾仔告士打道七号入境事务大楼四十一楼运输署总部投标箱内。</P>
+  </TEXT>
+</DOC>

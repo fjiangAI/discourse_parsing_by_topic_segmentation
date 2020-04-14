@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电新华社记者薛建华李俊" DiscourseTopic="（年终特稿）一九九八：中国逆风起飞">
+    <LEAD>中国已经安然度过了充满挑战的一年。</LEAD>
+    <ABSTRACT>中国已经安然度过了充满挑战的一年。面对国际金融危机和国内世纪洪水的巨大冲击，中国经济巨轮依然破浪前行。中国利用外资五百四十亿美元，中国粮食总产量超过四点九亿吨，超过七成的市民对过去的一年表示“非常满意”或“比较满意”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...11|12...12" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="8" Function="Story" ID="7" Layer="5" ParagraphPosition="5...5|6...7" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="7|5" Function="Story" ID="4" Layer="4" ParagraphPosition="5...7|8...11" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="6" Function="Story" ID="5" Layer="5" ParagraphPosition="8...8|9...9|10...11" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="8" Layer="6" ParagraphPosition="6...6|7...7" ParentId="7" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="9|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...11" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...11" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="6" ParagraphPosition="10...10|11...11" ParentId="5" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="10" Function="Summary" ID="9" Layer="3" ParagraphPosition="1...1|2...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="10" Layer="4" ParagraphPosition="2...2|3...3" ParentId="9" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国已经安然度过了充满挑战的一年。">年近岁末，尽管各种数据尚未最后统计出来，但所有的人都毫不怀疑，中国已经安然度过了充满挑战的一年。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="面对国际金融危机和国内世纪洪水的巨大冲击，中国经济巨轮依然破浪前行。">面对国际金融危机和国内世纪洪水的巨大冲击，中国经济巨轮依然破浪前行。权威人士预计，中国今年的经济增长率将接近或达到百分之八，居全球首位，远远高于国际货币基金组织“全球经济增长百分之二点二”的预测。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国利用外资五百四十亿美元，中国粮食总产量超过四点九亿吨，超过七成的市民对过去的一年表示“非常满意”或“比较满意”。">过去的一年，中国利用外资五百四十亿美元，连续数年高居世界第二。过去的一年，中国粮食总产量超过四点九亿吨，成为历史上又一个丰收年。一份对中国城市居民的调查显示，超过七成的市民对过去的一年表示“非常满意”或“比较满意”。如此安乐祥和的局面与一九九八年的惊涛骇浪形成了鲜明的对比。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="以江泽民为核心的中国第三代领导集体以沉着应对困难局面的高度智慧，再次显示了驾驭复杂局势的卓越能力。">以江泽民为核心的中国第三代领导集体以沉着应对困难局面的高度智慧，再次显示了驾驭复杂局势的卓越能力。过去一年，不断加深的亚洲金融危机和百年不遇的特大洪水接踵而至，世界为邓小平逝世后的中国捏一把汗。年初新组建的朱（金旁加容）基内阁“受命于危难之际”，迅速推出了国家宏观调控的一系列重大举措。不到一年，中国不仅保持了国民经济增长的良好态势和社会的稳定，而且进一步提高了自己的国际地位。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="当夏季特大洪水袭来的时候，中国动员了八百多万民众和十三万解放军、武警官兵投入抗洪抢险，中国领导人沐风栉雨，亲临前线指挥。">很多颇具影响力的观察家都对中国在过去一年的表现感到大出意料。当夏季特大洪水袭来的时候，中国动员了八百多万民众和十三万解放军、武警官兵投入抗洪抢险，中国领导人沐风栉雨，亲临前线指挥。在洪水面前，中华民族的凝聚力空前高涨。尽管洪水造成了两亿多人受灾，但江河干堤无一坍塌，死亡人数不到一九五四年长江流域大洪水时的十分之一。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="面对持续一年多的亚洲金融危机，中国表现出了“大国风范”。">“沧海横流，方显出英雄本色”。面对持续一年多的亚洲金融危机，中国表现出了“大国风范”。中国付出巨大代价坚守人民币不贬值，“把一切麻烦自己扛”，并对亚洲一些国家慷慨解囊相助。</P>
+    <P Function="Comment" ID="7" ParagraphTopic="这场空前的金融浩劫至少提前二十年把中国推上了影响全球金融的大国地位。">海外有舆论评论说：“这场空前的金融浩劫至少提前二十年把中国推上了影响全球金融的大国地位。”</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="一九九八年，中国在世界舞台上的地位急剧上升。">一九九八年，中国在世界舞台上的地位急剧上升。随着暌违十年后美国总统的首度访华、历史上中国国家元首首次访日，以及中国与欧盟领导人的第一次会晤等具有深远历史意义的外交活动的展开，中国与世界上所有政经大国都在世纪之交构筑起了崭新的国际伙伴关系。作为一个“负责任的大国”，中国正在多极化的国际事务中发挥着越来越重要的作用。</P>
+    <P Function="Story-Situation" ID="9" ParagraphTopic="一九九八年，中国人推进祖国和平统一的进程继续加速。">一九九八年，中国人推进祖国和平统一的进程继续加速。香港回归一年来的高度自治使所有臆测香港政局不稳的“预言”统统落空；“一国两制”的巨大成功使人们对九九澳门回归更加充满信心；以“汪辜会晤”为标志，海峡两岸关系也从“山重水复”走向“柳暗花明”。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="年初提出的国有企业、金融体制和政府机构三大改革初战告捷。">风云变幻的形势并没有影响中国改革的进程。年初提出的国有企业、金融体制和政府机构三大改革初战告捷。尽管改革带来的利益调整将严峻考验老百姓的心理承受能力，但调查资料表明，超过百分之七十的中国公众对国家改革的总体方向表示了认同。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="明年将进一步推动改革开放：三大改革继续推进，城镇职工医疗体制改革、投融资体制改革将拉开帷幕。">前不久召开的中央经济工作会议提出，明年将进一步推动改革开放：三大改革继续推进，城镇职工医疗体制改革、投融资体制改革将拉开帷幕。所有信息显示：一九九九年将是中国又一个重要的“改革年”。</P>
+    <P Function="Supplement" ID="12" ParagraphTopic="在经历了一九九八年风浪和危机的考验之后，中国迈向新世纪的步伐会更加自信，更加稳健。">虽然有社会学家认为，保持社会政治稳定将是明年中国面临的重要问题。但人们有理由相信，在经历了一九九八年风浪和危机的考验之后，中国迈向新世纪的步伐会更加自信，更加稳健。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社华盛顿１２月２９日电（记者杨明）" DiscourseTopic="鲍萨准备教训泰森">
+    <LEAD>鲍萨今天发话，他要在１月１６日拳战中，象霍利菲尔德那样好好教训一下“世界上最坏的人”。</LEAD>
+    <ABSTRACT>鲍萨今天发话，他要在１月１６日拳战中，象霍利菲尔德那样好好教训一下“世界上最坏的人”。鲍萨今天说：“我准备用霍利菲尔德的招数对付泰森，以主动进攻和首先出拳制服他。”鲍萨在拉斯韦加斯的训练营地说，你不能站在他面前不动窝，也不出手。我得象霍利菲尔德那样凑近他，缠住或抱住他，在后几回合中尤其要这样。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="4" ParagraphPosition="1...1|2...4" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="2...2|3...3|4...4" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...7" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Background" ID="3" Layer="3" ParagraphPosition="6...6|7...7" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="1...4|5...5" ParentId="2" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="鲍萨今天发话，他要在１月１６日拳战中，象霍利菲尔德那样好好教训一下“世界上最坏的人”。">就在舆论认为鲍萨会被泰森的铁拳打得爬不起来的时候，这位南非的世界二流拳手今天发话，他要在１月１６日拳战中，象霍利菲尔德那样好好教训一下“世界上最坏的人”。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="鲍萨今天说：“我准备用霍利菲尔德的招数对付泰森，以主动进攻和首先出拳制服他。”">３０岁的鲍萨今天说：“我准备用霍利菲尔德的招数对付泰森，以主动进攻和首先出拳制服他。”霍氏曾两次战胜前拳王泰森。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="鲍萨在拉斯韦加斯的训练营地说，你不能站在他面前不动窝，也不出手。">“我仔细研究了泰森的拳赛，他挨揍时都是因为对手主动出拳。你不能站在他面前不动窝，也不出手。以前，被他收拾的拳手舍尔顿和布鲁诺都吃了这个亏，”鲍萨在拉斯韦加斯的训练营地说。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="我得象霍利菲尔德那样凑近他，缠住或抱住他，在后几回合中尤其要这样。">“我得象霍利菲尔德那样凑近他，缠住或抱住他，在后几回合中尤其要这样。”</P>
+    <P Function="Comment" ID="5" ParagraphTopic="鲍萨看来下了苦功“备课”，应该说他找到了泰森的弱点，但显然并不是高明之举，而且有可能会激怒泰森。">鲍萨看来下了苦功“备课”，应该说他找到了泰森的弱点，但如此早地暴露出他的心得和战术，显然并不是高明之举，而且有可能会激怒泰森。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="鲍萨总是找“软柿子”捏，泰森之所以选中他，也是因为此君拳头软，肉也不硬的缘故。">这位拳手的以往战绩为３９胜１负，２４次击倒对手。这组数字乍看和泰森的４５胜３败、３９次打翻对手的记录相比并不寒伧，但内情人知道，鲍萨总是找“软柿子”捏，泰森之所以选中他，也是因为此君拳头软，肉也不硬的缘故。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="大概是由于没有一个人赛前看好鲍萨会爆冷门，所以他寂寞得发起狠来。">大概是由于没有一个人赛前看好鲍萨会爆冷门，所以他寂寞得发起狠来。“都觉得我熊，公众依然把泰森当做拳坛上最狠的家伙。那些不知道我的人都说我不会活着爬起来。我可不这样想。我要利用这难得的机会战胜他。比赛后，我会得到应有的敬重。”</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="鲍萨１９９５年战胜德国拳手舒尔兹，但事后由于他药检没通过，王冠被收回。１９９６年１１月他和莫尔争夺该拳王位置，但被对方打败。">鲍萨１９９５年战胜德国拳手舒尔兹，获得了国际拳击联合会拳王称号，但事后由于他药检没通过，王冠被收回。１９９６年１１月他和莫尔争夺该拳王位置，但被对方打败。（完）</P>
+  </TEXT>
+</DOC>

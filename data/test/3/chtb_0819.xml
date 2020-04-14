@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社贝尔格莱德１２月３０日电" DiscourseTopic="南联盟总统发表新年文告">
+    <LEAD>南斯拉夫联盟总统呼吁南斯拉夫人民在新的一年里尽最大努力维护祖国的自由和独立，加强同世界的交往。</LEAD>
+    <ABSTRACT>南斯拉夫联盟总统呼吁南斯拉夫人民在新的一年里尽最大努力维护祖国的自由和独立，加强同世界的交往。对南斯拉夫人民来讲，即将过去的一年是极其艰难和意义重大的一年。在新的一年里，南斯拉夫领导人和全国人民决心用政治手段，通过和平途径解决科索沃问题。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="南斯拉夫联盟总统呼吁南斯拉夫人民在新的一年里尽最大努力维护祖国的自由和独立，加强同世界的交往。">南斯拉夫联盟总统米洛舍维奇３０日晚发表新年文告，呼吁南斯拉夫人民在新的一年里尽最大努力维护祖国的自由和独立，加强同世界的交往。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="对南斯拉夫人民来讲，即将过去的一年是极其艰难和意义重大的一年。">米洛舍维奇说，对南斯拉夫人民来讲，即将过去的一年是极其艰难和意义重大的一年。这一年，南斯拉夫人民团结一致，顶住了空前巨大的压力，粉碎了企图使科索沃脱离塞尔维亚共和国的阴谋，捍卫了国家的统一与人民的自由和尊严。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在新的一年里，南斯拉夫领导人和全国人民决心用政治手段，通过和平途径解决科索沃问题。">南联盟总统指出，在新的一年里，南斯拉夫领导人和全国人民决心用政治手段，通过和平途径解决科索沃问题，以便使科索沃各族人民能够平等和睦地生活在一起。（完）</P>
+  </TEXT>
+</DOC>

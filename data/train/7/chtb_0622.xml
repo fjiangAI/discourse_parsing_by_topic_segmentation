@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社武汉五月十五日电（记者周晓梅杨希伟）" DiscourseTopic="香港与武汉经济技术合作日益紧密">
+    <LEAD>武汉近几年来与香港的经济技术合作日益紧密。</LEAD>
+    <ABSTRACT>武汉近几年来与香港的经济技术合作日益紧密。香港资本已成为武汉市引进境外投资的第一大来源。香港也是武汉最主要的贸易伙伴。武汉与香港的劳务合作也日趋活跃。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="2...3|4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Result" ID="3" Layer="3" ParagraphPosition="1...1|2...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...5|6...6" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="武汉近几年来与香港的经济技术合作日益紧密。">随着中国开放开发重心由沿海向沿江、由东部向中西部的推移，华中地区特大中心城市武汉，近几年来与香港的经济技术合作日益紧密。</P>
+    <P Function="Statement" ID="2" ParagraphTopic="香港资本已成为武汉市引进境外投资的第一大来源。">香港资本已成为武汉市引进境外投资的第一大来源。据武汉市外商投资办公室主任孙怀玉介绍，到目前为止，武汉有香港投资企业二千一百五十家，协议港资二十四点八亿美元，实际投入十二点九亿美元，分别占武汉市外商直接投资总规模的百分之五十七点五、百公之五十六点四和百分之六十四点五。</P>
+    <P Function="Illustration" ID="3" ParagraphTopic="香港大财团，都在武汉投资有一批重大项目，涉及众多领域，投资效益十分可观。">香港新世界集团、九龙仓集团、陆氏集团、中电德信、沿海国际等大财团，都在武汉投资有一批重大项目，涉及工业、机场、道路、桥梁、酒店、房地产、安居工程、商场等领域，投资效益十分可观。香港鸿大行公司投资成立的武汉荣泽印染公司，一九九六年出口创汇一千八百万美元，连续三年居武汉市外资企业出口前三名。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="香港也是武汉最主要的贸易伙伴。">香港也是武汉最主要的贸易伙伴。自一九八五年开展自营出口贸易以来，武汉向香港每年出口的商品占全市累计对外出口总额的一半以上；从武汉发出的供应香港鲜活商品的运输专列，至今已正常运行了三十五年。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="武汉与香港的劳务合作也日趋活跃。">武汉与香港的劳务合作也日趋活跃，仅一九九四年至一九九六年几年间，武汉对香港的劳务合作营业额就超过一千万美元。</P>
+    <P Function="Cause" ID="6" ParagraphTopic="武汉成为内地投资环境最好的城市之一。">武汉市副市长韩忠学认为，武汉是华中地区政治、经济、文化、科教和交通通讯中心，区位优势和流通、交通优势十分吸引人。此外，武汉市对外商投资实行“一个窗口对外、一支笔审批、一条龙服务”的联合审批制度，建立了定期的市长与外商对话制度，设立了专门受理外商投诉机构，成为内地投资环境最好的城市之一。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="香港回归后，汉港两地间在金融、贸易、投资、服务业、科技等领域的合作，将会得到进一步发展。">韩忠学说，香港回归后，汉港两地间在金融、贸易、投资、服务业、科技等领域的合作，将会得到进一步发展。（完）</P>
+  </TEXT>
+</DOC>

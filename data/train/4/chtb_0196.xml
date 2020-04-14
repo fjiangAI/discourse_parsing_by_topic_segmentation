@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="李德民" DiscourseTopic="新闻必须真实">
+    <LEAD>去年１２月２６日，《湖北日报》发表一组文章，点名批评一位乡广播站同志编造《巴国甫撞路卡》新闻稿，并发评论员文章指出：坚持新闻真实性原则，是党的新闻事业的优良传统。</LEAD>
+    <ABSTRACT>去年１２月２６日，《湖北日报》发表一组文章，点名批评一位乡广播站同志编造《巴国甫撞路卡》新闻稿，并发评论员文章指出：坚持新闻真实性原则，是党的新闻事业的优良传统。类似的假新闻和半真半假的新闻，其他报纸，以及电视、广播中也曾有过。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="去年１２月２６日，《湖北日报》发表一组文章，点名批评一位乡广播站同志编造《巴国甫撞路卡》新闻稿，并发评论员文章指出：坚持新闻真实性原则，是党的新闻事业的优良传统。">去年１２月２６日，《湖北日报》发表一组文章，点名批评一位乡广播站同志编造《巴国甫撞路卡》新闻稿，并发评论员文章指出：坚持新闻真实性原则，是党的新闻事业的优良传统。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="类似的假新闻和半真半假的新闻，其他报纸，以及电视、广播中也曾有过。">类似的假新闻和半真半假的新闻，并非《湖北日报》上有，其他报纸，以及电视、广播中也曾有过。假新闻虽然为数甚少，但影响极坏。如果１００条新闻中有一条是假的，读者对另外９９条也会产生怀疑。中国共产党是坚持实事求是原则的党，党的新闻事业也必须坚持实事求是。不管是专业新闻工作者，还是业余爱好者；不管报喜，还是报忧，都得来真的。</P>
+    <P Function="Cause" ID="3" ParagraphTopic="造成新闻失实的原因很多，主要是主观原因。">造成新闻失实的原因很多，主要是主观原因。《湖北日报》登了那位同志的检讨，他说：“我为了评条年终好稿，把过去发生和看到的情况改变时间地点，还捏造了‘税务局长硬要奖给巴国甫５０元’以及‘巴国甫小孩生病急需用钱’等情节”。他想评好稿的心情是可理解的，但要走正路。此外，新闻机构要严格把关，尤其要警惕那些“关系稿”。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="看来，治假新闻得有点切实的办法，登报揭露就很有效。">看来，治假新闻得有点切实的办法，登报揭露就很有效。假新闻可以愚弄读者于一时，但最终被愚弄的还是作者自己。</P>
+  </TEXT>
+</DOC>

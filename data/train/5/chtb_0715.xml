@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电（记者倪四义）" DiscourseTopic="（快讯）中国通过第一部证券法">
+    <LEAD>最高立法机关全国人大常委会今天表决通过中国第一部证券法。</LEAD>
+    <ABSTRACT>最高立法机关全国人大常委会今天表决通过中国第一部证券法。法律分十二章二百一十四条，对证券发行、交易、上市公司收购、证券交易所、证券公司、登记结算机构、交易服务机构、证券业协会、政府监督管理机构和违法法律责任作了一系列规定。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="3...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="最高立法机关全国人大常委会今天表决通过中国第一部证券法。">最高立法机关全国人大常委会今天表决通过中国第一部证券法。法律自一九九九年七月一日起施行。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="法律分十二章二百一十四条，对证券发行、交易、上市公司收购、证券交易所、证券公司、登记结算机构、交易服务机构、证券业协会、政府监督管理机构和违法法律责任作了一系列规定。">法律分十二章二百一十四条，对证券发行、交易、上市公司收购、证券交易所、证券公司、登记结算机构、交易服务机构、证券业协会、政府监督管理机构和违法法律责任作了一系列规定。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="法律明令禁止外资进入中国Ａ股市场。">法律明令禁止外资进入中国Ａ股市场，规定“客户开立帐户，必须持有证明中国公民身份或者中国法人资格的合法证件”。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="法律规定，证券业与银行、信托、保险分业经营，证券自营与代理分开经营；禁止欺诈、内幕交易和操纵市场行为。">法律规定，证券业与银行、信托、保险分业经营，证券自营与代理分开经营；禁止欺诈、内幕交易和操纵市场行为。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="法律根据中国实际，在防范市场风险、规范市场行为和保护投资者利益方面作了详细规定。">法律吸取亚洲金融和证券市场动荡的教训，根据中国实际，在防范市场风险、规范市场行为和保护投资者利益方面作了详细规定。（完）</P>
+  </TEXT>
+</DOC>

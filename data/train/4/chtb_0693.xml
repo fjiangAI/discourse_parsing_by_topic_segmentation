@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月２８日电（记者李晴扬）" DiscourseTopic="华以刚认为韩国围棋实力占优">
+    <LEAD>目前韩国围棋的实力要强于中国和日本两家。</LEAD>
+    <ABSTRACT>目前韩国围棋的实力要强于中国和日本两家。本届比赛中国按照东道主优先的惯例，选派了９名棋手，而日本和韩国分别只有６名棋手和５名棋手。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="目前韩国围棋的实力要强于中国和日本两家。">首届春兰杯世界职业围棋赛今天在这里结束了第二轮的争夺。四名韩国棋手、两名日本棋手和两名中国棋手分别战胜对手，获得了四分之一决赛的入场券。赛后中国围棋协会秘书长华以刚八段认为，这一结果充分表明，目前韩国围棋的实力要强于中国和日本两家。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="本届比赛中国按照东道主优先的惯例，选派了９名棋手，而日本和韩国分别只有６名棋手和５名棋手。">华以刚说，围棋世界无疑是东亚的中国、日本和韩国最强。本届比赛中国按照东道主优先的惯例，选派了９名棋手，而日本和韩国分别只有６名棋手和５名棋手。但两轮下来，中国只有两人进入八强，日本棋手也折损了三分之二；但韩国的５名棋手只有小将睦镇硕今天惜败于中国的常昊，其他４人全都顺利过关，这更加重了他们争夺本次大赛桂冠的筹码。俗话说“兵不在多而在于精，一两个尖子的作用要远远大于人数上的优势。</P>
+    <P Function="Background" ID="3" ParagraphTopic="世界职业围棋赛自１９８８年问世以来，公认为具有世界水平的有五大棋赛，产生了近３０个世界冠军。">世界职业围棋赛自１９８８年问世以来，公认为具有世界水平的有五大棋赛，产生了近３０个世界冠军。其中，韩国棋手夺冠次数超过了一多半，仅李昌镐一人就获得过１１次。而中国只是在１９９５年由马晓春得过两次。这个事实也证明了韩国棋手的雄厚实力。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="中国的常昊和周鹤洋抽签对上韩国的两名世界冠军刘昌赫和曹薰铉还算是不错的结果。">对于明年４月下旬在武汉进行的四分之一决赛，华以刚认为中国的常昊和周鹤洋抽签对上韩国的两名世界冠军刘昌赫和曹薰铉还算是不错的结果。因为中国棋手对这两人是互有胜负，心理上不存在畏难情绪。届时如能放手一搏，充分发挥自己的水平，常、周两人同时闯入四强也不算是非分之想。（完）</P>
+  </TEXT>
+</DOC>

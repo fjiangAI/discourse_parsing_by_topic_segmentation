@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社重庆五月十二日电（记者李佩）" DiscourseTopic="美国罗素二Ｏ－－二Ｏ协会考察中国中西部地区">
+    <LEAD>美国罗素二Ｏ－－二Ｏ协会把目光转向中国的中西部，对重庆市进行了三天的参观考察。</LEAD>
+    <ABSTRACT>美国罗素二Ｏ－－二Ｏ协会把目光转向中国的中西部，对重庆市进行了三天的参观考察。在重庆期间，协会成员听取了市政府关于重庆市发展战略、对外开放优惠政策及投资环境和合作机会的介绍，并参观了中外合资企业。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Behavior-Purpose" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Behavior" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="美国罗素二Ｏ－－二Ｏ协会把目光转向中国的中西部，对重庆市进行了三天的参观考察。">拥有万亿美元可投资金、每年都要选择一个新兴市场作为投资机会的美国罗素二Ｏ－－二Ｏ协会，如今把目光转向中国的中西部。从十日起，这个协会的成员对刚刚升为直辖市的重庆市进行了三天的参观考察。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="在重庆期间，协会成员听取了市政府关于重庆市发展战略、对外开放优惠政策及投资环境和合作机会的介绍，并参观了中外合资企业。">重庆位于中国的西南地区，是中国西部最大的工业城市，也是中国西部利用外国投资最多的城市。今年三月十四日重庆成为中国第四个、也是西部唯一的一个直辖市。在重庆期间，协会成员听取了市政府关于重庆市发展战略、对外开放优惠政策及投资环境和合作机会的介绍，并参观了中外合资企业庆铃汽车公司、浦益斯公司、顶益食品公司等地。此前，这个协会的成员还考察了中部工业名城武汉。</P>
+    <P Function="Background" ID="3" ParagraphTopic="罗素二Ｏ－－二Ｏ协会是乔治·罗素于一九九Ｏ年六月发起成立的组织，由二十家养老金基金组织和二十家大型投资管理公司组成，拥有一万亿美元的可投资金。">罗素二Ｏ－－二Ｏ协会是由世界最大的养老金管理公司弗兰克·罗素公司董事长乔治·罗素于一九九Ｏ年六月发起成立的组织，由二十家养老金基金组织和二十家大型投资管理公司组成，其成员包括美国电话电报公司、波音公司、通用电气公司和国际商用机器公司等大公司的养老基金机构，拥有一万亿美元的可投资金。</P>
+    <P Function="Purpose" ID="4" ParagraphTopic="该协会在中国现有投资达二十亿美元，此次访华的主要目的是考察中国中西部地区的投资环境，了解中国对外开放政策，寻求在三峡工程及中国中西部发展中的投资商机。">据介绍，该协会在中国现有投资达二十亿美元，此次访华的主要目的是考察中国中西部地区的投资环境，了解中国对外开放政策，特别是在金融方面的新情况，以及通过对重庆、武汉为代表的中国中西部地区的考察，寻求在三峡工程及中国中西部发展中的投资商机。（完）</P>
+  </TEXT>
+</DOC>

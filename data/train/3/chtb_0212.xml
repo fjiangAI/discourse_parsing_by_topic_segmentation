@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社巴黎９月１日电（记者张有浩）" DiscourseTopic="法批评美国对古巴的禁运政策">
+    <LEAD>法国批评美国对古巴的禁运政策。</LEAD>
+    <ABSTRACT>法国外长指出美国对古巴实行的禁运是“单方面的”。法国总统批评美国在用一种“原始的”办法对付古巴。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="法国外长指出美国对古巴实行的禁运是“单方面的”。">法国外长朱佩１日在巴黎指出，美国对古巴实行的禁运是“单方面的”，“对法国没有约束力”。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="对古巴的禁运不是联合国决定的，而是美国单方面实行的，法国从来没有参与。">朱佩在法国驻外使节会议上讲话后会见记者时说，对古巴的禁运“不是联合国决定的，而是美国单方面实行的，法国从来没有参与”。他还说，法国政府“甚至指示它的代表，在联合国安理会讨论制裁古巴的议案时不要投赞成票”。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="法国总统批评美国在用一种“原始的”办法对付古巴。">据法新社报道，法国总统密特朗８月３１日在一次谈话中也指出，美国对古巴实行禁运是“掐住了这个国家的脖子”，“令人十分反感”。他批评美国在用一种“原始的”办法对付古巴。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社东京１２月２８日电" DiscourseTopic="日本一新党成立">
+    <LEAD>日本又一个新党派“参议院俱乐部”宣告成立。</LEAD>
+    <ABSTRACT>日本又一个新党派“参议院俱乐部”宣告成立。参加“参议院俱乐部”党派的有：参议院无党派议员椎名素夫、田名部匡省、松冈满寿男、堂本晓子和水野诚一等５人。椎名素夫就任该党党代表。该党的奋斗目标是进行参议院的改革。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="日本又一个新党派“参议院俱乐部”宣告成立。">日本又一个新党派“参议院俱乐部”２８日宣告成立。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="参加“参议院俱乐部”党派的有：参议院无党派议员椎名素夫、田名部匡省、松冈满寿男、堂本晓子和水野诚一等５人。">参加“参议院俱乐部”党派的有：参议院无党派议员椎名素夫、田名部匡省、松冈满寿男、堂本晓子和水野诚一等５人。他们原来都是“参议院之会”的成员。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="椎名素夫就任该党党代表。">椎名素夫就任该党党代表。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="该党的奋斗目标是进行参议院的改革。">该党的奋斗目标是进行参议院的改革。（完）</P>
+  </TEXT>
+</DOC>

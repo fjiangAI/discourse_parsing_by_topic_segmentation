@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京九月一日电（记者袁养和）" DiscourseTopic="“神州五绝石”雨花石面世">
+    <LEAD>以著名油画《良宵》轰动画坛的画家刘宇一教授，日前在南京将他发现的一块雨花石——“神州五绝石”公之于世。</LEAD>
+    <ABSTRACT>以著名油画《良宵》轰动画坛的画家刘宇一教授，日前在南京将他发现的一块雨花石——“神州五绝石”公之于世。这块雨花石形状和大小酷似民间吉祥物长命锁。雨花石正中是一幅十分清晰的中华人民共和国版图的图象。这块雨花石共计五个特征，刘宇一据此命名此石为“神州五绝石”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="以著名油画《良宵》轰动画坛的画家刘宇一教授，日前在南京将他发现的一块雨花石——“神州五绝石”公之于世。">以著名油画《良宵》轰动画坛的画家刘宇一教授，日前在南京将他发现的一块雨花石——“神州五绝石”公之于世。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这块雨花石形状和大小酷似民间吉祥物长命锁。雨花石正中是一幅十分清晰的中华人民共和国版图的图象。">这块雨花石形状和大小酷似民间吉祥物长命锁。雨花石正中是一幅十分清晰的中华人民共和国版图的图象。图象两端高耸，中间凹陷，右边下部突出，犹如一只挺胸鼓肚、引颈长鸣的公鸡；“公鸡”肚侧，隔着一片“海峡”，是一个狭长的“台湾岛”；“公鸡”爪下，是圆圆的“海南岛”。两“岛”的色泽，与“大陆”完全一致。整个图象与中国地图酷似。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这块雨花石共计五个特征，刘宇一据此命名此石为“神州五绝石”。">刘宇一教授说，这块雨花石是他五年前在南京郊外一个雨花石加工场的路上拣到的，回家后仔细端祥，发现了其上的“中国版图”。在这同时，他还发现，在大陆版图上方，沿东北、华北至西北国境线，盘踞着一条口衔明珠的巨龙；在巨龙的上方有一个形似金元宝的金黄色光斑；在大陆版图中部有一串火炬形的条纹，象征着永不熄灭的中华民族的生命之火；再加上此石形似长命锁，共计五个特征。刘宇一据此命名此石为“神州五绝石”。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社杭州十二月二十八日电（记者慎海雄）" DiscourseTopic="钱塘江大堤“豆腐渣”工程九名责任人被逮捕">
+    <LEAD>在钱塘江标准堤塘建设中，以烂泥充当混凝土填入沉井造成重大责任事故的九名责任人，近日被杭州市检察机关依法逮捕。</LEAD>
+    <ABSTRACT>在钱塘江标准堤塘建设中，以烂泥充当混凝土填入沉井造成重大责任事故的九名责任人，近日被杭州市检察机关依法逮捕。在钱塘江大堤建设中，个别施工单位唯利是图，少数领导者见利忘义，肆无忌惮地搞起了“豆腐渣”工程，造成了重大事故隐患。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Result" ID="4" Layer="3" ParagraphPosition="3...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Cause" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="在钱塘江标准堤塘建设中，以烂泥充当混凝土填入沉井造成重大责任事故的九名责任人，近日被杭州市检察机关依法逮捕。">在钱塘江标准堤塘建设中，以烂泥充当混凝土填入沉井造成重大责任事故的九名责任人，近日被杭州市检察机关依法逮捕。</P>
+    <P Function="Background" ID="2" ParagraphTopic="去年开始，在国家有关部门支持下，浙江省和杭州市着手对始建于清朝的钱塘江大堤全面维修。">钱塘江是浙江的“母亲河”，两岸的大堤保护着浙江省的杭嘉湖、宁绍地区和苏南、上海等大片土地。去年开始，在国家有关部门支持下，浙江省和杭州市着手对始建于清朝的钱塘江大堤全面维修。今年上半年，杭州市的市民还踊跃捐款。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="在钱塘江大堤建设中，个别施工单位唯利是图，少数领导者见利忘义，肆无忌惮地搞起了“豆腐渣”工程，造成了重大事故隐患。">但是，在钱塘江大堤建设中，个别施工单位唯利是图，少数领导者见利忘义，肆无忌惮地搞起了“豆腐渣”工程，造成了重大事故隐患。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="施工现场附近的村民在发现施工单位以烂泥混充混凝土填入沉井的恶劣行径后，立即向上级部门和新闻单位举报，得到了浙江省水利厅和杭州市有关领导的重视。">今年九月，施工现场附近的村民在发现施工单位以烂泥混充混凝土填入沉井的恶劣行径后，立即向上级部门和新闻单位举报，得到了浙江省水利厅和杭州市有关领导的重视。今年十月，浙江省水利厅和杭州市政府联合调查组在对钱塘江下沙标准海塘工程进行检查时，果然发现一段造价近五百万元、按照百年一遇标准设计的标准海塘，关键部位的基础沉井中，竟然被施工单位用泥沙代替混凝土回填了进去，造成了严重质量隐患。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="经过水利、公安、纪检、监察等部门的调查，这是一起人为的偷工减料、弄虚作假的严重堤塘安全责任事故。检察机关决定对涉嫌犯罪的九人予以逮捕。">经过水利、公安、纪检、监察等部门的调查，这是一起人为的偷工减料、弄虚作假的严重堤塘安全责任事故。检察机关决定对涉嫌犯罪的九人予以逮捕。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="被用烂泥混充混凝土填入沉井的钱塘江部分江堤已经得到重新修整。">目前，被用烂泥混充混凝土填入沉井的钱塘江部分江堤已经得到重新修整。（完）</P>
+  </TEXT>
+</DOC>

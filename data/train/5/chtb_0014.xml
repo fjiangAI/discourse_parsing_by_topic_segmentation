@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月二十七日电" DiscourseTopic="中韩经贸研讨会即将在北京举行">
+    <LEAD>中韩首次经贸研讨会将于今年四月十八日至十九日在北京举行。</LEAD>
+    <ABSTRACT>中韩首次经贸研讨会将于今年四月十八日至十九日在北京举行，会议议题包括：中国对外贸易及合作的新政策，汽车、民用航空、高清晰度电视和程控交换机四大领域合作谈判进展，中国国内流通领域的对外开放问题。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中韩首次经贸研讨会将于今年四月十八日至十九日在北京举行。">正值中国与韩国双边贸易额大幅增长之际，一项大型的中韩经贸研讨会将于今年四月十八日至十九日在北京举行。这是中韩双方首次举办的专门讨论两国经贸交流与合作的大型研讨会。业内人士认为，它将为中韩两国经贸界提供一次扩大交流与合作的良机。</P>
+    <P Function="Background" ID="2" ParagraphTopic="近年来，中韩两国之间的经贸往来发展迅速。">近年来，中韩两国之间的经贸往来发展迅速。截止去年九月，韩国在华投资企业总数为五千八百八十三家，中国已成为韩国最大的投资对象国。据中国海关统计，一九九五年两国贸易额已达一百六十九点八亿美元，比前年增长百分之四十四点八。经济专家预计，今年中韩两国贸易额将增至二百五十亿美元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在研讨会上中方将着重介绍一系列对外贸易及合作的新政策。">据悉，在中韩首次举办的专门讨论两国经贸交流与合作的大型研讨会上，中国有关部委的权威人士将在会上着重介绍中国即将公布的一系列对外贸易及合作的新政策，其中包括有关降低进口产品关税、外资企业出口产品退税、外资企业进口设备取消减免税以及加工贸易保证金台帐制度等海外投资者十分关注的问题。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="汽车、民用航空、高清晰度电视和程控交换机四大领域合作谈判进展也是主要议题。">此外，经贸界人士关心的中韩在汽车、民用航空、高清晰度电视和程控交换机四大领域的合作谈判进展情况，也是此次研讨会主要议题之一。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="中韩经贸研讨会由中韩联合举办，还将介绍中国国内流通领域的对外开放问题。">这次中韩经贸研讨会由中国新华通讯社对外部、对外贸易经济合作部亚洲司与韩国驻华使馆、大韩贸易振兴公社联合举办。据称，研讨会上还将介绍韩国中小企业家们尤为关注的中国国内流通领域的对外开放问题。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社大马士革４月３０日电（记者王根宝）" DiscourseTopic="中国公司中标承建叙利亚棉纺厂工程">
+    <LEAD>中国纺织工业对外经济技术合作公司中标承建总投资为１.８２5亿的叙利亚杰布莱棉纺厂工程。</LEAD>
+    <ABSTRACT>中国纺织工业对外经济技术合作公司中标承建总投资为１.８２5亿的叙利亚杰布莱棉纺厂工程。这是一项包括设计、土建施工、成套设备供应、安装调试直至正常生产的“交钥匙”工程。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="中国纺织工业对外经济技术合作公司中标承建总投资为１">中国纺织工业对外经济技术合作公司击败来自日本、法国、德国、意大利、西班牙等９家国际大公司，中标承建总投资为１.８２5亿的叙利亚杰布莱棉纺厂工程。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="承建项目合同签字仪式当天在这里举行。">承建项目合同签字仪式当天在这里举行。中纺公司总裁贝聿泷和叙纺织工业总公司总经理祖阿比分别在合同书上签字。叙工业部长尼兹姆丁和中国驻叙大使吴珉珉参加了签字仪式。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="这是一项包括设计、土建施工、成套设备供应、安装调试直至正常生产的“交钥匙”工程。">贝聿泷总裁对本社记者说，这是一项包括设计、土建施工、成套设备供应、安装调试直至正常生产的“交钥匙”工程。杰布莱棉纺厂为２.４万锭的特大型棉纺成套项目，其设计能力将占叙全国棉纺总产量的２５％，是目前为止中国纺织工业对外承建的最大项目。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="该项目的实施将推动中叙两国经贸关系进一步发展，标志着中国纺织机械成套设备制造水平已提高到一个新的水平，具备了参与国际竞争的能力。">他说，该项目的实施将推动中叙两国经贸关系进一步发展，标志着中国纺织机械成套设备制造水平已提高到一个新的水平，具备了参与国际竞争的能力。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="杰布莱棉纺厂是叙最大的一个棉纺项目。">尼兹姆丁部长指出，杰布莱棉纺厂是叙最大的一个棉纺项目。他希望该厂年产棉纱２.４万吨用以出口。他说，“叙去年棉花产量达６４万吨，我们希望把大量的棉花加工棉纱后对外出口。”（完）</P>
+  </TEXT>
+</DOC>

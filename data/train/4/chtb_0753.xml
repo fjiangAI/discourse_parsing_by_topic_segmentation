@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社哈瓦那１２月２９日电（记者赵焱）" DiscourseTopic="古巴评出’９８拉美地区最佳运动员">
+    <LEAD>古巴今天评出’９８拉美地区最佳运动员，多米尼加棒球运动员萨米·索萨和哥斯达黎加女子游泳运动员克劳蒂娅·波尔力挫群雄，荣登榜首。</LEAD>
+    <ABSTRACT>古巴今天评出’９８拉美地区最佳运动员，多米尼加棒球运动员萨米·索萨和哥斯达黎加女子游泳运动员克劳蒂娅·波尔力挫群雄，荣登榜首。萨米·索萨长年在美国参加棒球职业赛，荣膺本赛季“最有价值球员”称号；而波尔这位女中豪杰，这些年来“劈波斩浪”，在拉美地区早已家喻户晓。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="3" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="古巴今天评出’９８拉美地区最佳运动员，多米尼加棒球运动员萨米·索萨和哥斯达黎加女子游泳运动员克劳蒂娅·波尔力挫群雄，荣登榜首。">古巴今天评出’９８拉美地区最佳运动员，多米尼加棒球运动员萨米·索萨和哥斯达黎加女子游泳运动员克劳蒂娅·波尔力挫群雄，荣登榜首。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="萨米·索萨长年在美国参加棒球职业赛，荣膺本赛季“最有价值球员”称号；而波尔这位女中豪杰，这些年来“劈波斩浪”，在拉美地区早已家喻户晓。">萨米·索萨长年在美国参加棒球职业赛，荣膺本赛季“最有价值球员”称号；而波尔这位女中豪杰，这些年来“劈波斩浪”，在拉美地区早已家喻户晓。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="此次评选还选出１０名优秀运动员。">此次评选还选出１０名优秀运动员，按得票多少依次为：智利网球运动员里奥斯，古巴田径运动员索托马约尔，巴拉圭足球运动员奇拉维特，阿根廷轮滑运动员安德丽娅·冈萨雷斯，古巴柔道运动员德奥丽丝·冈萨雷斯，古巴拳击运动员萨翁，巴西游泳运动员舍雷尔，波多黎各棒球运动员威廉姆斯，古巴田径运动员佩德鲁索，苏里南游泳运动员阿黛尔。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="在这次评选中，古巴女排众望所归，当选为’９８拉美地区最优秀球队。">在这次评选中，古巴女排众望所归，当选为’９８拉美地区最优秀球队。（完）</P>
+  </TEXT>
+</DOC>

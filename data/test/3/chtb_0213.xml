@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社波恩８月３１日电（记者李钟发）" DiscourseTopic="德、俄将加强反核走私行动">
+    <LEAD>德国和俄罗斯准备加强反国际核材料走私行动。</LEAD>
+    <ABSTRACT>德国和俄罗斯准备加强反国际核材料走私行动。德国总理和俄罗斯总统希望能查清已发现的核材料走私，并阻止新的核材料走私活动。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="德国和俄罗斯准备加强反国际核材料走私行动。">德国政府发言人福格尔３１日表示，德国和俄罗斯准备加强反国际核材料走私行动，并主张两国情报部门在这方面加强信息交流。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="德国总理和俄罗斯总统希望能查清已发现的核材料走私，并阻止新的核材料走私活动。">福格尔说，德国总理科尔和俄罗斯总统叶利钦希望“能顺利查清已发现的核材料走私，并及时阻止新的核材料走私活动”。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="科尔和叶利钦还讨论了波黑问题。">科尔和叶利钦在出席最后一批俄罗斯军队撤离德国的仪式后，还讨论了波黑问题。双方表示希望在和平计划的基础上“能和平地解决波黑问题”。双方还打算进一步加强两国在外交和安全政策方面的合作，加强两国在俄罗斯和北约合作范围内的联合军事演习。（完）</P>
+  </TEXT>
+</DOC>

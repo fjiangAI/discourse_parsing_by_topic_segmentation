@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社华盛顿１２月３０日电（记者杨明）" DiscourseTopic="ＮＢＡ球员将对资方作最后让步">
+    <LEAD>球员们本周五前也将向对方发出“最后”通牒，进行最后一次让步。</LEAD>
+    <ABSTRACT>球员们本周五前也将向对方发出“最后”通牒，进行最后一次让步。劳方力争在１月７日资方定的最后期限内，能使双方达成协议，挽救赛季</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...7" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="4|5" Function="Story" ID="3" Layer="2" ParagraphPosition="3...4|5...5|6...7" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="3" ParagraphPosition="6...6|7...7" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="球员们本周五前也将向对方发出“最后”通牒，进行最后一次让步。">在ＮＢＡ资方向劳方发出“最后”让步通牒后，今晚工会头领亨特也宣布，球员们本周五前也将向对方发出“最后”通牒，进行最后一次让步。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="劳方力争在１月７日资方定的最后期限内，能使双方达成协议，挽救赛季">“我已经打电话给斯特恩，要求他把我们的最后方案递交给资方劳工委员会，力争在１月７日他们定的最后期限内，能使双方达成协议，挽救赛季，”强硬的亨特今天口气相当缓和。他将以上信息通知了全体球员。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="全体球员不会对斯特恩传给他们的资方方案秘密投票，除非大多数人要求那样做。">工会主席尤因透露说，全体球员不会对斯特恩传给他们的资方方案秘密投票，除非大多数人要求那样做。目前，除威廉姆斯和威利斯公开呼吁外，只有极少数人赞成投票。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="到今天为止，没有一个人提出投票表决的要求。">“昨天我们在电话会议上征询了大家的意见，到今天为止，没有一个人提出投票表决的要求，”尤因说。工会给球员留下了录音电话，任何人都可以随时打进去。“谈判委员会的工作就是反映广大球员的意愿。我现在对报纸上和经纪人的话都不信，我只需要听球员的，”一位谈判委员说。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="斯特恩周一曾要求球员对资方最终方案进行秘密投票表决，亨特建议不要接受这个方案。">斯特恩周一曾要求球员对资方最终方案进行秘密投票表决，他还给媒体传去资方方案，并标出他们在哪些环节上让了步。但亨特曾在给球员的信中说：“我和谈判委员认为资方连我们要求的一半都没达到，所以，我们建议你们不要接受这个方案。”</P>
+    <P Function="Sub-Summary" ID="6" ParagraphTopic="今天亨特又有新的说辞：“我一直说双方分歧并不大，资方的方案已经铺平了部分道路。现在是我们最后一次坐下来，把各自让步的底细和盘托出，互相再让一步以便保住赛季的时候了。”">但今天亨特又有新的说辞：“我一直说双方分歧并不大，资方的方案已经铺平了部分道路。现在是我们最后一次坐下来，把各自让步的底细和盘托出，互相再让一步以便保住赛季的时候了。”</P>
+    <P Function="Situation" ID="7" ParagraphTopic="劳方也在作最后的努力，但相信坐在一起后，分歧依然存在。">看来，劳方也在作最后的努力，但相信坐在一起后，分歧依然存在，不知道这最后一次谈判是以赛季死亡而告结束，还是双方能再推出最后之让步。希望是最后这一种。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社奥克兰（新西兰）４月２３日电（记者陈进军）" DiscourseTopic="中国人大代表团结束访新">
+    <LEAD>由田纪云副委员长率领的中国全国人大代表团结束了对新西兰为期６天的访问。</LEAD>
+    <ABSTRACT>由田纪云副委员长率领的中国全国人大代表团结束了对新西兰为期６天的访问。田纪云在新西兰期间，分别会见了新西兰议长塔普塞尔、总理博尔格以及其他政府高级官员。他还同新西兰工商界的朋友及华人华侨进行了广泛的接触。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="由田纪云副委员长率领的中国全国人大代表团结束了对新西兰为期６天的访问。">由田纪云副委员长率领的中国全国人大代表团结束了对新西兰为期６天的访问，今晚离开这里前往西萨摩亚首都阿皮亚。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="田纪云在新西兰期间，分别会见了新西兰议长塔普塞尔、总理博尔格以及其他政府高级官员。他还同新西兰工商界的朋友及华人华侨进行了广泛的接触。">田纪云在新西兰期间，分别会见了新西兰议长塔普塞尔、总理博尔格以及其他政府高级官员。他还同新西兰工商界的朋友及华人华侨进行了广泛的接触。双方表示要进一步在经济领域加强合作。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="中国人大代表团还将访问巴布亚新几内亚和澳大利亚。">除西萨摩亚之外，中国人大代表团还将访问巴布亚新几内亚和澳大利亚。（完）</P>
+  </TEXT>
+</DOC>

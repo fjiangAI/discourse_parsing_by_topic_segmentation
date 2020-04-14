@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十三日电（记者钱彤、陆滢）" DiscourseTopic="中国有色金属行业保持十五年持续增长">
+    <LEAD>中国有色金属行业实现连续十五年持续增长。</LEAD>
+    <ABSTRACT>中国有色金属行业实现连续十五年持续增长。今年中国十种常用有色金属产量预计完成五百三十万吨。预计总公司直属企业，今年可实现利润一亿元，实现税金二十七亿元。企业改革也取得新进展。三个股份制企业股票上市，直接融资二十八亿元。国际交流也取得进步，预计全年总公司进出口总额十八亿美元，出口总额十三亿美元。对外承包工程十八项，合同金额五亿美元。有色总公司今年还安排直接找矿投资二亿元。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国有色金属行业实现连续十五年持续增长。">中国有色金属行业在过去一年中继续保持世界第二位的总产量，实现连续十五年持续增长。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="今年中国十种常用有色金属产量预计完成五百三十万吨。预计总公司直属企业，今年可实现利润一亿元，实现税金二十七亿元。">记者从今日在京召开的全国有色金属工作会议上了解到，今年中国十种常用有色金属产量预计完成五百三十万吨，其中包括一百零五万吨铜，二百零五万吨铝，六十万吨铅和一百三十五万吨锌。据中国有色金属总公司有关人士介绍，虽然今年一至四月总公司直属企业出现盈亏相抵后净亏损的情况，但从五月份开始，亏损企业亏损额逐月下降，盈利企业利润额逐月增加。预计总公司直属企业，包括三个上市公司，今年可实现利润一亿元，实现税金二十七亿元。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="企业改革也取得新进展。三个股份制企业股票上市，直接融资二十八亿元。">企业改革也取得新进展。三个股份制企业股票上市，直接融资二十八亿元。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="国际交流也取得进步，预计全年总公司进出口总额十八亿美元，出口总额十三亿美元。对外承包工程十八项，合同金额五亿美元。">国际交流也取得进步，预计全年总公司进出口总额十八亿美元，出口总额十三亿美元。对外承包工程十八项，合同金额五亿美元。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="有色总公司今年还安排直接找矿投资二亿元。">有色总公司今年还安排直接找矿投资二亿元。本年度探明铜储量三十万吨、铝土矿二千三百六十万吨、黄金四十吨、白银一千二百四十六吨，锑六点八万吨。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="囚犯参与剧本创作获殊荣">
+    <LEAD>七名来自大屿山高度设防的石壁监狱的犯人参与一项广播剧本创作比赛，成绩蜚然。</LEAD>
+    <ABSTRACT>七名来自大屿山高度设防的石壁监狱的犯人参与一项广播剧本创作比赛，成绩蜚然。由教育署及两间传播机构合办以「敬师爱生」为主题的剧本创作比赛中，他们获得两个奖项。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="5" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...3|4...5" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="七名来自大屿山高度设防的石壁监狱的犯人参与一项广播剧本创作比赛，成绩蜚然。">七名来自大屿山高度设防的石壁监狱的犯人参与一项广播剧本创作比赛，成绩蜚然。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="由教育署及两间传播机构合办以「敬师爱生」为主题的剧本创作比赛中，他们获得两个奖项。">由教育署及两间传播机构合办以「敬师爱生」为主题的剧本创作比赛中，他们获得两个奖项。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="参赛犯人的创作除在高中组方面获取优异奖外，并夺得全场最佳剧本奖的殊荣。">参赛犯人的创作除在高中组方面获取优异奖外，并夺得全场最佳剧本奖的殊荣。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="剧本环绕一名中四学生第一日前往一间学校插班报到时接触教师和校长的经历及从中所得到的启发。">在石壁监狱，鼓励他们参赛及给予指导的主任教师说，剧本环绕一名中四学生第一日前往一间学校插班报到时接触教师和校长的经历及从中所得到的启发。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="在广播剧中，犯人分别扮演该名十九岁曾多次退学的学生及其家长，教师，校长和其他学生。">他说在广播剧中，犯人分别扮演该名十九岁曾多次退学的学生及其家长，教师，校长和其他学生。</P>
+    <P Function="Comment" ID="6" ParagraphTopic="有关的比赛有助推动参赛者学习及创作兴趣，并促进他们对教师及社会的尊敬和了解。">有关的比赛有助推动参赛者学习及创作兴趣，并促进他们对教师及社会的尊敬和了解。</P>
+  </TEXT>
+</DOC>

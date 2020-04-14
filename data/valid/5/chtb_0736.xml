@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电（通讯员益仲轩、记者李煦）" DiscourseTopic="北京一抢劫邮政储蓄所罪犯被判死刑">
+    <LEAD>北京市第一中级人民法院今天上午开庭审理了郭辉持械抢劫邮政储蓄所、杀死营业员案，认定郭辉犯故意杀人罪、抢劫罪，依法判处郭辉死刑，剥夺政治权利终身。</LEAD>
+    <ABSTRACT>北京市第一中级人民法院今天上午开庭审理了郭辉持械抢劫邮政储蓄所、杀死营业员案，认定郭辉犯故意杀人罪、抢劫罪，依法判处郭辉死刑，剥夺政治权利终身。北京市第一中级人民法院认为，郭辉已构成故意杀人罪、抢劫罪。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...3|4...4" ParentId="2" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="北京市第一中级人民法院今天上午开庭审理了郭辉持械抢劫邮政储蓄所、杀死营业员案，认定郭辉犯故意杀人罪、抢劫罪，依法判处郭辉死刑，剥夺政治权利终身。">北京市第一中级人民法院今天上午开庭审理了郭辉持械抢劫邮政储蓄所、杀死营业员案，认定郭辉犯故意杀人罪、抢劫罪，依法判处郭辉死刑，剥夺政治权利终身。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="郭辉因为工作常出差错，被邮局辞退。郭辉被辞退后，便预谋策划抢劫龙河路邮政储蓄所。">年仅二十岁的郭辉系北京大兴县农民，三年前到大兴县邮政局工作，因为工作常出差错，于一九九八年十月被邮局辞退。郭辉被辞退后，便预谋策划抢劫龙河路邮政储蓄所。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="十一月十四日中午，郭辉携带尖刀，来到龙河路邮政储蓄所，见女营业员张丽正准备关门，便趁其不备，用尖刀将张挟持至储蓄所休息室内，将张的手脚捆绑并蒙面、堵嘴后，抢劫储蓄所的营业款五千多元人民币。见张欲挣脱反抗，起身呼喊，郭辉持刀将张丽杀害，并伪造现场后逃离。">十一月十四日中午，郭辉携带尖刀，来到龙河路邮政储蓄所，见女营业员张丽正准备关门，便趁其不备，用尖刀将张挟持至储蓄所休息室内，将张的手脚捆绑并蒙面、堵嘴后，抢劫储蓄所的营业款五千多元人民币。见张欲挣脱反抗，起身呼喊，郭辉持刀将张丽杀害，并伪造现场后逃离。</P>
+    <P Function="Result" ID="4" ParagraphTopic="北京市第一中级人民法院认为，郭辉已构成故意杀人罪、抢劫罪。">北京市第一中级人民法院认为，郭辉无视国法，持械抢劫金融机构，并杀人灭口，犯罪性质恶劣，情节、后果特别严重，社会危害性极大，行为已构成故意杀人罪、抢劫罪。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="郭辉的女友阮芳提供伪证，对郭辉进行包庇。法院以包庇罪判处其有期徒刑四年。">现年十八岁的郭辉的女友阮芳，明知郭辉犯有抢劫、杀人等罪行，公安机关两次向她调查时，仍隐瞒事实，提供伪证，对郭辉进行包庇。法院以包庇罪判处其有期徒刑四年。（完）</P>
+  </TEXT>
+</DOC>

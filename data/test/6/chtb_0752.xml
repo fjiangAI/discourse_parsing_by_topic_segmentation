@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社索非亚１２月２９日电（记者杨耀华）" DiscourseTopic="保十佳运动员评选揭晓">
+    <LEAD>１９９８年度保加利亚十佳运动员评选今天揭晓，保冬季两项女运动员达福夫斯卡以１９３０分名列第一。</LEAD>
+    <ABSTRACT>１９９８年度保加利亚十佳运动员评选今天揭晓，保冬季两项女运动员达福夫斯卡以１９３０分名列第一。达福夫斯卡今年初在日本长野举行的冬季奥运会上获得了冬季两项项目的金牌。在刚刚于上周揭晓的巴尔干十佳运动员评选中，她也名列榜首。获得保十佳第二位的运动员是自由式摔交世界和欧洲冠军伯尔扎科夫名列第三的是举重运动员热利亚兹科夫。获得十佳的其他运动员依次为瓦内夫（举重）、迪米特洛娃（田径）、格罗兹德娃（射击）、纳扎良（古典式摔交）、拉达诺娃（短道速滑）、比内夫（相扑）、达切夫（田径）。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="2...2|3...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="１９９８年度保加利亚十佳运动员评选今天揭晓，保冬季两项女运动员达福夫斯卡以１９３０分名列第一。">１９９８年度保加利亚十佳运动员评选今天揭晓，保冬季两项女运动员达福夫斯卡以１９３０分名列第一。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="达福夫斯卡今年初在日本长野举行的冬季奥运会上获得了冬季两项项目的金牌。在刚刚于上周揭晓的巴尔干十佳运动员评选中，她也名列榜首。">达福夫斯卡今年初在日本长野举行的冬季奥运会上获得了冬季两项项目的金牌。在刚刚于上周揭晓的巴尔干十佳运动员评选中，她也名列榜首。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="获得保十佳第二位的运动员是自由式摔交世界和欧洲冠军伯尔扎科夫名列第三的是举重运动员热利亚兹科夫。">获得保十佳第二位的运动员是自由式摔交世界和欧洲冠军伯尔扎科夫（１６２７分），名列第三的是不久前在芬兰举行的世界举重锦标赛上打破了６９公斤级抓举世界纪录的举重运动员热利亚兹科夫。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="获得十佳的其他运动员依次为瓦内夫（举重）、迪米特洛娃（田径）、格罗兹德娃（射击）、纳扎良（古典式摔交）、拉达诺娃（短道速滑）、比内夫（相扑）、达切夫（田径）。">获得十佳的其他运动员依次为瓦内夫（举重）、迪米特洛娃（田径）、格罗兹德娃（射击）、纳扎良（古典式摔交）、拉达诺娃（短道速滑）、比内夫（相扑）、达切夫（田径）。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="同时当选保加利亚三名优秀教练员的分别是举重教练阿巴吉耶夫、自由式摔交教练佐切夫和冬季两项教练哈吉耶夫。">同时当选保加利亚三名优秀教练员的分别是举重教练阿巴吉耶夫、自由式摔交教练佐切夫和冬季两项教练哈吉耶夫。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="保体育十佳评选已有４１年历史，保总统斯托扬诺夫亲自为获奖运动员颁了奖。">保体育十佳评选已有４１年历史，参加今年评选的共有１９７名体育记者。颁奖仪式在保总统府举行，保总统斯托扬诺夫亲自为获奖运动员颁了奖。（完）</P>
+  </TEXT>
+</DOC>

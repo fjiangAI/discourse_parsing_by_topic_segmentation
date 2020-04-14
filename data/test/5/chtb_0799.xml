@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社深圳十二月三十日电（记者何广怀）" DiscourseTopic="二十亿普惠证券投资基金今天上网发售">
+    <LEAD>规模为二十亿元的普惠证券投资基金今天在深圳证券交易所上网发售。</LEAD>
+    <ABSTRACT>规模为二十亿元的普惠证券投资基金今天在深圳证券交易所上网发售。这是今年以来在中国股市出现的第六只大型证券投资基金，旨在进一步加强证券市场中机构投资者的力量。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="规模为二十亿元的普惠证券投资基金今天在深圳证券交易所上网发售。">规模为二十亿元的普惠证券投资基金今天在深圳证券交易所上网发售，一天之内被认购一空。每基金单位面值为一元，认购价一点零一元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这是今年以来在中国股市出现的第六只大型证券投资基金，旨在进一步加强证券市场中机构投资者的力量。">这是今年以来在中国股市出现的第六只大型证券投资基金，旨在进一步加强证券市场中机构投资者的力量。按规定，普惠基金投资于股票、债券的比例不能低于其资产净值的百分之八十。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="普惠基金的发起人是国信证券公司，基金管理人为鹏华基金管理有限公司，基金托管人由交通银行出任。">据了解，普惠基金的发起人是总部设在深圳的国信证券公司，基金管理人为鹏华基金管理有限公司，基金托管人则由交通银行出任。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="今年三月至七月先后投入运作的五只基金，已分别有百分之三点二至百分之八点九的净值升值。">据截止到十二月十八日，在今年三月至七月先后投入运作的开元、金泰、兴华、安信、裕阳五只基金，已分别有百分之三点二至百分之八点九的净值升值。</P>
+    <P Function="Comment" ID="5" ParagraphTopic="这批大型证券投资基金操作稳健，对稳定股市起了一定的作用，今年中国股市的波动幅度比往年大为收窄。">此间证券分析员认为，这批大型证券投资基金操作稳健，对稳定股市起了一定的作用，今年中国股市的波动幅度比往年大为收窄。（完）</P>
+  </TEXT>
+</DOC>

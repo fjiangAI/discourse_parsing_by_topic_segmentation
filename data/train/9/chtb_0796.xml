@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社澳门十二月三十日电（记者王志根唐小可）" DiscourseTopic="澳门“三大问题”的解决取得一定进展">
+    <LEAD>与澳门政权交接密切相关的“三大问题”的解决取得了一定进展。</LEAD>
+    <ABSTRACT>与澳门政权交接密切相关的“三大问题”的解决取得了一定进展。“三大问题”指公务员本地化、中文的官方地位和法律本地化问题。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="4...4|5...7" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="7" Layer="5" ParagraphPosition="1...1|2...2" ParentId="6" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="5...5|6...6|7...7" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...7|8...8" ParentId="1" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...7" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Summary" ID="6" Layer="4" ParagraphPosition="1...2|3...3" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="与澳门政权交接密切相关的“三大问题”的解决取得了一定进展。">即将过去的一九九八年，在中葡双方的共同努力和澳门社会各界的积极参与、促进下，与澳门政权交接密切相关的“三大问题”的解决取得了一定进展。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="“三大问题”指公务员本地化、中文的官方地位和法律本地化问题。">“三大问题”指公务员本地化、中文的官方地位和法律本地化问题。妥善而尽快地解决这些问题，直接关系到一九九九年十二月二十日中国对澳门恢复行使主权的顺利与否，和澳门特别行政区成立后的正常运作，直接关系到在澳门落实“一国两制”方针，实现“澳人治澳”、高度自治的根本问题。</P>
+    <P Function="Background" ID="3" ParagraphTopic="“三大问题”由来已久。">“三大问题”由来已久。到一九八七年中葡联合声明签署时，澳门政府中几乎所有的中高级职位均为葡萄牙人和土生葡人（即在澳门出生的葡萄牙人后裔）担任。直至一九九三年才任命了第一位华人副司长；占澳门人口百分之九十六以上居民所使用的中文，在澳葡政府的行政、立法、司法活动中没有任何地位；澳门的大量法律是葡萄牙法律的延伸或由葡萄牙政府为澳门所立，司法系统则完全依附于葡萄牙司法机关。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="在中国政府和澳门社会各界的重视和推动下，近几年来，澳葡政府采取了一些措施解决“三大问题”。">在中国政府和澳门社会各界的重视和推动下，近几年来，澳葡政府采取了一些措施解决“三大问题”。特别是一九九八年，随着中国对澳门恢复行使主权的日期日益迫近，解决“三大问题”的进程逐渐加快。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="在公务员本地化方面采取的措施。">在公务员本地化方面，一九九三年，澳督韦奇立向各政务司下达了一份有关公务员本地化计划的备忘录，作为本地化工作的一项方针；一九九六年，政府各部门百分之七十以上的处长、组长实现了本地化；一九九七年十一月，澳葡政府任命了历史上第一位华人司长；澳葡政府还提出了在一九九八年底前基本实现公务员本地化的目标。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="在中文的官方地位问题上采取的措施。">在中文的官方地位问题上，一九九一年二月，中葡外长在里斯本达成协议，第二年澳葡政府正式发布了承认中文作为官方语言的法令；在一九九三年《中华人民共和国澳门特别行政区基本法》颁布后，确定了中文在未来澳门特别行政区的官方语言地位。截至目前，澳葡政府的法律、法令已基本上实现了用中、葡文同时颁布，政府各机关也配备了双语译员，居民已可以用中文填写各种表格、申请。土生葡人和澳葡政府的一些官员中，也出现了积极学习中文的现象。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="在法律本地化方面采取的措施。">法律本地化方面，澳葡政府设立了专门机构，清理、翻译、修订现有的数百个法律文件，并提交本地立法机构通过生效。优先处理的五大法典中，《刑法典》和《刑事诉讼法典》已颁布生效，《民法典》、《民事诉讼法典》和《商法典》则仍在修订之中。一九九六年，产生了第一位本地华人法官，到目前，已有近二十位本地华人担任司法官员，五位华人担任律师；对个别案件开始直接用中文审理。</P>
+    <P Function="Contrast" ID="8" ParagraphTopic="“三大问题”的解决取得一定进展，但仍存在明显不足。">“三大问题”的解决取得一定进展，但仍存在明显不足。特别是在公务员本地化这个事关澳门平稳过渡、政权顺利交接的重要问题上，存在着相当的不足。三十六个常设司级政府部门，至今以中文为母语的本地公务员担任司长的只有数位。这种状况与基本实现公务员本地化尚有很大距离。在中文的官方地位问题上，目前居民用中文写申请、填表格，得到批准或答复的时间明显慢于使用葡文，立法上仍然使用葡文。法律本地化方面，三大法典需加快出台进程，华人法官、律师也需加快培养。“三大问题”互相交叉，互相影响，因此在解决进程上也应该同步。</P>
+    <P Function="Supplement" ID="9" ParagraphTopic="解决“三大问题”是实现“一国两制”、“澳人治澳”，高度自治的基本前提。">解决“三大问题”是实现“一国两制”、“澳人治澳”，高度自治的基本前提。现在，距中国政府恢复对澳门行使主权的时间还剩下不到一年，时间可说是相当紧迫。这就要求中葡双方加强合作，加快工作进度，也要求澳门社会各界和广大民众的积极支持和自觉参与，才能够顺利实现澳门的平稳过渡、政权交接，为澳门特别行政区的美好未来打下一个牢固的基础。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="中国邮电部纪念邮摺星期日发售">
+    <LEAD>一套由中国邮电部出版的纪念邮摺将於星期日（七月六日）上午八时至下午四时在以下二十间集邮局发售。</LEAD>
+    <ABSTRACT>一套由中国邮电部出版的纪念邮摺将於星期日（七月六日）上午八时至下午四时在以下二十间集邮局发售。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...12" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="7" Layer="5" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="5" ParagraphPosition="6...6|7...7" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="8" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...10|11...11|12...12" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...9|10...10" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="8|7|6|5" Function="Story" ID="4" Layer="4" ParagraphPosition="2...3|4...5|6...7|8...9" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="8...8|9...9" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="一套由中国邮电部出版的纪念邮摺将於星期日（七月六日）上午八时至下午四时在以下二十间集邮局发售。">邮政署署长霍文今日（星期四）宣布，一套由中国邮电部出版的纪念邮摺将於星期日（七月六日）上午八时至下午四时在以下二十间集邮局发售∶</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="港岛。">港岛－－</P>
+    <P Function="Situation" ID="3" ParagraphTopic="邮政总局香港仔邮政局夏悫道邮政局轩尼诗道邮政局山顶邮政局筲箕湾邮政局。">邮政总局香港仔邮政局夏悫道邮政局轩尼诗道邮政局山顶邮政局筲箕湾邮政局</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="九龙。">九龙－－</P>
+    <P Function="Situation" ID="5" ParagraphTopic="机场邮政局长沙湾邮政局九龙中央邮政局九龙城邮政局观塘邮政局旺角邮政局。">机场邮政局长沙湾邮政局九龙中央邮政局九龙城邮政局观塘邮政局旺角邮政局</P>
+    <P Function="Sub-Summary" ID="6" ParagraphTopic="新界。">新界－－</P>
+    <P Function="Situation" ID="7" ParagraphTopic="长发邮政局显径邮政局沙田中央邮政局大埔邮政局荃湾邮政局屯门中央邮政局元朗邮政局。">长发邮政局显径邮政局沙田中央邮政局大埔邮政局荃湾邮政局屯门中央邮政局元朗邮政局</P>
+    <P Function="Sub-Summary" ID="8" ParagraphTopic="离岛。">离岛－－</P>
+    <P Function="Situation" ID="9" ParagraphTopic="长沙邮政局。">长沙邮政局</P>
+    <P Function="Supplement" ID="10" ParagraphTopic="尖沙咀邮政局及加连威老道邮政局於当日并无纪念邮摺发售。">由於该日尖沙咀的大部分主要街道将封闭以便举行巡游，故此尖沙咀邮政局及加连威老道邮政局於当日并无纪念邮摺发售。</P>
+    <P Function="Story-Situation" ID="11" ParagraphTopic="纪念邮摺每个售价港币一百九十元。">纪念邮摺每个售价港币一百九十元，内有一张面额人民币五十元的金箔小型张，以志香港回归中国。</P>
+    <P Function="Story-Situation" ID="12" ParagraphTopic="每名於星期日排队的顾客限购五个纪念邮摺。">每名於星期日排队的顾客限购五个纪念邮摺，其後，剩馀的邮摺会继续在该二十间集邮局发售至售罄为止。</P>
+  </TEXT>
+</DOC>

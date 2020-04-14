@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社罗安达１２月２９日电（记者刘彤）" DiscourseTopic="安哥拉中部地区战事依然激烈">
+    <LEAD>安哥拉军方人士２９日说，反对派武装频频反扑，战事依然激烈。</LEAD>
+    <ABSTRACT>哥拉军方人士２９日说，反对派武装频频反扑，战事依然激烈。反对派争取安哥拉彻底独立全国联盟（安盟）的武装数百人２９日晨向比耶省省会奎托以北３０公里处的库宁加市发动偷袭，政府军顽强抵抗，击毙了数十名安盟士兵，并缴获了一批轻重武器。距奎托仅７公里的贡热镇２８日也受到安盟军队的猛烈攻击。在万博省，战斗主要集中在省城周围的战略要地。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="2...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="安哥拉军方人士２９日说，反对派武装频频反扑，战事依然激烈。">安哥拉军方人士２９日说，尽管政府军最近在中部收复了一些战略要地，并且加固了受到反政府武装围困的万博和奎托市的防线，但反对派武装频频反扑，战事依然激烈。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="反对派争取安哥拉彻底独立全国联盟（安盟）的武装数百人２９日晨向比耶省省会奎托以北３０公里处的库宁加市发动偷袭，政府军顽强抵抗，击毙了数十名安盟士兵，并缴获了一批轻重武器。">比耶省战区司令穆科梅准将说，反对派争取安哥拉彻底独立全国联盟（安盟）的武装数百人２９日晨向比耶省省会奎托以北３０公里处的库宁加市发动偷袭，政府军顽强抵抗，击毙了数十名安盟士兵，并缴获了一批轻重武器。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="距奎托仅７公里的贡热镇２８日也受到安盟军队的猛烈攻击。">此外，距奎托仅７公里的贡热镇２８日也受到安盟军队的猛烈攻击。当地政府人士称，安盟向该地发射了密集的火箭炮。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="在万博省，战斗主要集中在省城周围的战略要地。">在万博省，战斗主要集中在省城周围的战略要地。据万博省副省长席尔瓦介绍，安盟军队２８日企图占领该市以西３０多公里处的卡伦加镇，但在政府军猛烈的火力还击之下，安盟武装不得不后撤。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="据悉，安哥拉中部地区的武装冲突已经开始向南蔓延。">据悉，安哥拉中部地区的武装冲突已经开始向南蔓延。此间媒介报道说，在万博省以南的威拉省北部的卡贡达市２８日也遭到安盟武装的攻击。而在比耶省以南的宽多－库邦戈省，安盟武装在乡村和几乎所有的交通线上频繁活动，那里的形势日趋紧张。</P>
+    <P Function="Background" ID="6" ParagraphTopic="安哥拉政府军从今年１１月下旬起对安盟发起进攻。但本月初以来，安盟军队开始反攻，围困了万博市和奎托市。">安哥拉中部的比耶省和万博省是安盟的政治、军事中心。安哥拉政府军从今年１１月下旬起对安盟发起进攻。但本月初以来，安盟军队开始反攻，围困了万博市和奎托市。（完）</P>
+  </TEXT>
+</DOC>

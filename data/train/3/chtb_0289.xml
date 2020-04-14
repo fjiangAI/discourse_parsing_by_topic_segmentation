@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京八月三十一日电" DiscourseTopic="中国海关总署将实施对知识产权的保护措施">
+    <LEAD>海关将在进出境环节实施对知识产权的保护措施。</LEAD>
+    <ABSTRACT>海关将在进出境环节实施对知识产权的保护措施。公告对进出口货物的知识产权的规定。公告还对知识产权所有人的权利、责任及义务作出规定。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="海关将在进出境环节实施对知识产权的保护措施。">海关总署日前发出公告，根据国家现行有关法律规定和国务院《关于进一步加强知识产权保护工作的决定》，海关将从一九九四年九月十五日起在进出境环节实施对知识产权的保护措施。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="公告对进出口货物的知识产权的规定。">公告明确指出，侵犯知识产权（包括商标专用权、著作权和专利权）的货物不准进口或者出口；海关发现被举报涉嫌侵权的货物和其他有侵犯知识产权嫌疑的货物进出口时，有权要求进出口货物的货人提供使用有关知识产权的合法证明及对其货物的知识产权状况向海关作出补充申报，对不能提供合法证明的货物，海关有权予以退运；进出口激光唱盘、激光视盘和以加工贸易方式进口激光唱盘、激光视盘的模版及料件，收发货人应按国家有关规定，凭音像归口管理部门出具的批准证明办理海关手续；进出口货物收发货人对货物的知识产权状况申报不实及逃避海关监管、走私侵权货物的，由海关依照有关规定处理。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="公告还对知识产权所有人的权利、责任及义务作出规定。">公告还对知识产权所有人的权利、责任及义务作出规定。受中国法律保护的知识产权所有人发现侵犯其知识产权的货物将要进出口的，可以凭知识产权的权利证明（如知识产权的登记注册证书或著作权作品的样本及足以证明其权利的有关材料）向有关货物进出口地海关举报，并可以请求海关在侵权货物进出口时予以查处。知识产权所有人请求海关查处侵权货物时，应对进出口货物构成侵权行为承担举证责任，协助海关开展查缉工作并支付有关货物的鉴定、调查以及其他相关费用。（完）</P>
+  </TEXT>
+</DOC>

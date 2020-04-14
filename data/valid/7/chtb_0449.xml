@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十一月三日电（记者王卫平）" DiscourseTopic="京九铁路工程通过国家验收">
+    <LEAD>京九铁路，今天正式通过国家验收。</LEAD>
+    <ABSTRACT>京九铁路，今天正式通过国家验收。京九铁路线路走向和总体布局合理，输送能力大，并预留了发展条件；工程质量合格率达百分之百；各项技术标准选用适当，工程设计符合国家和铁道部有关新线建设的规定、规范、规程；采用的设备技术先进，系统完整，体现了九十年代科技水平；建设速度快；投资控制好；注意了节地造地和环保工作。京九铁路行经九省市，是中国铁路建设史上规模最大、投资最多、建成线路里程最长的大干线。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...6|7...7" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="4" ParagraphPosition="3...3|4...4" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="6" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...6" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6|5" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...4" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Comment" ID="4" Layer="3" ParagraphPosition="5...5|6...6" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="京九铁路，今天正式通过国家验收。">中国纵贯南北的一大铁路干线——京九铁路，今天正式通过国家验收。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="验收委员集体签字通过了《京九铁路工程验收证书》。">来自国务院有关部委、铁道部、沿线省市的验收委员在对京九铁路沿线为期五天的检查后，今天在此间集体签字通过了《京九铁路工程验收证书》，认为整个工程设计、施工质量优良，是快速、高效建设铁路的典范。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="京九铁路线路走向和总体布局合理，输送能力大，并预留了发展条件；工程质量合格率达百分之百；各项技术标准选用适当，工程设计符合国家和铁道部有关新线建设的规定、规范、规程；采用的设备技术先进，系统完整，体现了九十年代科技水平；建设速度快；投资控制好；注意了节地造地和环保工作。">京九铁路线路走向和总体布局合理，输送能力大，并预留了发展条件；工程质量合格率达百分之百；各项技术标准选用适当，工程设计符合国家和铁道部有关新线建设的规定、规范、规程；采用的设备技术先进，系统完整，体现了九十年代科技水平；建设速度快；投资控制好；注意了节地造地和环保工作。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="京九铁路行经九省市，是中国铁路建设史上规模最大、投资最多、建成线路里程最长的大干线。">京九铁路北起北京西站，南至深圳，连接香港九龙，行经九省市，干线全长约两千四百公里，是中国铁路建设史上规模最大、投资最多、建成线路里程最长的大干线。工程于一九九三年全面展开施工，一九九五年十一月完成接轨，总投资约四百亿元人民币。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="建设这条铁路对完善路网布局，缓解铁路运输紧张状况，促进沿线经济发展和社会进步，加快革命老区脱贫致富，加强内地与港澳地区的经济交往，扩大对外开放，都具有十分重要的意义。">国家计委副主任、京九铁路国家验收委员会主任叶青说，建设这条铁路是中共中央、国务院的重大决策，对完善路网布局，缓解铁路运输紧张状况，促进沿线经济发展和社会进步，加快革命老区脱贫致富，加强内地与港澳地区的经济交往，扩大对外开放，都具有十分重要的意义。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="京九铁路开通运营一年来，经受了严冬盛夏和洪水的考验，保证了运输的安全畅通，发挥了社会经济效益。">据铁道部总工程师华茂昆介绍，京九铁路开通运营一年来，经受了严冬盛夏和洪水的考验，保证了运输的安全畅通，发挥了社会经济效益。</P>
+    <P Function="Supplement" ID="7" ParagraphTopic="今后，京九铁路将完全交由铁路运输部门管理。">据了解，中国大型铁路工程的建设一般分为三步，即铁轨铺通、通车、国家验收。今后，京九铁路将完全交由铁路运输部门管理。（完）</P>
+  </TEXT>
+</DOC>

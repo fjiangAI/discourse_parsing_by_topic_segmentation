@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社广州十二月二十九日电（记者卫铁民、张朝祥）" DiscourseTopic="珠江三角洲农民圆了“城市梦”">
+    <LEAD>整个珠江三角洲地区的农村正在演变成了一个“城市群”。</LEAD>
+    <ABSTRACT>整个珠江三角洲地区的农村正在演变成了一个“城市群”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|5" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...11" ParentId="-1" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="4" Layer="4" ParagraphPosition="6...7|8...8" ParentId="3" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Cause" ID="3" Layer="3" ParagraphPosition="5...5|6...8" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Result" ID="5" Layer="2" ParagraphPosition="9...9|10...11" ParentId="1" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Result" ID="7" Layer="5" ParagraphPosition="6...6|7...7" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="8|3" Function="Cause" ID="2" Layer="2" ParagraphPosition="1...4|5...8" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Statement" ID="6" Layer="3" ParagraphPosition="10...10|11...11" ParentId="5" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="2" ChildList="9" Function="Result" ID="8" Layer="3" ParagraphPosition="1...3|4...4" ParentId="2" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="10" Function="Illustration" ID="9" Layer="4" ParagraphPosition="1...2|3...3" ParentId="8" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="10" Layer="5" ParagraphPosition="1...1|2...2" ParentId="9" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="二十多年前，广东东莞水口村村民陈忠发是个地地道道的农民。">二十多年前，广东东莞水口村村民陈忠发是个地地道道的农民，日出而作，日落而息，和妻子一道种田挣工分维持一家七口人的生活。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="对那时的他而言，将自己落后零散的村庄改造得象城市一样，实在是个遥不可及的梦。">对那时的他而言，将自己落后零散的村庄改造得象城市一样，自己也能象城里人一样生活、工作，实在是个遥不可及的梦。</P>
+    <P Function="Contrast" ID="3" ParagraphTopic="今天，水口村已崛起了座座现代化工业区和厂房，并建起了公园、影剧院、酒家、商场。">今天，水口村已崛起了座座现代化工业区和厂房，并建起了公园、影剧院、酒家、商场；而陈忠发一家，也和其他村民一样，住上了漂亮的小洋楼，至于电视机、电冰箱、洗衣机、摩托车则早已成了生活必备品。“梦想成真”的陈忠自豪地说：“现在城里人有的，我们也都有。”</P>
+    <P Function="Statement" ID="4" ParagraphTopic="整个珠江三角洲地区的农村正在演变成了一个“城市群”。">其实，不仅仅在水口村，整个珠江三角洲地区的农村都已透露出“都市”的气息。这个昔日以农民为主要劳动人口的地区，如今正在演变成了一个“城市群”：除广州、佛山、江门等老城市外，在四万平方公里的范围内，已新涌现出深圳、珠海、中山、东莞等二十多个城市，近五百个城镇。原来的一些城镇变成了城市，乡村变成了城镇，一些村镇的设施环境可与内地大中城市相媲美。</P>
+    <P Function="Sub-Summary" ID="5" ParagraphTopic="是农村工业化帮农民圆了城市梦。">“是农村工业化帮农民圆了城市梦，”东莞市委书记李近维告诉记者。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="八十年代初，在珠江三角洲，乡镇企业、个体私营企业、外商投资企业如雨后春笋般冒了出来。">八十年代初，在毗邻港澳，得开放风气之先的珠江三角洲，乡镇企业、个体私营企业、外商投资企业如雨后春笋般冒了出来。当陈忠发进了一家外资厂当了一名“打工爸”，领到第一个月的工资时，他心花怒放：这可相当于他全家半年的纯收入啊！现在，陈忠发的三个儿女也都在工厂做工，家庭年收入已是二十年前的一百多倍。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="大量农村劳动力向非农领域的转入，是农村城市化的典型征兆。">“大量农村劳动力向非农领域的转入，是农村城市化的典型征兆，”李近维说。据悉，二十年来，珠三角地区有超过七成的原有农村劳动力实现了向非农产业的转移，常住非农业人口已从一九七八年的四百八十一万人增加到去年的一千三百多万人。</P>
+    <P Function="Cause" ID="8" ParagraphTopic="经济的飞速发展是带动乡村城市化的最根本因素。">而社会学家则指出，经济的飞速发展是带动乡村城市化的最根本因素。来自广东省有关部门的数据显示，一九七九年至一九九七年，广东国内生产总值平均每年递增百分之十四点二，比全国高四个百分点；而广东的城市化率也由百分之十一点七上升到百分之三十六，比全国高六个百分点。</P>
+    <P Function="Illustration" ID="9" ParagraphTopic="乡村城市化彻底改变了珠三角农民的生活方式。">乡村城市化彻底改变了珠三角农民的生活方式。虽然他们不离土、不离乡，但严格来讲已不再是传统意义上的农民。今年五十四岁的南海市豪景村村民董润卓已经十多年没有种田了，他们村实行土地股份制后，土地由村里统一经营，而他也做起了五金、摩托车贸易。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="董润卓每天要做早锻炼，绕村子跑三千米；晚上则到村体育场去打篮球。">在他那座占地九十平米，三层高的别墅式小楼里，董告诉记者，现在他每天要做早锻炼，绕村子跑三千米；晚上则到村体育场去打篮球。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="陈忠发则喜欢带上老伴，或约上一些年龄相仿的村民出外旅游。">而已过花甲之年的陈忠发则喜欢带上老伴，或约上一些年龄相仿的村民出外旅游。不仅去了国内的一些名山大川，还去了泰国、新加坡。他说：“趁现在身体还好，我要多出去走走。”（完）</P>
+  </TEXT>
+</DOC>

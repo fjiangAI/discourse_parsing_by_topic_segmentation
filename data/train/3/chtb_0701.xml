@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电（记者李斌）" DiscourseTopic="中国跻身世界主要空间国家行列">
+    <LEAD>中国已经跻身世界主要空间国家的行列。</LEAD>
+    <ABSTRACT>中国已经跻身世界主要空间国家的行列。数十年来，中国航天技术走过了一条投资少、收效大、系列化、成功率高的道路。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国已经跻身世界主要空间国家的行列。">有关部门负责人日前表示，经过数十年的努力，中国已经跻身世界主要空间国家的行列。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="数十年来，中国航天技术走过了一条投资少、收效大、系列化、成功率高的道路。">数十年来，中国航天技术走过了一条投资少、收效大、系列化、成功率高的道路。虽然四十年的航天投资总额还不及前苏联、美国一年的航天投资。但是，中国力求以较少的数量、有限的发射次数，取得尽可能多的技术成果和应用效果。中国的应用卫星一般经过一次试验性发射就能投入使用。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国火箭、卫星的型号产品的技术继承性好，缩短了研制周期，节省了研制经费，提高了产品的质量和可靠性。">中国火箭、卫星的发展，坚持走“基本型、系列化”的技术发展道路，因而型号产品的技术继承性好，缩短了研制周期，节省了研制经费，提高了产品的质量和可靠性。和国外相比，中国研制、发射同类运载火箭、人造卫星的成本都比较低。（完）</P>
+  </TEXT>
+</DOC>

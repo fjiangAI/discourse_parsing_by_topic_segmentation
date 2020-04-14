@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京４月２３日电" DiscourseTopic="江泽民李鹏电唁尼克松逝世">
+    <LEAD>中华人民共和国主席江泽民和国务院总理李鹏２３日电唁美国前总统理查德·尼克松逝世。</LEAD>
+    <ABSTRACT>中华人民共和国主席江泽民和国务院总理李鹏２３日电唁美国前总统理查德·尼克松逝世。惊悉理查德·尼克松先生不幸病逝，谨表示深切的哀悼。尼克松先生是一位具有战略远见和政治勇气的政治家。谨向尼克松先生的家属致以亲切的慰问。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中华人民共和国主席江泽民和国务院总理李鹏２３日电唁美国前总统理查德·尼克松逝世。">中华人民共和国主席江泽民和国务院总理李鹏２３日电唁美国前总统理查德·尼克松逝世。电文全文如下：</P>
+    <P Function="Situation" ID="2" ParagraphTopic="惊悉理查德·尼克松先生不幸病逝，谨表示深切的哀悼。">惊悉理查德·尼克松先生不幸病逝，谨表示深切的哀悼。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="尼克松先生是一位具有战略远见和政治勇气的政治家。">尼克松先生是一位具有战略远见和政治勇气的政治家。他在担任美国总统期间，同已故的毛泽东主席和周恩来总理一起打开了中美关系的大门，开辟了两国关系的新局面。卸任后，尼克松先生继续关心中美关系，为维护和发展两国关系作出了重要贡献。我们深信，在中美双方的共同努力下，尼克松先生生前所关心的中美关系一定会得到进一步改善和发展。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="谨向尼克松先生的家属致以亲切的慰问。">谨向尼克松先生的家属致以亲切的慰问。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="中国经济简讯新华社北京十一月一日电中国经济简讯">
+    <LEAD>美国莫仕公司在浦东外高桥保税区建立独资生产基地。国务院批准的中国首批中外合资外贸试点企业，已经全部在浦东开业。广西北海市如今再次成为外商投资的热点。汕头大学学生李宗懋申请的发明专利“智能撞车传感器”日前由中国专利局公布。</LEAD>
+    <ABSTRACT>美国莫仕公司在浦东外高桥保税区建立独资生产基地。国务院批准的中国首批中外合资外贸试点企业，已经全部在浦东开业。广西北海市如今再次成为外商投资的热点。汕头大学学生李宗懋申请的发明专利“智能撞车传感器”日前由中国专利局公布。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="3" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4|5...5|6...7" ParentId="-1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="6...6|7...7" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="2...3|4...4" ParentId="1" RelationType="Summary" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Story-Situation" ID="1" ParagraphTopic="美国莫仕公司在浦东外高桥保税区建立独资生产基地。">（小标题）美国莫仕公司在外高桥保税区建生产基地全球电子业最大的连接器系统和模具生产企业－－美国莫仕公司，决定首期投资二千五百万美元，在浦东外高桥保税区建立独资生产基地，主要生产电子连接器及组装成品。据透露，这家公司将视市场情况，把投资额逐渐增加到八千万美元。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="上海浦东第三家中外合资对外贸易公司中韩合资的中技－鲜京贸易有限公司，日前在浦东开张营业。">（小标题）浦东开业第三家中外合资外贸公司上海浦东第三家中外合资对外贸易公司－－中国技术进出口总公司与韩国株式会社鲜京合资的中技－鲜京贸易有限公司，日前在浦东开张营业。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="前两家公司是中日美合资的东菱贸易有限公司，中韩合资的上海兰生大宇有限公司。">前两家公司是上海东方国际（集团）有限公司与日本三菱商事株式会社、美国大陆谷物公司合资的东菱贸易有限公司，上海兰生集团公司与韩国大宇株式会社合资的上海兰生大宇有限公司。</P>
+    <P Function="Sumup" ID="4" ParagraphTopic="国务院批准的中国首批中外合资外贸试点企业，已经全部在浦东开业。">至此，国务院批准的中国首批中外合资外贸试点企业，已经全部在浦东开业。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="广西北海市如今再次成为外商投资的热点。">（小标题）外商再次掀起投资北海热广西北海市如今再次成为外商投资的热点，近日有十三家外国和香港公司与北海市签订了项目合同，总投资额达五亿美元。投资项目以旅游、交通、农业为主。其中由美国市场有限公司联合四家美国公司共投资二亿美元，联合开发北海市涠洲岛旅游项目，美国纯品集团也投资二千万美元，在北海兴建一座大型果汁加工厂，而来自英国的西门子普莱赛机构有限公司则投资二千六百万美元，与北海市合作兴建北海机场候机楼。</P>
+    <P Function="Sub-Summary" ID="6" ParagraphTopic="汕头大学学生李宗懋申请的发明专利“智能撞车传感器”日前由中国专利局公布。">（小标题）汕大学生发明“智能撞车传感器”汕头大学学生李宗懋申请的发明专利“智能撞车传感器”日前由中国专利局公布。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="该“智能撞车传感器”为现行高档轿车安全系统提供一种新的技术，新的开发模式。">该“智能撞车传感器”集机电、电子、磁感应传感于一体，当撞车或车体受到剧烈冲击时，对瞬间的撞车速度及冲击力具有自我识别能力，一旦撞车被确认为危及人身安全情况下，此先进的电子撞车传感器在更短时间内，引发防撞气囊迅速起爆，确保车内乘驾人员的安全；同时，还具车用“黑匣子”多元信号采集功能，记录撞车事故发生原因。这就为现行高档轿车安全系统提供一种新的技术，新的开发模式。（完）</P>
+  </TEXT>
+</DOC>

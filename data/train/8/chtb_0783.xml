@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月三十日电（记者王京）" DiscourseTopic="公安部宣布启用“港澳居民来往内地通行证”">
+    <LEAD>自一九九九年一月十五日起，公安部将启用新的“港澳居民来往内地通行证”。</LEAD>
+    <ABSTRACT>自一九九九年一月十五日起，公安部将启用新的“港澳居民来往内地通行证”。出入境边防检查机关采用机器查验证件。这种新型证件有效期为十年，形状大小如同常见信用卡，便于持证人随身携带。具有中国籍的香港、澳门居民，不管是否持有外国护照和旅行证件，只要未向国籍管理机关申报为外国人，均可申请“港澳居民来往内地通行证”。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="3" Layer="2" ParagraphPosition="6...6|7...7|8...8" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="5|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="5" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="自一九九九年一月十五日起，公安部将启用新的“港澳居民来往内地通行证”。">公安部出入境管理局官员今天说，自一九九九年一月十五日起，公安部将启用新的“港澳居民来往内地通行证”。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="自一九七八年开始使用的“港澳同胞回乡证”，在防伪性能、使用效率、管理水平等方面已不适应形势发展的需要。">他说，自一九七八年开始使用的“港澳同胞回乡证”，在防伪性能、使用效率、管理水平等方面已不适应形势发展的需要，为此，公安部开发研制了“港澳居民来往内地通行证”。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="出入境边防检查机关采用机器查验证件。">这位官员说，出入境边防检查机关采用机器查验证件。机读码阅读机自动识别证件并记录证件上的有关资料，持证人无需再填出入境登记卡。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="这种新型证件有效期为十年，形状大小如同常见信用卡，便于持证人随身携带。">这种新型证件有效期为十年，形状大小如同常见信用卡，便于持证人随身携带。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="具有中国籍的香港、澳门居民，不管是否持有外国护照和旅行证件，只要未向国籍管理机关申报为外国人，均可申请“港澳居民来往内地通行证”。">中国法律规定：具有中国籍的香港、澳门居民，不管是否持有外国护照和旅行证件，只要未向国籍管理机关申报为外国人，均可申请“港澳居民来往内地通行证”。十八岁以下的港澳居民可申请三年有效的证件，十八岁以上（含十八岁）的港澳居民可申请领十年有效的证件。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="一九九九年一月一日停止签发“港澳同胞回乡证”，在此之前签发的证件在有效期内可继续有效，持证人也可申请换发通行证。">这位官员说，一九九九年一月一日停止签发“港澳同胞回乡证”，在此之前签发的证件在有效期内可继续有效，持证人也可申请换发通行证。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="公安部委托香港、澳门中国旅行社有限公司受理通行证的申请，授权广东省公安厅审批签发通行证。">公安部委托香港、澳门中国旅行社有限公司受理通行证的申请，授权广东省公安厅审批签发通行证。自一九九九年一月一日起，香港、澳门中旅社开始接受通行证的申请，十五日将签发出第一批证件，在此期间如有急需换、补证件的，将签发入出境通行证。通行证启用初期，将优先受理未持有港澳同胞回乡证以及回乡证有效期已过的申请人的申请。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="公安部出入境管理局将通过香港、澳门中旅社及其分社向申请人提供申请须知等资料。">他说，公安部出入境管理局将通过香港、澳门中旅社及其分社向申请人提供申请须知等资料。（完）</P>
+  </TEXT>
+</DOC>

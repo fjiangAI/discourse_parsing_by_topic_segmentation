@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月九日电" DiscourseTopic="中国引进日本富士通双极集成电路制造技术和设备">
+    <LEAD>日本富士通株式会社与中国电子进出口总公司、华越微电子有限公司就引进日本富士通株式会社双极集成电路制造技术和设备达成协议。</LEAD>
+    <ABSTRACT>日本富士通株式会社与中国电子进出口总公司、华越微电子有限公司就引进日本富士通株式会社双极集成电路制造技术和设备达成协议。合作项目不单纯是设备转移及技术转移，也包含了设计技术的转移。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="日本富士通株式会社与中国电子进出口总公司、华越微电子有限公司就引进日本富士通株式会社双极集成电路制造技术和设备达成协议。">在中国电子工业部的支持下，日本富士通株式会社与中国电子进出口总公司、华越微电子有限公司就引进日本富士通株式会社双极集成电路制造技术和设备达成协议，合同签字仪式今天在人民大会堂举行。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="合作项目不单纯是设备转移及技术转移，也包含了设计技术的转移。">据专程前来参加签字仪式的富士通株式会社常务董事田中益雄介绍，这一合作项目是一九九三年电子工业部与富士通株式会社所签署的《日中合作意向书》中的合作项目之一。合作项目不单纯是设备转移及技术转移，也包含了设计技术的转移，填补了中国半导体技术发展的空缺，为中国集成电路的发展、推动电子信息产业化的进程起到积极作用。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="富士通株式会社将向华越微电子有限公司转移：双极前道工艺技术、设计技术、实验技术、设备保养及质量管理技术、民用IC技术及以上产品的生产设备等。">根据合同，富士通株式会社将向华越微电子有限公司转移：双极前道工艺技术、设计技术、实验技术、设备保养及质量管理技术、民用IC技术及以上产品的生产设备等。该项目计划一九九七年建成投产，将为中国其它投资类和消费电子产品生产企业提供配套产品，并部分返销日本。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="日本富士通株式会社是世界第二大计算机公司，而华越微电子有限公司是中国五大集成电路生产企业之一。">据介绍，日本富士通株式会社是世界第二大计算机公司，而华越微电子有限公司是中国五大集成电路生产企业之一。（完）</P>
+  </TEXT>
+</DOC>

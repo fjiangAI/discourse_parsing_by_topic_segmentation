@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京三月二十三日电（记者钞文）" DiscourseTopic="中国筹建五家新的保险公司">
+    <LEAD>经中国人民银行批准，五家保险公司正在紧张筹建中。</LEAD>
+    <ABSTRACT>五家保险公司正在紧张筹建中，其中三家是全国性的，两家是地区性的。这次批准建立的五家保险公司，是为发展民族保险事业推出的一大举措。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="五家保险公司正在紧张筹建中">经中国人民银行批准，泰康人寿保险股份有限公司等五家保险公司正在紧张筹建中。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="五家保险公司，三家是全国性的，两家是地区性的">据了解，新建的五家保险公司，三家是全国性的，两家是地区性的。泰康人寿保险股份有限公司筹备处负责人陈东升称，这家公司将按照现代企业制度建立，由中国国际旅行社、中国对外贸易运输总公司等发起，募集五亿元人民币企业法人股本。</P>
+    <P Function="Comment" ID="3" ParagraphTopic="中国保险业现状；发展民族保险事业很重要">中国现有保险公司二十六家，境外保险公司在中国设立办事机构的有一百多家。保险界人士表示，随着中国保险市场的逐步对外开放，迅速发展民族保险事业十分重要。这次批准建立的五家保险公司，可以说是由此推出的一大举措。（完）</P>
+  </TEXT>
+</DOC>

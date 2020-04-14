@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京９月１日电" DiscourseTopic="中国武道太学和中国书道太学成立">
+    <LEAD>中国武道太学和中国书道太学今天在北京成立。</LEAD>
+    <ABSTRACT>中国武道太学和中国书道太学今天在北京成立。上述两所太学是在国家体委、文化部、中国武术研究院、中国艺术研究院的关杯和支持下，在台湾著名企业家、书画家、艺术品收藏家李志仁先生倡议和出资下，经国家教委和北京市成人教育局批准而成立的。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国武道太学和中国书道太学今天在北京成立。">旨在振兴中华文化于国际的中国武道太学和中国书道太学今天在北京成立。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="上述两所太学是在国家体委、文化部、中国武术研究院、中国艺术研究院的关杯和支持下，在台湾著名企业家、书画家、艺术品收藏家李志仁先生倡议和出资下，经国家教委和北京市成人教育局批准而成立的。">上述两所太学是在国家体委、文化部、中国武术研究院、中国艺术研究院的关杯和支持下，在台湾著名企业家、书画家、艺术品收藏家李志仁先生倡议和出资下，经国家教委和北京市成人教育局批准而成立的。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="李志仁先生在中国大陆老、少、边、穷地区建立了百所小学，受到海内外人士的称赞。">李志仁先生在台湾有“笔墨大王”之称，近几年先后出资一千万元新台币，在中国大陆老、少、边、穷地区建立了百所小学，受到海内外人士的称赞。（完）</P>
+  </TEXT>
+</DOC>

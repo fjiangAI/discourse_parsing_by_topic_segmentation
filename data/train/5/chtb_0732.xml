@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社赫尔辛基１２月２８日电（记者郑焕清）" DiscourseTopic="芬兰企业普遍使用互联网">
+    <LEAD>芬兰工业企业使用互联网络日趋普遍。</LEAD>
+    <ABSTRACT>芬兰工业企业使用互联网络日趋普遍。在被调查的５００家企业中，大型企业使用互联网络的比例已经超过百分之九十中小企业，互联网络的联网率也已达到百分之七十左右。微型或家庭型企业，大约四分之一加入了互联网络。抽样调查表明，近两年来，进入互联网络的企业呈现迅速增长的势头。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="2...2|3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="芬兰工业企业使用互联网络日趋普遍。">近年来，随着信息技术的迅猛发展，芬兰工业企业使用互联网络日趋普遍，有效地促进了企业的发展。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="在被调查的５００家企业中，大型企业使用互联网络的比例已经超过百分之九十中小企业，互联网络的联网率也已达到百分之七十左右。微型或家庭型企业，大约四分之一加入了互联网络。">据芬兰经济研究所最新的抽样调查，在被调查的５００家企业中，拥有职工２５０人以上的大型企业使用互联网络的比例已经超过百分之九十。在拥有５至２４９名职工的中小企业，互联网络的联网率也已达到百分之七十左右。职工人数不足５名的微型或家庭型企业，大约四分之一加入了互联网络。在所有被调查的企业中有百分之二十五是今年入网的。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="抽样调查表明，近两年来，进入互联网络的企业呈现迅速增长的势头。">抽样调查表明，近两年来，进入互联网络的企业呈现迅速增长的势头。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="通过互联网络，企业获得了大量有关生产活动和市场销售等方面的信息。">根据抽样调查，芬兰企业普遍认为，通过互联网络，企业获得了大量有关生产活动和市场销售等方面的信息。这些信息为企业的经营决策、技术改造、产品研制和销售提供了有力的依据，大大提高了企业的办事效率。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="芬兰是世界上互联网入网率最高的国家。">芬兰是世界上互联网入网率最高的国家，在总人口中入网比例接近百分之八。（完）</P>
+  </TEXT>
+</DOC>

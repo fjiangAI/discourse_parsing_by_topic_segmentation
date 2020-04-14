@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社福州三月十日电（记者许霆）" DiscourseTopic="中国闽东南乡镇企业发展继续领先">
+    <LEAD>在占福建经济总量“半壁江山”的乡镇企业发展中，闽东南地区继续发挥了龙头作用。</LEAD>
+    <ABSTRACT>福建省乡镇企业国民生产总值约占全省三分之一、已有十一家乡镇企业跻身中国“最佳经济效益乡镇企业”行列，其中闽东南乡镇企业发展继续发挥龙头作用，全省涌现出一批优秀的乡镇企业或乡镇企业集团。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="闽东南乡镇企业发展继续发挥龙头作用。">在占福建经济总量“半壁江山”的乡镇企业发展中，闽东南地区继续发挥了龙头作用。去年，福州、厦门、泉州、漳州、莆田五地市乡镇企业经济总量占全省百分之七十以上。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="一九九五年福建省乡镇企业产值情况。">据福建乡镇企业局统计，一九九五年福建省乡镇企业总产值已达二千三百八十一点五亿元人民币，其中工业产值一千五百五十九亿元人民币，全年创利润一百零九亿元人民币。乡镇企业创造的国民生产总值约占福建省国民生产总值的三分之一。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="“八五”期间福建省乡镇企业发展情况。">“八五”期间（一九九一至一九九五年），福建省乡镇企业累计上缴了一百八十五点六亿元人民币的税金，完成出口交货值一千零五十五亿元人民币。全省已有十一家乡镇企业跻身中国“最佳经济效益乡镇企业”行列。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="福建省乡镇企业发展成果。">目前，福建省已涌现出一批科技含量较高、发展后劲较足的乡镇企业或乡镇企业集团。据统计，在全省一百九十一个已建立的乡镇企业集团中，产值上亿元人民币的已达五十多个，有些已达五至十亿元。福州鼓山镇的福兴投资区、晋江安海的桥头工业区均成为全国乡镇企业示范小区。（完）</P>
+  </TEXT>
+</DOC>

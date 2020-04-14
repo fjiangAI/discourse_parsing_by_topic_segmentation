@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="本报巴黎２月１４日电记者吕网大报道：" DiscourseTopic="法国反对修改联合国宪章">
+    <LEAD>法国不会同意为重新分配安理会五常任理事国席位而修改联合国宪章的要求。</LEAD>
+    <ABSTRACT>法国不会同意为重新分配安理会五常任理事国席位而修改联合国宪章的要求。联合国是第二次世界大战后诞生的，法国同其它常任理事国一样都是战胜国。法国外长强调指出法国不会同意修改联合国宪章。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2|3" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="4...5|6...6" ParentId="3" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="3...3|4...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Cause" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="法国不会同意为重新分配安理会五常任理事国席位而修改联合国宪章的要求。">法国外长迪马指出，法国不会同意为重新分配安理会五常任理事国席位而修改联合国宪章的要求。</P>
+    <P Function="Background" ID="2" ParagraphTopic="法国外长昨天是在法国国民议会外事委员会会议上发表上述声明的。">法国外长昨天是在法国国民议会外事委员会会议上发表上述声明的。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="联合国是第二次世界大战后诞生的，法国同其它常任理事国一样都是战胜国。">迪马外长认为，联合国是第二次世界大战后诞生的，法国同其它常任理事国一样都是战胜国。德国、意大利作为战败国虽然今天已成为民主国家，但对过去的事件是否回顾一下历史就足够了呢？</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="德、日不断有人提出要求重新分配联合国安理会常任理事国席位。">此间有报道说，作为今天的经济强国，德、日不断有人提出要求重新分配联合国安理会常任理事国席位。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="德国外长希望统一的德国能够在联合国发挥更大的作用，在联合国作出决定时有更大的发言权。">德国外长根舍１１日发表谈话，希望统一的德国能够在联合国发挥更大的作用，在联合国作出决定时有更大的发言权。</P>
+    <P Function="Result" ID="6" ParagraphTopic="法国外长强调指出法国不会同意修改联合国宪章。">法国外长对此强调指出，这些论调是“不现实的”，常任理事国席位是联合国宪章所规定的，而修改联合国宪章需获得成员国的一致同意，法国不会同意修改联合国宪章。</P>
+  </TEXT>
+</DOC>

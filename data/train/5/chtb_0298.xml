@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社莫斯科８月３１日电（记者谢荣）" DiscourseTopic="俄罗斯完成从波罗的海三国撤军工作">
+    <LEAD>俄罗斯完成了从波罗的海三国的撤军工作。</LEAD>
+    <ABSTRACT>俄罗斯完成了从波罗的海三国的撤军工作。俄罗斯西北军队集群司令部机构人员３１日将军用设施移交给了当地地方政府，并向拉脱维亚总统乌尔马尼斯递交了有关完成撤军的报告。俄罗斯驻立陶宛军队已于１９９３年８月３１日之前撤回国，驻爱沙尼亚的军队于本月２９日完成了撤军工作。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="俄罗斯完成了从波罗的海三国的撤军工作。">俄罗斯驻扎在波罗的海三国的西北军队集群的最后一批应撤离人员已于３１日全部撤出拉脱维亚。至此，俄罗斯完成了从波罗的海三国的撤军工作。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="俄罗斯西北军队集群司令部机构人员３１日将军用设施移交给了当地地方政府，并向拉脱维亚总统乌尔马尼斯递交了有关完成撤军的报告。">据此间新闻媒介报道，俄罗斯西北军队集群司令部机构人员３１日将军用设施移交给了当地地方政府，并向拉脱维亚总统乌尔马尼斯递交了有关完成撤军的报告，随后乘飞机从里加撤回莫斯科。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="俄罗斯驻立陶宛军队已于１９９３年８月３１日之前撤回国，驻爱沙尼亚的军队于本月２９日完成了撤军工作。">俄罗斯驻立陶宛军队已于１９９３年８月３１日之前撤回国，驻爱沙尼亚的军队于本月２９日完成了撤军工作。根据俄与拉脱维亚和爱沙尼亚政府达成的协议，目前尚有几百名俄军队专家留在拉脱维亚的预警雷达站和爱沙尼亚的俄海军教学中心。</P>
+    <P Function="Background" ID="4" ParagraphTopic="俄罗斯西北军队集群原为苏联驻上述三国的军队。">俄罗斯西北军队集群原为苏联驻上述三国的军队，司令部设在拉脱维亚共和国。原总兵力为１１·６万余人，其中在拉脱维亚驻军最多，为５万余人，立陶宛为３·５万余人，爱沙尼亚为３万余人。原苏联解体后，该军队集群转归俄罗斯所有。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="从波罗的海三国撤回的俄罗斯军队将分别驻扎在俄加里宁格勒州、斯摩棱斯克州以及叶利尼亚市。">据报道，从波罗的海三国撤回的俄罗斯军队将分别驻扎在俄加里宁格勒州、斯摩棱斯克州以及离莫斯科３００公里的叶利尼亚市。（完）</P>
+  </TEXT>
+</DOC>

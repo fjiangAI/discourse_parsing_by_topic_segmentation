@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="水塘存水数字">
+    <LEAD>截至今日（星期四）上午九时，本港各水塘之总存水量共为五亿四千五百八十万立方米。</LEAD>
+    <ABSTRACT>截至今日（星期四）上午九时，本港各水塘之总存水量共为五亿四千五百八十万立方米。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="截至今日（星期四）上午九时，本港各水塘之总存水量共为五亿四千五百八十万立方米。">截至今日（星期四）上午九时，本港各水塘之总存水量共为五亿四千五百八十万立方米，占总容量百分之九十三点一。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="去年同期各水塘之总存水为五亿四千八百零四万二千立方米。">去年同期各水塘之总存水为五亿四千八百零四万二千立方米，即总容量百分之九十二点七。</P>
+  </TEXT>
+</DOC>

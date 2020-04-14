@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十月十三日电（记者朱华颖胡绿杰严文斌）" DiscourseTopic="外商纷纷准备投资三峡库区">
+    <LEAD>最近一年来，德国、法国、英国、比利时、新加坡、新西兰、澳大利亚等国的大集团、金融机构纷纷表示出对三峡库区基础设施项目进行投资的兴趣。</LEAD>
+    <ABSTRACT>最近一年来，德国、法国、英国、比利时、新加坡、新西兰、澳大利亚等国的大集团、金融机构纷纷表示出对三峡库区基础设施项目进行投资的兴趣。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...9|10...10" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Statement" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="6" Function="Cause" ID="5" Layer="3" ParagraphPosition="4...4|5...5|6...7|8...8|9...9" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="3|5" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...9" ParentId="1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="4" Function="Result" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="6" Layer="4" ParagraphPosition="6...6|7...7" ParentId="5" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="法国巴黎工商会派出的大型商业代表团，准备就与三峡库区的经济技术合作、双边培训合作等项目与中国草签意向书。">法国巴黎工商会派出的大型商业代表团，今天离京赴三峡库区，准备就与三峡库区的经济技术合作、双边培训合作等项目与中国草签意向书。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="德国宋氏国际贸易公司与中国草签了五亿多元人民币的合作协议，准备投资三峡库区的建材、小水电业等项目。">几天前，曾在黄河小浪底工程中投标成功的德国宋氏国际贸易公司刚刚结束对三峡库区的考察回到北京，与中国草签了五亿多元人民币的合作协议，准备投资三峡库区的建材、小水电业等项目。</P>
+    <P Function="Illustration" ID="3" ParagraphTopic="最近一年来，德国、法国、英国、比利时、新加坡、新西兰、澳大利亚等国的大集团、金融机构纷纷表示出对三峡库区基础设施项目进行投资的兴趣。">国务院三峡建设委员会移民开发局官员今天在接受记者采访时透露，最近一年来，德国、法国、英国、比利时、新加坡、新西兰、澳大利亚等国的大集团、金融机构纷纷表示出对三峡库区基础设施项目进行投资的兴趣。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="三峡移民开发局目前正加紧对三峡库区开发性移民方针的宣传。">三峡移民开发局目前正加紧对三峡库区开发性移民方针的宣传，以期凭借三峡地区的资源、政策、劳动力优势，利用基础设施、企业技改搬迁，从国际上引进双边的、多边的、民间的资本，促进三峡库区移民安置和经济发展。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="三峡工程进展顺利。为了将移民工作推向深入，中国政府近年来制定了一系列优惠政策，鼓励外商投资三峡库区。">三峡库区西起重庆市，东至湖北宜昌市，沿长江狭长分布。作为世界超级水电工程，三峡史无前例的百万大移民举世瞩目。截止目前，三峡工程进展顺利，一期移民的各项目标均顺利实现。为了将移民工作推向深入，中国政府近年来制定了一系列优惠政策，鼓励外商投资三峡库区。</P>
+    <P Function="Statement" ID="6" ParagraphTopic="去年十二月，国务院三建委在北京召开了三峡库区工程移民和经济开发方面的情况介绍会，今年以来，三建委又两次组织经济技术合作考察团出国考察。">去年十二月，国务院三建委在北京召开了三峡库区工程移民和经济开发方面的情况介绍会，今年以来，三建委又两次组织经济技术合作考察团出国考察，介绍移民安置的情况，这些举措取得了显著成效。</P>
+    <P Function="Illustration" ID="7" ParagraphTopic="美国西格朗姆公司已准备在重庆建立总投资八千万美元的柑橘良种繁育、技术培训、果汁深加工基地。意大利政府则准备贷款三百九十万美元用于库区上游的“大足城市生活污水处理”项目。">目前，美国西格朗姆公司已准备在重庆建立总投资八千万美元的柑橘良种繁育、技术培训、果汁深加工基地。意大利政府则准备贷款三百九十万美元用于库区上游的“大足城市生活污水处理”项目。</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="近年来，三峡库区的投资环境也在不断改善。">近年来，三峡库区的投资环境也在不断改善。目前，宜昌三峡机场已经建成；武汉至宜昌的高速公路已通车。万县五桥机场、宜昌至广州的铁路等基础设施项目以及一批水电、火电项目都已建成或在建，库区二十一个县（市、区）的程控电话和国内国际直拨电话也已开通。</P>
+    <P Function="Story-Situation" ID="9" ParagraphTopic="库区地方政府不断简化对外商投资审批程序，库区各县市还制定了本地区鼓励外商投资的优惠政策，一批经济技术开发区也已建立。">同时，库区地方政府不断简化对外商投资审批程序，库区各县市还制定了本地区鼓励外商投资的优惠政策，一批经济技术开发区也已建立。</P>
+    <P Function="Supplement" ID="10" ParagraphTopic="优越的投资条件正吸引着越来越多的外国企业和公司。">优越的投资条件正吸引着越来越多的外国企业和公司。目前，新西兰的ＭＩＬ公司正在考虑投资万县至梁平、重庆至长寿、长寿至梁平的高速公路建设项目，而新西兰的威尔利公司则对宜昌热电厂二期工程、重庆江口水电站项目感兴趣。据悉，他们都准备在近期派人前来考察。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社巴西利亚１２月３０日电（记者郑大方）" DiscourseTopic="巴西评选出本年度最佳足球教练和最佳球员">
+    <LEAD>巴西评委会日前评选卢森博格为’９８年度巴西足坛最佳教练，科林迪亚斯队后卫、乌拉圭人加马拉为巴西最佳球员。</LEAD>
+    <ABSTRACT>巴西评委会日前评选卢森博格为’９８年度巴西足坛最佳教练，科林迪亚斯队后卫、乌拉圭人加马拉为巴西最佳球员。执掌巴西国家足球队帅印的卢森博格同时还是圣保罗科林迪亚斯队的主教练。加马拉表示，他的下一个目标是帮助科林迪亚斯队夺得南美解放者杯足球赛冠军。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...5" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="2...3|4...4" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...4|5...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="巴西评委会日前评选卢森博格为’９８年度巴西足坛最佳教练，科林迪亚斯队后卫、乌拉圭人加马拉为巴西最佳球员。">由巴西全国２２名著名体育记者组成的评委会日前评选卢森博格为’９８年度巴西足坛最佳教练，科林迪亚斯队后卫、乌拉圭人加马拉为巴西最佳球员。</P>
+    <P Function="Sub-Summary" ID="2" ParagraphTopic="执掌巴西国家足球队帅印的卢森博格同时还是圣保罗科林迪亚斯队的主教练。">执掌巴西国家足球队帅印的卢森博格同时还是圣保罗科林迪亚斯队的主教练，在他的调教下，科林迪亚斯队夺得今年巴西足球甲级联赛冠军。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="巴西足协要求卢森博格不再续签合同，而专心致力于国家队的教练工作。科林迪亚斯队的老板杜阿利则希望卢森博格留在该队继续执教。">卢森博格与科林迪亚斯队的合同截止今年１２月３１日到期，巴西足协要求卢森博格不再续签合同，而专心致力于国家队的教练工作。科林迪亚斯队的老板杜阿利则希望卢森博格留在该队继续执教。卢森博格表示，他将于明年１月７日与杜阿利商讨后再作决定。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="卢森博格非常欣赏本年度巴西最佳球员加马拉。">卢森博格非常欣赏本年度巴西最佳球员加马拉，认为这位巴拉圭籍后卫能够把球准确地从后场传给前锋是“十分不易”的。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="加马拉表示，他的下一个目标是帮助科林迪亚斯队夺得南美解放者杯足球赛冠军。">人品极佳的加马拉表示，他的下一个目标是帮助科林迪亚斯队夺得南美解放者杯足球赛冠军。（完）</P>
+  </TEXT>
+</DOC>

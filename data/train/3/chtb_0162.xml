@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海四月十五日电（记者夏儒阁实习生张建松）" DiscourseTopic="世界贸易组织与中国服务贸易研讨会将在上海举行">
+    <LEAD>世界贸易组织与中国服务贸易研讨会将于四月十九日在上海召开。</LEAD>
+    <ABSTRACT>世界贸易组织与中国服务贸易研讨会将于四月十九日在上海召开。研讨会的主题是中国在加入世贸组织谈判中，对服务贸易行业所作的对外开放承诺，将会对国内同行产生怎样的影响，各行业的国际竞争力如何，中国政府在谈判中如何掌握对服务贸易的开放度等。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="世界贸易组织与中国服务贸易研讨会将于四月十九日在上海召开。">“世界贸易组织与中国服务贸易研讨会”将于四月十九日在上海召开，世界贸易组织总干事鲁杰罗将出席并作专题演讲。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="研讨会的主题是中国在加入世贸组织谈判中，对服务贸易行业所作的对外开放承诺，将会对国内同行产生怎样的影响，各行业的国际竞争力如何，中国政府在谈判中如何掌握对服务贸易的开放度等。">据悉，研讨会的主题是中国在加入世贸组织谈判中，对金融、保险、海空运、咨询、零售业、广告、律师、会计师等服务贸易行业所作的对外开放承诺，将会对国内同行产生怎样的影响，各行业的国际竞争力如何，中国政府在谈判中如何掌握对服务贸易的开放度等。此外，研讨会还将探讨上海今后在外贸经营方面试办一些合资企业。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="此次为期两天的研讨会，由世界贸易组织上海研究中心与上海市对外服务有限公司联合举办。">此次为期两天的研讨会，由世界贸易组织上海研究中心与上海市对外服务有限公司联合举办。出席研讨会的还有陪同鲁杰罗来沪的中国外经贸部副部长龙永图，中国前参加关贸总协定首席谈判代表、原外经贸部副部长沈觉人。此外，中国各省市外经贸委、大企业负责人和专家、学者，共约二百人参加了研讨会。（完）</P>
+  </TEXT>
+</DOC>

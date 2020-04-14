@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社波恩８月３１日电短评：欧洲战后历史时期的终结新华社记者夏治沔" DiscourseTopic="短评：欧洲战后历史时期的终结">
+    <LEAD>德国领土上存在占领军的状态行将结束。</LEAD>
+    <ABSTRACT>德国领土上存在占领军的状态行将结束。１９３９年９月１日，希特勒军队进攻波兰，开始了给欧洲和世界人民带来巨大痛苦的第二次世界大战，迄今正好５５年。半个世纪转瞬逝去，欧洲经历了热战、冷战、动荡、冲突和剧变。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...8|9...9" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="6" Function="Story" ID="5" Layer="4" ParagraphPosition="3...3|4...7" ParentId="4" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="7" Function="Story" ID="6" Layer="5" ParagraphPosition="4...4|5...5|6...7" ParentId="5" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="5" Function="Story" ID="4" Layer="3" ParagraphPosition="3...7|8...8" ParentId="2" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3|4" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...8" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="" Function="Story" ID="7" Layer="6" ParagraphPosition="6...6|7...7" ParentId="6" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="德国领土上存在占领军的状态行将结束。">俄罗斯军队３１日举行了告别德国的最后仪式。美、英、法三国的士兵也将于９月初最后撤离柏林。德国领土上存在占领军的状态行将结束。</P>
+    <P Function="Background" ID="2" ParagraphTopic="１９３９年９月１日，希特勒军队进攻波兰，开始了给欧洲和世界人民带来巨大痛苦的第二次世界大战，迄今正好５５年。">１９３９年９月１日，希特勒军队进攻波兰，开始了给欧洲和世界人民带来巨大痛苦的第二次世界大战，迄今正好５５年。这次战争中包括德国在内的欧洲国家共死亡４００万人。其中，苏联为战胜德国侵略者作出了巨大牺牲，伤亡近２８００万人。</P>
+    <P Function="Sub-Summary" ID="3" ParagraphTopic="半个世纪转瞬逝去，欧洲经历了热战、冷战、动荡、冲突和剧变。">半个世纪转瞬逝去，欧洲经历了热战、冷战、动荡、冲突和剧变。现在，热战和冷战虽已成为过去，但动荡和冲突仍看不到尽头。</P>
+    <P Function="Story-Situation" ID="4" ParagraphTopic="战后初期，苏、美、英、法四大国据据“雅尔塔协议”划分了势力范围，并分区占领了德国及其首都。">战后初期，苏、美、英、法四大国据据“雅尔塔协议”划分了势力范围，并分区占领了德国及其首都。当时德国的最高决策当局是“盟国管制委员会”。德国此后长期处于无权和被分裂的状态。</P>
+    <P Function="Story-Situation" ID="5" ParagraphTopic="不久，美苏两国在欧洲的较量使原来的反法西斯联盟发生了分裂，德国也一分为二。">不久，美苏两国在欧洲的较量使原来的反法西斯联盟发生了分裂，德国也一分为二。在西边，美国组织北约，扶植西德，以“遏制”苏联；在东边，苏联组建华约集团，把东德建成对付西方的桥头堡。分裂的德国成了东西方冷战对峙的前线。从那时起，欧洲政局无一日安宁，危机重重。</P>
+    <P Function="Cause" ID="6" ParagraphTopic="东欧剧变、德国统一、华约瓦解、苏联解体接踵而至，原来的“雅尔塔体制”难以为继。">但是，从１９８９年开始，欧洲形势又发生新的转折。东欧剧变、德国统一、华约瓦解、苏联解体接踵而至，原来的“雅尔塔体制”难以为继。在这一巨大的变革中，德国成为最大的得益者。</P>
+    <P Function="Result" ID="7" ParagraphTopic="统一德国的崛起改变了欧洲力量的对比。">统一德国的崛起改变了欧洲力量的对比，原来作为世界政治大国的英国和法国已开始担心自己沦为二等大国的地位。当今唯一超级大国美国近来则开始把德国视为“领导伙伴”，鼓励它在世界政治中“发挥领导作用”，其原因是显而易见的：美国要借重德国的力量。</P>
+    <P Function="Story-Situation" ID="8" ParagraphTopic="今日统一的德国正在从经济大国走向政治大国。">今日统一的德国正在从经济大国走向政治大国。德国凭借其雄厚实力在欧洲联盟中独占鳌头，其“巨人”角色亦为世人所共睹。它竭力发挥东西欧间的“桥梁作用”，参与联合国旗帜下的维护“和平使命”，争取联合国安理会常任理事国的席位。</P>
+    <P Function="Comment" ID="9" ParagraphTopic="现在，战后一个历史时期即将画上一个句号。">现在，战后一个历史时期即将画上一个句号。但它留给后人的血泪教训与痛苦经验，还需要继续认真总结。（完）</P>
+  </TEXT>
+</DOC>

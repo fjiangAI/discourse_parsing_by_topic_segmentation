@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社宜昌三月八日电（记者施勇峰）" DiscourseTopic="三峡工程引进第一笔外资">
+    <LEAD>三峡工程引进第一笔外资，这笔出口信贷由加拿大政府提供，主要用于三峡工程的管理系统。</LEAD>
+    <ABSTRACT>三峡工程引进第一笔外资，这笔出口信贷由加拿大政府提供，主要用于三峡工程的管理系统。管理系统将引进国外的管理办法和计算机技术。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="三峡工程引进第一笔外资。">长江三峡工程近日引进第一笔外资。这笔数额为一千二百五十万美元的贷款是加拿大政府向三峡工程提供的出口信贷，主要用于三峡工程的管理系统。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="三峡工程管理系统将引进国外的管理办法和计算机技术。">三峡工程管理系统将引进加拿大ＭＡＩ公司科学的管理办法和先进的计算机技术，以工程数据库管理系统为核心，对三峡工程的各分项工程的设计、计划、合同、财务、物资、设备、施工、安装的全过程进行控制和管理。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="三峡工程引进外资细节。">一九九五年十月，中国长江三峡工程开发总公司总经理陆佑楣赴加拿大签定了有关商务合同。这个出口信贷项目委托中国银行为代理银行，商务代理为中国电子进出口总公司。二月二十八日，中国银行三峡分行与中国长江三峡工程开发总公司签订了项目转贷协议合同。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社新德里１２月２９日电（记者李家声）" DiscourseTopic="印、斯签订自由贸易协议">
+    <LEAD>印度和斯里兰卡２８日晚在此间签订了两国自由贸易协议，以促进两国经贸合作。</LEAD>
+    <ABSTRACT>印度和斯里兰卡２８日晚在此间签订了两国自由贸易协议，以促进两国经贸合作。根据该协议，印度在三年内取消进口斯里兰卡商品的所有关税，斯里兰卡则在八年内取消进口印度商品的关税。双方每年总结执行情况和存在的问题，确保两国至少互相进口百分之三十五的有附加值的商品。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="印度和斯里兰卡２８日晚在此间签订了两国自由贸易协议，以促进两国经贸合作。">印度和斯里兰卡２８日晚在此间签订了两国自由贸易协议，以促进两国经贸合作。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="印度总理和正在访印的斯里兰卡总统分别代表两国政府在协议上签了字。">印度总理瓦杰帕伊和正在访印的斯里兰卡总统钱德里卡·班达拉奈克·库马拉通加分别代表两国政府在协议上签了字。协议将于明年３月１日生效。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="根据该协议，印度在三年内取消进口斯里兰卡商品的所有关税，斯里兰卡则在八年内取消进口印度商品的关税。双方每年总结执行情况和存在的问题，确保两国至少互相进口百分之三十五的有附加值的商品。">根据该协议，印度在三年内取消进口斯里兰卡商品的所有关税，斯里兰卡则在八年内取消进口印度商品的关税。协议还规定，双方每年总结执行情况和存在的问题，确保两国至少互相进口百分之三十五的有附加值的商品，以防止第三国产品在两国市场上泛滥。因减免关税而造成的税收损失则通过增加出口和征收商品税来弥补。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="１９９７年印斯两国双边贸易总额超过６亿美元。">据印度官方统计数字，１９９７年印斯两国双边贸易总额超过６亿美元，其中印度向斯里兰卡出口５．６亿美元。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="斯里兰卡总统是２７日下午抵达这里，开始对印度进行为期三天的正式友好访问的。">斯里兰卡总统库马拉通加夫人是２７日下午抵达这里，开始对印度进行为期三天的正式友好访问的。（完）</P>
+  </TEXT>
+</DOC>

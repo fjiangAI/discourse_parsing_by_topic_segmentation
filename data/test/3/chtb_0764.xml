@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月３０日电" DiscourseTopic="巴拉圭球员称雄巴西足坛">
+    <LEAD>揭晓的巴西足球锦标赛最佳球员评选中，名列榜首的不是巴西本国球员，而是来自巴拉圭的后卫卡洛斯•加马拉。</LEAD>
+    <ABSTRACT>揭晓的巴西足球锦标赛最佳球员评选中，名列榜首的不是巴西本国球员，而是来自巴拉圭的后卫卡洛斯•加马拉。加马拉是巴拉圭国家队队员，目前效力巴西科林迪亚斯队。在巴西足协组织的巴西体育记者投票评选中，加马拉得票数最高。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="揭晓的巴西足球锦标赛最佳球员评选中，名列榜首的不是巴西本国球员，而是来自巴拉圭的后卫卡洛斯•加马拉。">在２９日揭晓的巴西足球锦标赛最佳球员评选中，名列榜首的不是巴西本国球员，而是来自巴拉圭的后卫卡洛斯·加马拉。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="加马拉是巴拉圭国家队队员，目前效力巴西科林迪亚斯队。在巴西足协组织的巴西体育记者投票评选中，加马拉得票数最高。">据外电报道，加马拉是巴拉圭国家队队员，目前效力巴西科林迪亚斯队。上周，该队获得巴西足球锦标赛冠军。在巴西足协组织的巴西体育记者投票评选中，加马拉得票数最高。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="加马拉不仅被国际足坛看作是世界上最出色的后卫之一，而且也是人品最好的球员之一。">一直以来，加马拉不仅被国际足坛看作是世界上最出色的后卫之一，而且也是人品最好的球员之一。在法国世界杯赛期间，巴拉圭队能够打进第二轮，靠的就是加马拉等人组成的坚强的后卫线和门将奇拉维特。加马拉在世界杯赛上出赛４场，没有被裁判判罚任何红、黄牌，这对一个后卫来说是罕见的。（完）</P>
+  </TEXT>
+</DOC>

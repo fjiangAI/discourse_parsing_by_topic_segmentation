@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社南京四月二十三日电（记者杨福田）" DiscourseTopic="中国建立彗星撞击木星观测网">
+    <LEAD>中国已经建立全国性观测苏梅克—列维９号彗星撞击木星的网络，并制订了规模宏大的天文监测计划。</LEAD>
+    <ABSTRACT>中国已经建立全国性观测苏梅克—列维９号彗星撞击木星的网络，并制订了规模宏大的天文监测计划。这次罕见的重大天文现象需要全球作连续监测，中国的观测资料是国际联测中不可缺少或替代的组成部分。中国将投入所有的先进天文设备进行观测。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Summary" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="中国已经建立全国性观测苏梅克—列维９号彗星撞击木星的网络，并制订了规模宏大的天文监测计划。">中国科学院紫金山天文台今天宣布，中国已经建立全国性观测苏梅克—列维９号彗星撞击木星的网络，并制订了规模宏大的天文监测计划。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="这次观测彗星撞击木星对于研究和预测彗星撞击地球具有十分重要的意义。">据专家介绍，木星是太阳系中最大的一颗行星，与地球一样环绕太阳运转。这次观测彗星撞击木星对于研究和预测彗星撞击地球具有十分重要的意义。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="中国天文学界对这次彗星撞击木星现象也十分重视，并密切关注其发展变化。">中国天文学界对这次彗星撞击木星现象也十分重视，并密切关注其发展变化。近日，在中国科学院和国家自然科学基金会的支持下，来自全国各地的四十多位天文学家在南京召开了苏梅克—列维９号彗星撞击木星监视计划讨论会。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="这次罕见的重大天文现象需要全球作连续监测，中国的观测资料是国际联测中不可缺少或替代的组成部分。中国将投入所有的先进天文设备进行观测。">专家们认为，这次罕见的重大天文现象需要全球作连续监测，中国处于日本和欧洲之间的一个重要的经度位置，中国的观测资料是国际联测中不可缺少或替代的组成部分。届时，中国将投入所有的先进天文设备进行观测，其中包括二点一六米口径的反光望远镜、一点二六米口径的红外望远镜、射电望远镜。二十五米口径的分米、厘米波段望远镜、十米波段望远镜以及先进的光学望远镜终端设备。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="南京紫金山天文台有四十多年关于彗星、小行星的观测研究经验。">南京紫金山天文台有四十多年关于彗星、小行星的观测研究经验、该台行星研究室是中国唯一的长期从事彗星、小行星研究的科研机构，自一九八八年起又开始研究太阳系天体碰撞问题。该台行星专家还多次参加关于彗星、小行星撞击地球危险性的国际学术讨论会。（完）</P>
+  </TEXT>
+</DOC>

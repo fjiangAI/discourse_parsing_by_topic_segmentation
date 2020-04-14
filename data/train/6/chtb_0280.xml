@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京四月二十三日电" DiscourseTopic="江泽民会见中国红十字会第六次全国会员代表大会代表">
+    <LEAD>江泽民会见中国红十字会第六次全国会员代表大会代表。</LEAD>
+    <ABSTRACT>江泽民今天会见了中国红十字会第六次全国会员代表大会代表。中国红十字会为国际性的从事人道主义工作的社会救助团体，九十年来为人民做了大量好事。红十字事业对建设社会主义物质文明和精神文明有着积极的促进作用。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="1...1|2...3" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...3|4...4" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="2...2|3...3" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="江泽民今天会见了中国红十字会第六次全国会员代表大会代表。">中共中央总书记、国家主席、中国红十字会名誉会长江泽民今天在中南海会见了中国红十字会第六次全国会员代表大会代表，并代表中共中央、国务院向辛勤工作的二千万会员，表示亲切的问候。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="中国红十字会为国际性的从事人道主义工作的社会救助团体，九十年来为人民做了大量好事。">江泽民说，中国红十字会为国际性的从事人道主义工作的社会救助团体，按照国际红十字与红新月运动的基本原则，九十年来为人民做了大量好事，为国家的发展做出了不少贡献，以实际行动赢得了广大群众的尊敬和支持。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="红十字事业对建设社会主义物质文明和精神文明有着积极的促进作用。">江泽民说，红十字事业是一项崇高的社会事业，对建设社会主义物质文明和精神文明有着积极的促进作用。改革开放以来，中国红十字会根据新的实践要求，开展了卓有成效的人道主义工作，在社会上产生了广泛而良好的影响，走出了有中国特色的发展红十字事业的新路。</P>
+    <P Function="Supplement" ID="4" ParagraphTopic="国家副主席荣毅仁和钱其琛、彭（佩去亻加王旁）云、钱正英等参加了会见。">国家副主席荣毅仁和钱其琛、彭（佩去亻加王旁）云、钱正英等参加了会见。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="正在国外访问的国务院总理李鹏给大会发来了贺信。">正在国外访问的国务院总理李鹏给大会发来了贺信。李鹏在贺信中说，中国红十字会是一个很重要的人道主义组织，九十年来，特别是新中国成立以来，在中国人民与世界人民交往中发挥重要的作用。他希望中国的红十字事业更加蓬勃发展，他希望全社会和各级政府都来关心、支持这项崇高的事业。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="江泽民、李鹏、乔石、刘华清等还为中国红十字会成立九十周年暨第六次全国代表大会题了词。">江泽民、李鹏、乔石、刘华清等还为中国红十字会成立九十周年暨第六次全国代表大会题了词。（完）</P>
+  </TEXT>
+</DOC>

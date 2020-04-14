@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十八日电" DiscourseTopic="哈尔滨五十万只蜜蜂乘飞机南下福建赶花季">
+    <LEAD>哈尔滨五十万只蜜蜂南下福州市“追赶花季”。</LEAD>
+    <ABSTRACT>哈尔滨五十万只蜜蜂南下福州市“追赶花季”。为使他心爱的蜜蜂乘坐飞机不过于疲劳，他特意研制了一种易搬运、体形小、通风好、便于保洁保温的新式蜂笼，以确保蜜蜂长途旅行的安全。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="哈尔滨五十万只蜜蜂南下福州市“追赶花季”。">日前，哈尔滨市宾县摆渡乡已习惯于“冬闲”的五十万只蜜蜂告别了北方，乘麦道飞机南下福州市“追赶花季”。这是它们的主人、蜜农张世元为它们安排的。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="北方蜜蜂一到冬天，既不生产蜂蜜，又大量消耗蜜糖和王浆，还易受到鼠害，造成的损失严重。">北方蜜蜂一到冬天，既不生产蜂蜜，又大量消耗蜜糖和王浆，还易受到鼠害，造成的损失严重。</P>
+    <P Function="Background" ID="3" ParagraphTopic="一九九五年和一九九七年，张世元先后与广西南宁和博白的蜜农合作，进行南北双向流动养蜂。">怎样才能变冬闲为冬忙，让蜜蜂能追赶上花季？张世元把目光瞄向了南国。一九九五年和一九九七年，张世元先后与广西南宁和博白的蜜农合作，进行南北双向流动养蜂。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="为使他心爱的蜜蜂乘坐飞机不过于疲劳，他特意研制了一种易搬运、体形小、通风好、便于保洁保温的新式蜂笼，以确保蜜蜂长途旅行的安全。">为使他心爱的蜜蜂乘坐飞机不过于疲劳，他特意研制了一种易搬运、体形小、通风好、便于保洁保温的新式蜂笼，以确保蜜蜂长途旅行的安全。他给空中旅行的蜜蜂喂液体饲料，为空运蜜蜂创出了一项新的技术。（完）</P>
+  </TEXT>
+</DOC>

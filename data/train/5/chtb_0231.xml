@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社伦敦８月３１日电（记者李文浩）" DiscourseTopic="爱尔兰共和军宣布停火">
+    <LEAD>爱尔兰共和军今天宣布，该组织将彻底停止一切军事活动，实行“无条件的和不限期的”的停火。</LEAD>
+    <ABSTRACT>爱尔兰共和军今天宣布，该组织将彻底停止一切军事活动，实行“无条件的和不限期的”的停火。声明要求英国政府正视自己承担的责任，举行由英国和爱尔兰政府以及北爱尔兰各主要政党参加的广泛的谈判，最终解决北爱尔兰的冲突。声明说，爱尔兰共和军宣布的停火，为北爱尔兰问题的“公正和永久的解决”提供了机会。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Result" ID="1" ParagraphTopic="爱尔兰共和军今天宣布，该组织将彻底停止一切军事活动，实行“无条件的和不限期的”的停火。">爱尔兰共和军今天宣布，从今天午夜起，该组织将彻底停止一切军事活动，实行“无条件的和不限期的”的停火。</P>
+    <P Function="Cause" ID="2" ParagraphTopic="爱尔兰共和军考虑到当前的形势和为了推进北爱尔兰和平进程，该组织作出了上述决定。">爱尔兰共和军在一份向英国和爱尔兰新闻传媒发表的声明中说，考虑到当前的形势和为了推进北爱尔兰和平进程，该组织作出了上述决定，并把这一决定通知了它下属的所有部队。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="声明要求英国政府正视自己承担的责任，举行由英国和爱尔兰政府以及北爱尔兰各主要政党参加的广泛的谈判，最终解决北爱尔兰的冲突。">声明要求英国政府正视自己承担的责任，敦促有关各方以坚定和耐心面对将由这次停火所带来的新形势，举行由英国和爱尔兰政府以及北爱尔兰各主要政党参加的广泛的谈判，最终解决北爱尔兰的冲突。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="声明说，爱尔兰共和军宣布的停火，为北爱尔兰问题的“公正和永久的解决”提供了机会。">声明说，爱尔兰共和军宣布的停火，为北爱尔兰问题的“公正和永久的解决”提供了机会。但是爱尔兰共和军也重申，它将仍然信守其“共和目标”，即爱尔兰全岛的统一。</P>
+    <P Function="Background" ID="5" ParagraphTopic="爱尔兰共和军已在北爱尔兰进行了长达２５年的暴力活动。">为实现北爱尔兰和爱尔兰共和国的统一，爱尔兰共和军已在北爱尔兰进行了长达２５年的暴力活动。（完）</P>
+  </TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社天津五月二十一日电（记者栗建昌）" DiscourseTopic="天津港保税区：中国北方最具活力的开放区域">
+    <LEAD>天津港保税区已成为北方最具投资价值的开放区域。</LEAD>
+    <ABSTRACT>天津港保税区已成为北方最具投资价值的开放区域。今年以来，天津港保税区的投资一直很活跃。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="6|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...12" ParentId="-1" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Sub-Summary" ID="4" Layer="3" ParagraphPosition="6...7|8...8" ParentId="2" RelationType="Cause-Result" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Cause" ID="2" Layer="2" ParagraphPosition="6...8|9...12" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Cause" ID="5" Layer="4" ParagraphPosition="6...6|7...7" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="9...9|10...10|11...11|12...12" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="7" Function="Result" ID="6" Layer="2" ParagraphPosition="1...4|5...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="8" Function="Summary" ID="7" Layer="3" ParagraphPosition="1...3|4...4" ParentId="6" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="2" ChildList="9" Function="Result" ID="8" Layer="4" ParagraphPosition="1...2|3...3" ParentId="7" RelationType="Illustration-Statement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Illustration" ID="9" Layer="5" ParagraphPosition="1...1|2...2" ParentId="8" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="五年前，香港维信工贸有限公司投资一百五十万美元，在天津港保税区设立了一家出口加工企业，从事羊绒加工。">五年前，香港维信工贸有限公司投资一百五十万美元，在天津港保税区设立了一家出口加工企业，从事羊绒加工。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="如今，这家企业已发展成为一个拥有四个子公司、十多个羊绒生产基地的企业集团。">如今，这家企业已发展成为一个拥有四个子公司、十多个羊绒生产基地的企业集团。</P>
+    <P Function="Statement" ID="3" ParagraphTopic="天津港保税区已成为北方最具投资价值的开放区域。">天津港保税区是中国最早设立的保税区之一。经过六年的开发，它已成为北方最具投资价值的开放区域。</P>
+    <P Function="Cause" ID="4" ParagraphTopic="去年，中国对外资企业进口设备等方面的优惠政策进行了调整，而赋于保税区的各项优惠政策和特殊功能不变，使保税区政策的“含金量”相对增加，为保税区发展提供了新的机遇。">去年，中国对外资企业进口设备等方面的优惠政策进行了调整，而赋于保税区的各项优惠政策和特殊功能不变，使保税区政策的“含金量”相对增加，特别是在服务性贸易和进出口通关两个领域的优势更加明显，为保税区发展提供了新的机遇。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="今年以来，天津港保税区的投资一直很活跃。">今年以来，天津港保税区的投资一直很活跃。据保税区管委会统计，今年头两个月，协议投资总额一点六亿美元，比去年同期增长了一点六七倍；其中协议外资额近一亿美元，比去年同期增长近一倍；国内生产总值达二点五八亿元，比去年同期增长了两倍多。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="随着天津港保税区功能开发，投资者从事的经营领域，将更加广泛，一家企业可以兼容加工、仓储到贸易及贸易服务等各种职能。">保税区管委会主任散襄军说，随着中国经济国际化程度的加深，以服务贸易为宗旨的保税区，将成为最具投资价值的开放区域。随着天津港保税区功能开发，投资者从事的经营领域，将更为广泛，一家企业可以兼容加工、仓储到贸易及贸易服务等各种职能。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="设在港区的天津港保税区，基础设施完善。">中国到目前已批准设立的十五个保税区，总面积仅四十平方公里。设在港区的天津港保税区，基础设施完善。已累计开发土地五平方公里，基础设施投资十一亿元，达到“七通一平”的投资要求。</P>
+    <P Function="Result" ID="8" ParagraphTopic="天津港保税区已有六十七个国家和地区及国内的二十五个省市自治区的两千多家企业前来投资。">据统计，天津港保税区已有六十七个国家和地区及国内的二十五个省市自治区的两千多家企业前来投资，德国奔驰汽车、日本的三菱、住友等公司都已在区内落户，建立了贸易、物流和加工基地。协议投资总额近三十亿美元，其中协议外资额达十九亿美元，居全国各保税区之首。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="作为保税区的主要功能的国际贸易和转口贸易增长迅速，已形成规模。">作为保税区的主要功能的国际贸易和转口贸易增长迅速，已形成规模。到去年底，进出保税区的货物总值累计已超过五十四亿美元，国际集装箱进出区量已达每月六千个标箱。</P>
+    <P Function="Situation" ID="10" ParagraphTopic="除国际贸易之外，区内的各种功能也都得到拓展。">除国际贸易之外，区内的各种功能也都得到拓展。仓储运输、出口加工、商品展示等功迅速发展，进出口货物发展到十八类一千多品种，业务量逐年增长，货代、船代、信息咨询等贸易服务功能都已具备。区内还设立了一个常年的国际综合交易中心，已有国内外的四百多个企业会员进场交易。</P>
+    <P Function="Situation" ID="11" ParagraphTopic="天津港保税区设立了全国第一个货物分拨中心，同时已建设立了一批集仓储、运输、销售于一体的大型物流配给中心。">在海关的配合下，天津港保税区设立了全国第一个货物分拨中心，具备了口岸关的功能，实现了国际贸易货物的直通保税区，同时已建设立了一批集仓储、运输、销售于一体的大型物流配给中心。有的还开展了铁路和国际集装箱多式联运。</P>
+    <P Function="Situation" ID="12" ParagraphTopic="保税区还与天津开发区一起设立一个一平方公里的保泰工业园，进区企业可以享受保税区的政策优惠。">为了进一步方便企业在区内的出口加工，保税区还与天津开发区一起设立一个一平方公里的保泰工业园，进区企业可以享受保税区的政策优惠。目前这一工业园正在进行基础设施的建设，预计今年六月份具备招商条件。（完）</P>
+  </TEXT>
+</DOC>

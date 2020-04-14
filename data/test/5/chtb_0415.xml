@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十月十日电" DiscourseTopic="杜邦公司看好中国市场">
+    <LEAD>到二０００年，杜邦公司在中国的投资将达到十亿美元。</LEAD>
+    <ABSTRACT>到二０００年，杜邦公司在中国的投资将达到十亿美元。中国将是二十一世纪世界经济发展的中心，也是杜邦全球业务发展的重要市场。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="4" Function="Statement" ID="3" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Result-Cause" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...4" ParentId="1" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Result" ID="4" Layer="4" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Background" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="到二０００年，杜邦公司在中国的投资将达到十亿美元。">美国公司高级副总裁马伯乐九日在此间表示，他对江泽民主席即将对美国访问的成果看好。他说，到二０００年，杜邦公司在中国的投资将达到十亿美元。</P>
+    <P Function="Background" ID="2" ParagraphTopic="马伯乐是参加了杜邦在上海举行的亚太地区对外事务会议后与其他五位全球领导小组成员专程来北京的。">马伯乐是参加了杜邦在上海举行的亚太地区对外事务会议后与其他五位全球领导小组成员专程来北京的。据马伯乐介绍，杜邦全球领导小组成员是首次参加在亚洲举行的地区性对外事务会议。他说：“我们选择了中国，足见杜邦对中国市场的重视。”</P>
+    <P Function="Cause" ID="3" ParagraphTopic="中国将是二十一世纪世界经济发展的中心，也是杜邦全球业务发展的重要市场。">首次来华的马伯乐说，中国将是二十一世纪世界经济发展的中心，也是杜邦全球业务发展的重要市场。“我觉得必须亲自来中国看一看。”他说，“来到中国我感受很深，看到中国充满活力。”</P>
+    <P Function="Illustration" ID="4" ParagraphTopic="杜邦公司自一九八七年开始在中国各地多家重点大学设立奖学金。">马伯乐还宣布将在北京大学设立杜邦奖学金。杜邦公司自一九八七年开始在中国各地多家重点大学设立奖学金。目前，杜邦在中国奖学金总额约近百万元人民币，设奖院校已达十六所，其中包括著名的北京大学、复旦大学。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="总部设在美国的杜邦公司是世界著名的化学及能源跨国集团。">总部设在美国的杜邦公司是世界著名的化学及能源跨国集团。截止目前，杜邦在中国已成立了四家办事处、三家独资工厂、八家合资企业，投资总额超过三亿美元。（完）</P>
+  </TEXT>
+</DOC>

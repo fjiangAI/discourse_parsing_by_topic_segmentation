@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月二十九日电" DiscourseTopic="国家开发银行首次在国外发行债券成功">
+    <LEAD>国家开发银行在日本成功发行了三百亿日元武士债券。</LEAD>
+    <ABSTRACT>国家开发银行在日本成功发行了三百亿日元武士债券，这是国家开发银行首次在国际资本市场发行债券，筹集的资金将主要用于国家重点建设项目。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Background" ID="2" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Statement-Illustration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="2...2|3...3" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="国家开发银行在日本成功发行债券。">国家开发银行日前在日本资本市场成功地发行了三百亿日元武士债券。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这是国家开发银行首次在国际资本市场发行债券。">这是国家开发银行首次在国际资本市场发行债券，由日本野村证券株式会社和日本兴业银行证券株式会社作为联合主干事，发行期限十年，到期一次偿还。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="本次发行债券条件优惠，筹集的资金将用于国家重点建设项目。">据了解，这次发行武士债券的条件是近几年来比较优惠的，筹集的资金将主要用于广东岭澳核电工程、伊敏电厂和绥中电厂等国家重点建设项目。</P>
+    <P Function="Statement" ID="4" ParagraphTopic="国家开发银行为国家重点建设项目筹集了大批资金。">国家开发银行自成立以来，为国家重点建设项目筹集了大批资金。</P>
+    <P Function="Illustration" ID="5" ParagraphTopic="国家开发银行不断加大对重点建设项目的支持力度推动中国经济发展。">一九九五年，国家开发银行成功地组织了首次五千万美元外国银团贷款，同时承做了岭澳核电工程、秦山二期核电等项目的国外出口信贷的转贷，从内资和外资两个方面不断加大对重点建设项目的支持力度，为推动中国经济发展发挥了积极的作用。（完）</P>
+  </TEXT>
+</DOC>

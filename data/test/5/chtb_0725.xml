@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社雅加达１２月２９日电（记者赵金川麦棠源）" DiscourseTopic="印尼发现苏哈托家族拥有２０多万公顷土地">
+    <LEAD>前总统苏哈托及其家族在印尼１４个省拥有２０多万公顷用于房地产开发的土地，并在全国对近９００万公顷林地拥有特别使用权。</LEAD>
+    <ABSTRACT>前总统苏哈托及其家族在印尼１４个省拥有２０多万公顷用于房地产开发的土地，并在全国对近９００万公顷林地拥有特别使用权。以苏哈托的家庭成员个人名义拥有的土地仅８２公顷，其余土地则在苏哈托家族控股的公司名下。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...5" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Supplement" ID="2" Layer="2" ParagraphPosition="4...4|5...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="前总统苏哈托及其家族在印尼１４个省拥有２０多万公顷用于房地产开发的土地，并在全国对近９００万公顷林地拥有特别使用权。">印度尼西亚土地事务部长哈桑·巴斯里·杜林２８日证实，前总统苏哈托及其家族在印尼１４个省拥有２０多万公顷用于房地产开发的土地，并在全国对近９００万公顷林地拥有特别使用权。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="以苏哈托的家庭成员个人名义拥有的土地仅８２公顷，其余土地则在苏哈托家族控股的公司名下。">杜林告诉当地记者，以苏哈托的家庭成员个人名义拥有的土地仅８２公顷，其余土地则在苏哈托家族控股的公司名下。他说，以苏哈托个人名义拥有的地产有１１．６公顷，在他已去世夫人名下的地产有５．８公顷，苏哈托的六个子女在全国还拥有大量土地。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="调查结果显示，苏哈托家族的土地是通过正常手续购买的。然而，据此间媒体报道，苏哈托家族常常是利用军人把贫困的农民赶走来获取土地的。">杜林说，调查结果显示，苏哈托家族的土地是通过正常手续购买的。然而，据此间媒体报道，苏哈托家族常常是利用军人把贫困的农民赶走来获取土地的。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="自今年５月２１日苏哈托被迫辞职以来，调查苏哈托及其家族和亲信财产问题便成为各界关注的焦点。">自今年５月２１日苏哈托被迫辞职以来，调查苏哈托及其家族和亲信财产问题便成为各界关注的焦点。目前，印尼最高检察院已发现苏哈托在国内７２家银行有２１０亿盾（约合３００万美元）的存款。１２月９日，印尼最高检察院就对苏哈托滥用慈善基金会资金、滥用职权发展“国产汽车”项目等指控传讯了苏哈托本人。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="据此间报纸报道，苏哈托家族在国内３２００家公司中持有股份，至少拥有２００亿美元的财产。">据此间报纸报道，苏哈托家族在国内３２００家公司中持有股份，至少拥有２００亿美元的财产。但苏哈托一直否认在国外拥有巨额存款。（完）</P>
+  </TEXT>
+</DOC>

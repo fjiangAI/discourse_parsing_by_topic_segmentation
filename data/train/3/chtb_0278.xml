@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京九月一日电" DiscourseTopic="乔石会见俄罗斯议员团">
+    <LEAD>全国人大常委会委员长乔石今天下午会见了俄罗斯议员团。</LEAD>
+    <ABSTRACT>全国人大常委会委员长乔石今天下午会见了俄罗斯议员团。代表团来华访问，旨在了解中国经济改革情况，经济立法在建立市场经济体制过程中的保障作用，特别是在经济特区建设方面的成功经验。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="全国人大常委会委员长乔石今天下午会见了俄罗斯议员团。">全国人大常委会委员长乔石今天下午在人民大会堂会见了由国家杜马副主席文格罗夫斯基和俄罗斯联邦委员会经济改革委员会副主席谢尔盖恩科夫率领的俄罗斯议员团。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="代表团来华访问，旨在了解中国经济改革情况，经济立法在建立市场经济体制过程中的保障作用，特别是在经济特区建设方面的成功经验。">代表团应外交学会邀请于八月三十日来华访问，旨在了解中国经济改革情况，经济立法在建立市场经济体制过程中的保障作用，特别是在经济特区建设方面的成功经验。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="外交学会会长刘述卿会见并宴请了俄罗斯客人。">晚上，外交学会会长刘述卿会见并宴请了俄罗斯客人。（完）</P>
+  </TEXT>
+</DOC>

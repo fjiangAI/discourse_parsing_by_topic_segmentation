@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十六日电（记者王曦东）" DiscourseTopic="中国将拓宽利用外资渠道">
+    <LEAD>中国拟出台多项新的优惠政策，完善对外开放格局。</LEAD>
+    <ABSTRACT>中国拟出台多项新的优惠政策，拓宽利用外资的渠道，以保证积极合理有效地利用外资，完善对外开放格局。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...7|8...8" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...6|7...7" ParentId="1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="1...5|6...6" ParentId="2" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="1...1|2...5" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="5" ParagraphPosition="2...2|3...3|4...4|5...5" ParentId="4" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国拟出台多项新的优惠政策，完善对外开放格局。">中国拟出台多项新的优惠政策，以保证积极合理有效地利用外资，完善对外开放格局。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="为拓宽利用外资的渠道，中国将试点开展多种方式，推出新的利用外资政策。">国家计委有关部门介绍，为拓宽利用外资的渠道，中国将对于ＢＯＴ、项目融资、在海外发行股票等多种方式积极试点逐步开展。扩大与发达国家及广大发展中国家的合作，扩大对外开放领域，继续保险业、零售商业的利用外资试点，并在矿业资源开发、分销等行业推出新的利用外资政策。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="外商投资ＢＯＴ项目享受税收优惠。">国家税务总局提供的信息表明，从明年开始，外商投资ＢＯＴ项目继续享受税收优惠，其优惠政策范围包括从事ＢＯＴ项目的投资企业和投资者个人。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="鼓励外商到中西部地区进行投资。">国务院特区办有关负责人表示，为鼓励外商到中西部地区进行投资，对中国产业政策中限制外商投资，但能发挥人力资源的项目，允许外商在中西部兴办。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="中国在码头、航道和海运方面的优惠政策。">此外，中国将鼓励中外合资建设并经营公用码头泊位，允许外商独资建设货主码头及其专用航道。经批准，外国公司可在中国设立中外合资海运公司，外国海运公司可依据两国政府间海运协定，设立独资船务公司。</P>
+    <P Function="Background" ID="6" ParagraphTopic="目前中国利用外资情况。">据统计，到目前为止中国已累计批准外商投资企业逾三十万家，实际使用外资约二千亿美元。利用外资已占全社会固定资产投资的二成以上。</P>
+    <P Function="Comment" ID="7" ParagraphTopic="新政策出台的意义和目的。">据分析，由于企业改革的推进，中国对于外资的需求将随之增加，外商投资的行业也将日益扩大。新政策陆续出台，表明中国将积极引导外资的投向，达到合理利用外资的目的。</P>
+    <P Function="Supplement" ID="8" ParagraphTopic="今后一段时期中国鼓励外商投资的方向和方法。">今后一段时期，中国将鼓励外商投资农业新技术和土地资源综合开发以及水利、能源、交通、重要原材料、机械电子、矿业等基础产业和支柱产业，鼓励外商采用高新技术参予中国企业的技术改造。（完）</P>
+  </TEXT>
+</DOC>

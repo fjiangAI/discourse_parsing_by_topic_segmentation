@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="第十六期三年期外汇基金债券供投标">
+    <LEAD>香港金融管理局宣布，第十六期三年期外汇基金债券的投标日期为下星期一（七月十四日），交收日期为下星期二（七月十五日）。</LEAD>
+    <ABSTRACT>香港金融管理局宣布，第十六期三年期外汇基金债券的投标日期为下星期一（七月十四日），交收日期为下星期二（七月十五日）。与上期一样，总值五亿港元的三年期债券可供投标。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...14" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Supplement" ID="2" Layer="2" ParagraphPosition="4...4|5...14" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="3" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="5" Layer="3" ParagraphPosition="5...5|6...6|7...7|8...8|9...9|10...10|11...11|12...12|13...13|14...14" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="香港金融管理局宣布，第十六期三年期外汇基金债券的投标日期为下星期一（七月十四日），交收日期为下星期二（七月十五日）。">香港金融管理局今日（星期一）宣布，第十六期三年期外汇基金债券的投标日期为下星期一（七月十四日），交收日期为下星期二（七月十五日）。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="与上期一样，总值五亿港元的三年期债券可供投标。">与上期一样，总值五亿港元的三年期债券可供投标。除这数额外，香港金融管理局将另外持有一亿港元债券作为储备，透过第二市场交易供应给庄家。是期债券将於二零零零年七月十七日期满，利率为年息六厘零八，每半年派息一次。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="市民如欲竞投债券，可透过公布名单上任何一名市场庄家或认可交易商进行。">市民如欲竞投债券，可透过公布名单上任何一名市场庄家或认可交易商进行，名单可向香港花园道三号三十楼香港金融管理局索取，或致电二八七八八一五零查询。每一次投标以五万港元或其整数倍数为单位。</P>
+    <P Function="Sub-Summary" ID="4" ParagraphTopic="第十六期三年期外汇基金债券投标资料如下：。">第十六期三年期外汇基金债券投标资料如下：</P>
+    <P Function="Situation" ID="5" ParagraphTopic="发行编号。">发行编号：三零零七</P>
+    <P Function="Situation" ID="6" ParagraphTopic="投标日期和时间。">投标日期和时间：一九九七年七月十四日（星期一）上午九时三十分至十时三十分</P>
+    <P Function="Situation" ID="7" ParagraphTopic="发行和交收日期。">发行和交收日期：一九九七年七月十五日（星期二）</P>
+    <P Function="Situation" ID="8" ParagraphTopic="发行总额。">发行总额：五亿港元，另外金融管理局持有一亿港元作为储备</P>
+    <P Function="Situation" ID="9" ParagraphTopic="年期。">年期：三年</P>
+    <P Function="Situation" ID="10" ParagraphTopic="到期日。">到期日：二零零零年七月十七日</P>
+    <P Function="Situation" ID="11" ParagraphTopic="利息。">利息：年息为六厘零八，每半年派息一次。</P>
+    <P Function="Situation" ID="12" ParagraphTopic="利息支付日期。">利息支付日期：一九九八年一月十五日一九九八年七月十五日一九九九年一月十五日一九九九年七月十五日二零零零年一月十七日二零零零年七月十七日</P>
+    <P Function="Situation" ID="13" ParagraphTopic="投标数额。">投标数额：每一次投标以五万港元或其整数倍数为单位。市民如欲投标，可透过公布名单上任何一名市场庄家或认可交易商进行。</P>
+    <P Function="Situation" ID="14" ParagraphTopic="其他详情。">其他详情：请参阅资料备忘录或向市场庄家和认可交易商查询。</P>
+  </TEXT>
+</DOC>

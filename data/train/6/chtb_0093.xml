@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="谷永江说，内地经济发展为香港特区提供五大机遇">
+    <LEAD>谷永江表示，内地经济发展为香港提供了五大机遇。</LEAD>
+    <ABSTRACT>谷永江表示，内地经济发展为香港提供了五大机遇：有利香港经济长期繁荣稳定、可以为香港提供更多的商业机会、有利巩固香港的贸易和航运中心、进一步推动香港金融市场的发展、有利增强香港产品的国际竞争力。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3|4...4|5...5|6...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="谷永江表示，内地经济发展为香港提供了五大机遇。">谷永江表示，内地经济发展为香港提供了五大机遇：</P>
+    <P Function="Situation" ID="2" ParagraphTopic="有利香港经济长期繁荣稳定。">——有利香港经济长期繁荣稳定。内地经济长期稳定地增长，香港经济将从充满活力的内地经济中获益。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="可以为香港提供更多的商业机会。">——可以为香港提供更多的商业机会。随着内地贸易、金融、零售等服务业有步骤地对外开放，香港服务业将获得更广泛的发展空间。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="有利巩固香港的贸易和航运中心。">——有利巩固香港的贸易和航运中心。到二０一０年，内地的对外贸易总额可望达到八千亿美元，无疑会增加对香港转口和转运的需求，有利巩固香港的贸易和航运中心地位。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="进一步推动香港金融市场的发展。">——进一步推动香港金融市场的发展。随着国企改革的深入，将有更多的股份制企业到境外上市，香港将是国企境外上市的首选地点。这将扩大港股的规模、改善股市结构，推动香港债券市场的发展，香港也会出现更多的中国基金，这一切都将巩固和增强香港的国际金融中心地位。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="有利增强香港产品的国际竞争力。">——有利增强香港产品的国际竞争力。通过内地和香港的经济互补关系，将两地优势结合起来，可增强港产品的国际竞争力。（完）</P>
+  </TEXT>
+</DOC>

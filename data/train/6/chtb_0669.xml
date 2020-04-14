@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社安曼１２月２７日电（记者王丙飞朱少华）" DiscourseTopic="阿拉伯各国议会联盟谴责美英空袭伊拉克">
+    <LEAD>阿拉伯各国议会联盟谴责美国和英国一周前对伊拉克的空袭。声明呼吁紧急召开阿拉伯国家首脑会议，讨论伊拉克问题的最新进展，共同致力于解除对伊制裁。</LEAD>
+    <ABSTRACT>阿拉伯各国议会联盟谴责美国和英国一周前对伊拉克的空袭。声明呼吁紧急召开阿拉伯国家首脑会议，讨论伊拉克问题的最新进展，共同致力于解除对伊制裁。海湾战争结束后，美、英仍在伊拉克南部和北部设置禁飞区“毫无理由”，严重侵犯伊拉克主权，美、英应立即取消这些禁飞区。对俄罗斯政府和中国政府谴责美、英对伊采取军事行动给予高度评价并表示感谢。会议表示支持伊拉克的索赔要求。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...5|6...6" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Summary" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...5" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="3...3|4...4|5...5" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="阿拉伯各国议会联盟谴责美国和英国一周前对伊拉克的空袭。">阿拉伯各国议会联盟理事会２７日在此间结束为期一天的特别会议时发表声明，强烈谴责美国和英国一周前对伊拉克的空袭，要求联合国安理会防止类似事件重演。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="声明呼吁紧急召开阿拉伯国家首脑会议，讨论伊拉克问题的最新进展，共同致力于解除对伊制裁。">声明呼吁紧急召开阿拉伯国家首脑会议，讨论伊拉克问题的最新进展，共同致力于解除对伊制裁。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="海湾战争结束后，美、英仍在伊拉克南部和北部设置禁飞区“毫无理由”，严重侵犯伊拉克主权，美、英应立即取消这些禁飞区。">声明说，海湾战争结束后，美、英仍在伊拉克南部和北部设置禁飞区“毫无理由”，严重侵犯伊拉克主权，美、英应立即取消这些禁飞区。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="对俄罗斯政府和中国政府谴责美、英对伊采取军事行动给予高度评价并表示感谢。">声明授权阿拉伯各国议会联盟理事会致函俄罗斯联邦议会和中华人民共和国全国人民代表大会，对俄罗斯政府和中国政府谴责美、英对伊采取军事行动给予高度评价并表示感谢。</P>
+    <P Function="Situation" ID="5" ParagraphTopic="会议表示支持伊拉克的索赔要求。">伊拉克代表团团长、议长哈马迪在会议上作了发言。他通报了美、英空袭巴格达造成的损失，并向美、英提出索赔要求。会议表示支持伊拉克的索赔要求。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="本次会议是应约旦议会下院的要求召开的。">本次会议是应约旦议会下院的要求召开的，旨在讨论美、英空袭伊拉克所造成的影响，同时表明阿拉伯国家在伊拉克问题上的团结。（完）</P>
+  </TEXT>
+</DOC>

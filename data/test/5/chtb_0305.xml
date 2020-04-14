@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社比什凯克４月２３日电（记者俱孟军、胡晓光）" DiscourseTopic="中吉签署６项文件">
+    <LEAD>中国和吉尔吉斯两国有关方面负责人今天在这里签署了６项文件。</LEAD>
+    <ABSTRACT>中国和吉尔吉斯两国有关方面负责人今天在这里签署了６项文件。这６项文件是：中国向吉尔吉斯政府提供贷款协定、成立中吉政府间经贸混委会协定、中国向吉尔吉斯赠送物资换文、中吉两国文化合作协定、互换两国领事条约批准书、中国贸促会和吉尔吉斯工商会合作协议。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="4|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...5" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Comment" ID="2" Layer="2" ParagraphPosition="3...3|4...5" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="4...4|5...5" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国和吉尔吉斯两国有关方面负责人今天在这里签署了６项文件。">中国和吉尔吉斯两国有关方面负责人今天在这里签署了６项文件。李鹏总理和吉尔吉斯总统阿卡耶夫出席了签字仪式。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这６项文件是：中国向吉尔吉斯政府提供贷款协定、成立中吉政府间经贸混委会协定、中国向吉尔吉斯赠送物资换文、中吉两国文化合作协定、互换两国领事条约批准书、中国贸促会和吉尔吉斯工商会合作协议。">这６项文件是：中国向吉尔吉斯政府提供贷款协定、成立中吉政府间经贸混委会协定、中国向吉尔吉斯赠送物资换文、中吉两国文化合作协定、互换两国领事条约批准书、中国贸促会和吉尔吉斯工商会合作协议。</P>
+    <P Function="Story-Situation" ID="3" ParagraphTopic="阿卡耶夫表示，李鹏总理的这次访问将促进中亚地区的和平、安全与稳定。双方刚刚签署的文件对于加强两国的睦邻关系和友好合作是非常重要的。">签字仪式结束后，阿卡耶夫总统和李鹏总理分别回答了记者的提问。阿卡耶夫高度评价了与李鹏总理的会谈结果。他表示，李鹏总理的这次访问将促进中亚地区的和平、安全与稳定。他认为，双方刚刚签署的文件对于加强两国的睦邻关系和友好合作是非常重要的。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="李鹏总理说，这次访问增进了彼此间的友谊和了解，为中吉两国进一步合作奠定了良好基础。">李鹏总理说，这次访问增进了彼此间的友谊和了解，为中吉两国进一步合作奠定了良好基础。他表示希望中亚地区稳定和发展，人民生活水平不断提高。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="李鹏希望吉尔吉斯新闻媒介转达中国人民对吉尔吉斯人民的问候。">李鹏希望吉尔吉斯新闻媒介转达中国人民对吉尔吉斯人民的问候。（完）</P>
+  </TEXT>
+</DOC>

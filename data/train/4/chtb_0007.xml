@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社上海二月十三日电（通讯员孔良、记者夏儒阁）" DiscourseTopic="上海海关崇明办事处成立">
+    <LEAD>上海海关崇明办事处成立，并正式对外办理业务。</LEAD>
+    <ABSTRACT>上海海关崇明办事处成立，并正式对外办理业务。办事处的设立将促进崇明的发展。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="上海海关崇明办事处成立。">经中国海关总署批准设立的上海海关驻崇明办事处于日前成立，并正式对外办理业务。</P>
+    <P Function="Supplement" ID="2" ParagraphTopic="是上海海关设立的第七个海关机构。">这是上海海关为进一步推进市郊外向经济的发展，继奉贤、莘庄、嘉定、松江、青浦、金山之后设立的第七个海关机构。</P>
+    <P Function="Background" ID="3" ParagraphTopic="崇明的情况介绍。">崇明是中国第三大岛，具有优越的地理条件和悠久的历史，改革开放以来，崇明县的经济建设和对外开放发展迅猛，外商投资企业不断增多，进出口货物大量增加，是中国综合实力百强县之一。</P>
+    <P Function="Comment" ID="4" ParagraphTopic="办事处的设立将促进崇明的发展。">随着崇明海关办事处的设立，崇明县内的单位足不出岛就可以办理一切海关手续，这对进一步改善崇明县的投资环境，加快吸引外资，方便快捷地办理海关手续，把崇明建设成对外高度开放的大型贸易港口，带动出口加工、航运中转等外向型经济的发展，将起到积极的作用。（完）</P>
+  </TEXT>
+</DOC>

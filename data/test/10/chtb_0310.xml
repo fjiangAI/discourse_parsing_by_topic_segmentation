@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社布里斯班４月２３日电（记者王发恩）" DiscourseTopic="中国罗莉高低杠赛独领风骚">
+    <LEAD>中国小将罗莉今天在这里冲破东欧和美国选手的重重包围，夺得第二十九届世界体操锦标赛高低杠的金牌。今天共进行了５个项目的决赛。罗马尼亚获两枚金牌，中国、意大利和白俄罗斯分享其他３枚金牌。</LEAD>
+    <ABSTRACT>中国小将罗莉今天在这里冲破东欧和美国选手的重重包围，夺得第二十九届世界体操锦标赛高低杠的金牌。１７岁的罗莉在预赛中以９·９００分名列榜首。今天共进行了５个项目的决赛。罗马尼亚获两枚金牌，中国、意大利和白俄罗斯分享其他３枚金牌。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...9|10...10" ParentId="-1" RelationType="Summary" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5|4" Function="Story" ID="3" Layer="3" ParagraphPosition="4...5|6...9" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Sub-Summary" ID="5" Layer="4" ParagraphPosition="4...4|5...5" ParentId="3" RelationType="Evaluation" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="4" Layer="4" ParagraphPosition="6...6|7...7|8...8|9...9" ParentId="3" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="3" ChildList="6|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...3|4...9" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="7" Function="Story" ID="6" Layer="3" ParagraphPosition="1...2|3...3" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="7" Layer="4" ParagraphPosition="1...1|2...2" ParentId="6" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="中国小将罗莉今天在这里冲破东欧和美国选手的重重包围，夺得第二十九届世界体操锦标赛高低杠的金牌。">中国小将罗莉今天在这里冲破东欧和美国选手的重重包围，夺得第二十九届世界体操锦标赛高低杠的金牌。这是锦标赛开赛４天以来中国选手获得的最高奖赏。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="１７岁的罗莉在预赛中以９·９００分名列榜首。">女子高低杠比赛强手云集，有俄罗斯、罗马尼亚和美国名将各两人，乌克兰选手一人。１７岁的罗莉在预赛中以９·９００分名列榜首，今天她第五个出场。她的动作编排新颖，难度大，风格独特，演技炉火纯青，博得观众雷鸣般掌声。在她下杠稳稳站住后，裁判以最快的速度给她亮出了９·９１２的今晚最高分。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="压阵出场的俄罗斯选手斯·乔基娜孤注一掷。夺得银牌。乔基娜的同伴迪·科契特基娃获得铜牌。">压阵出场的俄罗斯选手斯·乔基娜孤注一掷。尽管她的动作潇洒自如，但难度无法与罗莉相比，只获得９·８７５分，夺得银牌。乔基娜的同伴迪·科契特基娃以９·８５０分获得铜牌。本届锦标赛女子个人全能银牌得主罗马尼亚的米洛索维奇出现大失误，只获第六名。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="今天共进行了５个项目的决赛。罗马尼亚获两枚金牌，中国、意大利和白俄罗斯分享其他３枚金牌。">今天共进行了男子自由体操、鞍马、吊环和女子跳马、高低杠个人单项赛的５个项目的决赛。罗马尼亚获两枚金牌，中国、意大利和白俄罗斯分享其他３枚金牌。参加今天比赛的两名中国男选手是李大双和黄华东。他们分别在自由体操和鞍马比赛中均列第五名。</P>
+    <P Function="Comment" ID="5" ParagraphTopic="中国队代表团团长张健说，男选手水平在下降。女选手均表现不错。">中国队代表团团长张健在评论中国选手的表现时说，男选手的成绩是近１０年来最差的一次，说明水平在下降；而罗莉、乔娅和莫惠兰３名女选手都是第一次参加世界大赛，均表现不错，因为她们有强项，动作有难度。</P>
+    <P Function="Situation" ID="6" ParagraphTopic="男子自由体操决赛几乎爆出冷门。">男子自由体操决赛几乎爆出冷门。体操赛坛上的无名之辈、希腊的洛·迈利萨尼迪斯不畏强手，同白俄罗斯名将谢尔博进行金牌竞争。谢尔博最后获得冠军，成绩是９·７２５分；迈利萨尼迪斯获得９·６８７分，与英国的尼·托马斯同享银牌。这是希腊选手参加历届世界体操大赛以来获得的最好名次。</P>
+    <P Function="Situation" ID="7" ParagraphTopic="罗马尼亚的两枚金牌由１８岁马·乌兹卡在鞍马和１６岁的吉·戈杰安在女子跳马上获得的。">罗马尼亚的两枚金牌由１８岁马·乌兹卡在鞍马和１６岁的吉·戈杰安在女子跳马上获得的，他们的成绩分别为９·７１２和９·８１２分。意大利的尤·凯基以９·７８７分获吊环金牌。</P>
+    <P Function="Situation" ID="8" ParagraphTopic="今天吊环决赛是历届体操锦标赛中最高水准的角逐。">今天吊环决赛是历届体操锦标赛中最高水准的角逐。参加比赛的８名选手都做出了许多惊险的高难动作。在预赛中排行第一的凯基动作刚健有力，夺得第一名。美国的保·奥夫内尔以９·７２５分获银牌，罗马尼亚的丹·布林卡和德国的瓦·贝林基均以９·７００分并列第三名。</P>
+    <P Function="Situation" ID="9" ParagraphTopic="罗马尼亚选手在女子跳马决赛中也展示了雄厚的实力，除戈杰安夺得金牌外，米洛索维奇还以９·７８７分摘取铜牌。">罗马尼亚选手在女子跳马决赛中也展示了雄厚的实力，除戈杰安夺得金牌外，米洛索维奇还以９·７８７分摘取铜牌。俄罗斯的乔基娜以９·８００分获得银牌。本届比赛女子个人全能金牌得主、美国的米勒在此次比赛中动作严重失误，名列第七。</P>
+    <P Function="Sumup" ID="10" ParagraphTopic="本届锦标赛到今天为止，已决出７枚金牌。">本届锦标赛到今天为止，已决出７枚金牌。明天将进行最后５个男女单项的决赛。（完）</P>
+  </TEXT>
+</DOC>

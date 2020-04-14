@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京十二月二十九日电" DiscourseTopic="全国人大常委会关于批准《准予就业最低年龄公约》的决定">
+    <LEAD>第九届全国人民代表大会常务委员会第六次会议通过《准予就业最低年龄公约》，同时，声明如下：。</LEAD>
+    <ABSTRACT>第九届全国人民代表大会常务委员会第六次会议通过《准予就业最低年龄公约》，同时，声明如下：。一、在中华人民共和国领土内及中华人民共和国注册的运输工具上就业或者工作的最低年龄为十六周岁。二、在中华人民共和国政府另行通知前，《准予就业最低年龄公约》暂不适用于中华人民共和国香港特别行政区。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...3" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...3" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="第九届全国人民代表大会常务委员会第六次会议通过《准予就业最低年龄公约》，同时，声明如下：。">第九届全国人民代表大会常务委员会第六次会议通过《准予就业最低年龄公约》，同时，声明如下：</P>
+    <P Function="Situation" ID="2" ParagraphTopic="一、在中华人民共和国领土内及中华人民共和国注册的运输工具上就业或者工作的最低年龄为十六周岁。">一、在中华人民共和国领土内及中华人民共和国注册的运输工具上就业或者工作的最低年龄为十六周岁；</P>
+    <P Function="Situation" ID="3" ParagraphTopic="二、在中华人民共和国政府另行通知前，《准予就业最低年龄公约》暂不适用于中华人民共和国香港特别行政区。">二、在中华人民共和国政府另行通知前，《准予就业最低年龄公约》暂不适用于中华人民共和国香港特别行政区。（完）</P>
+  </TEXT>
+</DOC>

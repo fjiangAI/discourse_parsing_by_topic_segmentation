@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社汉城１２月３１日电（记者朱克川）" DiscourseTopic="韩国９８年经济增长率为负百分之七">
+    <LEAD>９８年韩国的经济增长率为负百分之七，人均国民生产总值比９７年下降百分之三十三点五。</LEAD>
+    <ABSTRACT>９８年韩国的经济增长率为负百分之七，人均国民生产总值比９７年下降百分之三十三点五。按９８年韩元与美元的平均汇率为１４００比１计算，９８年韩国人均国民生产总值为６３２１美元，比９７年的９５１１美元下降百分之三十三点五，略低于１９９１年的水平。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="９８年韩国的经济增长率为负百分之七，人均国民生产总值比９７年下降百分之三十三点五。">韩国财政经济部今天宣布，９８年韩国的经济增长率为负百分之七，人均国民生产总值比９７年下降百分之三十三点五。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="按９８年韩元与美元的平均汇率为１４００比１计算，９８年韩国人均国民生产总值为６３２１美元，比９７年的９５１１美元下降百分之三十三点五，略低于１９９１年的水平。">按９８年韩元与美元的平均汇率为１４００比１计算，９８年韩国人均国民生产总值为６３２１美元，比９７年的９５１１美元下降百分之三十三点五，略低于１９９１年的水平。</P>
+    <P Function="Supplement" ID="3" ParagraphTopic="韩国财政经济部认为，１９９９年韩国的经济增长率将恢复到百分之二。">韩国财政经济部认为，１９９９年韩国的经济增长率将恢复到百分之二。一些权威经济研究机构预测，如果韩元对美元的年平均汇率能够保持在１２００比１，１９９９年韩国人均国民生产总值将回升到７７００美元。（完）</P>
+  </TEXT>
+</DOC>

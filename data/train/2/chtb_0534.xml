@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="临时区议会选举主席">
+    <LEAD>葵青及九龙城临时区议会今日（星期六）分别举行会议，选出主席。</LEAD>
+    <ABSTRACT>葵青及九龙城临时区议会今日（星期六）分别举行会议，选出主席。葵青临时区议会主席为单仲偕而九龙城临时区议会主席则为邓宝匡。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...2" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="葵青及九龙城临时区议会今日（星期六）分别举行会议，选出主席。">葵青及九龙城临时区议会今日（星期六）分别举行会议，选出主席。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="葵青临时区议会主席为单仲偕而九龙城临时区议会主席则为邓宝匡。">葵青临时区议会主席为单仲偕而九龙城临时区议会主席则为邓宝匡。</P>
+  </TEXT>
+</DOC>

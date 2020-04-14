@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社萨那１２月２９日电（记者蒋少清）" DiscourseTopic="３名西方游客在也门遇害">
+    <LEAD>３名遭恐怖分子劫持的西方游客当天下午在也门南部阿比洋省埃马利布地区被杀害。</LEAD>
+    <ABSTRACT>３名遭恐怖分子劫持的西方游客当天下午在也门南部阿比洋省埃马利布地区被杀害。被害游客分别来自美国、英国和澳大利亚。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...4|5...5" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="4" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4|3" Function="Story" ID="2" Layer="2" ParagraphPosition="1...2|3...4" ParentId="1" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Supplement" ID="3" Layer="3" ParagraphPosition="3...3|4...4" ParentId="2" RelationType="Sequence" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="３名遭恐怖分子劫持的西方游客当天下午在也门南部阿比洋省埃马利布地区被杀害。">也门内政部负责官员２９日晚在此间证实，３名遭恐怖分子劫持的西方游客当天下午在也门南部阿比洋省埃马利布地区被杀害。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="被害游客分别来自美国、英国和澳大利亚。">被害游客分别来自美国、英国和澳大利亚。他们是２８日在阿比洋省与另外１３名外国游客一起被劫持的。劫案发生后，也门政府为确保游客安全与恐怖分子进行谈判，但就在谈判过程中，３名游客被杀害。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="为阻止事件的进一步扩大和营救被劫持的其他游客，也门保安人员同恐怖分子发生交火。">也门内政部负责官员对也通社发表谈话说，３名游客被害后，为阻止事件的进一步扩大和营救被劫持的其他游客，也门保安人员同恐怖分子发生交火，打死３名恐怖分子，另外抓获３人。两名游客也在交火中受伤。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="这位官员对发生这种令人极为痛心的事件并导致无辜的外国游客被害而表示不安。也门安全机构将严惩被抓获的恐怖分子，对任何破坏社会安全和稳定的人给予坚决镇压，决不手软。">这位官员对发生这种令人极为痛心的事件并导致无辜的外国游客被害而表示不安。他表示，也门安全机构将严惩被抓获的恐怖分子，对任何破坏社会安全和稳定的人给予坚决镇压，决不手软。</P>
+    <P Function="Background" ID="5" ParagraphTopic="恐怖分子此次行动的目的主要针对美英游客，他们表示要对美英游客采取“毁灭性打击”。">据初步调查，恐怖分子此次行动的目的主要针对美英游客，他们表示要对美英游客采取“毁灭性打击”。（完）</P>
+  </TEXT>
+</DOC>

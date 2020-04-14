@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京二月二十九日电（记者张锦胜）" DiscourseTopic="国家统计局预测：全球经济发展将给中国带来很多机遇">
+    <LEAD>一九九六年全球经济将继续保持增长，为中国的发展带来机遇。</LEAD>
+    <ABSTRACT>一九九六年全球经济将继续保持增长，为中国的发展带来机遇，同时中国今年经济发展仍面临严竣挑战。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Contrast" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Contrast" ID="2" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Story" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="全球经济继续保持增长有利中国的发展。">国家统计局预测，一九九六年全球经济将继续保持增长，这种良好的态势对中国的发展十分有利，使其面临很多发展机遇。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="全球经济增长对中国经济发展有利的条件。">据预测，今年全球经济增长幅度可达到百分之四点一。推动经济增长的主要因素是亚洲地区经济发展依然强劲有力，全地区经济增长速度将达到百分之七点九，而中国增长速度可高达百分之九点七。国家统计局分析，对中国经济发展十分有利的条件主要有两方面：一是世界经济和国际贸易持续增长，标志国际市场需求的稳步扩大，为中国出口贸易发展提供了比较有利的国际环境。二是一九九六年中国大幅度降低关税，将进一步改善中国的投资环境，吸引更多外商前来投资。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="中国今年经济发展仍面临严竣挑战。">分析表明，在机遇良多、国际形势十分有利的情况下，中国今年经济发展仍面临严竣挑战。在经济快速增长的背后还存在不少困难，其中突出问题是通货膨胀、农业基础薄弱、国有企业活力不足等。在进行全球贸易自由化的同时，中国必须对国有企业进行改革，增强本身的竞争力。当前一些国有企业经营困难，而且国有企业负债高达七千亿元，其产品质量也参差不齐，如无改进，很难在海外市场参与竞争。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="中国面临激烈的国际竞争。">据分析，当前发展中国家经济的迅速崛起，使中国在吸引外资、引进技术、拓展市场及发展高科技等领域也面临激烈的国际竞争。（完）</P>
+  </TEXT>
+</DOC>

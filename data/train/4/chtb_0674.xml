@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社北京１２月２８日电" DiscourseTopic="挪威选手夺得世界杯越野滑雪短距离赛男女冠军">
+    <LEAD>本赛季世界杯越野滑雪系列赛短距离比赛在德国的加米施－帕滕基兴举行，挪威选手托尔·阿默·海特兰和本特·马尔廷森分获男、女冠军。</LEAD>
+    <ABSTRACT>本赛季世界杯越野滑雪系列赛短距离比赛在德国的加米施－帕滕基兴举行，挪威选手托尔·阿默·海特兰和本特·马尔廷森分获男、女冠军。这次越野滑雪短距离比赛距离为１４００米，采取双人淘汰不计成绩的方式进行。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="3|2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="3...3|4...4" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Summary" ID="3" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Lead" ID="1" ParagraphTopic="本赛季世界杯越野滑雪系列赛短距离比赛在德国的加米施－帕滕基兴举行，挪威选手托尔·阿默·海特兰和本特·马尔廷森分获男、女冠军。">本赛季世界杯越野滑雪系列赛短距离比赛２７日晚在德国的加米施－帕滕基兴举行，挪威选手托尔·阿默·海特兰和本特·马尔廷森分获男、女冠军。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="这次越野滑雪短距离比赛距离为１４００米，采取双人淘汰不计成绩的方式进行。">据外电报道，这次越野滑雪短距离比赛距离为１４００米，采取双人淘汰不计成绩的方式进行。这是本赛季举行的第二次短距离越野滑雪比赛。首次短距离比赛是本月８日在意大利米兰的室内滑雪场举行的。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="在男子决赛中，托尔·阿默·海特兰战胜了瑞典选手托比亚斯·弗雷德里克松。">在男子决赛中，托尔·阿默·海特兰战胜了瑞典选手托比亚斯·弗雷德里克松。托比亚斯·弗雷德里克松在米兰曾闯进半决赛，但在争夺决赛权的比赛中负于后来夺得冠军的哥哥马蒂亚斯·弗雷德里克松。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="在女子决赛中，挪威选手本特·马尔廷森击败了爱沙尼亚选手克里斯蒂娜·斯米贡。">在女子决赛中，挪威选手本特·马尔廷森击败了爱沙尼亚选手克里斯蒂娜·斯米贡。在米兰夺得冠军的挪威选手阿尼塔·默恩这次名列第四。（完）</P>
+  </TEXT>
+</DOC>

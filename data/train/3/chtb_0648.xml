@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社圣菲波哥大１２月２６日电（记者吴瑞根）" DiscourseTopic="哥伦比亚缉毒成绩斐然">
+    <LEAD>哥伦比亚缉毒警今年已查获可卡因、大麻、海洛因等各类毒品共４００多吨。警方还擒获北海岸和东部平原等地贩毒集团毒枭１２人，焚毁毒品作物６·３万公顷，没收载毒飞机７９架、快艇３００艘和机动车２９０辆，并捣毁了３８条秘密飞机跑道和１８５个地下毒品加厂。</LEAD>
+    <ABSTRACT>哥伦比亚缉毒警今年已查获可卡因、大麻、海洛因等各类毒品共４００多吨。警方还擒获北海岸和东部平原等地贩毒集团毒枭１２人，焚毁毒品作物６·３万公顷，没收载毒飞机７９架、快艇３００艘和机动车２９０辆，并捣毁了３８条秘密飞机跑道和１８５个地下毒品加厂。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...2|3...3" ParentId="-1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Story" ID="2" Layer="2" ParagraphPosition="1...1|2...2" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="哥伦比亚缉毒警今年已查获可卡因、大麻、海洛因等各类毒品共４００多吨。">哥伦比亚缉毒警署２６日发表年度报告说，该国缉毒警今年已查获可卡因、大麻、海洛因等各类毒品共４００多吨。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="警方还擒获北海岸和东部平原等地贩毒集团毒枭１２人，焚毁毒品作物６·３万公顷，没收载毒飞机７９架、快艇３００艘和机动车２９０辆，并捣毁了３８条秘密飞机跑道和１８５个地下毒品加厂。">报告指出，１９９８年警方还擒获北海岸和东部平原等地贩毒集团毒枭１２人，焚毁毒品作物６·３万公顷，没收载毒飞机７９架、快艇３００艘和机动车２９０辆，并捣毁了３８条秘密飞机跑道和１８５个地下毒品加厂。</P>
+    <P Function="Background" ID="3" ParagraphTopic="哥伦比亚是世界上生产和贩运毒品的主要国家之一。">哥伦比亚是世界上生产和贩运毒品的主要国家之一。日益猖獗的贩毒活动使哥伦比亚暴力活动明显增多，成为拉美地区暴力犯罪率最高的国家。（完）</P>
+  </TEXT>
+</DOC>

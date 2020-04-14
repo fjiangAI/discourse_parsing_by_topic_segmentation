@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="" DiscourseTopic="惩教署回应新闻界查询">
+    <LEAD>惩教署就新闻界查询有关申诉专员公署有以下回应。</LEAD>
+    <ABSTRACT>惩教署就新闻界查询有关申诉专员公署有以下回应。申诉专员公署公布在一九九六年七月至本年六月所接获关於惩教署的申诉个案只有一百四十八宗经转介予惩教署跟进。「指明的人」名单，除申诉专员外并包括行政局议员、立法局议员、巡狱太平绅士及廉政专员。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...1|2...6" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="5" Function="Story" ID="4" Layer="4" ParagraphPosition="3...3|4...5" ParentId="3" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="4" Function="Story" ID="3" Layer="3" ParagraphPosition="3...5|6...6" ParentId="2" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="3" Function="Story" ID="2" Layer="2" ParagraphPosition="2...2|3...6" ParentId="1" RelationType="Joint" StructureType="Parallel segmentation" />
+    <R Center="1" ChildList="" Function="Supplement" ID="5" Layer="5" ParagraphPosition="4...4|5...5" ParentId="4" RelationType="Supplement" StructureType="Hierarchical segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Summary-Lead" ID="1" ParagraphTopic="惩教署就新闻界查询有关申诉专员公署有以下回应。">惩教署就新闻界查询有关申诉专员公署今日（星期一）发表涉及惩教署的申诉个案数字，以及该公署对《监狱条例》内《监狱（修订）规则》所作修订，放宽囚犯在收发信件方面所受到的限制的评论，有以下回应：</P>
+    <P Function="Story-Situation" ID="2" ParagraphTopic="申诉专员公署公布在一九九六年七月至本年六月所接获关於惩教署的申诉个案只有一百四十八宗经转介予惩教署跟进。">申诉专员公署公布在一九九六年七月至本年六月所接获关於惩教署的申诉个案虽有二百八十一宗，但其中只有一百四十八宗经转介予惩教署跟进。其中四十四宗仍等候申诉专员发表调查结果，一宗证明属实，而两宗则属部分属实。</P>
+    <P Function="Situation" ID="3" ParagraphTopic="「指明的人」名单，除申诉专员外并包括行政局议员、立法局议员、巡狱太平绅士及廉政专员。">至於在本年六月二十八日生效的《一九九七年监狱（修订）规则》有关任何由「指明的人」发给囚犯或由囚犯致予「指明的人」的信件的条文所涉及的「指明的人」名单，除申诉专员外并包括行政局议员、立法局议员、巡狱太平绅士及廉政专员。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="囚犯可与任何人士通讯，而书写及发出的信件数量也不受限制，监狱的职员只在有理由相信信件内容会对监狱的保安、秩序及纪律造成威胁的情况下，才会阅读囚犯的信件，不过，高度设防监狱则不在此限。">囚犯可与任何人士通讯，而书写及发出的信件数量也不受限制，监狱的职员只在有理由相信信件内容会对监狱的保安、秩序及纪律造成威胁的情况下，才会阅读囚犯的信件，不过，高度设防监狱则不在此限。</P>
+    <P Function="Supplement" ID="5" ParagraphTopic="惩教署在新的修订施行之前已说明有关信件，（一）不得予以开启或搜查，但如该信件是在该囚犯面前开启和搜查的，或该囚犯表示不欲在该信件开启和搜查时在场，则属例外；及（二）不得予以阅读。">惩教署在新的修订施行之前已说明有关信件，（一）不得予以开启或搜查，但如该信件是在该囚犯面前开启和搜查的，或该囚犯表示不欲在该信件开启和搜查时在场，则属例外；及（二）不得予以阅读。</P>
+    <P Function="Supplement" ID="6" ParagraphTopic="有关修订是符合《人权法案条例》。">有关修订是符合《人权法案条例》。</P>
+  </TEXT>
+</DOC>

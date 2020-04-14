@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DOC>
+  <DISCOURSE Dateline="新华社福州一月十日电（记者许霆）" DiscourseTopic="福建今年将大力推进闽台经贸合作">
+    <LEAD>福建今年将大力推进闽台经贸合作，争取台湾大项目来闽投资，大力拓展对台贸易和发展对台渔工劳务合作。</LEAD>
+    <ABSTRACT>福建今年将大力推进闽台经贸合作，进一步加大对台招商力度，争取台湾大项目来闽投资，大力拓展对台贸易和发展对台渔工劳务合作。日前制定了进一步加快发展对外经贸新措施，把深化外经贸企业改革、保持出口稳定增长、继续扩大利用外资等作为外经贸工作的重要内容。</ABSTRACT>
+  </DISCOURSE>
+  <RELATION>
+    <R Center="1" ChildList="2" Function="NewsReport" ID="1" Layer="1" ParagraphPosition="1...3|4...4" ParentId="-1" RelationType="Elaboration" StructureType="Hierarchical segmentation" />
+    <R Center="1" ChildList="3" Function="Summary" ID="2" Layer="2" ParagraphPosition="1...2|3...3" ParentId="1" RelationType="Background" StructureType="Hierarchical segmentation" />
+    <R Center="3" ChildList="" Function="Sub-Summary" ID="3" Layer="3" ParagraphPosition="1...1|2...2" ParentId="2" RelationType="Joint" StructureType="Parallel segmentation" />
+  </RELATION>
+  <TEXT>
+    <P Function="Situation" ID="1" ParagraphTopic="福建今年将大力推进闽台经贸合作。">福建省日前提出，今年将大力推进闽台经贸合作，进一步加大对台招商力度，加强与台湾大企业、大财团的联系，争取一批台资大项目来闽投资，并大力拓展对台贸易和发展对台渔工劳务合作。</P>
+    <P Function="Situation" ID="2" ParagraphTopic="福建制定进一步加快发展对外经贸新措施。">福建省有关部门日前制定了进一步加快发展对外经贸新措施，把深化外经贸企业改革、保持出口稳定增长、继续扩大利用外资等作为一九九八年该省外经贸工作的重要内容。</P>
+    <P Function="Background" ID="3" ParagraphTopic="福建对外经贸发展情况。">福建是中国沿海地区对外经贸发展最为迅速的地区之一。去年该省外贸进出口总额近二百亿美元，实际利用外资超过四十亿美元，对外承包工程和劳务合作金额达三点五五亿美元。</P>
+    <P Function="Situation" ID="4" ParagraphTopic="新措施的主要内容。">据悉，这些新措施的主要内容有以发展规模经营、组建企业集团为重点，推进省属外贸公司的战略性重组；加大支柱产业产品出口的力度；办好在香港举办的外商投资招商会和九八中国投资贸易洽谈会等。（完）</P>
+  </TEXT>
+</DOC>
