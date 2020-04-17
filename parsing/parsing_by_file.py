@@ -95,7 +95,7 @@ if __name__ == '__main__':
     nuclearity_model_file = ""
     relation_model_file = ""
     for model_name, combine_type, reverse in [
-        ("forward_head_tail", CombineTypeEnum.head_tail, False)
+        ("forward_all", CombineTypeEnum.all, False)
     ]:
         keras.backend.clear_session()
         main_combine(model_name=model_name,

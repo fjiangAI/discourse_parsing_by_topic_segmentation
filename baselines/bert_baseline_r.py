@@ -46,7 +46,7 @@ def test_model(data_file_name, load_model_root, model, tokenizer, relation_dict,
     train_data, test_data = get_data(data_file_name)
     test_data = del_none_data(test_data, datatype="relation")
     test_d = DataGenerator(test_data, batch_size=2, relation_dict=relation_dict, tokenizer=tokenizer, maxlen=maxlen,
-                           data_type="relation")
+                           data_type="relation",shuffle=False)
     model_name = load_model_root + "/save_model" + str(index) + "epoch.model"
     model.load_weights(model_name)
     temp_result = model.predict_generator(test_d.__iter__(), steps=len(test_d)).argmax(axis=-1)

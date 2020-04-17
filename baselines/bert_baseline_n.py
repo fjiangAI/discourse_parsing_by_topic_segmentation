@@ -2,6 +2,7 @@ import argparse
 
 from keras.optimizers import Adam
 import sys
+
 sys.path.append("..")
 from model.bert import build_bert_model
 from train_model.load_data import get_data, del_none_data, get_test_golden_label
@@ -43,7 +44,7 @@ def test_model(data_file_name, load_model_root, model, tokenizer, nuclearity_dic
     train_data, test_data = get_data(data_file_name)
     test_data = del_none_data(test_data, datatype="nuclearity")
     test_d = DataGenerator(test_data, batch_size=2, relation_dict=nuclearity_dict, tokenizer=tokenizer, maxlen=maxlen,
-                           data_type="nuclearity")
+                           data_type="nuclearity", shuffle=False)
     model_name = load_model_root + "/save_model" + str(index) + "epoch.model"
     model.load_weights(model_name)
     temp_result = model.predict_generator(test_d.__iter__(), steps=len(test_d)).argmax(axis=-1)
@@ -64,7 +65,7 @@ if __name__ == '__main__':
     root = args.output_root
     create_dir(root)
     data_file_path = args.data_file_path
-    model_root = root+"/bert_nuclearity"
+    model_root = root + "/bert_nuclearity"
     keras.backend.clear_session()
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
     nuclearity_dict = ParsingIndex.nuclearity_dict

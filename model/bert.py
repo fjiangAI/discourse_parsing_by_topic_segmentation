@@ -16,7 +16,8 @@ class DataGenerator:
     生成迭代数据
     """
 
-    def __init__(self, data, batch_size=8, tokenizer=None, maxlen=512, relation_dict={}, data_type="structure"):
+    def __init__(self, data, batch_size=8, tokenizer=None, maxlen=512, relation_dict={}, data_type="structure",
+                 shuffle=True):
         """
 
         :param data:
@@ -32,6 +33,7 @@ class DataGenerator:
         self.tokenizer = tokenizer
         self.maxlen = maxlen
         self.relation_dict = relation_dict
+        self.shuffle = shuffle
         self.steps = len(self.data) // self.batch_size
         if len(self.data) % self.batch_size != 0:
             self.steps += 1
@@ -42,7 +44,8 @@ class DataGenerator:
     def __iter__(self):
         while True:
             idxs = np.arange(len(self.data))
-            np.random.shuffle(idxs)
+            if self.shuffle:
+                np.random.shuffle(idxs)
             X1_token, X1_seg, \
             X2_token, X2_seg, \
             X3_token, X3_seg, Y = [], [], [], [], [], [], []
@@ -51,7 +54,7 @@ class DataGenerator:
                 arg1_text = d['arg0'][:self.maxlen]
                 arg2_text = d['arg1'][:self.maxlen]
                 title = d['title'][:self.maxlen]
-                x1_token, x1_seg = self.tokenizer.encode(first=arg1_text,second=arg2_text,
+                x1_token, x1_seg = self.tokenizer.encode(first=arg1_text, second=arg2_text,
                                                          max_len=self.maxlen)
                 X1_token.append(x1_token)
                 X1_seg.append(x1_seg)
