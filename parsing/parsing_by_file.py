@@ -91,11 +91,11 @@ def main_combine(model_name, combine_type,
 if __name__ == '__main__':
     import keras
 
-    structure_model_file = "../train_model/基准结果/structure/save_model4epoch.model"
-    nuclearity_model_file = "../train_model/基准结果/nuclearity/save_model4epoch.model"
-    relation_model_file = "../train_model/基准结果/relation/save_model4epoch.model"
+    structure_model_file = "../train_model/forward_left/structure/save_model4epoch.model"
+    nuclearity_model_file = "../train_model/forward_left/nuclearity/save_model4epoch.model"
+    relation_model_file = "../train_model/forward_left/relation/save_model4epoch.model"
     for model_name, combine_type, reverse in [
-        ("基准结果", CombineTypeEnum.left, False)
+        ("forward_left", CombineTypeEnum.left, False)
     ]:
         keras.backend.clear_session()
         main_combine(model_name=model_name,
