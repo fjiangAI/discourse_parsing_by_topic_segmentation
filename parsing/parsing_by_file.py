@@ -1,5 +1,5 @@
-
-
+import sys
+sys.path.append("..")
 from parsing.parsing_index import ParsingIndex
 from pretrain_model.bert_config import BertConfig
 from shift_reduce_algorithm.combine_type_enum import CombineTypeEnum
@@ -64,7 +64,7 @@ def main_combine(model_name, combine_type,
                  nuclearity_model_file,
                  relation_model_file,
                  global_reverse=False,
-                 dataset_root="./data/test/"):
+                 dataset_root="../data/test/"):
     model_root = "./" + model_name
     create_dir(model_root)
     golden_result_file_name, test_result_file_name = create_golden_and_test_result_file_name(model_root, model_name)
@@ -91,11 +91,11 @@ def main_combine(model_name, combine_type,
 if __name__ == '__main__':
     import keras
 
-    structure_model_file = ""
-    nuclearity_model_file = ""
-    relation_model_file = ""
+    structure_model_file = "../train_model/基准结果/structure/save_model4epoch.model"
+    nuclearity_model_file = "../train_model/基准结果/nuclearity/save_model4epoch.model"
+    relation_model_file = "../train_model/基准结果/relation/save_model4epoch.model"
     for model_name, combine_type, reverse in [
-        ("forward_all", CombineTypeEnum.all, False)
+        ("基准结果", CombineTypeEnum.left, False)
     ]:
         keras.backend.clear_session()
         main_combine(model_name=model_name,
