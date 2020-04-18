@@ -74,8 +74,8 @@ if __name__ == '__main__':
     model_root = ""
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
     nuclearity_dict = ParsingIndex.nuclearity_dict
-    TM_bert_model = build_TM_bert_model(config_path, checkpoint_path, num_classes=len(nuclearity_dict.items()))
     keras.backend.clear_session()
+    TM_bert_model = build_TM_bert_model(config_path, checkpoint_path, num_classes=len(nuclearity_dict.items()))
     nuclearity_main(data_file_name, model_root, TM_bert_model, tokenizer, nuclearity_dict)
     for i in range(0, 5):
         print(i)

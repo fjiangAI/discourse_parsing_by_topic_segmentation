@@ -17,8 +17,8 @@ def run_nuclearity(root, data_file_path, do_train=True):
     model_root = root + "/tm_bert_nuclearity"
     config_path, checkpoint_path, tokenizer = get_config_path_and_checkpoint_path_and_tokenizer()
     nuclearity_dict = ParsingIndex.nuclearity_dict
-    TM_bert_model = build_TM_bert_model(config_path, checkpoint_path, num_classes=len(nuclearity_dict.items()))
     keras.backend.clear_session()
+    TM_bert_model = build_TM_bert_model(config_path, checkpoint_path, num_classes=len(nuclearity_dict.items()))
     if do_train:
         nuclearity_main(data_file_path, model_root, TM_bert_model, tokenizer, nuclearity_dict)
     for i in range(0, 5):
@@ -52,6 +52,6 @@ def run_structure(root, data_file_path, do_train=True):
 if __name__ == '__main__':
     root = "./forward_left"
     data_file_path = "../dataset/forward_left"
-    run_structure(root, data_file_path, True)
+    #run_structure(root, data_file_path, True)
     run_nuclearity(root, data_file_path, True)
     run_relation(root, data_file_path, True)
