@@ -19,9 +19,9 @@ class BertData(Data):
         X3_token, X3_seg, \
         X1_position, X1_fromstart, X1_fromend = [], [], [], [], [], [], [], [], []
         d = {}
-        d['arg0'] = node1.tostring().split("\t")[0]
-        d['arg1'] = node2.tostring().split("\t")[0]
-        d['arg2'] = node3.tostring().split("\t")[0]
+        d['arg0'] = node1.to_string().split("\t")[0]
+        d['arg1'] = node2.to_string().split("\t")[0]
+        d['arg2'] = node3.to_string().split("\t")[0]
         arg1_text = d['arg0'][:self.maxlen]
         arg2_text = d['arg1'][:self.maxlen]
         arg3_text = d['arg2'][:self.maxlen]

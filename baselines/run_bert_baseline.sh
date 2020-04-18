@@ -1,3 +1,3 @@
-CUDA_VISIBLE_DEVICES=0 nohup python3 ./bert_baseline.py > train_bert_baseline_structure.out --output_root ../output --data_file_path ../dataset/forward_all &
-CUDA_VISIBLE_DEVICES=1 nohup python3 ./bert_baseline_n.py > train_bert_baseline_nuclearity.out --output_root ../output --data_file_path ../dataset/forward_all &
-CUDA_VISIBLE_DEVICES=0 nohup python3 ./bert_baseline_r.py > train_bert_baseline_relation.out --output_root ../output --data_file_path ../dataset/forward_all &
+CUDA_VISIBLE_DEVICES=0 nohup python3 ./bert_baseline.py > train_bert_baseline_structure.out --output_root ./forward_left --data_file_path ../dataset/forward_left &
+CUDA_VISIBLE_DEVICES=0 nohup python3 ./bert_baseline_n.py > train_bert_baseline_nuclearity.out --output_root ./forward_left --data_file_path ../dataset/forward_left &
+CUDA_VISIBLE_DEVICES=0 nohup python3 ./bert_baseline_r.py > train_bert_baseline_relation.out --output_root ./forward_left --data_file_path ../dataset/forward_left &
