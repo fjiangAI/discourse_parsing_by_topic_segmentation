@@ -297,14 +297,13 @@ class Data:
         sub_queue = SelfQueue()
         for i in range(0, len(self.split_seq)):
             sub_queue.add(self.edu_queue.items[i])
-            if self.split_seq[i] == 0:
+            if self.split_seq[i] == str(0):
                 # 如果这个位置是0，则不动
                 pass
             else:
                 # 如果这个位置是1，则需要重新一个子序列
                 self.sub_queues.append(sub_queue)
                 sub_queue = SelfQueue()
-        self.sub_queues.append(sub_queue)
 
     def shift_reduce_model_lower_level(self):
         """
