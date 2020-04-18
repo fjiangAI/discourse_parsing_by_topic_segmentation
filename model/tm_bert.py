@@ -12,7 +12,8 @@ class DataGenerator:
     生成迭代数据
     """
 
-    def __init__(self, data, batch_size=8, tokenizer=None, maxlen=512, relation_dict={}, data_type="structure"):
+    def __init__(self, data, batch_size=8, tokenizer=None, maxlen=512, relation_dict={}, data_type="structure",
+                 shuffle=True):
         """
 
         :param data:
@@ -28,6 +29,7 @@ class DataGenerator:
         self.tokenizer = tokenizer
         self.maxlen = maxlen
         self.relation_dict = relation_dict
+        self.shuffle = shuffle
         self.steps = len(self.data) // self.batch_size
         if len(self.data) % self.batch_size != 0:
             self.steps += 1
@@ -38,7 +40,8 @@ class DataGenerator:
     def __iter__(self):
         while True:
             idxs = np.arange(len(self.data))
-            np.random.shuffle(idxs)
+            if self.shuffle:
+                np.random.shuffle(idxs)
             X1_token, X1_seg, \
             X2_token, X2_seg, \
             X3_token, X3_seg, Y = [], [], [], [], [], [], []

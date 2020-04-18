@@ -38,5 +38,5 @@ def produce_structure(new_root="", split_direction=SplitTypeEnum.right, global_r
 if __name__ == '__main__':
     # 标准生产样例
     root = "../dataset/"
-    for new_root, reverse, combine_type in [("forward_all/", False, CombineTypeEnum.all)]:
+    for new_root, reverse, combine_type in [("forward_left/", False, CombineTypeEnum.left)]:
         produce_structure(new_root=root + new_root, global_reverse=reverse, combine_type=combine_type)
