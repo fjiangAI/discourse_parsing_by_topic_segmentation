@@ -1,3 +1,6 @@
+import sys
+
+sys.path.append("..")
 from baselines.bert_data import BertData
 from model.bert import build_bert_model
 from model.model_util import get_tokenizer
@@ -38,7 +41,7 @@ def get_result_by_root_combine_type(dataset_root, golden_result, test_result,
                                     combine_type,
                                     global_reverse=False):
     for i in range(2, 14):
-        path = dataset_root + str(i) + "/"
+        path = dataset_root + "/" + str(i) + "/"
         get_result_by_path_combine_type(path, golden_result, test_result,
                                         tokenizer, structure_model, nuclearity_model, relation_model,
                                         combine_type=combine_type, global_reverse=global_reverse)
@@ -61,7 +64,7 @@ def main_combine(model_name, combine_type,
                  nuclearity_model_file,
                  relation_model_file,
                  global_reverse=False,
-                 dataset_root="./data/test/"):
+                 dataset_root="../data/test/"):
     model_root = "./" + model_name
     create_dir(model_root)
     golden_result_file_name, test_result_file_name = create_golden_and_test_result_file_name(model_root, model_name)
@@ -84,13 +87,15 @@ def main_combine(model_name, combine_type,
                                     tokenizer, structure_model, nuclearity_model, relation_model,
                                     combine_type=combine_type, global_reverse=global_reverse)
 
+
 if __name__ == '__main__':
     import keras
-    structure_model_file = ""
-    nuclearity_model_file = ""
-    relation_model_file = ""
+
+    structure_model_file = "./forward_left/bert_structure/save_model4epoch.model"
+    nuclearity_model_file = "./forward_left/bert_nuclearity/save_model4epoch.model"
+    relation_model_file = "./forward_left/bert_relation/save_model3epoch.model"
     for model_name, combine_type, reverse in [
-        ("forward_head_tail", CombineTypeEnum.head_tail, False)
+        ("forward_left", CombineTypeEnum.left, False)
     ]:
         keras.backend.clear_session()
         main_combine(model_name=model_name,
